@@ -15,7 +15,10 @@ public class ApplicationInit {
 	
 	@PostConstruct
 	public void initMethod(){
-		//dwnlps.start();
+		System.out.println("\nStart inicializace...");
+		dwnlps.start();
+
+		
 	}
 
 }

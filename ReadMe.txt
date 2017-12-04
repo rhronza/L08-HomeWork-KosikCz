@@ -6,7 +6,7 @@ http://localhost:8080/services/HomeWork/L08/productOne/valueId
 
 různé typy přehledů:
 http://localhost:8080/services/HomeWork/L08/productsList/valueList
-valueList - produkty seřazené podle ceny
+valueList =1 - produkty seřazené podle ceny
 
 
 

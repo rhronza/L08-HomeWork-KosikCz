@@ -29,7 +29,9 @@ public class L08HomeWorkKosikCzApplication {
 	Bus bus;
 	
 	public static void main(String[] args) {
+		System.out.println("\nStart aplikace");
 		SpringApplication.run(L08HomeWorkKosikCzApplication.class, args);
+		System.out.println("\nUkončení startu aplikace");
 	}
 	
 	
@@ -48,7 +50,7 @@ public class L08HomeWorkKosikCzApplication {
 	@Bean
 	public Server rsServer() {
 		final JAXRSServerFactoryBean endpoint = new JAXRSServerFactoryBean();
-		//endpoint.setProvider(jsonProvider());
+		endpoint.setProvider(jsonProvider());
 		endpoint.setBus(bus);
 		endpoint.setAddress("/HomeWork/L08");
 		endpoint.setServiceBeans(Arrays.<Object>asList(appApi()));

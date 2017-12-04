@@ -3751,7 +3751,7 @@ Hladká mouka</textarea>
         </div>
     </div>
     <div class="count" id="snippet-productFilter-countArea">
-        <p>3711 produktů nalezeno</p>
+        <p>3695 produktů nalezeno</p>
     </div>
 
         <h3 aria-label="Filtr Podle ceny">Podle ceny</h3>
@@ -4081,8 +4081,8 @@ Hladká mouka</textarea>
 
 
                             <div class="form-row">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-87" value="87" aria-label="!Bez značky (210)">
-                            <label for="frm-productFilter-brandConstraintForm-value-87">Bez značky (210)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-87" value="87" aria-label="!Bez značky (209)">
+                            <label for="frm-productFilter-brandConstraintForm-value-87">Bez značky (209)</label>
                         </div>
 
 
@@ -4125,12 +4125,6 @@ Hladká mouka</textarea>
                                                          <div class="form-row" style="display: none;">
                             <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-2751" value="2751" aria-label="!Boccantino (2)">
                             <label for="frm-productFilter-brandConstraintForm-value-2751">Boccantino (2)</label>
-                        </div>
-
-
-                                                         <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-3154" value="3154" aria-label="!Bocman (1)">
-                            <label for="frm-productFilter-brandConstraintForm-value-3154">Bocman (1)</label>
                         </div>
 
 
@@ -5047,8 +5041,8 @@ Hladká mouka</textarea>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-2425" value="2425" aria-label="!Hoegaarden (2)">
-                            <label for="frm-productFilter-brandConstraintForm-value-2425">Hoegaarden (2)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-2425" value="2425" aria-label="!Hoegaarden (1)">
+                            <label for="frm-productFilter-brandConstraintForm-value-2425">Hoegaarden (1)</label>
                         </div>
 
 
@@ -5311,8 +5305,8 @@ Hladká mouka</textarea>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-636" value="636" aria-label="!Kingswood (9)">
-                            <label for="frm-productFilter-brandConstraintForm-value-636">Kingswood (9)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-636" value="636" aria-label="!Kingswood (8)">
+                            <label for="frm-productFilter-brandConstraintForm-value-636">Kingswood (8)</label>
                         </div>
 
 
@@ -5557,8 +5551,8 @@ Hladká mouka</textarea>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-3017" value="3017" aria-label="!Lišácké jablko (2)">
-                            <label for="frm-productFilter-brandConstraintForm-value-3017">Lišácké jablko (2)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-3017" value="3017" aria-label="!Lišácké jablko (1)">
+                            <label for="frm-productFilter-brandConstraintForm-value-3017">Lišácké jablko (1)</label>
                         </div>
 
 
@@ -5851,8 +5845,8 @@ Hladká mouka</textarea>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-2861" value="2861" aria-label="!Moštovna Lažany (21)">
-                            <label for="frm-productFilter-brandConstraintForm-value-2861">Moštovna Lažany (21)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-2861" value="2861" aria-label="!Moštovna Lažany (20)">
+                            <label for="frm-productFilter-brandConstraintForm-value-2861">Moštovna Lažany (20)</label>
                         </div>
 
 
@@ -5923,8 +5917,8 @@ Hladká mouka</textarea>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-1254" value="1254" aria-label="!Next Kangaroo (3)">
-                            <label for="frm-productFilter-brandConstraintForm-value-1254">Next Kangaroo (3)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-1254" value="1254" aria-label="!Next Kangaroo (2)">
+                            <label for="frm-productFilter-brandConstraintForm-value-1254">Next Kangaroo (2)</label>
                         </div>
 
 
@@ -6085,8 +6079,8 @@ Hladká mouka</textarea>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-3233" value="3233" aria-label="!Paul Mas (3)">
-                            <label for="frm-productFilter-brandConstraintForm-value-3233">Paul Mas (3)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-3233" value="3233" aria-label="!Paul Mas (2)">
+                            <label for="frm-productFilter-brandConstraintForm-value-3233">Paul Mas (2)</label>
                         </div>
 
 
@@ -6187,8 +6181,8 @@ Hladká mouka</textarea>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-403" value="403" aria-label="!Poděbradka (26)">
-                            <label for="frm-productFilter-brandConstraintForm-value-403">Poděbradka (26)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-403" value="403" aria-label="!Poděbradka (25)">
+                            <label for="frm-productFilter-brandConstraintForm-value-403">Poděbradka (25)</label>
                         </div>
 
 
@@ -6709,8 +6703,8 @@ Hladká mouka</textarea>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-436" value="436" aria-label="!Staropramen (18)">
-                            <label for="frm-productFilter-brandConstraintForm-value-436">Staropramen (18)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-436" value="436" aria-label="!Staropramen (17)">
+                            <label for="frm-productFilter-brandConstraintForm-value-436">Staropramen (17)</label>
                         </div>
 
 
@@ -7009,8 +7003,8 @@ Hladká mouka</textarea>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-2402" value="2402" aria-label="!Vergnano (9)">
-                            <label for="frm-productFilter-brandConstraintForm-value-2402">Vergnano (9)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-2402" value="2402" aria-label="!Vergnano (8)">
+                            <label for="frm-productFilter-brandConstraintForm-value-2402">Vergnano (8)</label>
                         </div>
 
 
@@ -7075,8 +7069,8 @@ Hladká mouka</textarea>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-2811" value="2811" aria-label="!Vinařství Kolonáda (9)">
-                            <label for="frm-productFilter-brandConstraintForm-value-2811">Vinařství Kolonáda (9)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-2811" value="2811" aria-label="!Vinařství Kolonáda (8)">
+                            <label for="frm-productFilter-brandConstraintForm-value-2811">Vinařství Kolonáda (8)</label>
                         </div>
 
 
@@ -7087,8 +7081,8 @@ Hladká mouka</textarea>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-2369" value="2369" aria-label="!Vinařství Lednice (14)">
-                            <label for="frm-productFilter-brandConstraintForm-value-2369">Vinařství Lednice (14)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-2369" value="2369" aria-label="!Vinařství Lednice (13)">
+                            <label for="frm-productFilter-brandConstraintForm-value-2369">Vinařství Lednice (13)</label>
                         </div>
 
 
@@ -7237,12 +7231,6 @@ Hladká mouka</textarea>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-1243" value="1243" aria-label="!Víno z Kobylí (1)">
-                            <label for="frm-productFilter-brandConstraintForm-value-1243">Víno z Kobylí (1)</label>
-                        </div>
-
-
-                                                         <div class="form-row" style="display: none;">
                             <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-2956" value="2956" aria-label="!Všerad (4)">
                             <label for="frm-productFilter-brandConstraintForm-value-2956">Všerad (4)</label>
                         </div>
@@ -7339,14 +7327,14 @@ Hladká mouka</textarea>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-1721" value="1721" aria-label="!Zonin (6)">
-                            <label for="frm-productFilter-brandConstraintForm-value-1721">Zonin (6)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-1721" value="1721" aria-label="!Zonin (5)">
+                            <label for="frm-productFilter-brandConstraintForm-value-1721">Zonin (5)</label>
                         </div>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-2082" value="2082" aria-label="!Zubr (4)">
-                            <label for="frm-productFilter-brandConstraintForm-value-2082">Zubr (4)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-2082" value="2082" aria-label="!Zubr (3)">
+                            <label for="frm-productFilter-brandConstraintForm-value-2082">Zubr (3)</label>
                         </div>
 
 
@@ -7417,7 +7405,7 @@ Hladká mouka</textarea>
             var buttonsShowMoreClass = 'show-more-brands';
             var buttonsShowLessClass = 'show-less-brands';
             var filters = $('.filter-more-result');
-            var defaultFilterInputs = {"brand":[87,358,468,3167,399,389,1255,361,324,469]};
+            var defaultFilterInputs = {"brand":[87,358,468,3167,399,361,389,1255,324,469]};
 
             function hideCheckboxes(rows, key) {
 
@@ -8711,60 +8699,6 @@ Hladká mouka</textarea>
 
         
     </div>
-    <div id="product-append-2770" class="product-item">
-        <div class="product-item-flags">
-        </div>
-        <div class="product-item-image">
-                <a data-href="/napoje?productList-id=2770&amp;do=productList-modal"
-                   data-target="productList-productModal"
-                   data-product-id="2770"
-                   data-product-price="15.9"
-                   data-page-title="Rajec Pramenitá voda kojenecká nesycená 1,5l"
-                   data-page-path="/produkt/2770-rajec-pramenita-voda-kojenecka-nesycena-1-5l"
-                   data-user-id=""
-                   aria-hidden="true"
-                   data-kosikmodal-onclose="currentPageDataPush"
-                   onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/2871.jpg" alt="Rajec Pramenitá voda kojenecká nesycená 1,5l" class="loading-images loading-image">
-                </a>
-
-
-
-
-        </div>
-                <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Rajec Pramenitá voda kojenecká nesycená 1,5l" data-href="/napoje?productList-id=2770&amp;do=productList-modal" class="product-name modal-link"
-                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Rajec Pramenitá voda kojenecká nesycená 1,5l
-                    
-                </a></h5>
-            <p class="product-item-price ">
-                <span class="price-before-discount">
-				</span>
-                <strong class="price">15,90 Kč</strong>
-
-            </p>
-            <p class="product-item-unit">
-                    (<strong class="price">10,60 Kč</strong> / l)
-            </p>
-                        <div class="product-list-rating">
-            </div>
-<div id="snippet-productList-buy-2770-quantity">        <div class="product-quantity-control">
-            <form action="/napoje" method="post" class="ajax" id="frm-productList-buy-2770-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-2770-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
-                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-2770-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
-</form>
-
-        </div>
-</div>
-                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
-
-
-        </div>
-
-        
-    </div>
     <div id="product-append-2700" class="product-item">
         <div class="product-item-flags">
         </div>
@@ -8808,6 +8742,60 @@ Hladká mouka</textarea>
                 <input type="text" name="quantity" size="3" id="frm-productList-buy-2700-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
                 <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
             <input type="hidden" name="do" value="productList-buy-2700-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+</form>
+
+        </div>
+</div>
+                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
+
+
+        </div>
+
+        
+    </div>
+    <div id="product-append-2770" class="product-item">
+        <div class="product-item-flags">
+        </div>
+        <div class="product-item-image">
+                <a data-href="/napoje?productList-id=2770&amp;do=productList-modal"
+                   data-target="productList-productModal"
+                   data-product-id="2770"
+                   data-product-price="15.9"
+                   data-page-title="Rajec Pramenitá voda kojenecká nesycená 1,5l"
+                   data-page-path="/produkt/2770-rajec-pramenita-voda-kojenecka-nesycena-1-5l"
+                   data-user-id=""
+                   aria-hidden="true"
+                   data-kosikmodal-onclose="currentPageDataPush"
+                   onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/2871.jpg" alt="Rajec Pramenitá voda kojenecká nesycená 1,5l" class="loading-images loading-image">
+                </a>
+
+
+
+
+        </div>
+                <div class="product-item-info">
+                <h5><a href="javascript:void(0)" aria-label="Rajec Pramenitá voda kojenecká nesycená 1,5l" data-href="/napoje?productList-id=2770&amp;do=productList-modal" class="product-name modal-link"
+                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    Rajec Pramenitá voda kojenecká nesycená 1,5l
+                    
+                </a></h5>
+            <p class="product-item-price ">
+                <span class="price-before-discount">
+				</span>
+                <strong class="price">15,90 Kč</strong>
+
+            </p>
+            <p class="product-item-unit">
+                    (<strong class="price">10,60 Kč</strong> / l)
+            </p>
+                        <div class="product-list-rating">
+            </div>
+<div id="snippet-productList-buy-2770-quantity">        <div class="product-quantity-control">
+            <form action="/napoje" method="post" class="ajax" id="frm-productList-buy-2770-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-2770-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
+            <input type="hidden" name="do" value="productList-buy-2770-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
 </form>
 
         </div>
@@ -8931,61 +8919,6 @@ Hladká mouka</textarea>
 
         
     </div>
-    <div id="product-append-3021" class="product-item">
-        <div class="product-item-flags">
-        </div>
-        <div class="product-item-image">
-                <a data-href="/napoje?productList-id=3021&amp;do=productList-modal"
-                   data-target="productList-productModal"
-                   data-product-id="3021"
-                   data-product-price="14.9"
-                   data-page-title="Velkopopovický Kozel 11, světlý, sklo 0,5l"
-                   data-page-path="/produkt/3021-velkopopovicky-kozel-11-svetly-sklo-0-5l"
-                   data-user-id=""
-                   aria-hidden="true"
-                   data-kosikmodal-onclose="currentPageDataPush"
-                   onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/3132.jpg" alt="Velkopopovický Kozel 11, světlý, sklo 0,5l" class="loading-images loading-image">
-                </a>
-
-
-
-
-        </div>
-                <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Velkopopovický Kozel 11, světlý, sklo 0,5l" data-href="/napoje?productList-id=3021&amp;do=productList-modal" class="product-name modal-link"
-                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Velkopopovický Kozel 11, světlý, sklo 0,5l
-                    
-                </a></h5>
-            <p class="product-item-price ">
-                <span class="price-before-discount">
-				</span>
-                <strong class="price">14,90 Kč</strong>
-
-            </p>
-            <p class="product-item-unit">
-                    (<strong class="price">29,80 Kč</strong> / l)
-            </p>
-                        <div class="product-list-rating">
-                <span><ul class="rating"><li class="rating-children rating-1 up" data-rating="1"><i class="fa fa-star"></i></li><li class="rating-children rating-2 up" data-rating="2"><i class="fa fa-star"></i></li><li class="rating-children rating-3 up" data-rating="3"><i class="fa fa-star"></i></li><li class="rating-children rating-4 up" data-rating="4"><i class="fa fa-star"></i></li><li class="rating-children rating-5 up" data-rating="5"><i class="fa fa-star"></i></li></ul></span>
-            </div>
-<div id="snippet-productList-buy-3021-quantity">        <div class="product-quantity-control">
-            <form action="/napoje" method="post" class="ajax" id="frm-productList-buy-3021-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-3021-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
-                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-3021-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
-</form>
-
-        </div>
-</div>
-                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
-
-
-        </div>
-
-        
-    </div>
     <div id="product-append-2772" class="product-item">
         <div class="product-item-flags">
         </div>
@@ -9030,6 +8963,61 @@ Hladká mouka</textarea>
                 <input type="text" name="quantity" size="3" id="frm-productList-buy-2772-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
                 <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
             <input type="hidden" name="do" value="productList-buy-2772-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+</form>
+
+        </div>
+</div>
+                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
+
+
+        </div>
+
+        
+    </div>
+    <div id="product-append-3021" class="product-item">
+        <div class="product-item-flags">
+        </div>
+        <div class="product-item-image">
+                <a data-href="/napoje?productList-id=3021&amp;do=productList-modal"
+                   data-target="productList-productModal"
+                   data-product-id="3021"
+                   data-product-price="14.9"
+                   data-page-title="Velkopopovický Kozel 11, světlý, sklo 0,5l"
+                   data-page-path="/produkt/3021-velkopopovicky-kozel-11-svetly-sklo-0-5l"
+                   data-user-id=""
+                   aria-hidden="true"
+                   data-kosikmodal-onclose="currentPageDataPush"
+                   onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/3132.jpg" alt="Velkopopovický Kozel 11, světlý, sklo 0,5l" class="loading-images loading-image">
+                </a>
+
+
+
+
+        </div>
+                <div class="product-item-info">
+                <h5><a href="javascript:void(0)" aria-label="Velkopopovický Kozel 11, světlý, sklo 0,5l" data-href="/napoje?productList-id=3021&amp;do=productList-modal" class="product-name modal-link"
+                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    Velkopopovický Kozel 11, světlý, sklo 0,5l
+                    
+                </a></h5>
+            <p class="product-item-price ">
+                <span class="price-before-discount">
+				</span>
+                <strong class="price">14,90 Kč</strong>
+
+            </p>
+            <p class="product-item-unit">
+                    (<strong class="price">29,80 Kč</strong> / l)
+            </p>
+                        <div class="product-list-rating">
+                <span><ul class="rating"><li class="rating-children rating-1 up" data-rating="1"><i class="fa fa-star"></i></li><li class="rating-children rating-2 up" data-rating="2"><i class="fa fa-star"></i></li><li class="rating-children rating-3 up" data-rating="3"><i class="fa fa-star"></i></li><li class="rating-children rating-4 up" data-rating="4"><i class="fa fa-star"></i></li><li class="rating-children rating-5 up" data-rating="5"><i class="fa fa-star"></i></li></ul></span>
+            </div>
+<div id="snippet-productList-buy-3021-quantity">        <div class="product-quantity-control">
+            <form action="/napoje" method="post" class="ajax" id="frm-productList-buy-3021-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-3021-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
+            <input type="hidden" name="do" value="productList-buy-3021-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
 </form>
 
         </div>
@@ -9096,60 +9084,6 @@ Hladká mouka</textarea>
 
         
     </div>
-    <div id="product-append-2758" class="product-item">
-        <div class="product-item-flags">
-        </div>
-        <div class="product-item-image">
-                <a data-href="/napoje?productList-id=2758&amp;do=productList-modal"
-                   data-target="productList-productModal"
-                   data-product-id="2758"
-                   data-product-price="11.9"
-                   data-page-title="Dobrá voda Jemně perlivá 1,5l"
-                   data-page-path="/produkt/2758-dobra-voda-jemne-perliva-1-5l"
-                   data-user-id=""
-                   aria-hidden="true"
-                   data-kosikmodal-onclose="currentPageDataPush"
-                   onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/2859.jpg" alt="Dobrá voda Jemně perlivá 1,5l" class="loading-images loading-image">
-                </a>
-
-
-
-
-        </div>
-                <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Dobrá voda Jemně perlivá 1,5l" data-href="/napoje?productList-id=2758&amp;do=productList-modal" class="product-name modal-link"
-                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Dobrá voda Jemně perlivá 1,5l
-                    
-                </a></h5>
-            <p class="product-item-price ">
-                <span class="price-before-discount">
-				</span>
-                <strong class="price">11,90 Kč</strong>
-
-            </p>
-            <p class="product-item-unit">
-                    (<strong class="price">7,90 Kč</strong> / l)
-            </p>
-                        <div class="product-list-rating">
-            </div>
-<div id="snippet-productList-buy-2758-quantity">        <div class="product-quantity-control">
-            <form action="/napoje" method="post" class="ajax" id="frm-productList-buy-2758-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-2758-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
-                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-2758-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
-</form>
-
-        </div>
-</div>
-                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
-
-
-        </div>
-
-        
-    </div>
     <div id="product-append-2699" class="product-item">
         <div class="product-item-flags">
         </div>
@@ -9194,6 +9128,60 @@ Hladká mouka</textarea>
                 <input type="text" name="quantity" size="3" id="frm-productList-buy-2699-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
                 <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
             <input type="hidden" name="do" value="productList-buy-2699-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+</form>
+
+        </div>
+</div>
+                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
+
+
+        </div>
+
+        
+    </div>
+    <div id="product-append-2758" class="product-item">
+        <div class="product-item-flags">
+        </div>
+        <div class="product-item-image">
+                <a data-href="/napoje?productList-id=2758&amp;do=productList-modal"
+                   data-target="productList-productModal"
+                   data-product-id="2758"
+                   data-product-price="11.9"
+                   data-page-title="Dobrá voda Jemně perlivá 1,5l"
+                   data-page-path="/produkt/2758-dobra-voda-jemne-perliva-1-5l"
+                   data-user-id=""
+                   aria-hidden="true"
+                   data-kosikmodal-onclose="currentPageDataPush"
+                   onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/2859.jpg" alt="Dobrá voda Jemně perlivá 1,5l" class="loading-images loading-image">
+                </a>
+
+
+
+
+        </div>
+                <div class="product-item-info">
+                <h5><a href="javascript:void(0)" aria-label="Dobrá voda Jemně perlivá 1,5l" data-href="/napoje?productList-id=2758&amp;do=productList-modal" class="product-name modal-link"
+                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    Dobrá voda Jemně perlivá 1,5l
+                    
+                </a></h5>
+            <p class="product-item-price ">
+                <span class="price-before-discount">
+				</span>
+                <strong class="price">11,90 Kč</strong>
+
+            </p>
+            <p class="product-item-unit">
+                    (<strong class="price">7,90 Kč</strong> / l)
+            </p>
+                        <div class="product-list-rating">
+            </div>
+<div id="snippet-productList-buy-2758-quantity">        <div class="product-quantity-control">
+            <form action="/napoje" method="post" class="ajax" id="frm-productList-buy-2758-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-2758-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
+            <input type="hidden" name="do" value="productList-buy-2758-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
 </form>
 
         </div>
@@ -9313,60 +9301,6 @@ Hladká mouka</textarea>
 
         
     </div>
-    <div id="product-append-2769" class="product-item">
-        <div class="product-item-flags">
-        </div>
-        <div class="product-item-image">
-                <a data-href="/napoje?productList-id=2769&amp;do=productList-modal"
-                   data-target="productList-productModal"
-                   data-product-id="2769"
-                   data-product-price="13.9"
-                   data-page-title="Rajec Pramenitá voda jemně sycená 1,5l"
-                   data-page-path="/produkt/2769-rajec-pramenita-voda-jemne-sycena-1-5l"
-                   data-user-id=""
-                   aria-hidden="true"
-                   data-kosikmodal-onclose="currentPageDataPush"
-                   onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/2870.jpg" alt="Rajec Pramenitá voda jemně sycená 1,5l" class="loading-images loading-image">
-                </a>
-
-
-
-
-        </div>
-                <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Rajec Pramenitá voda jemně sycená 1,5l" data-href="/napoje?productList-id=2769&amp;do=productList-modal" class="product-name modal-link"
-                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Rajec Pramenitá voda jemně sycená 1,5l
-                    
-                </a></h5>
-            <p class="product-item-price ">
-                <span class="price-before-discount">
-				</span>
-                <strong class="price">13,90 Kč</strong>
-
-            </p>
-            <p class="product-item-unit">
-                    (<strong class="price">9,30 Kč</strong> / l)
-            </p>
-                        <div class="product-list-rating">
-            </div>
-<div id="snippet-productList-buy-2769-quantity">        <div class="product-quantity-control">
-            <form action="/napoje" method="post" class="ajax" id="frm-productList-buy-2769-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-2769-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
-                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-2769-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
-</form>
-
-        </div>
-</div>
-                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
-
-
-        </div>
-
-        
-    </div>
     <div id="product-append-5323" class="product-item">
         <div class="product-item-flags">
         </div>
@@ -9411,6 +9345,60 @@ Hladká mouka</textarea>
                 <input type="text" name="quantity" size="3" id="frm-productList-buy-5323-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
                 <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
             <input type="hidden" name="do" value="productList-buy-5323-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+</form>
+
+        </div>
+</div>
+                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
+
+
+        </div>
+
+        
+    </div>
+    <div id="product-append-2769" class="product-item">
+        <div class="product-item-flags">
+        </div>
+        <div class="product-item-image">
+                <a data-href="/napoje?productList-id=2769&amp;do=productList-modal"
+                   data-target="productList-productModal"
+                   data-product-id="2769"
+                   data-product-price="13.9"
+                   data-page-title="Rajec Pramenitá voda jemně sycená 1,5l"
+                   data-page-path="/produkt/2769-rajec-pramenita-voda-jemne-sycena-1-5l"
+                   data-user-id=""
+                   aria-hidden="true"
+                   data-kosikmodal-onclose="currentPageDataPush"
+                   onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/2870.jpg" alt="Rajec Pramenitá voda jemně sycená 1,5l" class="loading-images loading-image">
+                </a>
+
+
+
+
+        </div>
+                <div class="product-item-info">
+                <h5><a href="javascript:void(0)" aria-label="Rajec Pramenitá voda jemně sycená 1,5l" data-href="/napoje?productList-id=2769&amp;do=productList-modal" class="product-name modal-link"
+                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    Rajec Pramenitá voda jemně sycená 1,5l
+                    
+                </a></h5>
+            <p class="product-item-price ">
+                <span class="price-before-discount">
+				</span>
+                <strong class="price">13,90 Kč</strong>
+
+            </p>
+            <p class="product-item-unit">
+                    (<strong class="price">9,30 Kč</strong> / l)
+            </p>
+                        <div class="product-list-rating">
+            </div>
+<div id="snippet-productList-buy-2769-quantity">        <div class="product-quantity-control">
+            <form action="/napoje" method="post" class="ajax" id="frm-productList-buy-2769-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-2769-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
+            <input type="hidden" name="do" value="productList-buy-2769-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
 </form>
 
         </div>
@@ -9480,21 +9468,21 @@ Hladká mouka</textarea>
 
         
     </div>
-    <div id="product-append-2791" class="product-item">
+    <div id="product-append-2967" class="product-item">
         <div class="product-item-flags">
         </div>
         <div class="product-item-image">
-                <a data-href="/napoje?productList-id=2791&amp;do=productList-modal"
+                <a data-href="/napoje?productList-id=2967&amp;do=productList-modal"
                    data-target="productList-productModal"
-                   data-product-id="2791"
-                   data-product-price="19.9"
-                   data-page-title="Rajec Pramenitá voda mateřídouška nesycená 1,5l"
-                   data-page-path="/produkt/2791-rajec-pramenita-voda-materidouska-nesycena-1-5l"
+                   data-product-id="2967"
+                   data-product-price="15.9"
+                   data-page-title="Birell, polotmavý nealkoholický, sklo 0,5l"
+                   data-page-path="/produkt/2967-birell-polotmavy-nealkoholicky-sklo-0-5l"
                    data-user-id=""
                    aria-hidden="true"
                    data-kosikmodal-onclose="currentPageDataPush"
                    onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/2893.jpg" alt="Rajec Pramenitá voda mateřídouška nesycená 1,5l" class="loading-images loading-image">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/3070.jpg" alt="Birell, polotmavý nealkoholický, sklo 0,5l" class="loading-images loading-image">
                 </a>
 
 
@@ -9502,27 +9490,27 @@ Hladká mouka</textarea>
 
         </div>
                 <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Rajec Pramenitá voda mateřídouška nesycená 1,5l" data-href="/napoje?productList-id=2791&amp;do=productList-modal" class="product-name modal-link"
+                <h5><a href="javascript:void(0)" aria-label="Birell, polotmavý nealkoholický, sklo 0,5l" data-href="/napoje?productList-id=2967&amp;do=productList-modal" class="product-name modal-link"
                    data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Rajec Pramenitá voda mateřídouška nesycená 1,5l
+                    Birell, polotmavý nealkoholický, sklo 0,5l
                     
                 </a></h5>
             <p class="product-item-price ">
                 <span class="price-before-discount">
 				</span>
-                <strong class="price">19,90 Kč</strong>
+                <strong class="price">15,90 Kč</strong>
 
             </p>
             <p class="product-item-unit">
-                    (<strong class="price">13,30 Kč</strong> / l)
+                    (<strong class="price">31,80 Kč</strong> / l)
             </p>
                         <div class="product-list-rating">
             </div>
-<div id="snippet-productList-buy-2791-quantity">        <div class="product-quantity-control">
-            <form action="/napoje" method="post" class="ajax" id="frm-productList-buy-2791-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-2791-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+<div id="snippet-productList-buy-2967-quantity">        <div class="product-quantity-control">
+            <form action="/napoje" method="post" class="ajax" id="frm-productList-buy-2967-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-2967-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
                 <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-2791-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+            <input type="hidden" name="do" value="productList-buy-2967-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
 </form>
 
         </div>
@@ -9534,21 +9522,21 @@ Hladká mouka</textarea>
 
         
     </div>
-    <div id="product-append-14386" class="product-item">
+    <div id="product-append-2702" class="product-item">
         <div class="product-item-flags">
         </div>
         <div class="product-item-image">
-                <a data-href="/napoje?productList-id=14386&amp;do=productList-modal"
+                <a data-href="/napoje?productList-id=2702&amp;do=productList-modal"
                    data-target="productList-productModal"
-                   data-product-id="14386"
-                   data-product-price="19.9"
-                   data-page-title="Coca-Cola 1,25l"
-                   data-page-path="/produkt/14386-coca-cola-1-25l"
+                   data-product-id="2702"
+                   data-product-price="14.9"
+                   data-page-title="Mattoni Perlivá minerální voda 1,5l"
+                   data-page-path="/produkt/2702-mattoni-perliva-mineralni-voda-1-5l"
                    data-user-id=""
                    aria-hidden="true"
                    data-kosikmodal-onclose="currentPageDataPush"
                    onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/31639.jpg" alt="Coca-Cola 1,25l" class="loading-images loading-image">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/2803.jpg" alt="Mattoni Perlivá minerální voda 1,5l" class="loading-images loading-image">
                 </a>
 
 
@@ -9556,27 +9544,27 @@ Hladká mouka</textarea>
 
         </div>
                 <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Coca-Cola 1,25l" data-href="/napoje?productList-id=14386&amp;do=productList-modal" class="product-name modal-link"
+                <h5><a href="javascript:void(0)" aria-label="Mattoni Perlivá minerální voda 1,5l" data-href="/napoje?productList-id=2702&amp;do=productList-modal" class="product-name modal-link"
                    data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Coca-Cola 1,25l
+                    Mattoni Perlivá minerální voda 1,5l
                     
                 </a></h5>
             <p class="product-item-price ">
                 <span class="price-before-discount">
 				</span>
-                <strong class="price">19,90 Kč</strong>
+                <strong class="price">14,90 Kč</strong>
 
             </p>
             <p class="product-item-unit">
-                    (<strong class="price">15,90 Kč</strong> / l)
+                    (<strong class="price">9,90 Kč</strong> / l)
             </p>
                         <div class="product-list-rating">
             </div>
-<div id="snippet-productList-buy-14386-quantity">        <div class="product-quantity-control">
-            <form action="/napoje" method="post" class="ajax" id="frm-productList-buy-14386-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-14386-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+<div id="snippet-productList-buy-2702-quantity">        <div class="product-quantity-control">
+            <form action="/napoje" method="post" class="ajax" id="frm-productList-buy-2702-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-2702-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
                 <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-14386-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+            <input type="hidden" name="do" value="productList-buy-2702-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
 </form>
 
         </div>
@@ -9629,7 +9617,7 @@ Hladká mouka</textarea>
 												<div>
 	<div class="company-box" style="filter: grayscale(100%)" onmouseover="this.style.WebkitFilter='grayscale(0%)'" onmouseout="this.style.WebkitFilter='grayscale(100%)'">
 		<a href="/brand/penam" aria-label="Penam">
-			<img style="margin-top: 15%" src="https://cdn.kosik.cz/content/brand-logo/png/default-retina/86.png" alt="Penam" aria-hidden="true">
+			<img style="margin-top: 15%" src="https://cdn.kosik.cz/content/brand-logo/png/default/86.png" alt="Penam" aria-hidden="true">
 			<div class="company-text" aria-hidden="true">Penam</div>
 		</a>
 	</div>
@@ -9637,7 +9625,7 @@ Hladká mouka</textarea>
 <div>
 	<div class="company-box" style="filter: grayscale(100%)" onmouseover="this.style.WebkitFilter='grayscale(0%)'" onmouseout="this.style.WebkitFilter='grayscale(100%)'">
 		<a href="/brand/madeta" aria-label="Madeta">
-			<img style="margin-top: 15%" src="https://cdn.kosik.cz/content/brand-logo/png/default-retina/101.png" alt="Madeta" aria-hidden="true">
+			<img style="margin-top: 15%" src="https://cdn.kosik.cz/content/brand-logo/png/default/101.png" alt="Madeta" aria-hidden="true">
 			<div class="company-text" aria-hidden="true">Madeta</div>
 		</a>
 	</div>
@@ -9645,7 +9633,7 @@ Hladká mouka</textarea>
 <div>
 	<div class="company-box" style="filter: grayscale(100%)" onmouseover="this.style.WebkitFilter='grayscale(0%)'" onmouseout="this.style.WebkitFilter='grayscale(100%)'">
 		<a href="/brand/danone" aria-label="Danone">
-			<img style="margin-top: 15%" src="https://cdn.kosik.cz/content/brand-logo/png/default-retina/109.png" alt="Danone" aria-hidden="true">
+			<img style="margin-top: 15%" src="https://cdn.kosik.cz/content/brand-logo/png/default/109.png" alt="Danone" aria-hidden="true">
 			<div class="company-text" aria-hidden="true">Danone</div>
 		</a>
 	</div>
@@ -9653,7 +9641,7 @@ Hladká mouka</textarea>
 <div>
 	<div class="company-box" style="filter: grayscale(100%)" onmouseover="this.style.WebkitFilter='grayscale(0%)'" onmouseout="this.style.WebkitFilter='grayscale(100%)'">
 		<a href="/brand/dr-oetker" aria-label="Dr. Oetker">
-			<img style="margin-top: 15%" src="https://cdn.kosik.cz/content/brand-logo/png/default-retina/313.png" alt="Dr. Oetker" aria-hidden="true">
+			<img style="margin-top: 15%" src="https://cdn.kosik.cz/content/brand-logo/png/default/313.png" alt="Dr. Oetker" aria-hidden="true">
 			<div class="company-text" aria-hidden="true">Dr. Oetker</div>
 		</a>
 	</div>
@@ -9661,7 +9649,7 @@ Hladká mouka</textarea>
 <div>
 	<div class="company-box" style="filter: grayscale(100%)" onmouseover="this.style.WebkitFilter='grayscale(0%)'" onmouseout="this.style.WebkitFilter='grayscale(100%)'">
 		<a href="/brand/pickwick" aria-label="Pickwick">
-			<img style="margin-top: 15%" src="https://cdn.kosik.cz/content/brand-logo/png/default-retina/357.png" alt="Pickwick" aria-hidden="true">
+			<img style="margin-top: 15%" src="https://cdn.kosik.cz/content/brand-logo/png/default/357.png" alt="Pickwick" aria-hidden="true">
 			<div class="company-text" aria-hidden="true">Pickwick</div>
 		</a>
 	</div>
@@ -9669,7 +9657,7 @@ Hladká mouka</textarea>
 <div>
 	<div class="company-box" style="filter: grayscale(100%)" onmouseover="this.style.WebkitFilter='grayscale(0%)'" onmouseout="this.style.WebkitFilter='grayscale(100%)'">
 		<a href="/brand/velkopopovicky-kozel" aria-label="Velkopopovický Kozel">
-			<img style="margin-top: 15%" src="https://cdn.kosik.cz/content/brand-logo/png/default-retina/448.png" alt="Velkopopovický Kozel" aria-hidden="true">
+			<img style="margin-top: 15%" src="https://cdn.kosik.cz/content/brand-logo/png/default/448.png" alt="Velkopopovický Kozel" aria-hidden="true">
 			<div class="company-text" aria-hidden="true">Velkopopovický Kozel</div>
 		</a>
 	</div>
@@ -9677,7 +9665,7 @@ Hladká mouka</textarea>
 <div>
 	<div class="company-box" style="filter: grayscale(100%)" onmouseover="this.style.WebkitFilter='grayscale(0%)'" onmouseout="this.style.WebkitFilter='grayscale(100%)'">
 		<a href="/brand/edeka" aria-label="Edeka">
-			<img style="margin-top: 15%" src="https://cdn.kosik.cz/content/brand-logo/png/default-retina/678.png" alt="Edeka" aria-hidden="true">
+			<img style="margin-top: 15%" src="https://cdn.kosik.cz/content/brand-logo/png/default/678.png" alt="Edeka" aria-hidden="true">
 			<div class="company-text" aria-hidden="true">Edeka</div>
 		</a>
 	</div>

@@ -14,7 +14,7 @@ import cz.expertkom.ju.L08HomeWorkKosikCz.interfaces.ProductDbServices;
 
 public class ApplicationApiImpl implements ApplicationApi {
 	
-	private static final Gson GSON= new Gson(); 
+	//private static final Gson GSON= new Gson(); 
 	
 	@Autowired
 	ProductDbServices pDbS;
@@ -23,15 +23,14 @@ public class ApplicationApiImpl implements ApplicationApi {
 	public Response productOne(Long id) {
 		ProductDto p = pDbS.getOne2(id);
 		System.out.println(p);
-		return Response.ok(GSON.toJson(p)).build();
+		return Response.ok(p).build();
 	}
 
 	@Override
 	public Response productList() {
 		Products p = pDbS.getAll();
 		System.out.println(p);
-		return Response.ok(GSON.toJson(p)).build();
-		//return Response.ok(p).build();
+		return Response.ok(p).build();
 	}
 	
 	@Override
@@ -40,18 +39,19 @@ public class ApplicationApiImpl implements ApplicationApi {
 		if (typeProductList == 1) {
 			prs = pDbS.getAllOrderByprice();
 		}
-		return Response.ok(GSON.toJson(prs)).build();
+		return Response.ok(prs).build();
 	}
 	
 	@Override
 	public Response productsList(float priceFrom, float priceTo) {
 		Products prs = new Products();
 		prs = pDbS.getAllBetweenPrice(priceFrom, priceTo); 
-		return Response.ok(GSON.toJson(prs)).build();
+		return Response.ok(prs).build();
 	}
 	
 	@Override
 	public Response productInsert(ProductDto productDto) {
+		System.out.println(productDto);
 		pDbS.insertProduct(productDto);
 		return Response.ok().build();
 	}
