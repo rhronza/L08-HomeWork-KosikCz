@@ -3583,7 +3583,7 @@ Hladká mouka</textarea>
         </div>
     </div>
     <div class="count" id="snippet-productFilter-countArea">
-        <p>570 produktů nalezeno</p>
+        <p>569 produktů nalezeno</p>
     </div>
 
         <h3 aria-label="Filtr Podle ceny">Podle ceny</h3>
@@ -3655,8 +3655,8 @@ Hladká mouka</textarea>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-135" value="135" aria-label="!Boneco (12)">
-                            <label for="frm-productFilter-brandConstraintForm-value-135">Boneco (12)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-135" value="135" aria-label="!Boneco (11)">
+                            <label for="frm-productFilter-brandConstraintForm-value-135">Boneco (11)</label>
                         </div>
 
 
@@ -5933,65 +5933,6 @@ Hladká mouka</textarea>
 
         
     </div>
-    <div id="product-append-40237" class="product-item">
-        <div class="product-item-flags">
-            <div class="flag-sale ">
-                <span class="percents">21<small>&#37;</small></span>
-            </div>
-        </div>
-        <div class="product-item-image">
-                <a data-href="/uzeniny-a-lahudky?productList-id=40237&amp;do=productList-modal"
-                   data-target="productList-productModal"
-                   data-product-id="40237"
-                   data-product-price="34.965"
-                   data-page-title="Farmářské uzeniny Farmářské párky balení (cca 185g)"
-                   data-page-path="/produkt/40237-farmarske-uzeniny-farmarske-parky-baleni-cca-185g"
-                   data-user-id=""
-                   aria-hidden="true"
-                   data-kosikmodal-onclose="currentPageDataPush"
-                   onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/57954.jpg" alt="Farmářské uzeniny Farmářské párky balení (cca 185g)" class="loading-images loading-image">
-                </a>
-
-
-
-
-        </div>
-                <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Farmářské uzeniny Farmářské párky balení (cca 185g)" data-href="/uzeniny-a-lahudky?productList-id=40237&amp;do=productList-modal" class="product-name modal-link"
-                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Farmářské uzeniny Farmářské párky balení (cca 185g)
-                    
-                </a></h5>
-            <p class="product-item-price product-in-discount">
-                <span class="price-before-discount">
-					<span><strong class="price">35,00 Kč</strong></span>
-				</span>
-                <small class="circa-prefix">cca </small>
-                <strong class="price">27,60 Kč</strong>
-
-            </p>
-            <p class="product-item-unit">
-                    (<strong class="price">149,00 Kč</strong> / kg)
-            </p>
-                        <div class="product-list-rating">
-            </div>
-<div id="snippet-productList-buy-40237-quantity">        <div class="product-quantity-control">
-            <form action="/uzeniny-a-lahudky" method="post" class="ajax" id="frm-productList-buy-40237-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-40237-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
-                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-40237-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
-</form>
-
-        </div>
-</div>
-                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
-
-
-        </div>
-
-        
-    </div>
     <div id="product-append-13798" class="product-item">
         <div class="product-item-flags">
         </div>
@@ -6147,6 +6088,60 @@ Hladká mouka</textarea>
                 <input type="text" name="quantity" size="3" id="frm-productList-buy-39782-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
                 <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
             <input type="hidden" name="do" value="productList-buy-39782-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+</form>
+
+        </div>
+</div>
+                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
+
+
+        </div>
+
+        
+    </div>
+    <div id="product-append-40972" class="product-item">
+        <div class="product-item-flags">
+        </div>
+        <div class="product-item-image">
+                <a data-href="/uzeniny-a-lahudky?productList-id=40972&amp;do=productList-modal"
+                   data-target="productList-productModal"
+                   data-product-id="40972"
+                   data-product-price="19.9"
+                   data-page-title="Pejskar Herkules krájený 75g"
+                   data-page-path="/produkt/40972-pejskar-herkules-krajeny-75g"
+                   data-user-id=""
+                   aria-hidden="true"
+                   data-kosikmodal-onclose="currentPageDataPush"
+                   onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/58689.jpg" alt="Pejskar Herkules krájený 75g" class="loading-images loading-image">
+                </a>
+
+
+
+
+        </div>
+                <div class="product-item-info">
+                <h5><a href="javascript:void(0)" aria-label="Pejskar Herkules krájený 75g" data-href="/uzeniny-a-lahudky?productList-id=40972&amp;do=productList-modal" class="product-name modal-link"
+                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    Pejskar Herkules krájený 75g
+                    
+                </a></h5>
+            <p class="product-item-price ">
+                <span class="price-before-discount">
+				</span>
+                <strong class="price">19,90 Kč</strong>
+
+            </p>
+            <p class="product-item-unit">
+                    (<strong class="price">265,30 Kč</strong> / kg)
+            </p>
+                        <div class="product-list-rating">
+            </div>
+<div id="snippet-productList-buy-40972-quantity">        <div class="product-quantity-control">
+            <form action="/uzeniny-a-lahudky" method="post" class="ajax" id="frm-productList-buy-40972-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-40972-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
+            <input type="hidden" name="do" value="productList-buy-40972-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
 </form>
 
         </div>

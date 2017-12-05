@@ -6030,64 +6030,6 @@ Hladká mouka</textarea>
 
         
     </div>
-    <div id="product-append-21032" class="product-item">
-        <div class="product-item-flags">
-            <div class="flag-sale ">
-                <span class="percents">22<small>&#37;</small></span>
-            </div>
-        </div>
-        <div class="product-item-image">
-                <a data-href="/mazlicci?productList-id=21032&amp;do=productList-modal"
-                   data-target="productList-productModal"
-                   data-product-id="21032"
-                   data-product-price="27.9"
-                   data-page-title="Dibaq Krmné piškoty pro psy 200g"
-                   data-page-path="/produkt/21032-dibaq-krmne-piskoty-pro-psy-200g"
-                   data-user-id=""
-                   aria-hidden="true"
-                   data-kosikmodal-onclose="currentPageDataPush"
-                   onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/38284.jpg" alt="Dibaq Krmné piškoty pro psy 200g" class="loading-images loading-image">
-                </a>
-
-
-
-
-        </div>
-                <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Dibaq Krmné piškoty pro psy 200g" data-href="/mazlicci?productList-id=21032&amp;do=productList-modal" class="product-name modal-link"
-                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Dibaq Krmné piškoty pro psy 200g
-                    
-                </a></h5>
-            <p class="product-item-price product-in-discount">
-                <span class="price-before-discount">
-					<span><strong class="price">27,90 Kč</strong></span>
-				</span>
-                <strong class="price">21,90 Kč</strong>
-
-            </p>
-            <p class="product-item-unit">
-                    (<strong class="price">109,50 Kč</strong> / kg)
-            </p>
-                        <div class="product-list-rating">
-            </div>
-<div id="snippet-productList-buy-21032-quantity">        <div class="product-quantity-control">
-            <form action="/mazlicci" method="post" class="ajax" id="frm-productList-buy-21032-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-21032-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
-                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-21032-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
-</form>
-
-        </div>
-</div>
-                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
-
-
-        </div>
-
-        
-    </div>
     <div id="product-append-20361" class="product-item">
         <div class="product-item-flags">
             <div class="flag-sale ">
@@ -6999,6 +6941,64 @@ Hladká mouka</textarea>
                 <input type="text" name="quantity" size="3" id="frm-productList-buy-48268-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
                 <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
             <input type="hidden" name="do" value="productList-buy-48268-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+</form>
+
+        </div>
+</div>
+                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
+
+
+        </div>
+
+        
+    </div>
+    <div id="product-append-20402" class="product-item">
+        <div class="product-item-flags">
+            <div class="flag-sale ">
+                <span class="percents">14<small>&#37;</small></span>
+            </div>
+        </div>
+        <div class="product-item-image">
+                <a data-href="/mazlicci?productList-id=20402&amp;do=productList-modal"
+                   data-target="productList-productModal"
+                   data-product-id="20402"
+                   data-product-price="13.9"
+                   data-page-title="Brit Premium Cat kapsička s lososem &amp; pstruhem 100g"
+                   data-page-path="/produkt/20402-brit-premium-cat-kapsicka-s-lososem-pstruhem-100g"
+                   data-user-id=""
+                   aria-hidden="true"
+                   data-kosikmodal-onclose="currentPageDataPush"
+                   onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/37654.jpg" alt="Brit Premium Cat kapsička s lososem &amp; pstruhem 100g" class="loading-images loading-image">
+                </a>
+
+
+
+
+        </div>
+                <div class="product-item-info">
+                <h5><a href="javascript:void(0)" aria-label="Brit Premium Cat kapsička s lososem &amp; pstruhem 100g" data-href="/mazlicci?productList-id=20402&amp;do=productList-modal" class="product-name modal-link"
+                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    Brit Premium Cat kapsička s lososem &amp; pstruhem 100g
+                    
+                </a></h5>
+            <p class="product-item-price product-in-discount">
+                <span class="price-before-discount">
+					<span><strong class="price">13,90 Kč</strong></span>
+				</span>
+                <strong class="price">11,90 Kč</strong>
+
+            </p>
+            <p class="product-item-unit">
+                    (<strong class="price">119,00 Kč</strong> / kg)
+            </p>
+                        <div class="product-list-rating">
+            </div>
+<div id="snippet-productList-buy-20402-quantity">        <div class="product-quantity-control">
+            <form action="/mazlicci" method="post" class="ajax" id="frm-productList-buy-20402-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-20402-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
+            <input type="hidden" name="do" value="productList-buy-20402-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
 </form>
 
         </div>

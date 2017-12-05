@@ -3832,7 +3832,7 @@ Hladká mouka</textarea>
         </div>
     </div>
     <div class="count" id="snippet-productFilter-countArea">
-        <p>4822 produktů nalezeno</p>
+        <p>4815 produktů nalezeno</p>
     </div>
 
         <h3 aria-label="Filtr Podle ceny">Podle ceny</h3>
@@ -4174,8 +4174,8 @@ Hladká mouka</textarea>
 
 
                             <div class="form-row">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-87" value="87" aria-label="!Bez značky (241)">
-                            <label for="frm-productFilter-brandConstraintForm-value-87">Bez značky (241)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-87" value="87" aria-label="!Bez značky (240)">
+                            <label for="frm-productFilter-brandConstraintForm-value-87">Bez značky (240)</label>
                         </div>
 
 
@@ -4432,8 +4432,8 @@ Hladká mouka</textarea>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-187" value="187" aria-label="!Chocoland (55)">
-                            <label for="frm-productFilter-brandConstraintForm-value-187">Chocoland (55)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-187" value="187" aria-label="!Chocoland (53)">
+                            <label for="frm-productFilter-brandConstraintForm-value-187">Chocoland (53)</label>
                         </div>
 
 
@@ -5266,8 +5266,8 @@ Hladká mouka</textarea>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-611" value="611" aria-label="!Kaiser Franz Josef (51)">
-                            <label for="frm-productFilter-brandConstraintForm-value-611">Kaiser Franz Josef (51)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-611" value="611" aria-label="!Kaiser Franz Josef (50)">
+                            <label for="frm-productFilter-brandConstraintForm-value-611">Kaiser Franz Josef (50)</label>
                         </div>
 
 
@@ -5776,8 +5776,8 @@ Hladká mouka</textarea>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-211" value="211" aria-label="!Merci (10)">
-                            <label for="frm-productFilter-brandConstraintForm-value-211">Merci (10)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-211" value="211" aria-label="!Merci (9)">
+                            <label for="frm-productFilter-brandConstraintForm-value-211">Merci (9)</label>
                         </div>
 
 
@@ -6028,8 +6028,8 @@ Hladká mouka</textarea>
 
 
                             <div class="form-row">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-172" value="172" aria-label="!ORION (97)">
-                            <label for="frm-productFilter-brandConstraintForm-value-172">ORION (97)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-172" value="172" aria-label="!ORION (96)">
+                            <label for="frm-productFilter-brandConstraintForm-value-172">ORION (96)</label>
                         </div>
 
 
@@ -7054,8 +7054,8 @@ Hladká mouka</textarea>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-2187" value="2187" aria-label="!Zemanka (4)">
-                            <label for="frm-productFilter-brandConstraintForm-value-2187">Zemanka (4)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-2187" value="2187" aria-label="!Zemanka (3)">
+                            <label for="frm-productFilter-brandConstraintForm-value-2187">Zemanka (3)</label>
                         </div>
 
 

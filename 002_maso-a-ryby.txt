@@ -5063,61 +5063,6 @@ Hladká mouka</textarea>
 
         
     </div>
-    <div id="product-append-25765" class="product-item">
-        <div class="product-item-flags">
-        </div>
-        <div class="product-item-image">
-                <a data-href="/maso-a-ryby?productWidget-widgetCarousel-1-id=25765&amp;do=productWidget-widgetCarousel-1-modal"
-                   data-target="productWidget-widgetCarousel-1-productModal"
-                   data-product-id="25765"
-                   data-product-price="84.75"
-                   data-page-title="Tilápie filet skin (cca 250g)"
-                   data-page-path="/produkt/25765-tilapie-filet-skin-cca-250g"
-                   data-user-id=""
-                   aria-hidden="true"
-                   data-kosikmodal-onclose="currentPageDataPush"
-                   onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/43046.jpg" alt="Tilápie filet skin (cca 250g)" class="loading-images loading-image">
-                </a>
-
-
-
-
-        </div>
-                <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Tilápie filet skin (cca 250g)" data-href="/maso-a-ryby?productWidget-widgetCarousel-1-id=25765&amp;do=productWidget-widgetCarousel-1-modal" class="product-name modal-link"
-                   data-target="productWidget-widgetCarousel-1-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Tilápie filet skin (cca 250g)
-                    
-                </a></h5>
-            <p class="product-item-price ">
-                <span class="price-before-discount">
-				</span>
-                <small class="circa-prefix">cca </small>
-                <strong class="price">84,80 Kč</strong>
-
-            </p>
-            <p class="product-item-unit">
-                    (<strong class="price">339,00 Kč</strong> / kg)
-            </p>
-                        <div class="product-list-rating">
-            </div>
-<div id="snippet-productWidget-widgetCarousel-1-buy-25765-quantity">        <div class="product-quantity-control">
-            <form action="/maso-a-ryby" method="post" class="ajax" id="frm-productWidget-widgetCarousel-1-buy-25765-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productWidget-widgetCarousel-1-buy-25765-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
-                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productWidget-widgetCarousel-1-buy-25765-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
-</form>
-
-        </div>
-</div>
-                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
-
-
-        </div>
-
-        
-    </div>
     <div id="product-append-24398" class="product-item">
         <div class="product-item-flags">
             <div class="flag-sale ">

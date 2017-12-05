@@ -4318,60 +4318,6 @@ Hladká mouka</textarea>
 
         
     </div>
-    <div id="product-append-42350" class="product-item">
-        <div class="product-item-flags">
-        </div>
-        <div class="product-item-image">
-                <a data-href="/trafika?productList-id=42350&amp;do=productList-modal"
-                   data-target="productList-productModal"
-                   data-product-id="42350"
-                   data-product-price="86"
-                   data-page-title="Viceroy Plus Modrá 20ks"
-                   data-page-path="/produkt/42350-viceroy-plus-modra-20ks"
-                   data-user-id=""
-                   aria-hidden="true"
-                   data-kosikmodal-onclose="currentPageDataPush"
-                   onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/60067.jpg" alt="Viceroy Plus Modrá 20ks" class="loading-images loading-image">
-                </a>
-
-
-
-
-        </div>
-                <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Viceroy Plus Modrá 20ks" data-href="/trafika?productList-id=42350&amp;do=productList-modal" class="product-name modal-link"
-                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Viceroy Plus Modrá 20ks
-                    
-                </a></h5>
-            <p class="product-item-price ">
-                <span class="price-before-discount">
-				</span>
-                <strong class="price">86,00 Kč</strong>
-
-            </p>
-            <p class="product-item-unit">
-                    (<strong class="price">4,30 Kč</strong> / ks)
-            </p>
-                        <div class="product-list-rating">
-            </div>
-<div id="snippet-productList-buy-42350-quantity">        <div class="product-quantity-control">
-            <form action="/trafika" method="post" class="ajax" id="frm-productList-buy-42350-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-42350-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
-                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-42350-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
-</form>
-
-        </div>
-</div>
-                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
-
-
-        </div>
-
-        
-    </div>
     <div id="product-append-9642" class="product-item">
         <div class="product-item-flags">
         </div>
@@ -5064,6 +5010,60 @@ Hladká mouka</textarea>
                 <input type="text" name="quantity" size="3" id="frm-productList-buy-9786-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
                 <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
             <input type="hidden" name="do" value="productList-buy-9786-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+</form>
+
+        </div>
+</div>
+                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
+
+
+        </div>
+
+        
+    </div>
+    <div id="product-append-9822" class="product-item">
+        <div class="product-item-flags">
+        </div>
+        <div class="product-item-image">
+                <a data-href="/trafika?productList-id=9822&amp;do=productList-modal"
+                   data-target="productList-productModal"
+                   data-product-id="9822"
+                   data-product-price="84"
+                   data-page-title="Rothmans KS Blue 20ks"
+                   data-page-path="/produkt/9822-rothmans-ks-blue-20ks"
+                   data-user-id=""
+                   aria-hidden="true"
+                   data-kosikmodal-onclose="currentPageDataPush"
+                   onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/27494.jpg" alt="Rothmans KS Blue 20ks" class="loading-images loading-image">
+                </a>
+
+
+
+
+        </div>
+                <div class="product-item-info">
+                <h5><a href="javascript:void(0)" aria-label="Rothmans KS Blue 20ks" data-href="/trafika?productList-id=9822&amp;do=productList-modal" class="product-name modal-link"
+                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    Rothmans KS Blue 20ks
+                    
+                </a></h5>
+            <p class="product-item-price ">
+                <span class="price-before-discount">
+				</span>
+                <strong class="price">84,00 Kč</strong>
+
+            </p>
+            <p class="product-item-unit">
+                    (<strong class="price">84,00 Kč</strong> / ks)
+            </p>
+                        <div class="product-list-rating">
+            </div>
+<div id="snippet-productList-buy-9822-quantity">        <div class="product-quantity-control">
+            <form action="/trafika" method="post" class="ajax" id="frm-productList-buy-9822-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-9822-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
+            <input type="hidden" name="do" value="productList-buy-9822-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
 </form>
 
         </div>

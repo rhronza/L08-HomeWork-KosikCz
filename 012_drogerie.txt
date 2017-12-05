@@ -3835,7 +3835,7 @@ Hladká mouka</textarea>
         </div>
     </div>
     <div class="count" id="snippet-productFilter-countArea">
-        <p>3223 produktů nalezeno</p>
+        <p>3221 produktů nalezeno</p>
     </div>
 
         <h3 aria-label="Filtr Podle ceny">Podle ceny</h3>
@@ -3997,8 +3997,8 @@ Hladká mouka</textarea>
 
 
                             <div class="form-row">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-87" value="87" aria-label="!Bez značky (82)">
-                            <label for="frm-productFilter-brandConstraintForm-value-87">Bez značky (82)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-87" value="87" aria-label="!Bez značky (81)">
+                            <label for="frm-productFilter-brandConstraintForm-value-87">Bez značky (81)</label>
                         </div>
 
 
@@ -4921,8 +4921,8 @@ Hladká mouka</textarea>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-45" value="45" aria-label="!Pronto (11)">
-                            <label for="frm-productFilter-brandConstraintForm-value-45">Pronto (11)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-45" value="45" aria-label="!Pronto (10)">
+                            <label for="frm-productFilter-brandConstraintForm-value-45">Pronto (10)</label>
                         </div>
 
 

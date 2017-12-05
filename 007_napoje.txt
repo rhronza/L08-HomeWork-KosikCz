@@ -3751,7 +3751,7 @@ Hladká mouka</textarea>
         </div>
     </div>
     <div class="count" id="snippet-productFilter-countArea">
-        <p>3695 produktů nalezeno</p>
+        <p>3694 produktů nalezeno</p>
     </div>
 
         <h3 aria-label="Filtr Podle ceny">Podle ceny</h3>
@@ -4081,8 +4081,8 @@ Hladká mouka</textarea>
 
 
                             <div class="form-row">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-87" value="87" aria-label="!Bez značky (209)">
-                            <label for="frm-productFilter-brandConstraintForm-value-87">Bez značky (209)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-87" value="87" aria-label="!Bez značky (208)">
+                            <label for="frm-productFilter-brandConstraintForm-value-87">Bez značky (208)</label>
                         </div>
 
 
@@ -7405,7 +7405,7 @@ Hladká mouka</textarea>
             var buttonsShowMoreClass = 'show-more-brands';
             var buttonsShowLessClass = 'show-less-brands';
             var filters = $('.filter-more-result');
-            var defaultFilterInputs = {"brand":[87,358,468,3167,399,361,389,1255,324,469]};
+            var defaultFilterInputs = {"brand":[87,358,468,3167,399,389,361,1255,324,469]};
 
             function hideCheckboxes(rows, key) {
 
