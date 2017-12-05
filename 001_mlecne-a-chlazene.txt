@@ -1424,7 +1424,6 @@ Hladká mouka</textarea>
                                                 </a>
 
 
-
                                         <a href="/mrazene/zelenina-a-ovoce">...</a>
                                     </div>
                                 </div>
@@ -1466,6 +1465,14 @@ Hladká mouka</textarea>
                                     </h3>
 
                                                                         <div class="categories-container">
+
+                                                <a href="/mrazene/mrazene-pecivo-a-testo/pecivo-slane">
+                                                    Pečivo slané,
+                                                </a>
+
+                                                <a href="/mrazene/mrazene-pecivo-a-testo/pecivo-sladke">
+                                                    Pečivo sladké,
+                                                </a>
 
                                                 <a href="/mrazene/mrazene-pecivo-a-testo/testa">
                                                     Těsta,
@@ -2772,6 +2779,26 @@ Hladká mouka</textarea>
                                     </div>
                                 </div>
                                 <div class="product-type">
+                                    <a href="/domacnost-a-zahrada/grilovani" class="product-type-image">
+                                        <img data-src="https://cdn.kosik.cz/content/category/svg/menu/1439.svg" alt="Grilování">
+                                    </a>
+                                    <h3>
+                                        <a class="children" href="/domacnost-a-zahrada/grilovani">
+                                            Grilování
+                                        </a>
+                                    </h3>
+
+                                                                        <div class="categories-container">
+
+                                                <a href="/domacnost-a-zahrada/grilovani/grily">
+                                                    Grily,
+                                                </a>
+
+
+                                        <a href="/domacnost-a-zahrada/grilovani">...</a>
+                                    </div>
+                                </div>
+                                <div class="product-type">
                                     <a href="/domacnost-a-zahrada/kancelar" class="product-type-image">
                                         <img data-src="https://cdn.kosik.cz/content/category/svg/menu/1393.svg" alt="Kancelář">
                                     </a>
@@ -3670,7 +3697,7 @@ Hladká mouka</textarea>
         </div>
     </div>
     <div class="count" id="snippet-productFilter-countArea">
-        <p>1208 produktů nalezeno</p>
+        <p>1209 produktů nalezeno</p>
     </div>
 
         <h3 aria-label="Filtr Podle ceny">Podle ceny</h3>
@@ -3790,8 +3817,8 @@ Hladká mouka</textarea>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-2020" value="2020" aria-label="!Balsýr (2)">
-                            <label for="frm-productFilter-brandConstraintForm-value-2020">Balsýr (2)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-2020" value="2020" aria-label="!Balsýr (1)">
+                            <label for="frm-productFilter-brandConstraintForm-value-2020">Balsýr (1)</label>
                         </div>
 
 
@@ -3856,8 +3883,8 @@ Hladká mouka</textarea>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-135" value="135" aria-label="!Boneco (12)">
-                            <label for="frm-productFilter-brandConstraintForm-value-135">Boneco (12)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-135" value="135" aria-label="!Boneco (10)">
+                            <label for="frm-productFilter-brandConstraintForm-value-135">Boneco (10)</label>
                         </div>
 
 
@@ -4036,8 +4063,8 @@ Hladká mouka</textarea>
 
 
                             <div class="form-row">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-661" value="661" aria-label="!G&amp;G (34)">
-                            <label for="frm-productFilter-brandConstraintForm-value-661">G&amp;G (34)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-661" value="661" aria-label="!G&amp;G (36)">
+                            <label for="frm-productFilter-brandConstraintForm-value-661">G&amp;G (36)</label>
                         </div>
 
 
@@ -4096,12 +4123,6 @@ Hladká mouka</textarea>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-2972" value="2972" aria-label="!HELLMANN´S (1)">
-                            <label for="frm-productFilter-brandConstraintForm-value-2972">HELLMANN´S (1)</label>
-                        </div>
-
-
-                                                         <div class="form-row" style="display: none;">
                             <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-3007" value="3007" aria-label="!Heinrichsthaler (3)">
                             <label for="frm-productFilter-brandConstraintForm-value-3007">Heinrichsthaler (3)</label>
                         </div>
@@ -4144,8 +4165,8 @@ Hladká mouka</textarea>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-3538" value="3538" aria-label="!IQejce (2)">
-                            <label for="frm-productFilter-brandConstraintForm-value-3538">IQejce (2)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-3538" value="3538" aria-label="!IQejce (3)">
+                            <label for="frm-productFilter-brandConstraintForm-value-3538">IQejce (3)</label>
                         </div>
 
 
@@ -4396,6 +4417,12 @@ Hladká mouka</textarea>
 
 
                                                          <div class="form-row" style="display: none;">
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-1998" value="1998" aria-label="!Milky Up (1)">
+                            <label for="frm-productFilter-brandConstraintForm-value-1998">Milky Up (1)</label>
+                        </div>
+
+
+                                                         <div class="form-row" style="display: none;">
                             <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-1355" value="1355" aria-label="!Minus L (2)">
                             <label for="frm-productFilter-brandConstraintForm-value-1355">Minus L (2)</label>
                         </div>
@@ -4636,8 +4663,8 @@ Hladká mouka</textarea>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-834" value="834" aria-label="!Tami (1)">
-                            <label for="frm-productFilter-brandConstraintForm-value-834">Tami (1)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-834" value="834" aria-label="!Tami (2)">
+                            <label for="frm-productFilter-brandConstraintForm-value-834">Tami (2)</label>
                         </div>
 
 
@@ -4804,7 +4831,7 @@ Hladká mouka</textarea>
             var buttonsShowMoreClass = 'show-more-brands';
             var buttonsShowLessClass = 'show-less-brands';
             var filters = $('.filter-more-result');
-            var defaultFilterInputs = {"brand":[101,106,102,931,932,141,109,103,661,105]};
+            var defaultFilterInputs = {"brand":[101,106,102,931,932,141,109,661,103,105]};
 
             function hideCheckboxes(rows, key) {
 
@@ -5064,6 +5091,60 @@ Hladká mouka</textarea>
                 <input type="text" name="quantity" size="3" id="frm-productWidget-widgetCarousel-1-buy-49273-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
                 <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
             <input type="hidden" name="do" value="productWidget-widgetCarousel-1-buy-49273-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+</form>
+
+        </div>
+</div>
+                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
+
+
+        </div>
+
+        
+    </div>
+    <div id="product-append-16837" class="product-item">
+        <div class="product-item-flags">
+        </div>
+        <div class="product-item-image">
+                <a data-href="/mlecne-a-chlazene?productWidget-widgetCarousel-1-id=16837&amp;do=productWidget-widgetCarousel-1-modal"
+                   data-target="productWidget-widgetCarousel-1-productModal"
+                   data-product-id="16837"
+                   data-product-price="12.9"
+                   data-page-title="Olma Olmíci Maty smetanová přesnídávka s kakaem a oříšky 110g"
+                   data-page-path="/produkt/16837-olma-olmici-maty-smetanova-presnidavka-s-kakaem-a-orisky-110g"
+                   data-user-id=""
+                   aria-hidden="true"
+                   data-kosikmodal-onclose="currentPageDataPush"
+                   onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/34105.jpg" alt="Olma Olmíci Maty smetanová přesnídávka s kakaem a oříšky 110g" class="loading-images loading-image">
+                </a>
+
+
+
+
+        </div>
+                <div class="product-item-info">
+                <h5><a href="javascript:void(0)" aria-label="Olma Olmíci Maty smetanová přesnídávka s kakaem a oříšky 110g" data-href="/mlecne-a-chlazene?productWidget-widgetCarousel-1-id=16837&amp;do=productWidget-widgetCarousel-1-modal" class="product-name modal-link"
+                   data-target="productWidget-widgetCarousel-1-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    Olma Olmíci Maty smetanová přesnídávka s kakaem a oříšky 110g
+                    
+                </a></h5>
+            <p class="product-item-price ">
+                <span class="price-before-discount">
+				</span>
+                <strong class="price">12,90 Kč</strong>
+
+            </p>
+            <p class="product-item-unit">
+                    (<strong class="price">117,30 Kč</strong> / kg)
+            </p>
+                        <div class="product-list-rating">
+            </div>
+<div id="snippet-productWidget-widgetCarousel-1-buy-16837-quantity">        <div class="product-quantity-control">
+            <form action="/mlecne-a-chlazene" method="post" class="ajax" id="frm-productWidget-widgetCarousel-1-buy-16837-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productWidget-widgetCarousel-1-buy-16837-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
+            <input type="hidden" name="do" value="productWidget-widgetCarousel-1-buy-16837-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
 </form>
 
         </div>
@@ -5680,6 +5761,61 @@ Hladká mouka</textarea>
 
         
     </div>
+    <div id="product-append-7676" class="product-item">
+        <div class="product-item-flags">
+        </div>
+        <div class="product-item-image">
+                <a data-href="/mlecne-a-chlazene?productList-id=7676&amp;do=productList-modal"
+                   data-target="productList-productModal"
+                   data-product-id="7676"
+                   data-product-price="25.9"
+                   data-page-title="Hollandia Selský jogurt bílý 500g"
+                   data-page-path="/produkt/7676-hollandia-selsky-jogurt-bily-500g"
+                   data-user-id=""
+                   aria-hidden="true"
+                   data-kosikmodal-onclose="currentPageDataPush"
+                   onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/12870.jpg" alt="Hollandia Selský jogurt bílý 500g" class="loading-images loading-image">
+                </a>
+
+
+
+
+        </div>
+                <div class="product-item-info">
+                <h5><a href="javascript:void(0)" aria-label="Hollandia Selský jogurt bílý 500g" data-href="/mlecne-a-chlazene?productList-id=7676&amp;do=productList-modal" class="product-name modal-link"
+                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    Hollandia Selský jogurt bílý 500g
+                    
+                </a></h5>
+            <p class="product-item-price ">
+                <span class="price-before-discount">
+				</span>
+                <strong class="price">25,90 Kč</strong>
+
+            </p>
+            <p class="product-item-unit">
+                    (<strong class="price">51,80 Kč</strong> / kg)
+            </p>
+                        <div class="product-list-rating">
+                <span><ul class="rating"><li class="rating-children rating-1 up" data-rating="1"><i class="fa fa-star"></i></li><li class="rating-children rating-2 up" data-rating="2"><i class="fa fa-star"></i></li><li class="rating-children rating-3 up" data-rating="3"><i class="fa fa-star"></i></li><li class="rating-children rating-4 up" data-rating="4"><i class="fa fa-star"></i></li><li class="rating-children rating-5 up" data-rating="5"><i class="fa fa-star"></i></li></ul></span>
+            </div>
+<div id="snippet-productList-buy-7676-quantity">        <div class="product-quantity-control">
+            <form action="/mlecne-a-chlazene" method="post" class="ajax" id="frm-productList-buy-7676-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-7676-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
+            <input type="hidden" name="do" value="productList-buy-7676-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+</form>
+
+        </div>
+</div>
+                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
+
+
+        </div>
+
+        
+    </div>
     <div id="product-append-443" class="product-item">
         <div class="product-item-flags">
         </div>
@@ -5734,6 +5870,115 @@ Hladká mouka</textarea>
 
         
     </div>
+    <div id="product-append-12039" class="product-item">
+        <div class="product-item-flags">
+        </div>
+        <div class="product-item-image">
+                <a data-href="/mlecne-a-chlazene?productList-id=12039&amp;do=productList-modal"
+                   data-target="productList-productModal"
+                   data-product-id="12039"
+                   data-product-price="14.9"
+                   data-page-title="Milko Řecký jogurt bílý 140g"
+                   data-page-path="/produkt/12039-milko-recky-jogurt-bily-140g"
+                   data-user-id=""
+                   aria-hidden="true"
+                   data-kosikmodal-onclose="currentPageDataPush"
+                   onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/29370.jpg" alt="Milko Řecký jogurt bílý 140g" class="loading-images loading-image">
+                </a>
+
+
+
+
+        </div>
+                <div class="product-item-info">
+                <h5><a href="javascript:void(0)" aria-label="Milko Řecký jogurt bílý 140g" data-href="/mlecne-a-chlazene?productList-id=12039&amp;do=productList-modal" class="product-name modal-link"
+                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    Milko Řecký jogurt bílý 140g
+                    
+                </a></h5>
+            <p class="product-item-price ">
+                <span class="price-before-discount">
+				</span>
+                <strong class="price">14,90 Kč</strong>
+
+            </p>
+            <p class="product-item-unit">
+                    (<strong class="price">106,40 Kč</strong> / kg)
+            </p>
+                        <div class="product-list-rating">
+            </div>
+<div id="snippet-productList-buy-12039-quantity">        <div class="product-quantity-control">
+            <form action="/mlecne-a-chlazene" method="post" class="ajax" id="frm-productList-buy-12039-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-12039-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
+            <input type="hidden" name="do" value="productList-buy-12039-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+</form>
+
+        </div>
+</div>
+                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
+
+
+        </div>
+
+        
+    </div>
+    <div id="product-append-7771" class="product-item">
+        <div class="product-item-flags">
+        </div>
+        <div class="product-item-image">
+                <a data-href="/mlecne-a-chlazene?productList-id=7771&amp;do=productList-modal"
+                   data-target="productList-productModal"
+                   data-product-id="7771"
+                   data-product-price="64.9"
+                   data-page-title="Madeta Jihočeské máslo 82% 250g"
+                   data-page-path="/produkt/7771-madeta-jihoceske-maslo-82-250g"
+                   data-user-id=""
+                   aria-hidden="true"
+                   data-kosikmodal-onclose="currentPageDataPush"
+                   onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/13111.jpg" alt="Madeta Jihočeské máslo 82% 250g" class="loading-images loading-image">
+                </a>
+
+
+
+
+        </div>
+                <div class="product-item-info">
+                <h5><a href="javascript:void(0)" aria-label="Madeta Jihočeské máslo 82% 250g" data-href="/mlecne-a-chlazene?productList-id=7771&amp;do=productList-modal" class="product-name modal-link"
+                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    Madeta Jihočeské máslo 82% 250g
+                    
+                </a></h5>
+            <p class="product-item-price ">
+                <span class="price-before-discount">
+				</span>
+                <strong class="price">64,90 Kč</strong>
+
+            </p>
+            <p class="product-item-unit">
+                    (<strong class="price">259,60 Kč</strong> / kg)
+            </p>
+                        <div class="product-list-rating">
+                <span><ul class="rating"><li class="rating-children rating-1 up" data-rating="1"><i class="fa fa-star"></i></li><li class="rating-children rating-2 up" data-rating="2"><i class="fa fa-star"></i></li><li class="rating-children rating-3 up" data-rating="3"><i class="fa fa-star"></i></li><li class="rating-children rating-4 up" data-rating="4"><i class="fa fa-star"></i></li><li class="rating-children rating-5 down" data-rating="5"><i class="fa fa-star"></i></li></ul></span>
+            </div>
+<div id="snippet-productList-buy-7771-quantity">        <div class="product-quantity-control">
+            <form action="/mlecne-a-chlazene" method="post" class="ajax" id="frm-productList-buy-7771-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-7771-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
+            <input type="hidden" name="do" value="productList-buy-7771-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+</form>
+
+        </div>
+</div>
+                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
+
+
+        </div>
+
+        
+    </div>
     <div id="product-append-40478" class="product-item">
         <div class="product-item-flags">
         </div>
@@ -5777,65 +6022,6 @@ Hladká mouka</textarea>
                 <input type="text" name="quantity" size="3" id="frm-productList-buy-40478-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
                 <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
             <input type="hidden" name="do" value="productList-buy-40478-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
-</form>
-
-        </div>
-</div>
-                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
-
-
-        </div>
-
-        
-    </div>
-    <div id="product-append-7771" class="product-item">
-        <div class="product-item-flags">
-            <div class="flag-sale ">
-                <span class="percents">9<small>&#37;</small></span>
-            </div>
-        </div>
-        <div class="product-item-image">
-                <a data-href="/mlecne-a-chlazene?productList-id=7771&amp;do=productList-modal"
-                   data-target="productList-productModal"
-                   data-product-id="7771"
-                   data-product-price="64.9"
-                   data-page-title="Madeta Jihočeské máslo 82% 250g"
-                   data-page-path="/produkt/7771-madeta-jihoceske-maslo-82-250g"
-                   data-user-id=""
-                   aria-hidden="true"
-                   data-kosikmodal-onclose="currentPageDataPush"
-                   onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/13111.jpg" alt="Madeta Jihočeské máslo 82% 250g" class="loading-images loading-image">
-                </a>
-
-
-
-
-        </div>
-                <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Madeta Jihočeské máslo 82% 250g" data-href="/mlecne-a-chlazene?productList-id=7771&amp;do=productList-modal" class="product-name modal-link"
-                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Madeta Jihočeské máslo 82% 250g
-                    
-                </a></h5>
-            <p class="product-item-price product-in-discount">
-                <span class="price-before-discount">
-					<span><strong class="price">64,90 Kč</strong></span>
-				</span>
-                <strong class="price">58,90 Kč</strong>
-
-            </p>
-            <p class="product-item-unit">
-                    (<strong class="price">235,60 Kč</strong> / kg)
-            </p>
-                        <div class="product-list-rating">
-                <span><ul class="rating"><li class="rating-children rating-1 up" data-rating="1"><i class="fa fa-star"></i></li><li class="rating-children rating-2 up" data-rating="2"><i class="fa fa-star"></i></li><li class="rating-children rating-3 up" data-rating="3"><i class="fa fa-star"></i></li><li class="rating-children rating-4 up" data-rating="4"><i class="fa fa-star"></i></li><li class="rating-children rating-5 down" data-rating="5"><i class="fa fa-star"></i></li></ul></span>
-            </div>
-<div id="snippet-productList-buy-7771-quantity">        <div class="product-quantity-control">
-            <form action="/mlecne-a-chlazene" method="post" class="ajax" id="frm-productList-buy-7771-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-7771-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
-                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-7771-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
 </form>
 
         </div>
@@ -6014,61 +6200,6 @@ Hladká mouka</textarea>
 
         
     </div>
-    <div id="product-append-477" class="product-item">
-        <div class="product-item-flags">
-        </div>
-        <div class="product-item-image">
-                <a data-href="/mlecne-a-chlazene?productList-id=477&amp;do=productList-modal"
-                   data-target="productList-productModal"
-                   data-product-id="477"
-                   data-product-price="9.9"
-                   data-page-title="Olma Klasik bílý jogurt 150g"
-                   data-page-path="/produkt/477-olma-klasik-bily-jogurt-150g"
-                   data-user-id=""
-                   aria-hidden="true"
-                   data-kosikmodal-onclose="currentPageDataPush"
-                   onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/504.jpg" alt="Olma Klasik bílý jogurt 150g" class="loading-images loading-image">
-                </a>
-
-
-
-
-        </div>
-                <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Olma Klasik bílý jogurt 150g" data-href="/mlecne-a-chlazene?productList-id=477&amp;do=productList-modal" class="product-name modal-link"
-                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Olma Klasik bílý jogurt 150g
-                    
-                </a></h5>
-            <p class="product-item-price ">
-                <span class="price-before-discount">
-				</span>
-                <strong class="price">9,90 Kč</strong>
-
-            </p>
-            <p class="product-item-unit">
-                    (<strong class="price">66,00 Kč</strong> / kg)
-            </p>
-                        <div class="product-list-rating">
-                <span><ul class="rating"><li class="rating-children rating-1 up" data-rating="1"><i class="fa fa-star"></i></li><li class="rating-children rating-2 up" data-rating="2"><i class="fa fa-star"></i></li><li class="rating-children rating-3 up" data-rating="3"><i class="fa fa-star"></i></li><li class="rating-children rating-4 up" data-rating="4"><i class="fa fa-star"></i></li><li class="rating-children rating-5 up" data-rating="5"><i class="fa fa-star"></i></li></ul></span>
-            </div>
-<div id="snippet-productList-buy-477-quantity">        <div class="product-quantity-control">
-            <form action="/mlecne-a-chlazene" method="post" class="ajax" id="frm-productList-buy-477-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-477-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
-                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-477-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
-</form>
-
-        </div>
-</div>
-                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
-
-
-        </div>
-
-        
-    </div>
     <div id="product-append-26021" class="product-item">
         <div class="product-item-flags">
         </div>
@@ -6113,6 +6244,61 @@ Hladká mouka</textarea>
                 <input type="text" name="quantity" size="3" id="frm-productList-buy-26021-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
                 <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
             <input type="hidden" name="do" value="productList-buy-26021-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+</form>
+
+        </div>
+</div>
+                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
+
+
+        </div>
+
+        
+    </div>
+    <div id="product-append-477" class="product-item">
+        <div class="product-item-flags">
+        </div>
+        <div class="product-item-image">
+                <a data-href="/mlecne-a-chlazene?productList-id=477&amp;do=productList-modal"
+                   data-target="productList-productModal"
+                   data-product-id="477"
+                   data-product-price="9.9"
+                   data-page-title="Olma Klasik bílý jogurt 150g"
+                   data-page-path="/produkt/477-olma-klasik-bily-jogurt-150g"
+                   data-user-id=""
+                   aria-hidden="true"
+                   data-kosikmodal-onclose="currentPageDataPush"
+                   onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/504.jpg" alt="Olma Klasik bílý jogurt 150g" class="loading-images loading-image">
+                </a>
+
+
+
+
+        </div>
+                <div class="product-item-info">
+                <h5><a href="javascript:void(0)" aria-label="Olma Klasik bílý jogurt 150g" data-href="/mlecne-a-chlazene?productList-id=477&amp;do=productList-modal" class="product-name modal-link"
+                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    Olma Klasik bílý jogurt 150g
+                    
+                </a></h5>
+            <p class="product-item-price ">
+                <span class="price-before-discount">
+				</span>
+                <strong class="price">9,90 Kč</strong>
+
+            </p>
+            <p class="product-item-unit">
+                    (<strong class="price">66,00 Kč</strong> / kg)
+            </p>
+                        <div class="product-list-rating">
+                <span><ul class="rating"><li class="rating-children rating-1 up" data-rating="1"><i class="fa fa-star"></i></li><li class="rating-children rating-2 up" data-rating="2"><i class="fa fa-star"></i></li><li class="rating-children rating-3 up" data-rating="3"><i class="fa fa-star"></i></li><li class="rating-children rating-4 up" data-rating="4"><i class="fa fa-star"></i></li><li class="rating-children rating-5 up" data-rating="5"><i class="fa fa-star"></i></li></ul></span>
+            </div>
+<div id="snippet-productList-buy-477-quantity">        <div class="product-quantity-control">
+            <form action="/mlecne-a-chlazene" method="post" class="ajax" id="frm-productList-buy-477-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-477-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
+            <input type="hidden" name="do" value="productList-buy-477-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
 </form>
 
         </div>
@@ -6178,60 +6364,6 @@ Hladká mouka</textarea>
 
         
     </div>
-    <div id="product-append-469" class="product-item">
-        <div class="product-item-flags">
-        </div>
-        <div class="product-item-image">
-                <a data-href="/mlecne-a-chlazene?productList-id=469&amp;do=productList-modal"
-                   data-target="productList-productModal"
-                   data-product-id="469"
-                   data-product-price="12.9"
-                   data-page-title="Choceňský smetanový jogurt bílý 150g"
-                   data-page-path="/produkt/469-chocensky-smetanovy-jogurt-bily-150g"
-                   data-user-id=""
-                   aria-hidden="true"
-                   data-kosikmodal-onclose="currentPageDataPush"
-                   onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/496.jpg" alt="Choceňský smetanový jogurt bílý 150g" class="loading-images loading-image">
-                </a>
-
-
-
-
-        </div>
-                <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Choceňský smetanový jogurt bílý 150g" data-href="/mlecne-a-chlazene?productList-id=469&amp;do=productList-modal" class="product-name modal-link"
-                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Choceňský smetanový jogurt bílý 150g
-                    
-                </a></h5>
-            <p class="product-item-price ">
-                <span class="price-before-discount">
-				</span>
-                <strong class="price">12,90 Kč</strong>
-
-            </p>
-            <p class="product-item-unit">
-                    (<strong class="price">86,00 Kč</strong> / kg)
-            </p>
-                        <div class="product-list-rating">
-            </div>
-<div id="snippet-productList-buy-469-quantity">        <div class="product-quantity-control">
-            <form action="/mlecne-a-chlazene" method="post" class="ajax" id="frm-productList-buy-469-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-469-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
-                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-469-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
-</form>
-
-        </div>
-</div>
-                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
-
-
-        </div>
-
-        
-    </div>
     <div id="product-append-5203" class="product-item">
         <div class="product-item-flags">
         </div>
@@ -6276,6 +6408,60 @@ Hladká mouka</textarea>
                 <input type="text" name="quantity" size="3" id="frm-productList-buy-5203-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
                 <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
             <input type="hidden" name="do" value="productList-buy-5203-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+</form>
+
+        </div>
+</div>
+                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
+
+
+        </div>
+
+        
+    </div>
+    <div id="product-append-469" class="product-item">
+        <div class="product-item-flags">
+        </div>
+        <div class="product-item-image">
+                <a data-href="/mlecne-a-chlazene?productList-id=469&amp;do=productList-modal"
+                   data-target="productList-productModal"
+                   data-product-id="469"
+                   data-product-price="12.9"
+                   data-page-title="Choceňský smetanový jogurt bílý 150g"
+                   data-page-path="/produkt/469-chocensky-smetanovy-jogurt-bily-150g"
+                   data-user-id=""
+                   aria-hidden="true"
+                   data-kosikmodal-onclose="currentPageDataPush"
+                   onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/496.jpg" alt="Choceňský smetanový jogurt bílý 150g" class="loading-images loading-image">
+                </a>
+
+
+
+
+        </div>
+                <div class="product-item-info">
+                <h5><a href="javascript:void(0)" aria-label="Choceňský smetanový jogurt bílý 150g" data-href="/mlecne-a-chlazene?productList-id=469&amp;do=productList-modal" class="product-name modal-link"
+                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    Choceňský smetanový jogurt bílý 150g
+                    
+                </a></h5>
+            <p class="product-item-price ">
+                <span class="price-before-discount">
+				</span>
+                <strong class="price">12,90 Kč</strong>
+
+            </p>
+            <p class="product-item-unit">
+                    (<strong class="price">86,00 Kč</strong> / kg)
+            </p>
+                        <div class="product-list-rating">
+            </div>
+<div id="snippet-productList-buy-469-quantity">        <div class="product-quantity-control">
+            <form action="/mlecne-a-chlazene" method="post" class="ajax" id="frm-productList-buy-469-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-469-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
+            <input type="hidden" name="do" value="productList-buy-469-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
 </form>
 
         </div>
@@ -6450,60 +6636,6 @@ Hladká mouka</textarea>
 
         
     </div>
-    <div id="product-append-532" class="product-item">
-        <div class="product-item-flags">
-        </div>
-        <div class="product-item-image">
-                <a data-href="/mlecne-a-chlazene?productList-id=532&amp;do=productList-modal"
-                   data-target="productList-productModal"
-                   data-product-id="532"
-                   data-product-price="10.9"
-                   data-page-title="Olma Dezert Pudingový se šlehačkou čokoládový 200g"
-                   data-page-path="/produkt/532-olma-dezert-pudingovy-se-slehackou-cokoladovy-200g"
-                   data-user-id=""
-                   aria-hidden="true"
-                   data-kosikmodal-onclose="currentPageDataPush"
-                   onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/559.jpg" alt="Olma Dezert Pudingový se šlehačkou čokoládový 200g" class="loading-images loading-image">
-                </a>
-
-
-
-
-        </div>
-                <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Olma Dezert Pudingový se šlehačkou čokoládový 200g" data-href="/mlecne-a-chlazene?productList-id=532&amp;do=productList-modal" class="product-name modal-link"
-                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Olma Dezert Pudingový se šlehačkou čokoládový 200g
-                    
-                </a></h5>
-            <p class="product-item-price ">
-                <span class="price-before-discount">
-				</span>
-                <strong class="price">10,90 Kč</strong>
-
-            </p>
-            <p class="product-item-unit">
-                    (<strong class="price">54,50 Kč</strong> / kg)
-            </p>
-                        <div class="product-list-rating">
-            </div>
-<div id="snippet-productList-buy-532-quantity">        <div class="product-quantity-control">
-            <form action="/mlecne-a-chlazene" method="post" class="ajax" id="frm-productList-buy-532-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-532-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
-                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-532-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
-</form>
-
-        </div>
-</div>
-                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
-
-
-        </div>
-
-        
-    </div>
     <div id="product-append-5785" class="product-item">
         <div class="product-item-flags">
         </div>
@@ -6559,6 +6691,174 @@ Hladká mouka</textarea>
 
         
     </div>
+    <div id="product-append-532" class="product-item">
+        <div class="product-item-flags">
+        </div>
+        <div class="product-item-image">
+                <a data-href="/mlecne-a-chlazene?productList-id=532&amp;do=productList-modal"
+                   data-target="productList-productModal"
+                   data-product-id="532"
+                   data-product-price="10.9"
+                   data-page-title="Olma Dezert Pudingový se šlehačkou čokoládový 200g"
+                   data-page-path="/produkt/532-olma-dezert-pudingovy-se-slehackou-cokoladovy-200g"
+                   data-user-id=""
+                   aria-hidden="true"
+                   data-kosikmodal-onclose="currentPageDataPush"
+                   onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/559.jpg" alt="Olma Dezert Pudingový se šlehačkou čokoládový 200g" class="loading-images loading-image">
+                </a>
+
+
+
+
+        </div>
+                <div class="product-item-info">
+                <h5><a href="javascript:void(0)" aria-label="Olma Dezert Pudingový se šlehačkou čokoládový 200g" data-href="/mlecne-a-chlazene?productList-id=532&amp;do=productList-modal" class="product-name modal-link"
+                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    Olma Dezert Pudingový se šlehačkou čokoládový 200g
+                    
+                </a></h5>
+            <p class="product-item-price ">
+                <span class="price-before-discount">
+				</span>
+                <strong class="price">10,90 Kč</strong>
+
+            </p>
+            <p class="product-item-unit">
+                    (<strong class="price">54,50 Kč</strong> / kg)
+            </p>
+                        <div class="product-list-rating">
+            </div>
+<div id="snippet-productList-buy-532-quantity">        <div class="product-quantity-control">
+            <form action="/mlecne-a-chlazene" method="post" class="ajax" id="frm-productList-buy-532-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-532-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
+            <input type="hidden" name="do" value="productList-buy-532-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+</form>
+
+        </div>
+</div>
+                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
+
+
+        </div>
+
+        
+    </div>
+    <div id="product-append-12791" class="product-item">
+        <div class="product-item-flags">
+        </div>
+        <div class="product-item-image">
+                <a data-href="/mlecne-a-chlazene?productList-id=12791&amp;do=productList-modal"
+                   data-target="productList-productModal"
+                   data-product-id="12791"
+                   data-product-price="52.9"
+                   data-page-title="PM Poděbrady Čerstvé máslo 250g"
+                   data-page-path="/produkt/12791-pm-podebrady-cerstve-maslo-250g"
+                   data-user-id=""
+                   aria-hidden="true"
+                   data-kosikmodal-onclose="currentPageDataPush"
+                   onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/30103.jpg" alt="PM Poděbrady Čerstvé máslo 250g" class="loading-images loading-image">
+                </a>
+
+
+
+
+        </div>
+                <div class="product-item-info">
+                <h5><a href="javascript:void(0)" aria-label="PM Poděbrady Čerstvé máslo 250g" data-href="/mlecne-a-chlazene?productList-id=12791&amp;do=productList-modal" class="product-name modal-link"
+                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    PM Poděbrady Čerstvé máslo 250g
+                    
+                </a></h5>
+            <p class="product-item-price ">
+                <span class="price-before-discount">
+				</span>
+                <strong class="price">52,90 Kč</strong>
+
+            </p>
+            <p class="product-item-unit">
+                    (<strong class="price">211,60 Kč</strong> / kg)
+            </p>
+                        <div class="product-list-rating">
+                <span><ul class="rating"><li class="rating-children rating-1 up" data-rating="1"><i class="fa fa-star"></i></li><li class="rating-children rating-2 up" data-rating="2"><i class="fa fa-star"></i></li><li class="rating-children rating-3 up" data-rating="3"><i class="fa fa-star"></i></li><li class="rating-children rating-4 up" data-rating="4"><i class="fa fa-star"></i></li><li class="rating-children rating-5 down" data-rating="5"><i class="fa fa-star"></i></li></ul></span>
+            </div>
+<div id="snippet-productList-buy-12791-quantity">        <div class="product-quantity-control">
+            <form action="/mlecne-a-chlazene" method="post" class="ajax" id="frm-productList-buy-12791-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-12791-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
+            <input type="hidden" name="do" value="productList-buy-12791-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+</form>
+
+        </div>
+</div>
+                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
+
+
+        </div>
+
+        
+    </div>
+    <div id="product-append-2545" class="product-item">
+        <div class="product-item-flags">
+            <div class="flag-sale ">
+                <span class="percents">23<small>&#37;</small></span>
+            </div>
+        </div>
+        <div class="product-item-image">
+                <a data-href="/mlecne-a-chlazene?productList-id=2545&amp;do=productList-modal"
+                   data-target="productList-productModal"
+                   data-product-id="2545"
+                   data-product-price="42.9"
+                   data-page-title="Tatra Salko Tradiční 397g"
+                   data-page-path="/produkt/2545-tatra-salko-tradicni-397g"
+                   data-user-id=""
+                   aria-hidden="true"
+                   data-kosikmodal-onclose="currentPageDataPush"
+                   onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/2642.jpg" alt="Tatra Salko Tradiční 397g" class="loading-images loading-image">
+                </a>
+
+
+
+
+        </div>
+                <div class="product-item-info">
+                <h5><a href="javascript:void(0)" aria-label="Tatra Salko Tradiční 397g" data-href="/mlecne-a-chlazene?productList-id=2545&amp;do=productList-modal" class="product-name modal-link"
+                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    Tatra Salko Tradiční 397g
+                    
+                </a></h5>
+            <p class="product-item-price product-in-discount">
+                <span class="price-before-discount">
+					<span><strong class="price">42,90 Kč</strong></span>
+				</span>
+                <strong class="price">32,90 Kč</strong>
+
+            </p>
+            <p class="product-item-unit">
+                    (<strong class="price">82,90 Kč</strong> / kg)
+            </p>
+                        <div class="product-list-rating">
+                <span><ul class="rating"><li class="rating-children rating-1 up" data-rating="1"><i class="fa fa-star"></i></li><li class="rating-children rating-2 up" data-rating="2"><i class="fa fa-star"></i></li><li class="rating-children rating-3 up" data-rating="3"><i class="fa fa-star"></i></li><li class="rating-children rating-4 up" data-rating="4"><i class="fa fa-star"></i></li><li class="rating-children rating-5 up" data-rating="5"><i class="fa fa-star"></i></li></ul></span>
+            </div>
+<div id="snippet-productList-buy-2545-quantity">        <div class="product-quantity-control">
+            <form action="/mlecne-a-chlazene" method="post" class="ajax" id="frm-productList-buy-2545-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-2545-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
+            <input type="hidden" name="do" value="productList-buy-2545-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+</form>
+
+        </div>
+</div>
+                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
+
+
+        </div>
+
+        
+    </div>
     <div id="product-append-571" class="product-item">
         <div class="product-item-flags">
         </div>
@@ -6603,224 +6903,6 @@ Hladká mouka</textarea>
                 <input type="text" name="quantity" size="3" id="frm-productList-buy-571-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
                 <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
             <input type="hidden" name="do" value="productList-buy-571-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
-</form>
-
-        </div>
-</div>
-                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
-
-
-        </div>
-
-        
-    </div>
-    <div id="product-append-698" class="product-item">
-        <div class="product-item-flags">
-        </div>
-        <div class="product-item-image">
-                <a data-href="/mlecne-a-chlazene?productList-id=698&amp;do=productList-modal"
-                   data-target="productList-productModal"
-                   data-product-id="698"
-                   data-product-price="29.9"
-                   data-page-title="Président Camembert 90g"
-                   data-page-path="/produkt/698-president-camembert-90g"
-                   data-user-id=""
-                   aria-hidden="true"
-                   data-kosikmodal-onclose="currentPageDataPush"
-                   onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/731.jpg" alt="Président Camembert 90g" class="loading-images loading-image">
-                </a>
-
-
-
-
-        </div>
-                <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Président Camembert 90g" data-href="/mlecne-a-chlazene?productList-id=698&amp;do=productList-modal" class="product-name modal-link"
-                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Président Camembert 90g
-                    
-                </a></h5>
-            <p class="product-item-price ">
-                <span class="price-before-discount">
-				</span>
-                <strong class="price">29,90 Kč</strong>
-
-            </p>
-            <p class="product-item-unit">
-                    (<strong class="price">332,20 Kč</strong> / kg)
-            </p>
-                        <div class="product-list-rating">
-                <span><ul class="rating"><li class="rating-children rating-1 up" data-rating="1"><i class="fa fa-star"></i></li><li class="rating-children rating-2 up" data-rating="2"><i class="fa fa-star"></i></li><li class="rating-children rating-3 up" data-rating="3"><i class="fa fa-star"></i></li><li class="rating-children rating-4 up" data-rating="4"><i class="fa fa-star"></i></li><li class="rating-children rating-5 up" data-rating="5"><i class="fa fa-star"></i></li></ul></span>
-            </div>
-<div id="snippet-productList-buy-698-quantity">        <div class="product-quantity-control">
-            <form action="/mlecne-a-chlazene" method="post" class="ajax" id="frm-productList-buy-698-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-698-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
-                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-698-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
-</form>
-
-        </div>
-</div>
-                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
-
-
-        </div>
-
-        
-    </div>
-    <div id="product-append-7678" class="product-item">
-        <div class="product-item-flags">
-        </div>
-        <div class="product-item-image">
-                <a data-href="/mlecne-a-chlazene?productList-id=7678&amp;do=productList-modal"
-                   data-target="productList-productModal"
-                   data-product-id="7678"
-                   data-product-price="7.9"
-                   data-page-title="Mlékárna Valašské Meziříčí Bílý jogurt 150g"
-                   data-page-path="/produkt/7678-mlekarna-valasske-mezirici-bily-jogurt-150g"
-                   data-user-id=""
-                   aria-hidden="true"
-                   data-kosikmodal-onclose="currentPageDataPush"
-                   onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/12872.jpg" alt="Mlékárna Valašské Meziříčí Bílý jogurt 150g" class="loading-images loading-image">
-                </a>
-
-
-
-
-        </div>
-                <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Mlékárna Valašské Meziříčí Bílý jogurt 150g" data-href="/mlecne-a-chlazene?productList-id=7678&amp;do=productList-modal" class="product-name modal-link"
-                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Mlékárna Valašské Meziříčí Bílý jogurt 150g
-                    
-                </a></h5>
-            <p class="product-item-price ">
-                <span class="price-before-discount">
-				</span>
-                <strong class="price">7,90 Kč</strong>
-
-            </p>
-            <p class="product-item-unit">
-                    (<strong class="price">52,70 Kč</strong> / kg)
-            </p>
-                        <div class="product-list-rating">
-            </div>
-<div id="snippet-productList-buy-7678-quantity">        <div class="product-quantity-control">
-            <form action="/mlecne-a-chlazene" method="post" class="ajax" id="frm-productList-buy-7678-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-7678-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
-                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-7678-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
-</form>
-
-        </div>
-</div>
-                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
-
-
-        </div>
-
-        
-    </div>
-    <div id="product-append-12726" class="product-item">
-        <div class="product-item-flags">
-        </div>
-        <div class="product-item-image">
-                <a data-href="/mlecne-a-chlazene?productList-id=12726&amp;do=productList-modal"
-                   data-target="productList-productModal"
-                   data-product-id="12726"
-                   data-product-price="18.9"
-                   data-page-title="Tatra Tvaroh polotučný 18% 250g"
-                   data-page-path="/produkt/12726-tatra-tvaroh-polotucny-18-250g"
-                   data-user-id=""
-                   aria-hidden="true"
-                   data-kosikmodal-onclose="currentPageDataPush"
-                   onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/29992.jpg" alt="Tatra Tvaroh polotučný 18% 250g" class="loading-images loading-image">
-                </a>
-
-
-
-
-        </div>
-                <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Tatra Tvaroh polotučný 18% 250g" data-href="/mlecne-a-chlazene?productList-id=12726&amp;do=productList-modal" class="product-name modal-link"
-                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Tatra Tvaroh polotučný 18% 250g
-                    
-                </a></h5>
-            <p class="product-item-price ">
-                <span class="price-before-discount">
-				</span>
-                <strong class="price">18,90 Kč</strong>
-
-            </p>
-            <p class="product-item-unit">
-                    (<strong class="price">75,60 Kč</strong> / kg)
-            </p>
-                        <div class="product-list-rating">
-            </div>
-<div id="snippet-productList-buy-12726-quantity">        <div class="product-quantity-control">
-            <form action="/mlecne-a-chlazene" method="post" class="ajax" id="frm-productList-buy-12726-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-12726-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
-                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-12726-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
-</form>
-
-        </div>
-</div>
-                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
-
-
-        </div>
-
-        
-    </div>
-    <div id="product-append-25598" class="product-item">
-        <div class="product-item-flags">
-        </div>
-        <div class="product-item-image">
-                <a data-href="/mlecne-a-chlazene?productList-id=25598&amp;do=productList-modal"
-                   data-target="productList-productModal"
-                   data-product-id="25598"
-                   data-product-price="39.9"
-                   data-page-title="Jeřábek &amp; Vodrážka Farmářská vejce z podestýlky L 6ks"
-                   data-page-path="/produkt/25598-jerabek-vodrazka-farmarska-vejce-z-podestylky-l-6ks"
-                   data-user-id=""
-                   aria-hidden="true"
-                   data-kosikmodal-onclose="currentPageDataPush"
-                   onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/42878.jpg" alt="Jeřábek &amp; Vodrážka Farmářská vejce z podestýlky L 6ks" class="loading-images loading-image">
-                </a>
-
-
-
-
-        </div>
-                <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Jeřábek &amp; Vodrážka Farmářská vejce z podestýlky L 6ks" data-href="/mlecne-a-chlazene?productList-id=25598&amp;do=productList-modal" class="product-name modal-link"
-                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Jeřábek &amp; Vodrážka Farmářská vejce z podestýlky L 6ks
-                    
-                </a></h5>
-            <p class="product-item-price ">
-                <span class="price-before-discount">
-				</span>
-                <strong class="price">39,90 Kč</strong>
-
-            </p>
-            <p class="product-item-unit">
-                    (<strong class="price">6,70 Kč</strong> / ks)
-            </p>
-                        <div class="product-list-rating">
-                <span><ul class="rating"><li class="rating-children rating-1 up" data-rating="1"><i class="fa fa-star"></i></li><li class="rating-children rating-2 up" data-rating="2"><i class="fa fa-star"></i></li><li class="rating-children rating-3 up" data-rating="3"><i class="fa fa-star"></i></li><li class="rating-children rating-4 up" data-rating="4"><i class="fa fa-star"></i></li><li class="rating-children rating-5 up" data-rating="5"><i class="fa fa-star"></i></li></ul></span>
-            </div>
-<div id="snippet-productList-buy-25598-quantity">        <div class="product-quantity-control">
-            <form action="/mlecne-a-chlazene" method="post" class="ajax" id="frm-productList-buy-25598-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-25598-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
-                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-25598-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
 </form>
 
         </div>
