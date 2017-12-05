@@ -1424,7 +1424,6 @@ Hladká mouka</textarea>
                                                 </a>
 
 
-
                                         <a href="/mrazene/zelenina-a-ovoce">...</a>
                                     </div>
                                 </div>
@@ -1466,6 +1465,14 @@ Hladká mouka</textarea>
                                     </h3>
 
                                                                         <div class="categories-container">
+
+                                                <a href="/mrazene/mrazene-pecivo-a-testo/pecivo-slane">
+                                                    Pečivo slané,
+                                                </a>
+
+                                                <a href="/mrazene/mrazene-pecivo-a-testo/pecivo-sladke">
+                                                    Pečivo sladké,
+                                                </a>
 
                                                 <a href="/mrazene/mrazene-pecivo-a-testo/testa">
                                                     Těsta,
@@ -2772,6 +2779,26 @@ Hladká mouka</textarea>
                                     </div>
                                 </div>
                                 <div class="product-type">
+                                    <a href="/domacnost-a-zahrada/grilovani" class="product-type-image">
+                                        <img data-src="https://cdn.kosik.cz/content/category/svg/menu/1439.svg" alt="Grilování">
+                                    </a>
+                                    <h3>
+                                        <a class="children" href="/domacnost-a-zahrada/grilovani">
+                                            Grilování
+                                        </a>
+                                    </h3>
+
+                                                                        <div class="categories-container">
+
+                                                <a href="/domacnost-a-zahrada/grilovani/grily">
+                                                    Grily,
+                                                </a>
+
+
+                                        <a href="/domacnost-a-zahrada/grilovani">...</a>
+                                    </div>
+                                </div>
+                                <div class="product-type">
                                     <a href="/domacnost-a-zahrada/kancelar" class="product-type-image">
                                         <img data-src="https://cdn.kosik.cz/content/category/svg/menu/1393.svg" alt="Kancelář">
                                     </a>
@@ -3778,6 +3805,60 @@ Hladká mouka</textarea>
     });
 </script>
 <div class="block block-product-items product-items" data-ajax-append="product-item" id="snippet-productList-productListArea">
+    <div id="product-append-15134" class="product-item">
+        <div class="product-item-flags">
+        </div>
+        <div class="product-item-image">
+                <a data-href="/trafika?productList-id=15134&amp;do=productList-modal"
+                   data-target="productList-productModal"
+                   data-product-id="15134"
+                   data-product-price="102"
+                   data-page-title="Marlboro KS Box Red FWD 20ks"
+                   data-page-path="/produkt/15134-marlboro-ks-box-red-fwd-20ks"
+                   data-user-id=""
+                   aria-hidden="true"
+                   data-kosikmodal-onclose="currentPageDataPush"
+                   onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/32403.jpg" alt="Marlboro KS Box Red FWD 20ks" class="loading-images loading-image">
+                </a>
+
+
+
+
+        </div>
+                <div class="product-item-info">
+                <h5><a href="javascript:void(0)" aria-label="Marlboro KS Box Red FWD 20ks" data-href="/trafika?productList-id=15134&amp;do=productList-modal" class="product-name modal-link"
+                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    Marlboro KS Box Red FWD 20ks
+                    
+                </a></h5>
+            <p class="product-item-price ">
+                <span class="price-before-discount">
+				</span>
+                <strong class="price">102,00 Kč</strong>
+
+            </p>
+            <p class="product-item-unit">
+                    (<strong class="price">102,00 Kč</strong> / ks)
+            </p>
+                        <div class="product-list-rating">
+            </div>
+<div id="snippet-productList-buy-15134-quantity">        <div class="product-quantity-control">
+            <form action="/trafika" method="post" class="ajax" id="frm-productList-buy-15134-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-15134-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
+            <input type="hidden" name="do" value="productList-buy-15134-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+</form>
+
+        </div>
+</div>
+                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
+
+
+        </div>
+
+        
+    </div>
     <div id="product-append-42248" class="product-item">
         <div class="product-item-flags">
         </div>
@@ -3821,6 +3902,168 @@ Hladká mouka</textarea>
                 <input type="text" name="quantity" size="3" id="frm-productList-buy-42248-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
                 <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
             <input type="hidden" name="do" value="productList-buy-42248-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+</form>
+
+        </div>
+</div>
+                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
+
+
+        </div>
+
+        
+    </div>
+    <div id="product-append-14420" class="product-item">
+        <div class="product-item-flags">
+        </div>
+        <div class="product-item-image">
+                <a data-href="/trafika?productList-id=14420&amp;do=productList-modal"
+                   data-target="productList-productModal"
+                   data-product-id="14420"
+                   data-product-price="102"
+                   data-page-title="Marlboro Gold 2.0 Original 20ks"
+                   data-page-path="/produkt/14420-marlboro-gold-2-0-original-20ks"
+                   data-user-id=""
+                   aria-hidden="true"
+                   data-kosikmodal-onclose="currentPageDataPush"
+                   onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/31700.jpg" alt="Marlboro Gold 2.0 Original 20ks" class="loading-images loading-image">
+                </a>
+
+
+
+
+        </div>
+                <div class="product-item-info">
+                <h5><a href="javascript:void(0)" aria-label="Marlboro Gold 2.0 Original 20ks" data-href="/trafika?productList-id=14420&amp;do=productList-modal" class="product-name modal-link"
+                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    Marlboro Gold 2.0 Original 20ks
+                    
+                </a></h5>
+            <p class="product-item-price ">
+                <span class="price-before-discount">
+				</span>
+                <strong class="price">102,00 Kč</strong>
+
+            </p>
+            <p class="product-item-unit">
+                    (<strong class="price">102,00 Kč</strong> / ks)
+            </p>
+                        <div class="product-list-rating">
+            </div>
+<div id="snippet-productList-buy-14420-quantity">        <div class="product-quantity-control">
+            <form action="/trafika" method="post" class="ajax" id="frm-productList-buy-14420-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-14420-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
+            <input type="hidden" name="do" value="productList-buy-14420-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+</form>
+
+        </div>
+</div>
+                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
+
+
+        </div>
+
+        
+    </div>
+    <div id="product-append-9705" class="product-item">
+        <div class="product-item-flags">
+        </div>
+        <div class="product-item-image">
+                <a data-href="/trafika?productList-id=9705&amp;do=productList-modal"
+                   data-target="productList-productModal"
+                   data-product-id="9705"
+                   data-product-price="91"
+                   data-page-title="L&amp;M Double Forward 20ks"
+                   data-page-path="/produkt/9705-l-m-double-forward-20ks"
+                   data-user-id=""
+                   aria-hidden="true"
+                   data-kosikmodal-onclose="currentPageDataPush"
+                   onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/27370.jpg" alt="L&amp;M Double Forward 20ks" class="loading-images loading-image">
+                </a>
+
+
+
+
+        </div>
+                <div class="product-item-info">
+                <h5><a href="javascript:void(0)" aria-label="L&amp;M Double Forward 20ks" data-href="/trafika?productList-id=9705&amp;do=productList-modal" class="product-name modal-link"
+                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    L&amp;M Double Forward 20ks
+                    
+                </a></h5>
+            <p class="product-item-price ">
+                <span class="price-before-discount">
+				</span>
+                <strong class="price">91,00 Kč</strong>
+
+            </p>
+            <p class="product-item-unit">
+                    (<strong class="price">91,00 Kč</strong> / ks)
+            </p>
+                        <div class="product-list-rating">
+            </div>
+<div id="snippet-productList-buy-9705-quantity">        <div class="product-quantity-control">
+            <form action="/trafika" method="post" class="ajax" id="frm-productList-buy-9705-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-9705-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
+            <input type="hidden" name="do" value="productList-buy-9705-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+</form>
+
+        </div>
+</div>
+                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
+
+
+        </div>
+
+        
+    </div>
+    <div id="product-append-42349" class="product-item">
+        <div class="product-item-flags">
+        </div>
+        <div class="product-item-image">
+                <a data-href="/trafika?productList-id=42349&amp;do=productList-modal"
+                   data-target="productList-productModal"
+                   data-product-id="42349"
+                   data-product-price="80"
+                   data-page-title="Rothmans DEMI Click 20ks"
+                   data-page-path="/produkt/42349-rothmans-demi-click-20ks"
+                   data-user-id=""
+                   aria-hidden="true"
+                   data-kosikmodal-onclose="currentPageDataPush"
+                   onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/60066.jpg" alt="Rothmans DEMI Click 20ks" class="loading-images loading-image">
+                </a>
+
+
+
+
+        </div>
+                <div class="product-item-info">
+                <h5><a href="javascript:void(0)" aria-label="Rothmans DEMI Click 20ks" data-href="/trafika?productList-id=42349&amp;do=productList-modal" class="product-name modal-link"
+                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    Rothmans DEMI Click 20ks
+                    
+                </a></h5>
+            <p class="product-item-price ">
+                <span class="price-before-discount">
+				</span>
+                <strong class="price">80,00 Kč</strong>
+
+            </p>
+            <p class="product-item-unit">
+                    (<strong class="price">80,00 Kč</strong> / Ks)
+            </p>
+                        <div class="product-list-rating">
+            </div>
+<div id="snippet-productList-buy-42349-quantity">        <div class="product-quantity-control">
+            <form action="/trafika" method="post" class="ajax" id="frm-productList-buy-42349-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-42349-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
+            <input type="hidden" name="do" value="productList-buy-42349-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
 </form>
 
         </div>
@@ -3886,60 +4129,6 @@ Hladká mouka</textarea>
 
         
     </div>
-    <div id="product-append-17429" class="product-item">
-        <div class="product-item-flags">
-        </div>
-        <div class="product-item-image">
-                <a data-href="/trafika?productList-id=17429&amp;do=productList-modal"
-                   data-target="productList-productModal"
-                   data-product-id="17429"
-                   data-product-price="86"
-                   data-page-title="L&amp;M LOFT True Blue SLI 20ks"
-                   data-page-path="/produkt/17429-l-m-loft-true-blue-sli-20ks"
-                   data-user-id=""
-                   aria-hidden="true"
-                   data-kosikmodal-onclose="currentPageDataPush"
-                   onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/34706.jpg" alt="L&amp;M LOFT True Blue SLI 20ks" class="loading-images loading-image">
-                </a>
-
-
-
-
-        </div>
-                <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="L&amp;M LOFT True Blue SLI 20ks" data-href="/trafika?productList-id=17429&amp;do=productList-modal" class="product-name modal-link"
-                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    L&amp;M LOFT True Blue SLI 20ks
-                    
-                </a></h5>
-            <p class="product-item-price ">
-                <span class="price-before-discount">
-				</span>
-                <strong class="price">86,00 Kč</strong>
-
-            </p>
-            <p class="product-item-unit">
-                    (<strong class="price">86,00 Kč</strong> / ks)
-            </p>
-                        <div class="product-list-rating">
-            </div>
-<div id="snippet-productList-buy-17429-quantity">        <div class="product-quantity-control">
-            <form action="/trafika" method="post" class="ajax" id="frm-productList-buy-17429-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-17429-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
-                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-17429-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
-</form>
-
-        </div>
-</div>
-                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
-
-
-        </div>
-
-        
-    </div>
     <div id="product-append-38229" class="product-item">
         <div class="product-item-flags">
         </div>
@@ -3994,183 +4183,21 @@ Hladká mouka</textarea>
 
         
     </div>
-    <div id="product-append-42348" class="product-item">
+    <div id="product-append-17429" class="product-item">
         <div class="product-item-flags">
         </div>
         <div class="product-item-image">
-                <a data-href="/trafika?productList-id=42348&amp;do=productList-modal"
+                <a data-href="/trafika?productList-id=17429&amp;do=productList-modal"
                    data-target="productList-productModal"
-                   data-product-id="42348"
-                   data-product-price="84"
-                   data-page-title="Camel Shorts Filters 20ks"
-                   data-page-path="/produkt/42348-camel-shorts-filters-20ks"
-                   data-user-id=""
-                   aria-hidden="true"
-                   data-kosikmodal-onclose="currentPageDataPush"
-                   onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/60065.jpg" alt="Camel Shorts Filters 20ks" class="loading-images loading-image">
-                </a>
-
-
-
-
-        </div>
-                <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Camel Shorts Filters 20ks" data-href="/trafika?productList-id=42348&amp;do=productList-modal" class="product-name modal-link"
-                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Camel Shorts Filters 20ks
-                    
-                </a></h5>
-            <p class="product-item-price ">
-                <span class="price-before-discount">
-				</span>
-                <strong class="price">84,00 Kč</strong>
-
-            </p>
-            <p class="product-item-unit">
-                    (<strong class="price">84,00 Kč</strong> / Ks)
-            </p>
-                        <div class="product-list-rating">
-            </div>
-<div id="snippet-productList-buy-42348-quantity">        <div class="product-quantity-control">
-            <form action="/trafika" method="post" class="ajax" id="frm-productList-buy-42348-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-42348-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
-                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-42348-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
-</form>
-
-        </div>
-</div>
-                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
-
-
-        </div>
-
-        
-    </div>
-    <div id="product-append-17448" class="product-item">
-        <div class="product-item-flags">
-        </div>
-        <div class="product-item-image">
-                <a data-href="/trafika?productList-id=17448&amp;do=productList-modal"
-                   data-target="productList-productModal"
-                   data-product-id="17448"
-                   data-product-price="92"
-                   data-page-title="Lucky Strike Cold 20ks"
-                   data-page-path="/produkt/17448-lucky-strike-cold-20ks"
-                   data-user-id=""
-                   aria-hidden="true"
-                   data-kosikmodal-onclose="currentPageDataPush"
-                   onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/34725.jpg" alt="Lucky Strike Cold 20ks" class="loading-images loading-image">
-                </a>
-
-
-
-
-        </div>
-                <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Lucky Strike Cold 20ks" data-href="/trafika?productList-id=17448&amp;do=productList-modal" class="product-name modal-link"
-                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Lucky Strike Cold 20ks
-                    
-                </a></h5>
-            <p class="product-item-price ">
-                <span class="price-before-discount">
-				</span>
-                <strong class="price">92,00 Kč</strong>
-
-            </p>
-            <p class="product-item-unit">
-                    (<strong class="price">92,00 Kč</strong> / ks)
-            </p>
-                        <div class="product-list-rating">
-            </div>
-<div id="snippet-productList-buy-17448-quantity">        <div class="product-quantity-control">
-            <form action="/trafika" method="post" class="ajax" id="frm-productList-buy-17448-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-17448-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
-                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-17448-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
-</form>
-
-        </div>
-</div>
-                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
-
-
-        </div>
-
-        
-    </div>
-    <div id="product-append-9715" class="product-item">
-        <div class="product-item-flags">
-        </div>
-        <div class="product-item-image">
-                <a data-href="/trafika?productList-id=9715&amp;do=productList-modal"
-                   data-target="productList-productModal"
-                   data-product-id="9715"
-                   data-product-price="96"
-                   data-page-title="Lucky Strike Red 20ks"
-                   data-page-path="/produkt/9715-lucky-strike-red-20ks"
-                   data-user-id=""
-                   aria-hidden="true"
-                   data-kosikmodal-onclose="currentPageDataPush"
-                   onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/27383.jpg" alt="Lucky Strike Red 20ks" class="loading-images loading-image">
-                </a>
-
-
-
-
-        </div>
-                <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Lucky Strike Red 20ks" data-href="/trafika?productList-id=9715&amp;do=productList-modal" class="product-name modal-link"
-                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Lucky Strike Red 20ks
-                    
-                </a></h5>
-            <p class="product-item-price ">
-                <span class="price-before-discount">
-				</span>
-                <strong class="price">96,00 Kč</strong>
-
-            </p>
-            <p class="product-item-unit">
-                    (<strong class="price">96,00 Kč</strong> / ks)
-            </p>
-                        <div class="product-list-rating">
-            </div>
-<div id="snippet-productList-buy-9715-quantity">        <div class="product-quantity-control">
-            <form action="/trafika" method="post" class="ajax" id="frm-productList-buy-9715-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-9715-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
-                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-9715-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
-</form>
-
-        </div>
-</div>
-                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
-
-
-        </div>
-
-        
-    </div>
-    <div id="product-append-9720" class="product-item">
-        <div class="product-item-flags">
-        </div>
-        <div class="product-item-image">
-                <a data-href="/trafika?productList-id=9720&amp;do=productList-modal"
-                   data-target="productList-productModal"
-                   data-product-id="9720"
+                   data-product-id="17429"
                    data-product-price="86"
-                   data-page-title="Marlboro Red FWD 70 RS Box 20ks"
-                   data-page-path="/produkt/9720-marlboro-red-fwd-70-rs-box-20ks"
+                   data-page-title="L&amp;M LOFT True Blue SLI 20ks"
+                   data-page-path="/produkt/17429-l-m-loft-true-blue-sli-20ks"
                    data-user-id=""
                    aria-hidden="true"
                    data-kosikmodal-onclose="currentPageDataPush"
                    onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/27388.jpg" alt="Marlboro Red FWD 70 RS Box 20ks" class="loading-images loading-image">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/34706.jpg" alt="L&amp;M LOFT True Blue SLI 20ks" class="loading-images loading-image">
                 </a>
 
 
@@ -4178,9 +4205,9 @@ Hladká mouka</textarea>
 
         </div>
                 <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Marlboro Red FWD 70 RS Box 20ks" data-href="/trafika?productList-id=9720&amp;do=productList-modal" class="product-name modal-link"
+                <h5><a href="javascript:void(0)" aria-label="L&amp;M LOFT True Blue SLI 20ks" data-href="/trafika?productList-id=17429&amp;do=productList-modal" class="product-name modal-link"
                    data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Marlboro Red FWD 70 RS Box 20ks
+                    L&amp;M LOFT True Blue SLI 20ks
                     
                 </a></h5>
             <p class="product-item-price ">
@@ -4194,11 +4221,11 @@ Hladká mouka</textarea>
             </p>
                         <div class="product-list-rating">
             </div>
-<div id="snippet-productList-buy-9720-quantity">        <div class="product-quantity-control">
-            <form action="/trafika" method="post" class="ajax" id="frm-productList-buy-9720-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-9720-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+<div id="snippet-productList-buy-17429-quantity">        <div class="product-quantity-control">
+            <form action="/trafika" method="post" class="ajax" id="frm-productList-buy-17429-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-17429-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
                 <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-9720-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+            <input type="hidden" name="do" value="productList-buy-17429-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
 </form>
 
         </div>
@@ -4210,21 +4237,21 @@ Hladká mouka</textarea>
 
         
     </div>
-    <div id="product-append-13642" class="product-item">
+    <div id="product-append-12495" class="product-item">
         <div class="product-item-flags">
         </div>
         <div class="product-item-image">
-                <a data-href="/trafika?productList-id=13642&amp;do=productList-modal"
+                <a data-href="/trafika?productList-id=12495&amp;do=productList-modal"
                    data-target="productList-productModal"
-                   data-product-id="13642"
-                   data-product-price="85"
-                   data-page-title="West Duo 20ks"
-                   data-page-path="/produkt/13642-west-duo-20ks"
+                   data-product-id="12495"
+                   data-product-price="91"
+                   data-page-title="L&amp;M Blue Label 20ks"
+                   data-page-path="/produkt/12495-l-m-blue-label-20ks"
                    data-user-id=""
                    aria-hidden="true"
                    data-kosikmodal-onclose="currentPageDataPush"
                    onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/30876.jpg" alt="West Duo 20ks" class="loading-images loading-image">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/29761.jpg" alt="L&amp;M Blue Label 20ks" class="loading-images loading-image">
                 </a>
 
 
@@ -4232,27 +4259,81 @@ Hladká mouka</textarea>
 
         </div>
                 <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="West Duo 20ks" data-href="/trafika?productList-id=13642&amp;do=productList-modal" class="product-name modal-link"
+                <h5><a href="javascript:void(0)" aria-label="L&amp;M Blue Label 20ks" data-href="/trafika?productList-id=12495&amp;do=productList-modal" class="product-name modal-link"
                    data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    West Duo 20ks
+                    L&amp;M Blue Label 20ks
                     
                 </a></h5>
             <p class="product-item-price ">
                 <span class="price-before-discount">
 				</span>
-                <strong class="price">85,00 Kč</strong>
+                <strong class="price">91,00 Kč</strong>
 
             </p>
             <p class="product-item-unit">
-                    (<strong class="price">85,00 Kč</strong> / ks)
+                    (<strong class="price">91,00 Kč</strong> / ks)
             </p>
                         <div class="product-list-rating">
             </div>
-<div id="snippet-productList-buy-13642-quantity">        <div class="product-quantity-control">
-            <form action="/trafika" method="post" class="ajax" id="frm-productList-buy-13642-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-13642-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+<div id="snippet-productList-buy-12495-quantity">        <div class="product-quantity-control">
+            <form action="/trafika" method="post" class="ajax" id="frm-productList-buy-12495-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-12495-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
                 <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-13642-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+            <input type="hidden" name="do" value="productList-buy-12495-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+</form>
+
+        </div>
+</div>
+                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
+
+
+        </div>
+
+        
+    </div>
+    <div id="product-append-13633" class="product-item">
+        <div class="product-item-flags">
+        </div>
+        <div class="product-item-image">
+                <a data-href="/trafika?productList-id=13633&amp;do=productList-modal"
+                   data-target="productList-productModal"
+                   data-product-id="13633"
+                   data-product-price="86"
+                   data-page-title="Petra Klasik červená 20ks"
+                   data-page-path="/produkt/13633-petra-klasik-cervena-20ks"
+                   data-user-id=""
+                   aria-hidden="true"
+                   data-kosikmodal-onclose="currentPageDataPush"
+                   onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/30867.jpg" alt="Petra Klasik červená 20ks" class="loading-images loading-image">
+                </a>
+
+
+
+
+        </div>
+                <div class="product-item-info">
+                <h5><a href="javascript:void(0)" aria-label="Petra Klasik červená 20ks" data-href="/trafika?productList-id=13633&amp;do=productList-modal" class="product-name modal-link"
+                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    Petra Klasik červená 20ks
+                    
+                </a></h5>
+            <p class="product-item-price ">
+                <span class="price-before-discount">
+				</span>
+                <strong class="price">86,00 Kč</strong>
+
+            </p>
+            <p class="product-item-unit">
+                    (<strong class="price">86,00 Kč</strong> / ks)
+            </p>
+                        <div class="product-list-rating">
+            </div>
+<div id="snippet-productList-buy-13633-quantity">        <div class="product-quantity-control">
+            <form action="/trafika" method="post" class="ajax" id="frm-productList-buy-13633-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-13633-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
+            <input type="hidden" name="do" value="productList-buy-13633-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
 </form>
 
         </div>
@@ -4318,6 +4399,276 @@ Hladká mouka</textarea>
 
         
     </div>
+    <div id="product-append-9715" class="product-item">
+        <div class="product-item-flags">
+        </div>
+        <div class="product-item-image">
+                <a data-href="/trafika?productList-id=9715&amp;do=productList-modal"
+                   data-target="productList-productModal"
+                   data-product-id="9715"
+                   data-product-price="96"
+                   data-page-title="Lucky Strike Red 20ks"
+                   data-page-path="/produkt/9715-lucky-strike-red-20ks"
+                   data-user-id=""
+                   aria-hidden="true"
+                   data-kosikmodal-onclose="currentPageDataPush"
+                   onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/27383.jpg" alt="Lucky Strike Red 20ks" class="loading-images loading-image">
+                </a>
+
+
+
+
+        </div>
+                <div class="product-item-info">
+                <h5><a href="javascript:void(0)" aria-label="Lucky Strike Red 20ks" data-href="/trafika?productList-id=9715&amp;do=productList-modal" class="product-name modal-link"
+                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    Lucky Strike Red 20ks
+                    
+                </a></h5>
+            <p class="product-item-price ">
+                <span class="price-before-discount">
+				</span>
+                <strong class="price">96,00 Kč</strong>
+
+            </p>
+            <p class="product-item-unit">
+                    (<strong class="price">96,00 Kč</strong> / ks)
+            </p>
+                        <div class="product-list-rating">
+            </div>
+<div id="snippet-productList-buy-9715-quantity">        <div class="product-quantity-control">
+            <form action="/trafika" method="post" class="ajax" id="frm-productList-buy-9715-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-9715-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
+            <input type="hidden" name="do" value="productList-buy-9715-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+</form>
+
+        </div>
+</div>
+                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
+
+
+        </div>
+
+        
+    </div>
+    <div id="product-append-42348" class="product-item">
+        <div class="product-item-flags">
+        </div>
+        <div class="product-item-image">
+                <a data-href="/trafika?productList-id=42348&amp;do=productList-modal"
+                   data-target="productList-productModal"
+                   data-product-id="42348"
+                   data-product-price="84"
+                   data-page-title="Camel Shorts Filters 20ks"
+                   data-page-path="/produkt/42348-camel-shorts-filters-20ks"
+                   data-user-id=""
+                   aria-hidden="true"
+                   data-kosikmodal-onclose="currentPageDataPush"
+                   onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/60065.jpg" alt="Camel Shorts Filters 20ks" class="loading-images loading-image">
+                </a>
+
+
+
+
+        </div>
+                <div class="product-item-info">
+                <h5><a href="javascript:void(0)" aria-label="Camel Shorts Filters 20ks" data-href="/trafika?productList-id=42348&amp;do=productList-modal" class="product-name modal-link"
+                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    Camel Shorts Filters 20ks
+                    
+                </a></h5>
+            <p class="product-item-price ">
+                <span class="price-before-discount">
+				</span>
+                <strong class="price">84,00 Kč</strong>
+
+            </p>
+            <p class="product-item-unit">
+                    (<strong class="price">84,00 Kč</strong> / Ks)
+            </p>
+                        <div class="product-list-rating">
+            </div>
+<div id="snippet-productList-buy-42348-quantity">        <div class="product-quantity-control">
+            <form action="/trafika" method="post" class="ajax" id="frm-productList-buy-42348-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-42348-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
+            <input type="hidden" name="do" value="productList-buy-42348-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+</form>
+
+        </div>
+</div>
+                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
+
+
+        </div>
+
+        
+    </div>
+    <div id="product-append-9787" class="product-item">
+        <div class="product-item-flags">
+        </div>
+        <div class="product-item-image">
+                <a data-href="/trafika?productList-id=9787&amp;do=productList-modal"
+                   data-target="productList-productModal"
+                   data-product-id="9787"
+                   data-product-price="86"
+                   data-page-title="Philip Morris Ruby 20ks"
+                   data-page-path="/produkt/9787-philip-morris-ruby-20ks"
+                   data-user-id=""
+                   aria-hidden="true"
+                   data-kosikmodal-onclose="currentPageDataPush"
+                   onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/27458.jpg" alt="Philip Morris Ruby 20ks" class="loading-images loading-image">
+                </a>
+
+
+
+
+        </div>
+                <div class="product-item-info">
+                <h5><a href="javascript:void(0)" aria-label="Philip Morris Ruby 20ks" data-href="/trafika?productList-id=9787&amp;do=productList-modal" class="product-name modal-link"
+                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    Philip Morris Ruby 20ks
+                    
+                </a></h5>
+            <p class="product-item-price ">
+                <span class="price-before-discount">
+				</span>
+                <strong class="price">86,00 Kč</strong>
+
+            </p>
+            <p class="product-item-unit">
+                    (<strong class="price">86,00 Kč</strong> / ks)
+            </p>
+                        <div class="product-list-rating">
+            </div>
+<div id="snippet-productList-buy-9787-quantity">        <div class="product-quantity-control">
+            <form action="/trafika" method="post" class="ajax" id="frm-productList-buy-9787-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-9787-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
+            <input type="hidden" name="do" value="productList-buy-9787-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+</form>
+
+        </div>
+</div>
+                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
+
+
+        </div>
+
+        
+    </div>
+    <div id="product-append-9720" class="product-item">
+        <div class="product-item-flags">
+        </div>
+        <div class="product-item-image">
+                <a data-href="/trafika?productList-id=9720&amp;do=productList-modal"
+                   data-target="productList-productModal"
+                   data-product-id="9720"
+                   data-product-price="86"
+                   data-page-title="Marlboro Red FWD 70 RS Box 20ks"
+                   data-page-path="/produkt/9720-marlboro-red-fwd-70-rs-box-20ks"
+                   data-user-id=""
+                   aria-hidden="true"
+                   data-kosikmodal-onclose="currentPageDataPush"
+                   onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/27388.jpg" alt="Marlboro Red FWD 70 RS Box 20ks" class="loading-images loading-image">
+                </a>
+
+
+
+
+        </div>
+                <div class="product-item-info">
+                <h5><a href="javascript:void(0)" aria-label="Marlboro Red FWD 70 RS Box 20ks" data-href="/trafika?productList-id=9720&amp;do=productList-modal" class="product-name modal-link"
+                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    Marlboro Red FWD 70 RS Box 20ks
+                    
+                </a></h5>
+            <p class="product-item-price ">
+                <span class="price-before-discount">
+				</span>
+                <strong class="price">86,00 Kč</strong>
+
+            </p>
+            <p class="product-item-unit">
+                    (<strong class="price">86,00 Kč</strong> / ks)
+            </p>
+                        <div class="product-list-rating">
+            </div>
+<div id="snippet-productList-buy-9720-quantity">        <div class="product-quantity-control">
+            <form action="/trafika" method="post" class="ajax" id="frm-productList-buy-9720-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-9720-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
+            <input type="hidden" name="do" value="productList-buy-9720-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+</form>
+
+        </div>
+</div>
+                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
+
+
+        </div>
+
+        
+    </div>
+    <div id="product-append-14419" class="product-item">
+        <div class="product-item-flags">
+        </div>
+        <div class="product-item-image">
+                <a data-href="/trafika?productList-id=14419&amp;do=productList-modal"
+                   data-target="productList-productModal"
+                   data-product-id="14419"
+                   data-product-price="94"
+                   data-page-title="Marlboro KS Soft Red FWD 20ks"
+                   data-page-path="/produkt/14419-marlboro-ks-soft-red-fwd-20ks"
+                   data-user-id=""
+                   aria-hidden="true"
+                   data-kosikmodal-onclose="currentPageDataPush"
+                   onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/31699.jpg" alt="Marlboro KS Soft Red FWD 20ks" class="loading-images loading-image">
+                </a>
+
+
+
+
+        </div>
+                <div class="product-item-info">
+                <h5><a href="javascript:void(0)" aria-label="Marlboro KS Soft Red FWD 20ks" data-href="/trafika?productList-id=14419&amp;do=productList-modal" class="product-name modal-link"
+                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    Marlboro KS Soft Red FWD 20ks
+                    
+                </a></h5>
+            <p class="product-item-price ">
+                <span class="price-before-discount">
+				</span>
+                <strong class="price">94,00 Kč</strong>
+
+            </p>
+            <p class="product-item-unit">
+                    (<strong class="price">94,00 Kč</strong> / ks)
+            </p>
+                        <div class="product-list-rating">
+            </div>
+<div id="snippet-productList-buy-14419-quantity">        <div class="product-quantity-control">
+            <form action="/trafika" method="post" class="ajax" id="frm-productList-buy-14419-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-14419-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
+            <input type="hidden" name="do" value="productList-buy-14419-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+</form>
+
+        </div>
+</div>
+                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
+
+
+        </div>
+
+        
+    </div>
     <div id="product-append-9642" class="product-item">
         <div class="product-item-flags">
         </div>
@@ -4372,21 +4723,21 @@ Hladká mouka</textarea>
 
         
     </div>
-    <div id="product-append-37038" class="product-item">
+    <div id="product-append-17448" class="product-item">
         <div class="product-item-flags">
         </div>
         <div class="product-item-image">
-                <a data-href="/trafika?productList-id=37038&amp;do=productList-modal"
+                <a data-href="/trafika?productList-id=17448&amp;do=productList-modal"
                    data-target="productList-productModal"
-                   data-product-id="37038"
-                   data-product-price="84"
-                   data-page-title="Viceroy Double Click 20ks"
-                   data-page-path="/produkt/37038-viceroy-double-click-20ks"
+                   data-product-id="17448"
+                   data-product-price="92"
+                   data-page-title="Lucky Strike Cold 20ks"
+                   data-page-path="/produkt/17448-lucky-strike-cold-20ks"
                    data-user-id=""
                    aria-hidden="true"
                    data-kosikmodal-onclose="currentPageDataPush"
                    onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/54661.jpg" alt="Viceroy Double Click 20ks" class="loading-images loading-image">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/34725.jpg" alt="Lucky Strike Cold 20ks" class="loading-images loading-image">
                 </a>
 
 
@@ -4394,27 +4745,27 @@ Hladká mouka</textarea>
 
         </div>
                 <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Viceroy Double Click 20ks" data-href="/trafika?productList-id=37038&amp;do=productList-modal" class="product-name modal-link"
+                <h5><a href="javascript:void(0)" aria-label="Lucky Strike Cold 20ks" data-href="/trafika?productList-id=17448&amp;do=productList-modal" class="product-name modal-link"
                    data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Viceroy Double Click 20ks
+                    Lucky Strike Cold 20ks
                     
                 </a></h5>
             <p class="product-item-price ">
                 <span class="price-before-discount">
 				</span>
-                <strong class="price">84,00 Kč</strong>
+                <strong class="price">92,00 Kč</strong>
 
             </p>
             <p class="product-item-unit">
-                    (<strong class="price">84,00 Kč</strong> / ks)
+                    (<strong class="price">92,00 Kč</strong> / ks)
             </p>
                         <div class="product-list-rating">
             </div>
-<div id="snippet-productList-buy-37038-quantity">        <div class="product-quantity-control">
-            <form action="/trafika" method="post" class="ajax" id="frm-productList-buy-37038-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-37038-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+<div id="snippet-productList-buy-17448-quantity">        <div class="product-quantity-control">
+            <form action="/trafika" method="post" class="ajax" id="frm-productList-buy-17448-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-17448-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
                 <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-37038-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+            <input type="hidden" name="do" value="productList-buy-17448-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
 </form>
 
         </div>
@@ -4426,21 +4777,21 @@ Hladká mouka</textarea>
 
         
     </div>
-    <div id="product-append-9707" class="product-item">
+    <div id="product-append-42350" class="product-item">
         <div class="product-item-flags">
         </div>
         <div class="product-item-image">
-                <a data-href="/trafika?productList-id=9707&amp;do=productList-modal"
+                <a data-href="/trafika?productList-id=42350&amp;do=productList-modal"
                    data-target="productList-productModal"
-                   data-product-id="9707"
+                   data-product-id="42350"
                    data-product-price="86"
-                   data-page-title="L&amp;M LOFT Black BOT SLI 20ks"
-                   data-page-path="/produkt/9707-l-m-loft-black-bot-sli-20ks"
+                   data-page-title="Viceroy Plus Modrá 20ks"
+                   data-page-path="/produkt/42350-viceroy-plus-modra-20ks"
                    data-user-id=""
                    aria-hidden="true"
                    data-kosikmodal-onclose="currentPageDataPush"
                    onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/27375.jpg" alt="L&amp;M LOFT Black BOT SLI 20ks" class="loading-images loading-image">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/60067.jpg" alt="Viceroy Plus Modrá 20ks" class="loading-images loading-image">
                 </a>
 
 
@@ -4448,9 +4799,9 @@ Hladká mouka</textarea>
 
         </div>
                 <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="L&amp;M LOFT Black BOT SLI 20ks" data-href="/trafika?productList-id=9707&amp;do=productList-modal" class="product-name modal-link"
+                <h5><a href="javascript:void(0)" aria-label="Viceroy Plus Modrá 20ks" data-href="/trafika?productList-id=42350&amp;do=productList-modal" class="product-name modal-link"
                    data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    L&amp;M LOFT Black BOT SLI 20ks
+                    Viceroy Plus Modrá 20ks
                     
                 </a></h5>
             <p class="product-item-price ">
@@ -4460,15 +4811,15 @@ Hladká mouka</textarea>
 
             </p>
             <p class="product-item-unit">
-                    (<strong class="price">86,00 Kč</strong> / ks)
+                    (<strong class="price">4,30 Kč</strong> / ks)
             </p>
                         <div class="product-list-rating">
             </div>
-<div id="snippet-productList-buy-9707-quantity">        <div class="product-quantity-control">
-            <form action="/trafika" method="post" class="ajax" id="frm-productList-buy-9707-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-9707-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+<div id="snippet-productList-buy-42350-quantity">        <div class="product-quantity-control">
+            <form action="/trafika" method="post" class="ajax" id="frm-productList-buy-42350-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-42350-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
                 <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-9707-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+            <input type="hidden" name="do" value="productList-buy-42350-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
 </form>
 
         </div>
@@ -4534,21 +4885,21 @@ Hladká mouka</textarea>
 
         
     </div>
-    <div id="product-append-9784" class="product-item">
+    <div id="product-append-13642" class="product-item">
         <div class="product-item-flags">
         </div>
         <div class="product-item-image">
-                <a data-href="/trafika?productList-id=9784&amp;do=productList-modal"
+                <a data-href="/trafika?productList-id=13642&amp;do=productList-modal"
                    data-target="productList-productModal"
-                   data-product-id="9784"
-                   data-product-price="87"
-                   data-page-title="Philip Morris Pearlcap 100 SSL 20ks"
-                   data-page-path="/produkt/9784-philip-morris-pearlcap-100-ssl-20ks"
+                   data-product-id="13642"
+                   data-product-price="85"
+                   data-page-title="West Duo 20ks"
+                   data-page-path="/produkt/13642-west-duo-20ks"
                    data-user-id=""
                    aria-hidden="true"
                    data-kosikmodal-onclose="currentPageDataPush"
                    onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/27455.jpg" alt="Philip Morris Pearlcap 100 SSL 20ks" class="loading-images loading-image">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/30876.jpg" alt="West Duo 20ks" class="loading-images loading-image">
                 </a>
 
 
@@ -4556,244 +4907,27 @@ Hladká mouka</textarea>
 
         </div>
                 <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Philip Morris Pearlcap 100 SSL 20ks" data-href="/trafika?productList-id=9784&amp;do=productList-modal" class="product-name modal-link"
+                <h5><a href="javascript:void(0)" aria-label="West Duo 20ks" data-href="/trafika?productList-id=13642&amp;do=productList-modal" class="product-name modal-link"
                    data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Philip Morris Pearlcap 100 SSL 20ks
+                    West Duo 20ks
                     
                 </a></h5>
             <p class="product-item-price ">
                 <span class="price-before-discount">
 				</span>
-                <strong class="price">87,00 Kč</strong>
+                <strong class="price">85,00 Kč</strong>
 
             </p>
             <p class="product-item-unit">
-                    (<strong class="price">87,00 Kč</strong> / ks)
+                    (<strong class="price">85,00 Kč</strong> / ks)
             </p>
                         <div class="product-list-rating">
             </div>
-<div id="snippet-productList-buy-9784-quantity">        <div class="product-quantity-control">
-            <form action="/trafika" method="post" class="ajax" id="frm-productList-buy-9784-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-9784-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+<div id="snippet-productList-buy-13642-quantity">        <div class="product-quantity-control">
+            <form action="/trafika" method="post" class="ajax" id="frm-productList-buy-13642-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-13642-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
                 <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-9784-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
-</form>
-
-        </div>
-</div>
-                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
-
-
-        </div>
-
-        
-    </div>
-    <div id="product-append-9779" class="product-item">
-        <div class="product-item-flags">
-        </div>
-        <div class="product-item-image">
-                <a data-href="/trafika?productList-id=9779&amp;do=productList-modal"
-                   data-target="productList-productModal"
-                   data-product-id="9779"
-                   data-product-price="86"
-                   data-page-title="Petra Klasik Modrá 20ks"
-                   data-page-path="/produkt/9779-petra-klasik-modra-20ks"
-                   data-user-id=""
-                   aria-hidden="true"
-                   data-kosikmodal-onclose="currentPageDataPush"
-                   onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/27450.jpg" alt="Petra Klasik Modrá 20ks" class="loading-images loading-image">
-                </a>
-
-
-
-
-        </div>
-                <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Petra Klasik Modrá 20ks" data-href="/trafika?productList-id=9779&amp;do=productList-modal" class="product-name modal-link"
-                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Petra Klasik Modrá 20ks
-                    
-                </a></h5>
-            <p class="product-item-price ">
-                <span class="price-before-discount">
-				</span>
-                <strong class="price">86,00 Kč</strong>
-
-            </p>
-            <p class="product-item-unit">
-                    (<strong class="price">86,00 Kč</strong> / ks)
-            </p>
-                        <div class="product-list-rating">
-            </div>
-<div id="snippet-productList-buy-9779-quantity">        <div class="product-quantity-control">
-            <form action="/trafika" method="post" class="ajax" id="frm-productList-buy-9779-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-9779-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
-                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-9779-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
-</form>
-
-        </div>
-</div>
-                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
-
-
-        </div>
-
-        
-    </div>
-    <div id="product-append-45561" class="product-item">
-        <div class="product-item-flags">
-        </div>
-        <div class="product-item-image">
-                <a data-href="/trafika?productList-id=45561&amp;do=productList-modal"
-                   data-target="productList-productModal"
-                   data-product-id="45561"
-                   data-product-price="84"
-                   data-page-title="Start BY Chesterfield Red 70 box 20ks"
-                   data-page-path="/produkt/45561-start-by-chesterfield-red-70-box-20ks"
-                   data-user-id=""
-                   aria-hidden="true"
-                   data-kosikmodal-onclose="currentPageDataPush"
-                   onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/63293.jpg" alt="Start BY Chesterfield Red 70 box 20ks" class="loading-images loading-image">
-                </a>
-
-
-
-
-        </div>
-                <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Start BY Chesterfield Red 70 box 20ks" data-href="/trafika?productList-id=45561&amp;do=productList-modal" class="product-name modal-link"
-                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Start BY Chesterfield Red 70 box 20ks
-                    
-                </a></h5>
-            <p class="product-item-price ">
-                <span class="price-before-discount">
-				</span>
-                <strong class="price">84,00 Kč</strong>
-
-            </p>
-            <p class="product-item-unit">
-                    (<strong class="price">84,00 Kč</strong> / Ks)
-            </p>
-                        <div class="product-list-rating">
-            </div>
-<div id="snippet-productList-buy-45561-quantity">        <div class="product-quantity-control">
-            <form action="/trafika" method="post" class="ajax" id="frm-productList-buy-45561-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-45561-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
-                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-45561-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
-</form>
-
-        </div>
-</div>
-                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
-
-
-        </div>
-
-        
-    </div>
-    <div id="product-append-18234" class="product-item">
-        <div class="product-item-flags">
-        </div>
-        <div class="product-item-image">
-                <a data-href="/trafika?productList-id=18234&amp;do=productList-modal"
-                   data-target="productList-productModal"
-                   data-product-id="18234"
-                   data-product-price="91"
-                   data-page-title="Marlboro Touch 2.0  20ks"
-                   data-page-path="/produkt/18234-marlboro-touch-2-0-20ks"
-                   data-user-id=""
-                   aria-hidden="true"
-                   data-kosikmodal-onclose="currentPageDataPush"
-                   onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/35489.jpg" alt="Marlboro Touch 2.0  20ks" class="loading-images loading-image">
-                </a>
-
-
-
-
-        </div>
-                <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Marlboro Touch 2.0  20ks" data-href="/trafika?productList-id=18234&amp;do=productList-modal" class="product-name modal-link"
-                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Marlboro Touch 2.0  20ks
-                    
-                </a></h5>
-            <p class="product-item-price ">
-                <span class="price-before-discount">
-				</span>
-                <strong class="price">91,00 Kč</strong>
-
-            </p>
-            <p class="product-item-unit">
-                    (<strong class="price">91,00 Kč</strong> / Ks)
-            </p>
-                        <div class="product-list-rating">
-            </div>
-<div id="snippet-productList-buy-18234-quantity">        <div class="product-quantity-control">
-            <form action="/trafika" method="post" class="ajax" id="frm-productList-buy-18234-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-18234-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
-                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-18234-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
-</form>
-
-        </div>
-</div>
-                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
-
-
-        </div>
-
-        
-    </div>
-    <div id="product-append-9643" class="product-item">
-        <div class="product-item-flags">
-        </div>
-        <div class="product-item-image">
-                <a data-href="/trafika?productList-id=9643&amp;do=productList-modal"
-                   data-target="productList-productModal"
-                   data-product-id="9643"
-                   data-product-price="96"
-                   data-page-title="Camel Filters 20ks"
-                   data-page-path="/produkt/9643-camel-filters-20ks"
-                   data-user-id=""
-                   aria-hidden="true"
-                   data-kosikmodal-onclose="currentPageDataPush"
-                   onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/27299.jpg" alt="Camel Filters 20ks" class="loading-images loading-image">
-                </a>
-
-
-
-
-        </div>
-                <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Camel Filters 20ks" data-href="/trafika?productList-id=9643&amp;do=productList-modal" class="product-name modal-link"
-                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Camel Filters 20ks
-                    
-                </a></h5>
-            <p class="product-item-price ">
-                <span class="price-before-discount">
-				</span>
-                <strong class="price">96,00 Kč</strong>
-
-            </p>
-            <p class="product-item-unit">
-                    (<strong class="price">96,00 Kč</strong> / ks)
-            </p>
-                        <div class="product-list-rating">
-                <span><ul class="rating"><li class="rating-children rating-1 up" data-rating="1"><i class="fa fa-star"></i></li><li class="rating-children rating-2 up" data-rating="2"><i class="fa fa-star"></i></li><li class="rating-children rating-3 up" data-rating="3"><i class="fa fa-star"></i></li><li class="rating-children rating-4 up" data-rating="4"><i class="fa fa-star"></i></li><li class="rating-children rating-5 up" data-rating="5"><i class="fa fa-star"></i></li></ul></span>
-            </div>
-<div id="snippet-productList-buy-9643-quantity">        <div class="product-quantity-control">
-            <form action="/trafika" method="post" class="ajax" id="frm-productList-buy-9643-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-9643-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
-                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-9643-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+            <input type="hidden" name="do" value="productList-buy-13642-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
 </form>
 
         </div>
@@ -4859,21 +4993,21 @@ Hladká mouka</textarea>
 
         
     </div>
-    <div id="product-append-17442" class="product-item">
+    <div id="product-append-37045" class="product-item">
         <div class="product-item-flags">
         </div>
         <div class="product-item-image">
-                <a data-href="/trafika?productList-id=17442&amp;do=productList-modal"
+                <a data-href="/trafika?productList-id=37045&amp;do=productList-modal"
                    data-target="productList-productModal"
-                   data-product-id="17442"
-                   data-product-price="92"
-                   data-page-title="L&amp;M Violet Link 100 SSL 20ks"
-                   data-page-path="/produkt/17442-l-m-violet-link-100-ssl-20ks"
+                   data-product-id="37045"
+                   data-product-price="86"
+                   data-page-title="Viceroy Plus Stříbrná 20ks"
+                   data-page-path="/produkt/37045-viceroy-plus-stribrna-20ks"
                    data-user-id=""
                    aria-hidden="true"
                    data-kosikmodal-onclose="currentPageDataPush"
                    onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/34719.jpg" alt="L&amp;M Violet Link 100 SSL 20ks" class="loading-images loading-image">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/54668.jpg" alt="Viceroy Plus Stříbrná 20ks" class="loading-images loading-image">
                 </a>
 
 
@@ -4881,27 +5015,27 @@ Hladká mouka</textarea>
 
         </div>
                 <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="L&amp;M Violet Link 100 SSL 20ks" data-href="/trafika?productList-id=17442&amp;do=productList-modal" class="product-name modal-link"
+                <h5><a href="javascript:void(0)" aria-label="Viceroy Plus Stříbrná 20ks" data-href="/trafika?productList-id=37045&amp;do=productList-modal" class="product-name modal-link"
                    data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    L&amp;M Violet Link 100 SSL 20ks
+                    Viceroy Plus Stříbrná 20ks
                     
                 </a></h5>
             <p class="product-item-price ">
                 <span class="price-before-discount">
 				</span>
-                <strong class="price">92,00 Kč</strong>
+                <strong class="price">86,00 Kč</strong>
 
             </p>
             <p class="product-item-unit">
-                    (<strong class="price">92,00 Kč</strong> / ks)
+                    (<strong class="price">86,00 Kč</strong> / ks)
             </p>
                         <div class="product-list-rating">
             </div>
-<div id="snippet-productList-buy-17442-quantity">        <div class="product-quantity-control">
-            <form action="/trafika" method="post" class="ajax" id="frm-productList-buy-17442-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-17442-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+<div id="snippet-productList-buy-37045-quantity">        <div class="product-quantity-control">
+            <form action="/trafika" method="post" class="ajax" id="frm-productList-buy-37045-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-37045-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
                 <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-17442-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+            <input type="hidden" name="do" value="productList-buy-37045-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
 </form>
 
         </div>
@@ -4913,21 +5047,21 @@ Hladká mouka</textarea>
 
         
     </div>
-    <div id="product-append-38208" class="product-item">
+    <div id="product-append-9707" class="product-item">
         <div class="product-item-flags">
         </div>
         <div class="product-item-image">
-                <a data-href="/trafika?productList-id=38208&amp;do=productList-modal"
+                <a data-href="/trafika?productList-id=9707&amp;do=productList-modal"
                    data-target="productList-productModal"
-                   data-product-id="38208"
-                   data-product-price="80"
-                   data-page-title="Rothmans DEMI 20ks"
-                   data-page-path="/produkt/38208-rothmans-demi-20ks"
+                   data-product-id="9707"
+                   data-product-price="86"
+                   data-page-title="L&amp;M LOFT Black BOT SLI 20ks"
+                   data-page-path="/produkt/9707-l-m-loft-black-bot-sli-20ks"
                    data-user-id=""
                    aria-hidden="true"
                    data-kosikmodal-onclose="currentPageDataPush"
                    onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/55916.jpg" alt="Rothmans DEMI 20ks" class="loading-images loading-image">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/27375.jpg" alt="L&amp;M LOFT Black BOT SLI 20ks" class="loading-images loading-image">
                 </a>
 
 
@@ -4935,135 +5069,27 @@ Hladká mouka</textarea>
 
         </div>
                 <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Rothmans DEMI 20ks" data-href="/trafika?productList-id=38208&amp;do=productList-modal" class="product-name modal-link"
+                <h5><a href="javascript:void(0)" aria-label="L&amp;M LOFT Black BOT SLI 20ks" data-href="/trafika?productList-id=9707&amp;do=productList-modal" class="product-name modal-link"
                    data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Rothmans DEMI 20ks
+                    L&amp;M LOFT Black BOT SLI 20ks
                     
                 </a></h5>
             <p class="product-item-price ">
                 <span class="price-before-discount">
 				</span>
-                <strong class="price">80,00 Kč</strong>
+                <strong class="price">86,00 Kč</strong>
 
             </p>
             <p class="product-item-unit">
-                    (<strong class="price">80,00 Kč</strong> / ks)
+                    (<strong class="price">86,00 Kč</strong> / ks)
             </p>
                         <div class="product-list-rating">
             </div>
-<div id="snippet-productList-buy-38208-quantity">        <div class="product-quantity-control">
-            <form action="/trafika" method="post" class="ajax" id="frm-productList-buy-38208-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-38208-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+<div id="snippet-productList-buy-9707-quantity">        <div class="product-quantity-control">
+            <form action="/trafika" method="post" class="ajax" id="frm-productList-buy-9707-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-9707-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
                 <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-38208-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
-</form>
-
-        </div>
-</div>
-                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
-
-
-        </div>
-
-        
-    </div>
-    <div id="product-append-9786" class="product-item">
-        <div class="product-item-flags">
-        </div>
-        <div class="product-item-image">
-                <a data-href="/trafika?productList-id=9786&amp;do=productList-modal"
-                   data-target="productList-productModal"
-                   data-product-id="9786"
-                   data-product-price="87"
-                   data-page-title="Philip Morris Pink 100`s  20ks"
-                   data-page-path="/produkt/9786-philip-morris-pink-100-s-20ks"
-                   data-user-id=""
-                   aria-hidden="true"
-                   data-kosikmodal-onclose="currentPageDataPush"
-                   onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/27457.jpg" alt="Philip Morris Pink 100`s  20ks" class="loading-images loading-image">
-                </a>
-
-
-
-
-        </div>
-                <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Philip Morris Pink 100`s  20ks" data-href="/trafika?productList-id=9786&amp;do=productList-modal" class="product-name modal-link"
-                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Philip Morris Pink 100`s  20ks
-                    
-                </a></h5>
-            <p class="product-item-price ">
-                <span class="price-before-discount">
-				</span>
-                <strong class="price">87,00 Kč</strong>
-
-            </p>
-            <p class="product-item-unit">
-                    (<strong class="price">87,00 Kč</strong> / ks)
-            </p>
-                        <div class="product-list-rating">
-            </div>
-<div id="snippet-productList-buy-9786-quantity">        <div class="product-quantity-control">
-            <form action="/trafika" method="post" class="ajax" id="frm-productList-buy-9786-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-9786-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
-                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-9786-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
-</form>
-
-        </div>
-</div>
-                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
-
-
-        </div>
-
-        
-    </div>
-    <div id="product-append-9822" class="product-item">
-        <div class="product-item-flags">
-        </div>
-        <div class="product-item-image">
-                <a data-href="/trafika?productList-id=9822&amp;do=productList-modal"
-                   data-target="productList-productModal"
-                   data-product-id="9822"
-                   data-product-price="84"
-                   data-page-title="Rothmans KS Blue 20ks"
-                   data-page-path="/produkt/9822-rothmans-ks-blue-20ks"
-                   data-user-id=""
-                   aria-hidden="true"
-                   data-kosikmodal-onclose="currentPageDataPush"
-                   onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/27494.jpg" alt="Rothmans KS Blue 20ks" class="loading-images loading-image">
-                </a>
-
-
-
-
-        </div>
-                <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Rothmans KS Blue 20ks" data-href="/trafika?productList-id=9822&amp;do=productList-modal" class="product-name modal-link"
-                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Rothmans KS Blue 20ks
-                    
-                </a></h5>
-            <p class="product-item-price ">
-                <span class="price-before-discount">
-				</span>
-                <strong class="price">84,00 Kč</strong>
-
-            </p>
-            <p class="product-item-unit">
-                    (<strong class="price">84,00 Kč</strong> / ks)
-            </p>
-                        <div class="product-list-rating">
-            </div>
-<div id="snippet-productList-buy-9822-quantity">        <div class="product-quantity-control">
-            <form action="/trafika" method="post" class="ajax" id="frm-productList-buy-9822-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-9822-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
-                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-9822-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+            <input type="hidden" name="do" value="productList-buy-9707-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
 </form>
 
         </div>
