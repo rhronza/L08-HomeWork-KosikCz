@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <title>
-                Trafika | Košík.cz
+                Ovoce a zelenina | Košík.cz
         </title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=0">
@@ -11,7 +11,7 @@
         <link rel="apple-touch-icon" href="/css/images/logo.png">
         <link rel="stylesheet" type="text/css" href="/css/slim.min.css">
 
-<link rel="stylesheet" type="text/css" href="/webtemp/cssloader-6fe495a87813.css?1511526458">
+<link rel="stylesheet" type="text/css" href="/webtemp/cssloader-6fe495a87813.css?1512575651">
 <script type="text/javascript" src="/webtemp/jsloader-e4f5f7728c43.js?1511346204"></script>
         
 <script type="text/javascript">
@@ -19,7 +19,7 @@
 	    window.dataLayer = window.dataLayer || [];
 	    window.dataLayer.push({
 		    'pageType': "category",
-		    'pageCategory': ["Trafika"],
+		    'pageCategory': ["Ovoce a zelenina"],
 		    'visitorLoginState': 'Anonymous',
 			
 	    });
@@ -74,7 +74,7 @@
 <div id="snippet-cookiesAgreementControl-bar">    <div class="region region-cookie-message">
         <div class="region-inner region-cookie-message-inner">
             <span>Cookies nám pomáhají poskytovat lepší služby. Používáním/zobrazováním stránky vyjadřujete souhlas s jejich používáním a uchováváním.</span>
-            <a class="btn-info ajax" aria-label="Souhlasím s používáním a uchováváním cookies" href="/trafika?do=cookiesAgreementControl-agree">Souhlasím</a>
+            <a class="btn-info ajax" aria-label="Souhlasím s používáním a uchováváním cookies" href="/ovoce-a-zelenina?do=cookiesAgreementControl-agree">Souhlasím</a>
         </div>
     </div>
 </div>				<div class="zone zone-header clearfix">
@@ -102,7 +102,7 @@
 
             timeout = setTimeout(function(){
                 $.nette.ajax({
-                    url: "https:\/\/www.kosik.cz\/trafika?do=suggester-suggest",
+                    url: "https:\/\/www.kosik.cz\/ovoce-a-zelenina?do=suggester-suggest",
                     data: {
                         phrase: self.val()
                     }
@@ -127,7 +127,7 @@
 </script>
 <div class="block block-suggester-container" role="search">
     <div class="suggester">
-        <form action="/trafika" method="post" id="frm-suggester-suggester" aria-label="vyhledávání na košíku">
+        <form action="/ovoce-a-zelenina" method="post" id="frm-suggester-suggester" aria-label="vyhledávání na košíku">
             <input type="text" name="phrase" autocomplete="off" placeholder="Vyhledávání" id="frm-suggester-suggester-phrase">
             <input type="submit" name="_submit" value="Hledat" class="button-simple button-red">
         <input type="hidden" name="do" value="suggester-suggester-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
@@ -158,7 +158,7 @@
         <h5>Nákupní lístek</h5>
 
         <p>Napište hledané položky a klikněte na HLEDAT</p>
-        <form action="/trafika" method="post" id="frm-checklist-listForm">
+        <form action="/ovoce-a-zelenina" method="post" id="frm-checklist-listForm">
         <textarea name="queries" placeholder="Například:&amp;#13;&amp;#10;" id="frm-checklist-listForm-queries">Chléb
 Nízkotučný jogurt
 Vejce
@@ -269,7 +269,7 @@ Hladká mouka</textarea>
                     </a>
                 </li>
                 <li class="facebook-nav  mobile-small-nav-show">
-<a class="button button-facebook" data-href="true" href="/trafika?do=menu-facebook-fbLogin-open">Facebook přihlášení</a>                </li>
+<a class="button button-facebook" data-href="true" href="/ovoce-a-zelenina?do=menu-facebook-fbLogin-open">Facebook přihlášení</a>                </li>
 
 
                         <div class="menu-nav-icons mobile-small-nav-show">
@@ -2712,6 +2712,17 @@ Hladká mouka</textarea>
                                     </div>
                                 </div>
                                 <div class="product-type">
+                                    <a href="/domacnost-a-zahrada/vanoce-sezonni-dekorace" class="product-type-image">
+                                        <img data-src="https://cdn.kosik.cz/content/category/svg/menu/1451.svg" alt="Vánoce - sezonní dekorace">
+                                    </a>
+                                    <h3>
+                                        <a class="children" href="/domacnost-a-zahrada/vanoce-sezonni-dekorace">
+                                            Vánoce - sezonní dekorace
+                                        </a>
+                                    </h3>
+
+                                                                    </div>
+                                <div class="product-type">
                                     <a href="/domacnost-a-zahrada/dum-a-byt" class="product-type-image">
                                         <img data-src="https://cdn.kosik.cz/content/category/svg/menu/1405.svg" alt="Dům a byt">
                                     </a>
@@ -3398,7 +3409,7 @@ Hladká mouka</textarea>
         var nearest = $('.block-nearest-delivery');
 
         if(nearest.hasClass('unloaded')){
-            $.nette.ajax("\/trafika?do=orderSlotPreview-load").done(function(){
+            $.nette.ajax("\/ovoce-a-zelenina?do=orderSlotPreview-load").done(function(){
                 nearest.removeClass('unloaded')
             });
         }
@@ -3411,7 +3422,7 @@ Hladká mouka</textarea>
 
 								<div class="block-cart-dropdown" id="snippet--cartPreview">
 <div class="cart-fixing-box">
-	<a href="javaScript:void(0);" onclick="fixing.openBox(&quot;\/trafika?do=cartPreview-showCart&quot;)" id="cart-open-button" aria-hidden="true">
+	<a href="javaScript:void(0);" onclick="fixing.openBox(&quot;\/ovoce-a-zelenina?do=cartPreview-showCart&quot;)" id="cart-open-button" aria-hidden="true">
 		<i class="fa fa-angle-down" aria-hidden="true"></i>
 		<p class="units-in-cart">
 			<span class="show-cart-text" data-visible="Obchod" data-hide="Zobrazit">
@@ -3496,15 +3507,15 @@ Hladká mouka</textarea>
         <a href="/">Košík.cz</a>
     </li>
     <li>
-        <a href="/trafika">
-            Trafika
+        <a href="/ovoce-a-zelenina">
+            Ovoce a zelenina
         </a>
     </li>
 </ol>
 <div class="clear"></div>
 
 <script type="application/ld+json" async>
-{"@context":"http://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"/zbozi","name":"Zboží"}},{"@type":"ListItem","position":2,"item":{"@id":"/trafika","name":"Trafika"}}]}
+{"@context":"http://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"/zbozi","name":"Zboží"}},{"@type":"ListItem","position":2,"item":{"@id":"/ovoce-a-zelenina","name":"Ovoce a zelenina"}}]}
 </script>						</div>
 					</div>
 
@@ -3526,8 +3537,155 @@ Hladká mouka</textarea>
 	<div class="category-review">
 		<ul class="category-review-list">
 			<li>
-				<a href="/trafika/cigarety-a-tabak">
-					Cigarety a tabák				</a>
+				<a href="/ovoce-a-zelenina/cerstve-stavy">
+					Čerstvé šťávy				</a>
+			</li>
+			<li>
+				<a href="/ovoce-a-zelenina/susene-orechy-a-semena">
+					Sušené ořechy a semena				</a>
+				<a class="category-has-dropdown" href="" aria-hidden="true" tabindex="-1">
+					<i class="fa fa-angle-down"></i>
+				</a>
+				<ul>
+					<li>
+						<a href="/ovoce-a-zelenina/susene-orechy-a-semena/orechy">Ořechy</a>
+					</li>
+					<li>
+						<a href="/ovoce-a-zelenina/susene-orechy-a-semena/semena">Semena</a>
+					</li>
+				</ul>
+			</li>
+			<li>
+				<a href="/ovoce-a-zelenina/ovoce">
+					Ovoce				</a>
+				<a class="category-has-dropdown" href="" aria-hidden="true" tabindex="-1">
+					<i class="fa fa-angle-down"></i>
+				</a>
+				<ul>
+					<li>
+						<a href="/ovoce-a-zelenina/ovoce/jablka-a-hrusky">Jablka a hrušky</a>
+					</li>
+					<li>
+						<a href="/ovoce-a-zelenina/ovoce/banany-a-exoticke-ovoce">Banány a exotické ovoce</a>
+					</li>
+					<li>
+						<a href="/ovoce-a-zelenina/ovoce/citrusy">Citrusy</a>
+					</li>
+					<li>
+						<a href="/ovoce-a-zelenina/ovoce/hrozny-a-melouny">Hrozny a melouny</a>
+					</li>
+					<li>
+						<a href="/ovoce-a-zelenina/ovoce/jahody-a-lesni-plody">Jahody a lesní plody</a>
+					</li>
+					<li>
+						<a href="/ovoce-a-zelenina/ovoce/peckoviny">Peckoviny</a>
+					</li>
+				</ul>
+			</li>
+			<li>
+				<a href="/ovoce-a-zelenina/zelenina">
+					Zelenina				</a>
+				<a class="category-has-dropdown" href="" aria-hidden="true" tabindex="-1">
+					<i class="fa fa-angle-down"></i>
+				</a>
+				<ul>
+					<li>
+						<a href="/ovoce-a-zelenina/zelenina/brambory">Brambory</a>
+					</li>
+					<li>
+						<a href="/ovoce-a-zelenina/zelenina/cibule-a-cesnek">Cibule a česnek</a>
+					</li>
+					<li>
+						<a href="/ovoce-a-zelenina/zelenina/korenova-zelenina">Kořenová zelenina</a>
+					</li>
+					<li>
+						<a href="/ovoce-a-zelenina/zelenina/kostalova-zelenina">Košťálová zelenina</a>
+					</li>
+					<li>
+						<a href="/ovoce-a-zelenina/zelenina/okurky-a-salaty">Okurky a saláty</a>
+					</li>
+					<li>
+						<a href="/ovoce-a-zelenina/zelenina/rajcata-a-papriky">Rajčata a papriky</a>
+					</li>
+					<li>
+						<a href="/ovoce-a-zelenina/zelenina/dyne-a-cukety">Dýně a cukety</a>
+					</li>
+					<li>
+						<a href="/ovoce-a-zelenina/zelenina/balena-zelenina">Balená zelenina</a>
+					</li>
+					<li>
+						<a href="/ovoce-a-zelenina/zelenina/klicky">Klíčky</a>
+					</li>
+					<li>
+						<a href="/ovoce-a-zelenina/zelenina/houby">Houby</a>
+					</li>
+					<li>
+						<a href="/ovoce-a-zelenina/zelenina/zpracovana-zelenina">Zpracovaná zelenina</a>
+					</li>
+					<li>
+						<a href="/ovoce-a-zelenina/zelenina/ostatni-zelenina">Ostatní zelenina</a>
+					</li>
+				</ul>
+			</li>
+			<li>
+				<a href="/ovoce-a-zelenina/bylinky">
+					Bylinky				</a>
+				<a class="category-has-dropdown" href="" aria-hidden="true" tabindex="-1">
+					<i class="fa fa-angle-down"></i>
+				</a>
+				<ul>
+					<li>
+						<a href="/ovoce-a-zelenina/bylinky/bylinky-v-kvetinaci">Bylinky v květináči</a>
+					</li>
+					<li>
+						<a href="/ovoce-a-zelenina/bylinky/rezane-bylinky">Řezané bylinky</a>
+					</li>
+				</ul>
+			</li>
+			<li>
+				<a href="/ovoce-a-zelenina/salaty">
+					Saláty				</a>
+				<a class="category-has-dropdown" href="" aria-hidden="true" tabindex="-1">
+					<i class="fa fa-angle-down"></i>
+				</a>
+				<ul>
+					<li>
+						<a href="/ovoce-a-zelenina/salaty/ovocne-salaty">Ovocné saláty</a>
+					</li>
+					<li>
+						<a href="/ovoce-a-zelenina/salaty/zeleninove-salaty">Zeleninové saláty</a>
+					</li>
+				</ul>
+			</li>
+			<li>
+				<a href="/ovoce-a-zelenina/susene-ovoce-smesi-a-houby">
+					Sušené ovoce, směsi a houby				</a>
+				<a class="category-has-dropdown" href="" aria-hidden="true" tabindex="-1">
+					<i class="fa fa-angle-down"></i>
+				</a>
+				<ul>
+					<li>
+						<a href="/ovoce-a-zelenina/susene-ovoce-smesi-a-houby/susene-ovoce">Sušené ovoce</a>
+					</li>
+					<li>
+						<a href="/ovoce-a-zelenina/susene-ovoce-smesi-a-houby/susene-houby">Sušené houby</a>
+					</li>
+				</ul>
+			</li>
+			<li>
+				<a href="/ovoce-a-zelenina/bio">
+					Bio				</a>
+				<a class="category-has-dropdown" href="" aria-hidden="true" tabindex="-1">
+					<i class="fa fa-angle-down"></i>
+				</a>
+				<ul>
+					<li>
+						<a href="/ovoce-a-zelenina/bio/bio-ovoce">Bio ovoce</a>
+					</li>
+					<li>
+						<a href="/ovoce-a-zelenina/bio/bio-zelenina">Bio zelenina</a>
+					</li>
+				</ul>
 			</li>
 		</ul>
 	</div>
@@ -3542,13 +3700,13 @@ Hladká mouka</textarea>
         </div>
     </div>
     <div class="count" id="snippet-productFilter-countArea">
-        <p>71 produktů nalezeno</p>
+        <p>610 produktů nalezeno</p>
     </div>
 
         <h3 aria-label="Filtr Podle ceny">Podle ceny</h3>
         <div id="snippet-productFilter-priceFinalVatConstraintFormArea">
-        <form action="/trafika" method="post" class="ajax filter-constraint filter-range" id="frm-productFilter-priceFinalVatConstraintForm">
-                                <div id="slider-value" class="slider"><input type="text" name="value[min]" style="display:none" id="value-min" value="80"><input type="text" name="value[max]" style="display:none" id="value-max" value="160"><div data-suffix="Kč" data-minimum="80" data-maximum="160" data-value-min="80" data-value-max="160" data-step="10" class="range-wrapper"><div id="range-input"></div></div><span id="value-label-minValue"></span><span id="value-label-maxValue" style="float:right"></span></div>
+        <form action="/ovoce-a-zelenina" method="post" class="ajax filter-constraint filter-range" id="frm-productFilter-priceFinalVatConstraintForm">
+                                <div id="slider-value" class="slider"><input type="text" name="value[min]" style="display:none" id="value-min" value="0"><input type="text" name="value[max]" style="display:none" id="value-max" value="1000"><div data-suffix="Kč" data-minimum="0" data-maximum="1000" data-value-min="0" data-value-max="1000" data-step="10" class="range-wrapper"><div id="range-input"></div></div><span id="value-label-minValue"></span><span id="value-label-maxValue" style="float:right"></span></div>
                                 <input type="hidden" name="do" value="productFilter-priceFinalVatConstraintForm-submit">
         <!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
 </form>
@@ -3556,84 +3714,210 @@ Hladká mouka</textarea>
 </div>
         <h3 aria-label="Filtr Podle značky">Podle značky</h3>
         <div id="snippet-productFilter-brandConstraintFormArea">
-        <form action="/trafika" method="post" class="ajax filter-constraint filter-list" id="frm-productFilter-brandConstraintForm">
+        <form action="/ovoce-a-zelenina" method="post" class="ajax filter-constraint filter-list" id="frm-productFilter-brandConstraintForm">
                 <div class="filter-categories" id="filter-brand">
 
                             <div class="form-row">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-1160" value="1160" aria-label="!Camel (6)">
-                            <label for="frm-productFilter-brandConstraintForm-value-1160">Camel (6)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-2155" value="2155" aria-label="!BONITAS (13)">
+                            <label for="frm-productFilter-brandConstraintForm-value-2155">BONITAS (13)</label>
                         </div>
 
 
                             <div class="form-row">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-1161" value="1161" aria-label="!Chesterfield (8)">
-                            <label for="frm-productFilter-brandConstraintForm-value-1161">Chesterfield (8)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-99" value="99" aria-label="!Beskyd (8)">
+                            <label for="frm-productFilter-brandConstraintForm-value-99">Beskyd (8)</label>
                         </div>
 
 
                             <div class="form-row">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-1172" value="1172" aria-label="!L&amp;M (12)">
-                            <label for="frm-productFilter-brandConstraintForm-value-1172">L&amp;M (12)</label>
-                        </div>
-
-
-                            <div class="form-row">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-1173" value="1173" aria-label="!Lucky Strike (5)">
-                            <label for="frm-productFilter-brandConstraintForm-value-1173">Lucky Strike (5)</label>
-                        </div>
-
-
-                            <div class="form-row">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-1174" value="1174" aria-label="!Marlboro (10)">
-                            <label for="frm-productFilter-brandConstraintForm-value-1174">Marlboro (10)</label>
-                        </div>
-
-
-                            <div class="form-row">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-1179" value="1179" aria-label="!Petra (2)">
-                            <label for="frm-productFilter-brandConstraintForm-value-1179">Petra (2)</label>
-                        </div>
-
-
-                            <div class="form-row">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-1180" value="1180" aria-label="!Philip Morris (9)">
-                            <label for="frm-productFilter-brandConstraintForm-value-1180">Philip Morris (9)</label>
-                        </div>
-
-
-                            <div class="form-row">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-1185" value="1185" aria-label="!RGD (7)">
-                            <label for="frm-productFilter-brandConstraintForm-value-1185">RGD (7)</label>
-                        </div>
-
-
-                            <div class="form-row">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-1187" value="1187" aria-label="!Rothmans (4)">
-                            <label for="frm-productFilter-brandConstraintForm-value-1187">Rothmans (4)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-87" value="87" aria-label="!Bez značky (316)">
+                            <label for="frm-productFilter-brandConstraintForm-value-87">Bez značky (316)</label>
                         </div>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-1190" value="1190" aria-label="!Sparta (1)">
-                            <label for="frm-productFilter-brandConstraintForm-value-1190">Sparta (1)</label>
-                        </div>
-
-
-                            <div class="form-row">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-1193" value="1193" aria-label="!Viceroy (6)">
-                            <label for="frm-productFilter-brandConstraintForm-value-1193">Viceroy (6)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-942" value="942" aria-label="!Bio Harmonie (1)">
+                            <label for="frm-productFilter-brandConstraintForm-value-942">Bio Harmonie (1)</label>
                         </div>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-1194" value="1194" aria-label="!West (1)">
-                            <label for="frm-productFilter-brandConstraintForm-value-1194">West (1)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-2199" value="2199" aria-label="!Bioharmonie (1)">
+                            <label for="frm-productFilter-brandConstraintForm-value-2199">Bioharmonie (1)</label>
+                        </div>
+
+
+                            <div class="form-row">
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-2190" value="2190" aria-label="!Bionebio (7)">
+                            <label for="frm-productFilter-brandConstraintForm-value-2190">Bionebio (7)</label>
+                        </div>
+
+
+                                                         <div class="form-row" style="display: none;">
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-2470" value="2470" aria-label="!Boris (1)">
+                            <label for="frm-productFilter-brandConstraintForm-value-2470">Boris (1)</label>
+                        </div>
+
+
+                                                         <div class="form-row" style="display: none;">
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-2491" value="2491" aria-label="!Chiquita (1)">
+                            <label for="frm-productFilter-brandConstraintForm-value-2491">Chiquita (1)</label>
+                        </div>
+
+
+                                                         <div class="form-row" style="display: none;">
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-2189" value="2189" aria-label="!Cocoa (1)">
+                            <label for="frm-productFilter-brandConstraintForm-value-2189">Cocoa (1)</label>
+                        </div>
+
+
+                            <div class="form-row">
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-906" value="906" aria-label="!Country Life (27)">
+                            <label for="frm-productFilter-brandConstraintForm-value-906">Country Life (27)</label>
+                        </div>
+
+
+                            <div class="form-row">
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-2450" value="2450" aria-label="!Diana (137)">
+                            <label for="frm-productFilter-brandConstraintForm-value-2450">Diana (137)</label>
+                        </div>
+
+
+                            <div class="form-row">
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-609" value="609" aria-label="!Druid (8)">
+                            <label for="frm-productFilter-brandConstraintForm-value-609">Druid (8)</label>
+                        </div>
+
+
+                                                         <div class="form-row" style="display: none;">
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-2193" value="2193" aria-label="!FarmLander (1)">
+                            <label for="frm-productFilter-brandConstraintForm-value-2193">FarmLander (1)</label>
+                        </div>
+
+
+                            <div class="form-row">
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-2988" value="2988" aria-label="!Farmland (22)">
+                            <label for="frm-productFilter-brandConstraintForm-value-2988">Farmland (22)</label>
+                        </div>
+
+
+                                                         <div class="form-row" style="display: none;">
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-1343" value="1343" aria-label="!Fine Life (1)">
+                            <label for="frm-productFilter-brandConstraintForm-value-1343">Fine Life (1)</label>
+                        </div>
+
+
+                                                         <div class="form-row" style="display: none;">
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-3212" value="3212" aria-label="!Freche Freunde (1)">
+                            <label for="frm-productFilter-brandConstraintForm-value-3212">Freche Freunde (1)</label>
+                        </div>
+
+
+                                                         <div class="form-row" style="display: none;">
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-661" value="661" aria-label="!G&amp;G (1)">
+                            <label for="frm-productFilter-brandConstraintForm-value-661">G&amp;G (1)</label>
+                        </div>
+
+
+                                                         <div class="form-row" style="display: none;">
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-2365" value="2365" aria-label="!Green Dream (1)">
+                            <label for="frm-productFilter-brandConstraintForm-value-2365">Green Dream (1)</label>
+                        </div>
+
+
+                                                         <div class="form-row" style="display: none;">
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-3266" value="3266" aria-label="!Honest Market (1)">
+                            <label for="frm-productFilter-brandConstraintForm-value-3266">Honest Market (1)</label>
+                        </div>
+
+
+                                                         <div class="form-row" style="display: none;">
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-3106" value="3106" aria-label="!J.O.D. (1)">
+                            <label for="frm-productFilter-brandConstraintForm-value-3106">J.O.D. (1)</label>
+                        </div>
+
+
+                                                         <div class="form-row" style="display: none;">
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-3192" value="3192" aria-label="!LIPOO (2)">
+                            <label for="frm-productFilter-brandConstraintForm-value-3192">LIPOO (2)</label>
+                        </div>
+
+
+                                                         <div class="form-row" style="display: none;">
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-3201" value="3201" aria-label="!Life Food (1)">
+                            <label for="frm-productFilter-brandConstraintForm-value-3201">Life Food (1)</label>
+                        </div>
+
+
+                                                         <div class="form-row" style="display: none;">
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-2173" value="2173" aria-label="!Lifefood (5)">
+                            <label for="frm-productFilter-brandConstraintForm-value-2173">Lifefood (5)</label>
+                        </div>
+
+
+                                                         <div class="form-row" style="display: none;">
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-2225" value="2225" aria-label="!Láznička (2)">
+                            <label for="frm-productFilter-brandConstraintForm-value-2225">Láznička (2)</label>
+                        </div>
+
+
+                                                         <div class="form-row" style="display: none;">
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-3283" value="3283" aria-label="!Medjoul (1)">
+                            <label for="frm-productFilter-brandConstraintForm-value-3283">Medjoul (1)</label>
+                        </div>
+
+
+                                                         <div class="form-row" style="display: none;">
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-1692" value="1692" aria-label="!Menu Gold (1)">
+                            <label for="frm-productFilter-brandConstraintForm-value-1692">Menu Gold (1)</label>
+                        </div>
+
+
+                                                         <div class="form-row" style="display: none;">
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-1100" value="1100" aria-label="!Nature Park (2)">
+                            <label for="frm-productFilter-brandConstraintForm-value-1100">Nature Park (2)</label>
+                        </div>
+
+
+                                                         <div class="form-row" style="display: none;">
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-3227" value="3227" aria-label="!Probio (1)">
+                            <label for="frm-productFilter-brandConstraintForm-value-3227">Probio (1)</label>
+                        </div>
+
+
+                                                         <div class="form-row" style="display: none;">
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-2236" value="2236" aria-label="!Sklizeno (1)">
+                            <label for="frm-productFilter-brandConstraintForm-value-2236">Sklizeno (1)</label>
+                        </div>
+
+
+                                                         <div class="form-row" style="display: none;">
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-2411" value="2411" aria-label="!St. Dalfour (1)">
+                            <label for="frm-productFilter-brandConstraintForm-value-2411">St. Dalfour (1)</label>
+                        </div>
+
+
+                            <div class="form-row">
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-2485" value="2485" aria-label="!Titbit (8)">
+                            <label for="frm-productFilter-brandConstraintForm-value-2485">Titbit (8)</label>
+                        </div>
+
+
+                            <div class="form-row">
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-2215" value="2215" aria-label="!UGO (34)">
+                            <label for="frm-productFilter-brandConstraintForm-value-2215">UGO (34)</label>
+                        </div>
+
+
+                                                         <div class="form-row" style="display: none;">
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-3285" value="3285" aria-label="!YesFresh (1)">
+                            <label for="frm-productFilter-brandConstraintForm-value-3285">YesFresh (1)</label>
                         </div>
 
 																<a class="show-more-brands link-red">více značek</a>
 																<a class="show-less-brands link-red" style="display: none;">méně značek</a>
                             <br><br>
-                            <a class="link-red align-right" href="/trafika?do=productFilter-reset">zrušit filtr</a>
+                            <a class="link-red align-right" href="/ovoce-a-zelenina?do=productFilter-reset">zrušit filtr</a>
                 </div>
                                 <input type="hidden" name="do" value="productFilter-brandConstraintForm-submit">
         <!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
@@ -3656,7 +3940,7 @@ Hladká mouka</textarea>
             var buttonsShowMoreClass = 'show-more-brands';
             var buttonsShowLessClass = 'show-less-brands';
             var filters = $('.filter-more-result');
-            var defaultFilterInputs = {"brand":[1172,1174,1180,1161,1185,1160,1193,1173,1187,1179]};
+            var defaultFilterInputs = {"brand":[87,2450,2215,906,2988,2155,609,99,2485,2190]};
 
             function hideCheckboxes(rows, key) {
 
@@ -3757,13 +4041,695 @@ Hladká mouka</textarea>
 		</div>
 
 		<div class="region-products-popular">
+<a href="https://www.kosik.cz/ovoce-a-zelenina/ovoce/banany-a-exoticke-ovoce"><img src="https://cdn.kosik.cz/content/category-banner/png/default/1034.png" alt="whiskas"></a><br><br>
+
+		<div class="region region-carousel region-products no-aside product-widget">
+			<div class="home-product-widget region-inner region-products-inner slick-carousel" data-open="3" data-close="4">
+				<div class="block block-title">
+					<h3>Doporučujeme</h3>
+				</div>
+<div class="block block-product-items product-items" data-ajax-append="product-item" id="snippet-productWidget-widgetCarousel-1-productListArea">
+    <div id="product-append-13305" class="product-item">
+        <div class="product-item-flags">
+            <div class="flag-sale ">
+                <span class="percents">42<small>&#37;</small></span>
+            </div>
+        </div>
+        <div class="product-item-image">
+                <a data-href="/ovoce-a-zelenina?productWidget-widgetCarousel-1-id=13305&amp;do=productWidget-widgetCarousel-1-modal"
+                   data-target="productWidget-widgetCarousel-1-productModal"
+                   data-product-id="13305"
+                   data-product-price="28.9"
+                   data-page-title="Pomelo (cca 600g)"
+                   data-page-path="/produkt/13305-pomelo-cca-600g"
+                   data-user-id=""
+                   aria-hidden="true"
+                   data-kosikmodal-onclose="currentPageDataPush"
+                   onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/30490.jpg" alt="Pomelo (cca 600g)" class="loading-images loading-image">
+                </a>
+
+
+
+
+        </div>
+                <div class="product-item-info">
+                <h5><a href="javascript:void(0)" aria-label="Pomelo (cca 600g)" data-href="/ovoce-a-zelenina?productWidget-widgetCarousel-1-id=13305&amp;do=productWidget-widgetCarousel-1-modal" class="product-name modal-link"
+                   data-target="productWidget-widgetCarousel-1-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    Pomelo (cca 600g)
+                    
+                </a></h5>
+            <p class="product-item-price product-in-discount">
+                <span class="price-before-discount">
+					<span><strong class="price">28,90 Kč</strong></span>
+				</span>
+                <strong class="price">16,90 Kč</strong>
+
+            </p>
+            <p class="product-item-unit">
+                    (<strong class="price">28,20 Kč</strong> / kg)
+            </p>
+                        <div class="product-list-rating">
+                <span><ul class="rating"><li class="rating-children rating-1 up" data-rating="1"><i class="fa fa-star"></i></li><li class="rating-children rating-2 up" data-rating="2"><i class="fa fa-star"></i></li><li class="rating-children rating-3 up" data-rating="3"><i class="fa fa-star"></i></li><li class="rating-children rating-4 up" data-rating="4"><i class="fa fa-star"></i></li><li class="rating-children rating-5 up" data-rating="5"><i class="fa fa-star"></i></li></ul></span>
+            </div>
+<div id="snippet-productWidget-widgetCarousel-1-buy-13305-quantity">        <div class="product-quantity-control">
+            <form action="/ovoce-a-zelenina" method="post" class="ajax" id="frm-productWidget-widgetCarousel-1-buy-13305-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productWidget-widgetCarousel-1-buy-13305-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
+            <input type="hidden" name="do" value="productWidget-widgetCarousel-1-buy-13305-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+</form>
+
+        </div>
+</div>
+                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
+
+
+        </div>
+
+        
+    </div>
+    <div id="product-append-389" class="product-item">
+        <div class="product-item-flags">
+        </div>
+        <div class="product-item-image">
+                <a data-href="/ovoce-a-zelenina?productWidget-widgetCarousel-1-id=389&amp;do=productWidget-widgetCarousel-1-modal"
+                   data-target="productWidget-widgetCarousel-1-productModal"
+                   data-product-id="389"
+                   data-product-price="62.9"
+                   data-page-title="Ananas velký  (cca 1500g+)"
+                   data-page-path="/produkt/389-ananas-velky-cca-1500g"
+                   data-user-id=""
+                   aria-hidden="true"
+                   data-kosikmodal-onclose="currentPageDataPush"
+                   onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/409.jpg" alt="Ananas velký  (cca 1500g+)" class="loading-images loading-image">
+                </a>
+
+
+
+
+        </div>
+                <div class="product-item-info">
+                <h5><a href="javascript:void(0)" aria-label="Ananas velký  (cca 1500g+)" data-href="/ovoce-a-zelenina?productWidget-widgetCarousel-1-id=389&amp;do=productWidget-widgetCarousel-1-modal" class="product-name modal-link"
+                   data-target="productWidget-widgetCarousel-1-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    Ananas velký  (cca 1500g+)
+                    
+                </a></h5>
+            <p class="product-item-price ">
+                <span class="price-before-discount">
+				</span>
+                <strong class="price">62,90 Kč</strong>
+
+            </p>
+            <p class="product-item-unit">
+                    (<strong class="price">41,90 Kč</strong> / kg)
+            </p>
+                        <div class="product-list-rating">
+                <span><ul class="rating"><li class="rating-children rating-1 up" data-rating="1"><i class="fa fa-star"></i></li><li class="rating-children rating-2 up" data-rating="2"><i class="fa fa-star"></i></li><li class="rating-children rating-3 up" data-rating="3"><i class="fa fa-star"></i></li><li class="rating-children rating-4 up" data-rating="4"><i class="fa fa-star"></i></li><li class="rating-children rating-5 up" data-rating="5"><i class="fa fa-star"></i></li></ul></span>
+            </div>
+<div id="snippet-productWidget-widgetCarousel-1-buy-389-quantity">        <div class="product-quantity-control">
+            <form action="/ovoce-a-zelenina" method="post" class="ajax" id="frm-productWidget-widgetCarousel-1-buy-389-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productWidget-widgetCarousel-1-buy-389-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
+            <input type="hidden" name="do" value="productWidget-widgetCarousel-1-buy-389-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+</form>
+
+        </div>
+</div>
+                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
+
+
+        </div>
+
+        
+    </div>
+    <div id="product-append-25488" class="product-item">
+        <div class="product-item-flags">
+        </div>
+        <div class="product-item-image">
+                <a data-href="/ovoce-a-zelenina?productWidget-widgetCarousel-1-id=25488&amp;do=productWidget-widgetCarousel-1-modal"
+                   data-target="productWidget-widgetCarousel-1-productModal"
+                   data-product-id="25488"
+                   data-product-price="42.9"
+                   data-page-title="Diana Mandle plátky 100g"
+                   data-page-path="/produkt/25488-diana-mandle-platky-100g"
+                   data-user-id=""
+                   aria-hidden="true"
+                   data-kosikmodal-onclose="currentPageDataPush"
+                   onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/42768.jpg" alt="Diana Mandle plátky 100g" class="loading-images loading-image">
+                </a>
+
+
+
+
+        </div>
+                <div class="product-item-info">
+                <h5><a href="javascript:void(0)" aria-label="Diana Mandle plátky 100g" data-href="/ovoce-a-zelenina?productWidget-widgetCarousel-1-id=25488&amp;do=productWidget-widgetCarousel-1-modal" class="product-name modal-link"
+                   data-target="productWidget-widgetCarousel-1-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    Diana Mandle plátky 100g
+                    
+                </a></h5>
+            <p class="product-item-price ">
+                <span class="price-before-discount">
+				</span>
+                <strong class="price">42,90 Kč</strong>
+
+            </p>
+            <p class="product-item-unit">
+                    (<strong class="price">429,00 Kč</strong> / kg)
+            </p>
+                        <div class="product-list-rating">
+            </div>
+<div id="snippet-productWidget-widgetCarousel-1-buy-25488-quantity">        <div class="product-quantity-control">
+            <form action="/ovoce-a-zelenina" method="post" class="ajax" id="frm-productWidget-widgetCarousel-1-buy-25488-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productWidget-widgetCarousel-1-buy-25488-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
+            <input type="hidden" name="do" value="productWidget-widgetCarousel-1-buy-25488-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+</form>
+
+        </div>
+</div>
+                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
+
+
+        </div>
+
+        
+    </div>
+    <div id="product-append-42578" class="product-item">
+        <div class="product-item-flags">
+        </div>
+        <div class="product-item-image">
+                <a data-href="/ovoce-a-zelenina?productWidget-widgetCarousel-1-id=42578&amp;do=productWidget-widgetCarousel-1-modal"
+                   data-target="productWidget-widgetCarousel-1-productModal"
+                   data-product-id="42578"
+                   data-product-price="33.9"
+                   data-page-title="Mandarinka klementina 1 kg síť"
+                   data-page-path="/produkt/42578-mandarinka-klementina-1-kg-sit"
+                   data-user-id=""
+                   aria-hidden="true"
+                   data-kosikmodal-onclose="currentPageDataPush"
+                   onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/60295.jpg" alt="Mandarinka klementina 1 kg síť" class="loading-images loading-image">
+                </a>
+
+
+
+
+        </div>
+                <div class="product-item-info">
+                <h5><a href="javascript:void(0)" aria-label="Mandarinka klementina 1 kg síť" data-href="/ovoce-a-zelenina?productWidget-widgetCarousel-1-id=42578&amp;do=productWidget-widgetCarousel-1-modal" class="product-name modal-link"
+                   data-target="productWidget-widgetCarousel-1-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    Mandarinka klementina 1 kg síť
+                    
+                </a></h5>
+            <p class="product-item-price ">
+                <span class="price-before-discount">
+				</span>
+                <strong class="price">33,90 Kč</strong>
+
+            </p>
+            <p class="product-item-unit">
+                    (<strong class="price">33,90 Kč</strong> / ks)
+            </p>
+                        <div class="product-list-rating">
+            </div>
+<div id="snippet-productWidget-widgetCarousel-1-buy-42578-quantity">        <div class="product-quantity-control">
+            <form action="/ovoce-a-zelenina" method="post" class="ajax" id="frm-productWidget-widgetCarousel-1-buy-42578-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productWidget-widgetCarousel-1-buy-42578-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
+            <input type="hidden" name="do" value="productWidget-widgetCarousel-1-buy-42578-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+</form>
+
+        </div>
+</div>
+                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
+
+
+        </div>
+
+        
+    </div>
+    <div id="product-append-436" class="product-item">
+        <div class="product-item-flags">
+        </div>
+        <div class="product-item-image">
+                <a data-href="/ovoce-a-zelenina?productWidget-widgetCarousel-1-id=436&amp;do=productWidget-widgetCarousel-1-modal"
+                   data-target="productWidget-widgetCarousel-1-productModal"
+                   data-product-id="436"
+                   data-product-price="24.9"
+                   data-page-title="Zázvor 250g"
+                   data-page-path="/produkt/436-zazvor-250g"
+                   data-user-id=""
+                   aria-hidden="true"
+                   data-kosikmodal-onclose="currentPageDataPush"
+                   onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/463.jpg" alt="Zázvor 250g" class="loading-images loading-image">
+                </a>
+
+
+
+
+        </div>
+                <div class="product-item-info">
+                <h5><a href="javascript:void(0)" aria-label="Zázvor 250g" data-href="/ovoce-a-zelenina?productWidget-widgetCarousel-1-id=436&amp;do=productWidget-widgetCarousel-1-modal" class="product-name modal-link"
+                   data-target="productWidget-widgetCarousel-1-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    Zázvor 250g
+                    
+                </a></h5>
+            <p class="product-item-price ">
+                <span class="price-before-discount">
+				</span>
+                <strong class="price">24,90 Kč</strong>
+
+            </p>
+            <p class="product-item-unit">
+                    (<strong class="price">99,60 Kč</strong> / kg)
+            </p>
+                        <div class="product-list-rating">
+                <span><ul class="rating"><li class="rating-children rating-1 up" data-rating="1"><i class="fa fa-star"></i></li><li class="rating-children rating-2 up" data-rating="2"><i class="fa fa-star"></i></li><li class="rating-children rating-3 up" data-rating="3"><i class="fa fa-star"></i></li><li class="rating-children rating-4 up" data-rating="4"><i class="fa fa-star"></i></li><li class="rating-children rating-5 down" data-rating="5"><i class="fa fa-star"></i></li></ul></span>
+            </div>
+<div id="snippet-productWidget-widgetCarousel-1-buy-436-quantity">        <div class="product-quantity-control">
+            <form action="/ovoce-a-zelenina" method="post" class="ajax" id="frm-productWidget-widgetCarousel-1-buy-436-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productWidget-widgetCarousel-1-buy-436-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
+            <input type="hidden" name="do" value="productWidget-widgetCarousel-1-buy-436-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+</form>
+
+        </div>
+</div>
+                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
+
+
+        </div>
+
+        
+    </div>
+    <div id="product-append-13922" class="product-item">
+        <div class="product-item-flags">
+        </div>
+        <div class="product-item-image">
+                <a data-href="/ovoce-a-zelenina?productWidget-widgetCarousel-1-id=13922&amp;do=productWidget-widgetCarousel-1-modal"
+                   data-target="productWidget-widgetCarousel-1-productModal"
+                   data-product-id="13922"
+                   data-product-price="21.9"
+                   data-page-title="Polévková zelenina – směs 400g"
+                   data-page-path="/produkt/13922-polevkova-zelenina-smes-400g"
+                   data-user-id=""
+                   aria-hidden="true"
+                   data-kosikmodal-onclose="currentPageDataPush"
+                   onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/31175.jpg" alt="Polévková zelenina – směs 400g" class="loading-images loading-image">
+                </a>
+
+
+
+
+        </div>
+                <div class="product-item-info">
+                <h5><a href="javascript:void(0)" aria-label="Polévková zelenina – směs 400g" data-href="/ovoce-a-zelenina?productWidget-widgetCarousel-1-id=13922&amp;do=productWidget-widgetCarousel-1-modal" class="product-name modal-link"
+                   data-target="productWidget-widgetCarousel-1-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    Polévková zelenina – směs 400g
+                    
+                </a></h5>
+            <p class="product-item-price ">
+                <span class="price-before-discount">
+				</span>
+                <strong class="price">21,90 Kč</strong>
+
+            </p>
+            <p class="product-item-unit">
+                    (<strong class="price">54,80 Kč</strong> / kg)
+            </p>
+                        <div class="product-list-rating">
+                <span><ul class="rating"><li class="rating-children rating-1 up" data-rating="1"><i class="fa fa-star"></i></li><li class="rating-children rating-2 up" data-rating="2"><i class="fa fa-star"></i></li><li class="rating-children rating-3 up" data-rating="3"><i class="fa fa-star"></i></li><li class="rating-children rating-4 up" data-rating="4"><i class="fa fa-star"></i></li><li class="rating-children rating-5 up" data-rating="5"><i class="fa fa-star"></i></li></ul></span>
+            </div>
+<div id="snippet-productWidget-widgetCarousel-1-buy-13922-quantity">        <div class="product-quantity-control">
+            <form action="/ovoce-a-zelenina" method="post" class="ajax" id="frm-productWidget-widgetCarousel-1-buy-13922-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productWidget-widgetCarousel-1-buy-13922-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
+            <input type="hidden" name="do" value="productWidget-widgetCarousel-1-buy-13922-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+</form>
+
+        </div>
+</div>
+                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
+
+
+        </div>
+
+        
+    </div>
+    <div id="product-append-10069" class="product-item">
+        <div class="product-item-flags">
+        </div>
+        <div class="product-item-image">
+                <a data-href="/ovoce-a-zelenina?productWidget-widgetCarousel-1-id=10069&amp;do=productWidget-widgetCarousel-1-modal"
+                   data-target="productWidget-widgetCarousel-1-productModal"
+                   data-product-id="10069"
+                   data-product-price="12.9"
+                   data-page-title="Cibulka lahůdková svazek"
+                   data-page-path="/produkt/10069-cibulka-lahudkova-svazek"
+                   data-user-id=""
+                   aria-hidden="true"
+                   data-kosikmodal-onclose="currentPageDataPush"
+                   onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/27839.jpg" alt="Cibulka lahůdková svazek" class="loading-images loading-image">
+                </a>
+
+
+
+
+        </div>
+                <div class="product-item-info">
+                <h5><a href="javascript:void(0)" aria-label="Cibulka lahůdková svazek" data-href="/ovoce-a-zelenina?productWidget-widgetCarousel-1-id=10069&amp;do=productWidget-widgetCarousel-1-modal" class="product-name modal-link"
+                   data-target="productWidget-widgetCarousel-1-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    Cibulka lahůdková svazek
+                    
+                </a></h5>
+            <p class="product-item-price ">
+                <span class="price-before-discount">
+				</span>
+                <strong class="price">12,90 Kč</strong>
+
+            </p>
+            <p class="product-item-unit">
+                    (<strong class="price">129,00 Kč</strong> / kg)
+            </p>
+                        <div class="product-list-rating">
+                <span><ul class="rating"><li class="rating-children rating-1 up" data-rating="1"><i class="fa fa-star"></i></li><li class="rating-children rating-2 up" data-rating="2"><i class="fa fa-star"></i></li><li class="rating-children rating-3 up" data-rating="3"><i class="fa fa-star"></i></li><li class="rating-children rating-4 up" data-rating="4"><i class="fa fa-star"></i></li><li class="rating-children rating-5 up" data-rating="5"><i class="fa fa-star"></i></li></ul></span>
+            </div>
+<div id="snippet-productWidget-widgetCarousel-1-buy-10069-quantity">        <div class="product-quantity-control">
+            <form action="/ovoce-a-zelenina" method="post" class="ajax" id="frm-productWidget-widgetCarousel-1-buy-10069-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productWidget-widgetCarousel-1-buy-10069-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
+            <input type="hidden" name="do" value="productWidget-widgetCarousel-1-buy-10069-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+</form>
+
+        </div>
+</div>
+                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
+
+
+        </div>
+
+        
+    </div>
+    <div id="product-append-14503" class="product-item">
+        <div class="product-item-flags">
+        </div>
+        <div class="product-item-image">
+                <a data-href="/ovoce-a-zelenina?productWidget-widgetCarousel-1-id=14503&amp;do=productWidget-widgetCarousel-1-modal"
+                   data-target="productWidget-widgetCarousel-1-productModal"
+                   data-product-id="14503"
+                   data-product-price="13.9"
+                   data-page-title="Mrkev balená 1kg"
+                   data-page-path="/produkt/14503-mrkev-balena-1kg"
+                   data-user-id=""
+                   aria-hidden="true"
+                   data-kosikmodal-onclose="currentPageDataPush"
+                   onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/31772.jpg" alt="Mrkev balená 1kg" class="loading-images loading-image">
+                </a>
+
+
+
+
+        </div>
+                <div class="product-item-info">
+                <h5><a href="javascript:void(0)" aria-label="Mrkev balená 1kg" data-href="/ovoce-a-zelenina?productWidget-widgetCarousel-1-id=14503&amp;do=productWidget-widgetCarousel-1-modal" class="product-name modal-link"
+                   data-target="productWidget-widgetCarousel-1-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    Mrkev balená 1kg
+                    
+                </a></h5>
+            <p class="product-item-price ">
+                <span class="price-before-discount">
+				</span>
+                <strong class="price">13,90 Kč</strong>
+
+            </p>
+            <p class="product-item-unit">
+                    (<strong class="price">13,90 Kč</strong> / kg)
+            </p>
+                        <div class="product-list-rating">
+                <span><ul class="rating"><li class="rating-children rating-1 up" data-rating="1"><i class="fa fa-star"></i></li><li class="rating-children rating-2 up" data-rating="2"><i class="fa fa-star"></i></li><li class="rating-children rating-3 up" data-rating="3"><i class="fa fa-star"></i></li><li class="rating-children rating-4 up" data-rating="4"><i class="fa fa-star"></i></li><li class="rating-children rating-5 up" data-rating="5"><i class="fa fa-star"></i></li></ul></span>
+            </div>
+<div id="snippet-productWidget-widgetCarousel-1-buy-14503-quantity">        <div class="product-quantity-control">
+            <form action="/ovoce-a-zelenina" method="post" class="ajax" id="frm-productWidget-widgetCarousel-1-buy-14503-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productWidget-widgetCarousel-1-buy-14503-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
+            <input type="hidden" name="do" value="productWidget-widgetCarousel-1-buy-14503-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+</form>
+
+        </div>
+</div>
+                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
+
+
+        </div>
+
+        
+    </div>
+    <div id="product-append-14142" class="product-item">
+        <div class="product-item-flags">
+        </div>
+        <div class="product-item-image">
+                <a data-href="/ovoce-a-zelenina?productWidget-widgetCarousel-1-id=14142&amp;do=productWidget-widgetCarousel-1-modal"
+                   data-target="productWidget-widgetCarousel-1-productModal"
+                   data-product-id="14142"
+                   data-product-price="37.9"
+                   data-page-title="Bazalka květináč &quot;13 cm”"
+                   data-page-path="/produkt/14142-bazalka-kvetinac-13-cm"
+                   data-user-id=""
+                   aria-hidden="true"
+                   data-kosikmodal-onclose="currentPageDataPush"
+                   onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/31395.jpg" alt="Bazalka květináč &quot;13 cm”" class="loading-images loading-image">
+                </a>
+
+
+
+
+        </div>
+                <div class="product-item-info">
+                <h5><a href="javascript:void(0)" aria-label="Bazalka květináč &quot;13 cm”" data-href="/ovoce-a-zelenina?productWidget-widgetCarousel-1-id=14142&amp;do=productWidget-widgetCarousel-1-modal" class="product-name modal-link"
+                   data-target="productWidget-widgetCarousel-1-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    Bazalka květináč "13 cm”
+                    
+                </a></h5>
+            <p class="product-item-price ">
+                <span class="price-before-discount">
+				</span>
+                <strong class="price">37,90 Kč</strong>
+
+            </p>
+            <p class="product-item-unit">
+                    (<strong class="price">37,90 Kč</strong> / ks)
+            </p>
+                        <div class="product-list-rating">
+            </div>
+<div id="snippet-productWidget-widgetCarousel-1-buy-14142-quantity">        <div class="product-quantity-control">
+            <form action="/ovoce-a-zelenina" method="post" class="ajax" id="frm-productWidget-widgetCarousel-1-buy-14142-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productWidget-widgetCarousel-1-buy-14142-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
+            <input type="hidden" name="do" value="productWidget-widgetCarousel-1-buy-14142-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+</form>
+
+        </div>
+</div>
+                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
+
+
+        </div>
+
+        
+    </div>
+    <div id="product-append-415" class="product-item">
+        <div class="product-item-flags">
+        </div>
+        <div class="product-item-image">
+                <a data-href="/ovoce-a-zelenina?productWidget-widgetCarousel-1-id=415&amp;do=productWidget-widgetCarousel-1-modal"
+                   data-target="productWidget-widgetCarousel-1-productModal"
+                   data-product-id="415"
+                   data-product-price="19.9"
+                   data-page-title="Ředkev bílá (cca 400g)"
+                   data-page-path="/produkt/415-redkev-bila-cca-400g"
+                   data-user-id=""
+                   aria-hidden="true"
+                   data-kosikmodal-onclose="currentPageDataPush"
+                   onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/438.jpg" alt="Ředkev bílá (cca 400g)" class="loading-images loading-image">
+                </a>
+
+
+
+
+        </div>
+                <div class="product-item-info">
+                <h5><a href="javascript:void(0)" aria-label="Ředkev bílá (cca 400g)" data-href="/ovoce-a-zelenina?productWidget-widgetCarousel-1-id=415&amp;do=productWidget-widgetCarousel-1-modal" class="product-name modal-link"
+                   data-target="productWidget-widgetCarousel-1-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    Ředkev bílá (cca 400g)
+                    
+                </a></h5>
+            <p class="product-item-price ">
+                <span class="price-before-discount">
+				</span>
+                <strong class="price">19,90 Kč</strong>
+
+            </p>
+            <p class="product-item-unit">
+                    (<strong class="price">49,80 Kč</strong> / kg)
+            </p>
+                        <div class="product-list-rating">
+                <span><ul class="rating"><li class="rating-children rating-1 up" data-rating="1"><i class="fa fa-star"></i></li><li class="rating-children rating-2 up" data-rating="2"><i class="fa fa-star"></i></li><li class="rating-children rating-3 up" data-rating="3"><i class="fa fa-star"></i></li><li class="rating-children rating-4 up" data-rating="4"><i class="fa fa-star"></i></li><li class="rating-children rating-5 up" data-rating="5"><i class="fa fa-star"></i></li></ul></span>
+            </div>
+<div id="snippet-productWidget-widgetCarousel-1-buy-415-quantity">        <div class="product-quantity-control">
+            <form action="/ovoce-a-zelenina" method="post" class="ajax" id="frm-productWidget-widgetCarousel-1-buy-415-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productWidget-widgetCarousel-1-buy-415-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
+            <input type="hidden" name="do" value="productWidget-widgetCarousel-1-buy-415-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+</form>
+
+        </div>
+</div>
+                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
+
+
+        </div>
+
+        
+    </div>
+    <div id="product-append-25474" class="product-item">
+        <div class="product-item-flags">
+        </div>
+        <div class="product-item-image">
+                <a data-href="/ovoce-a-zelenina?productWidget-widgetCarousel-1-id=25474&amp;do=productWidget-widgetCarousel-1-modal"
+                   data-target="productWidget-widgetCarousel-1-productModal"
+                   data-product-id="25474"
+                   data-product-price="112.5"
+                   data-page-title="Diana Makadam natural 100g"
+                   data-page-path="/produkt/25474-diana-makadam-natural-100g"
+                   data-user-id=""
+                   aria-hidden="true"
+                   data-kosikmodal-onclose="currentPageDataPush"
+                   onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/42754.jpg" alt="Diana Makadam natural 100g" class="loading-images loading-image">
+                </a>
+
+
+
+
+        </div>
+                <div class="product-item-info">
+                <h5><a href="javascript:void(0)" aria-label="Diana Makadam natural 100g" data-href="/ovoce-a-zelenina?productWidget-widgetCarousel-1-id=25474&amp;do=productWidget-widgetCarousel-1-modal" class="product-name modal-link"
+                   data-target="productWidget-widgetCarousel-1-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    Diana Makadam natural 100g
+                    
+                </a></h5>
+            <p class="product-item-price ">
+                <span class="price-before-discount">
+				</span>
+                <strong class="price">112,50 Kč</strong>
+
+            </p>
+            <p class="product-item-unit">
+                    (<strong class="price">1 125,00 Kč</strong> / kg)
+            </p>
+                        <div class="product-list-rating">
+            </div>
+<div id="snippet-productWidget-widgetCarousel-1-buy-25474-quantity">        <div class="product-quantity-control">
+            <form action="/ovoce-a-zelenina" method="post" class="ajax" id="frm-productWidget-widgetCarousel-1-buy-25474-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productWidget-widgetCarousel-1-buy-25474-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
+            <input type="hidden" name="do" value="productWidget-widgetCarousel-1-buy-25474-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+</form>
+
+        </div>
+</div>
+                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
+
+
+        </div>
+
+        
+    </div>
+</div>
+
+<div class="kosik-modal-overlay product-modal" id="productWidget-widgetCarousel-1-productModal" role="dialog">
+    <div class="kosik-modal-inner large super-scaled" id="snippet-productWidget-widgetCarousel-1-productModalArea">
+    </div>
+</div>
+
+
+<div class="kosik-modal-overlay" id="productWidget-widgetCarousel-1-productSetModal" role="dialog">
+    <div class="kosik-modal-inner large super-scaled" id="snippet-productWidget-widgetCarousel-1-productSetModalArea">
+    </div>
+</div>
+			</div>
+		</div>
 
 			<div class="region region-title-afinity-select no-aside clearfix" role="main">
 				<div class="region-inner region-title-afinity-select-inner">
 																					<div class="block block-title">
-						<h1>Trafika</h1>
+						<h1>Ovoce a zelenina</h1>
 					</div>
 					<div id="snippet--primaryFilterArea">
+<form action="/ovoce-a-zelenina" method="post" class="ajax" id="frm-productPrimaryFilter-constraintForm">
+<div class="block block-afinity-groups">
+	<div class="afinity-group" tabindex="0">
+		<label for="bio">
+			<input type="checkbox" id="bio" value="bio" name="bio" onchange='$(this).closest("form").submit();'>
+			<div class="group-icon"><span class="icon-afinity-Bio"></span></div>
+			<span class="group-name">Bio</span>
+		</label>
+	</div>
+	<div class="afinity-group" tabindex="0">
+		<label for="noAleurone">
+			<input type="checkbox" id="noAleurone" value="noAleurone" name="noAleurone" onchange='$(this).closest("form").submit();'>
+			<div class="group-icon strike-through"><span class="icon-afinity-Wheat"></span></div>
+			<span class="group-name">Bez lepku</span>
+		</label>
+	</div>
+	<div class="afinity-group" tabindex="0">
+		<label for="noLactose">
+			<input type="checkbox" id="noLactose" value="noLactose" name="noLactose" onchange='$(this).closest("form").submit();'>
+			<div class="group-icon strike-through"><span class="icon-afinity-Milk"></span></div>
+			<span class="group-name">Bez laktózy</span>
+		</label>
+	</div>
+	<div class="afinity-group" tabindex="0">
+		<label for="farm">
+			<input type="checkbox" id="farm" value="farm" name="farm" onchange='$(this).closest("form").submit();'>
+			<div class="group-icon"><span class="icon-afinity-Farm"></span></div>
+			<span class="group-name">Farmářské</span>
+		</label>
+	</div>
+	<div class="afinity-group" tabindex="0">
+		<label for="noPalmOil">
+			<input type="checkbox" id="noPalmOil" value="noPalmOil" name="noPalmOil" onchange='$(this).closest("form").submit();'>
+			<div class="group-icon strike-through"><span class="icon-afinity-Palm-oil"></span></div>
+			<span class="group-name">Bez palmového tuku</span>
+		</label>
+	</div>
+	<div class="afinity-group" tabindex="0">
+		<label for="vegan">
+			<input type="checkbox" id="vegan" value="vegan" name="vegan" onchange='$(this).closest("form").submit();'>
+			<div class="group-icon strike-through"><span class="icon-afinity-Egg"></span></div>
+			<span class="group-name">Vhodné pro vegany</span>
+		</label>
+	</div>
+	<div class="afinity-group" tabindex="0">
+		<label for="vegetarian">
+			<input type="checkbox" id="vegetarian" value="vegetarian" name="vegetarian" onchange='$(this).closest("form").submit();'>
+			<div class="group-icon strike-through"><span class="icon-afinity-Steak"></span></div>
+			<span class="group-name">Vegetariánské</span>
+		</label>
+	</div>
+</div>
+<input type="hidden" name="do" value="productPrimaryFilter-constraintForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+</form>
+
 					</div>
 					<div class="block block-product-list-option">
 <ul class="product-list-option element-bordered-select-box">
@@ -3772,17 +4738,17 @@ Hladká mouka</textarea>
         <div class="positioner">
             <ul>
                 <li>
-                    <a title="Akční" href="/trafika?productListOptions-preset=orderDiscount">
+                    <a title="Akční" href="/ovoce-a-zelenina?productListOptions-preset=orderDiscount">
                         Akční
                     </a>
                 </li>
                 <li>
-                    <a title="Nejlevnější" href="/trafika?productListOptions-preset=orderPriceAscending">
+                    <a title="Nejlevnější" href="/ovoce-a-zelenina?productListOptions-preset=orderPriceAscending">
                         Nejlevnější
                     </a>
                 </li>
                 <li>
-                    <a title="Nejdražší" href="/trafika?productListOptions-preset=orderPriceDescending">
+                    <a title="Nejdražší" href="/ovoce-a-zelenina?productListOptions-preset=orderPriceDescending">
                         Nejdražší
                     </a>
                 </li>
@@ -3798,28 +4764,28 @@ Hladká mouka</textarea>
 				<div class="region-inner region-products-inner">
 <script async>
     basic.documentReady(function () {
-        $.get("\/trafika?do=productList-ajaxLoaderSetting").done(function (setting) {
+        $.get("\/ovoce-a-zelenina?do=productList-ajaxLoaderSetting").done(function (setting) {
             setting.ShowButton = false;
             ajaxLoader.init(setting);
         });
     });
 </script>
 <div class="block block-product-items product-items" data-ajax-append="product-item" id="snippet-productList-productListArea">
-    <div id="product-append-15134" class="product-item">
+    <div id="product-append-26601" class="product-item">
         <div class="product-item-flags">
         </div>
         <div class="product-item-image">
-                <a data-href="/trafika?productList-id=15134&amp;do=productList-modal"
+                <a data-href="/ovoce-a-zelenina?productList-id=26601&amp;do=productList-modal"
                    data-target="productList-productModal"
-                   data-product-id="15134"
-                   data-product-price="102"
-                   data-page-title="Marlboro KS Box Red FWD 20ks"
-                   data-page-path="/produkt/15134-marlboro-ks-box-red-fwd-20ks"
+                   data-product-id="26601"
+                   data-product-price="6.061"
+                   data-page-title="Banán Amigo (cca 190g)"
+                   data-page-path="/produkt/26601-banan-amigo-cca-190g"
                    data-user-id=""
                    aria-hidden="true"
                    data-kosikmodal-onclose="currentPageDataPush"
                    onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/32403.jpg" alt="Marlboro KS Box Red FWD 20ks" class="loading-images loading-image">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/43823.jpg" alt="Banán Amigo (cca 190g)" class="loading-images loading-image">
                 </a>
 
 
@@ -3827,27 +4793,29 @@ Hladká mouka</textarea>
 
         </div>
                 <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Marlboro KS Box Red FWD 20ks" data-href="/trafika?productList-id=15134&amp;do=productList-modal" class="product-name modal-link"
+                <h5><a href="javascript:void(0)" aria-label="Banán Amigo (cca 190g)" data-href="/ovoce-a-zelenina?productList-id=26601&amp;do=productList-modal" class="product-name modal-link"
                    data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Marlboro KS Box Red FWD 20ks
+                    Banán Amigo (cca 190g)
                     
                 </a></h5>
             <p class="product-item-price ">
                 <span class="price-before-discount">
 				</span>
-                <strong class="price">102,00 Kč</strong>
+                <small class="circa-prefix">cca </small>
+                <strong class="price">6,10 Kč</strong>
 
             </p>
             <p class="product-item-unit">
-                    (<strong class="price">102,00 Kč</strong> / ks)
+                    (<strong class="price">31,90 Kč</strong> / kg)
             </p>
                         <div class="product-list-rating">
+                <span><ul class="rating"><li class="rating-children rating-1 up" data-rating="1"><i class="fa fa-star"></i></li><li class="rating-children rating-2 up" data-rating="2"><i class="fa fa-star"></i></li><li class="rating-children rating-3 up" data-rating="3"><i class="fa fa-star"></i></li><li class="rating-children rating-4 up" data-rating="4"><i class="fa fa-star"></i></li><li class="rating-children rating-5 down" data-rating="5"><i class="fa fa-star"></i></li></ul></span>
             </div>
-<div id="snippet-productList-buy-15134-quantity">        <div class="product-quantity-control">
-            <form action="/trafika" method="post" class="ajax" id="frm-productList-buy-15134-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-15134-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+<div id="snippet-productList-buy-26601-quantity">        <div class="product-quantity-control">
+            <form action="/ovoce-a-zelenina" method="post" class="ajax" id="frm-productList-buy-26601-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-26601-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
                 <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-15134-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+            <input type="hidden" name="do" value="productList-buy-26601-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
 </form>
 
         </div>
@@ -3859,21 +4827,24 @@ Hladká mouka</textarea>
 
         
     </div>
-    <div id="product-append-42248" class="product-item">
+    <div id="product-append-22891" class="product-item">
         <div class="product-item-flags">
+            <div class="flag-sale ">
+                <span class="percents">21<small>&#37;</small></span>
+            </div>
         </div>
         <div class="product-item-image">
-                <a data-href="/trafika?productList-id=42248&amp;do=productList-modal"
+                <a data-href="/ovoce-a-zelenina?productList-id=22891&amp;do=productList-modal"
                    data-target="productList-productModal"
-                   data-product-id="42248"
-                   data-product-price="84"
-                   data-page-title="Philip Morris Original 100 20ks"
-                   data-page-path="/produkt/42248-philip-morris-original-100-20ks"
+                   data-product-id="22891"
+                   data-product-price="4.407"
+                   data-page-title="Mandarinka Clementina (cca 130g)"
+                   data-page-path="/produkt/22891-mandarinka-clementina-cca-130g"
                    data-user-id=""
                    aria-hidden="true"
                    data-kosikmodal-onclose="currentPageDataPush"
                    onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/59965.jpg" alt="Philip Morris Original 100 20ks" class="loading-images loading-image">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/40140.jpg" alt="Mandarinka Clementina (cca 130g)" class="loading-images loading-image">
                 </a>
 
 
@@ -3881,27 +4852,29 @@ Hladká mouka</textarea>
 
         </div>
                 <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Philip Morris Original 100 20ks" data-href="/trafika?productList-id=42248&amp;do=productList-modal" class="product-name modal-link"
+                <h5><a href="javascript:void(0)" aria-label="Mandarinka Clementina (cca 130g)" data-href="/ovoce-a-zelenina?productList-id=22891&amp;do=productList-modal" class="product-name modal-link"
                    data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Philip Morris Original 100 20ks
+                    Mandarinka Clementina (cca 130g)
                     
                 </a></h5>
-            <p class="product-item-price ">
+            <p class="product-item-price product-in-discount">
                 <span class="price-before-discount">
+					<span><strong class="price">4,40 Kč</strong></span>
 				</span>
-                <strong class="price">84,00 Kč</strong>
+                <small class="circa-prefix">cca </small>
+                <strong class="price">3,50 Kč</strong>
 
             </p>
             <p class="product-item-unit">
-                    (<strong class="price">84,00 Kč</strong> / Ks)
+                    (<strong class="price">26,90 Kč</strong> / kg)
             </p>
                         <div class="product-list-rating">
             </div>
-<div id="snippet-productList-buy-42248-quantity">        <div class="product-quantity-control">
-            <form action="/trafika" method="post" class="ajax" id="frm-productList-buy-42248-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-42248-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+<div id="snippet-productList-buy-22891-quantity">        <div class="product-quantity-control">
+            <form action="/ovoce-a-zelenina" method="post" class="ajax" id="frm-productList-buy-22891-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-22891-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
                 <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-42248-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+            <input type="hidden" name="do" value="productList-buy-22891-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
 </form>
 
         </div>
@@ -3913,21 +4886,21 @@ Hladká mouka</textarea>
 
         
     </div>
-    <div id="product-append-14420" class="product-item">
+    <div id="product-append-420" class="product-item">
         <div class="product-item-flags">
         </div>
         <div class="product-item-image">
-                <a data-href="/trafika?productList-id=14420&amp;do=productList-modal"
+                <a data-href="/ovoce-a-zelenina?productList-id=420&amp;do=productList-modal"
                    data-target="productList-productModal"
-                   data-product-id="14420"
-                   data-product-price="102"
-                   data-page-title="Marlboro Gold 2.0 Original 20ks"
-                   data-page-path="/produkt/14420-marlboro-gold-2-0-original-20ks"
+                   data-product-id="420"
+                   data-product-price="3.992"
+                   data-page-title="Rajčata volná (cca 80g)"
+                   data-page-path="/produkt/420-rajcata-volna-cca-80g"
                    data-user-id=""
                    aria-hidden="true"
                    data-kosikmodal-onclose="currentPageDataPush"
                    onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/31700.jpg" alt="Marlboro Gold 2.0 Original 20ks" class="loading-images loading-image">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/443.jpg" alt="Rajčata volná (cca 80g)" class="loading-images loading-image">
                 </a>
 
 
@@ -3935,27 +4908,29 @@ Hladká mouka</textarea>
 
         </div>
                 <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Marlboro Gold 2.0 Original 20ks" data-href="/trafika?productList-id=14420&amp;do=productList-modal" class="product-name modal-link"
+                <h5><a href="javascript:void(0)" aria-label="Rajčata volná (cca 80g)" data-href="/ovoce-a-zelenina?productList-id=420&amp;do=productList-modal" class="product-name modal-link"
                    data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Marlboro Gold 2.0 Original 20ks
+                    Rajčata volná (cca 80g)
                     
                 </a></h5>
             <p class="product-item-price ">
                 <span class="price-before-discount">
 				</span>
-                <strong class="price">102,00 Kč</strong>
+                <small class="circa-prefix">cca </small>
+                <strong class="price">4,00 Kč</strong>
 
             </p>
             <p class="product-item-unit">
-                    (<strong class="price">102,00 Kč</strong> / ks)
+                    (<strong class="price">49,90 Kč</strong> / kg)
             </p>
                         <div class="product-list-rating">
+                <span><ul class="rating"><li class="rating-children rating-1 up" data-rating="1"><i class="fa fa-star"></i></li><li class="rating-children rating-2 up" data-rating="2"><i class="fa fa-star"></i></li><li class="rating-children rating-3 up" data-rating="3"><i class="fa fa-star"></i></li><li class="rating-children rating-4 up" data-rating="4"><i class="fa fa-star"></i></li><li class="rating-children rating-5 down" data-rating="5"><i class="fa fa-star"></i></li></ul></span>
             </div>
-<div id="snippet-productList-buy-14420-quantity">        <div class="product-quantity-control">
-            <form action="/trafika" method="post" class="ajax" id="frm-productList-buy-14420-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-14420-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+<div id="snippet-productList-buy-420-quantity">        <div class="product-quantity-control">
+            <form action="/ovoce-a-zelenina" method="post" class="ajax" id="frm-productList-buy-420-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-420-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
                 <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-14420-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+            <input type="hidden" name="do" value="productList-buy-420-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
 </form>
 
         </div>
@@ -3967,21 +4942,21 @@ Hladká mouka</textarea>
 
         
     </div>
-    <div id="product-append-9705" class="product-item">
+    <div id="product-append-7975" class="product-item">
         <div class="product-item-flags">
         </div>
         <div class="product-item-image">
-                <a data-href="/trafika?productList-id=9705&amp;do=productList-modal"
+                <a data-href="/ovoce-a-zelenina?productList-id=7975&amp;do=productList-modal"
                    data-target="productList-productModal"
-                   data-product-id="9705"
-                   data-product-price="91"
-                   data-page-title="L&amp;M Double Forward 20ks"
-                   data-page-path="/produkt/9705-l-m-double-forward-20ks"
+                   data-product-id="7975"
+                   data-product-price="5.388"
+                   data-page-title="Citrón (cca 120g)"
+                   data-page-path="/produkt/7975-citron-cca-120g"
                    data-user-id=""
                    aria-hidden="true"
                    data-kosikmodal-onclose="currentPageDataPush"
                    onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/27370.jpg" alt="L&amp;M Double Forward 20ks" class="loading-images loading-image">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/13507.jpg" alt="Citrón (cca 120g)" class="loading-images loading-image">
                 </a>
 
 
@@ -3989,27 +4964,29 @@ Hladká mouka</textarea>
 
         </div>
                 <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="L&amp;M Double Forward 20ks" data-href="/trafika?productList-id=9705&amp;do=productList-modal" class="product-name modal-link"
+                <h5><a href="javascript:void(0)" aria-label="Citrón (cca 120g)" data-href="/ovoce-a-zelenina?productList-id=7975&amp;do=productList-modal" class="product-name modal-link"
                    data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    L&amp;M Double Forward 20ks
+                    Citrón (cca 120g)
                     
                 </a></h5>
             <p class="product-item-price ">
                 <span class="price-before-discount">
 				</span>
-                <strong class="price">91,00 Kč</strong>
+                <small class="circa-prefix">cca </small>
+                <strong class="price">5,40 Kč</strong>
 
             </p>
             <p class="product-item-unit">
-                    (<strong class="price">91,00 Kč</strong> / ks)
+                    (<strong class="price">44,90 Kč</strong> / kg)
             </p>
                         <div class="product-list-rating">
+                <span><ul class="rating"><li class="rating-children rating-1 up" data-rating="1"><i class="fa fa-star"></i></li><li class="rating-children rating-2 up" data-rating="2"><i class="fa fa-star"></i></li><li class="rating-children rating-3 up" data-rating="3"><i class="fa fa-star"></i></li><li class="rating-children rating-4 up" data-rating="4"><i class="fa fa-star"></i></li><li class="rating-children rating-5 down" data-rating="5"><i class="fa fa-star"></i></li></ul></span>
             </div>
-<div id="snippet-productList-buy-9705-quantity">        <div class="product-quantity-control">
-            <form action="/trafika" method="post" class="ajax" id="frm-productList-buy-9705-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-9705-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+<div id="snippet-productList-buy-7975-quantity">        <div class="product-quantity-control">
+            <form action="/ovoce-a-zelenina" method="post" class="ajax" id="frm-productList-buy-7975-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-7975-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
                 <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-9705-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+            <input type="hidden" name="do" value="productList-buy-7975-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
 </form>
 
         </div>
@@ -4021,21 +4998,24 @@ Hladká mouka</textarea>
 
         
     </div>
-    <div id="product-append-42349" class="product-item">
+    <div id="product-append-414" class="product-item">
         <div class="product-item-flags">
+            <div class="flag-sale ">
+                <span class="percents">29<small>&#37;</small></span>
+            </div>
         </div>
         <div class="product-item-image">
-                <a data-href="/trafika?productList-id=42349&amp;do=productList-modal"
+                <a data-href="/ovoce-a-zelenina?productList-id=414&amp;do=productList-modal"
                    data-target="productList-productModal"
-                   data-product-id="42349"
-                   data-product-price="80"
-                   data-page-title="Rothmans DEMI Click 20ks"
-                   data-page-path="/produkt/42349-rothmans-demi-click-20ks"
+                   data-product-id="414"
+                   data-product-price="2.78"
+                   data-page-title="Mrkev (cca 200g)"
+                   data-page-path="/produkt/414-mrkev-cca-200g"
                    data-user-id=""
                    aria-hidden="true"
                    data-kosikmodal-onclose="currentPageDataPush"
                    onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/60066.jpg" alt="Rothmans DEMI Click 20ks" class="loading-images loading-image">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/437.jpg" alt="Mrkev (cca 200g)" class="loading-images loading-image">
                 </a>
 
 
@@ -4043,27 +5023,30 @@ Hladká mouka</textarea>
 
         </div>
                 <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Rothmans DEMI Click 20ks" data-href="/trafika?productList-id=42349&amp;do=productList-modal" class="product-name modal-link"
+                <h5><a href="javascript:void(0)" aria-label="Mrkev (cca 200g)" data-href="/ovoce-a-zelenina?productList-id=414&amp;do=productList-modal" class="product-name modal-link"
                    data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Rothmans DEMI Click 20ks
+                    Mrkev (cca 200g)
                     
                 </a></h5>
-            <p class="product-item-price ">
+            <p class="product-item-price product-in-discount">
                 <span class="price-before-discount">
+					<span><strong class="price">2,80 Kč</strong></span>
 				</span>
-                <strong class="price">80,00 Kč</strong>
+                <small class="circa-prefix">cca </small>
+                <strong class="price">2,00 Kč</strong>
 
             </p>
             <p class="product-item-unit">
-                    (<strong class="price">80,00 Kč</strong> / Ks)
+                    (<strong class="price">9,90 Kč</strong> / kg)
             </p>
                         <div class="product-list-rating">
+                <span><ul class="rating"><li class="rating-children rating-1 up" data-rating="1"><i class="fa fa-star"></i></li><li class="rating-children rating-2 up" data-rating="2"><i class="fa fa-star"></i></li><li class="rating-children rating-3 up" data-rating="3"><i class="fa fa-star"></i></li><li class="rating-children rating-4 up" data-rating="4"><i class="fa fa-star"></i></li><li class="rating-children rating-5 up" data-rating="5"><i class="fa fa-star"></i></li></ul></span>
             </div>
-<div id="snippet-productList-buy-42349-quantity">        <div class="product-quantity-control">
-            <form action="/trafika" method="post" class="ajax" id="frm-productList-buy-42349-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-42349-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+<div id="snippet-productList-buy-414-quantity">        <div class="product-quantity-control">
+            <form action="/ovoce-a-zelenina" method="post" class="ajax" id="frm-productList-buy-414-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-414-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
                 <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-42349-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+            <input type="hidden" name="do" value="productList-buy-414-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
 </form>
 
         </div>
@@ -4075,21 +5058,24 @@ Hladká mouka</textarea>
 
         
     </div>
-    <div id="product-append-9725" class="product-item">
+    <div id="product-append-14497" class="product-item">
         <div class="product-item-flags">
+            <div class="flag-sale ">
+                <span class="percents">33<small>&#37;</small></span>
+            </div>
         </div>
         <div class="product-item-image">
-                <a data-href="/trafika?productList-id=9725&amp;do=productList-modal"
+                <a data-href="/ovoce-a-zelenina?productList-id=14497&amp;do=productList-modal"
                    data-target="productList-productModal"
-                   data-product-id="9725"
-                   data-product-price="94"
-                   data-page-title="Marlboro Gold Soft Original 2.0 20ks"
-                   data-page-path="/produkt/9725-marlboro-gold-soft-original-2-0-20ks"
+                   data-product-id="14497"
+                   data-product-price="4.186"
+                   data-page-title="Jablko Šampion  (cca 140g)"
+                   data-page-path="/produkt/14497-jablko-sampion-cca-140g"
                    data-user-id=""
                    aria-hidden="true"
                    data-kosikmodal-onclose="currentPageDataPush"
                    onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/27393.jpg" alt="Marlboro Gold Soft Original 2.0 20ks" class="loading-images loading-image">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/31766.jpg" alt="Jablko Šampion  (cca 140g)" class="loading-images loading-image">
                 </a>
 
 
@@ -4097,27 +5083,30 @@ Hladká mouka</textarea>
 
         </div>
                 <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Marlboro Gold Soft Original 2.0 20ks" data-href="/trafika?productList-id=9725&amp;do=productList-modal" class="product-name modal-link"
+                <h5><a href="javascript:void(0)" aria-label="Jablko Šampion  (cca 140g)" data-href="/ovoce-a-zelenina?productList-id=14497&amp;do=productList-modal" class="product-name modal-link"
                    data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Marlboro Gold Soft Original 2.0 20ks
+                    Jablko Šampion  (cca 140g)
                     
                 </a></h5>
-            <p class="product-item-price ">
+            <p class="product-item-price product-in-discount">
                 <span class="price-before-discount">
+					<span><strong class="price">4,20 Kč</strong></span>
 				</span>
-                <strong class="price">94,00 Kč</strong>
+                <small class="circa-prefix">cca </small>
+                <strong class="price">2,80 Kč</strong>
 
             </p>
             <p class="product-item-unit">
-                    (<strong class="price">94,00 Kč</strong> / ks)
+                    (<strong class="price">19,90 Kč</strong> / kg)
             </p>
                         <div class="product-list-rating">
+                <span><ul class="rating"><li class="rating-children rating-1 up" data-rating="1"><i class="fa fa-star"></i></li><li class="rating-children rating-2 up" data-rating="2"><i class="fa fa-star"></i></li><li class="rating-children rating-3 up" data-rating="3"><i class="fa fa-star"></i></li><li class="rating-children rating-4 up" data-rating="4"><i class="fa fa-star"></i></li><li class="rating-children rating-5 up" data-rating="5"><i class="fa fa-star"></i></li></ul></span>
             </div>
-<div id="snippet-productList-buy-9725-quantity">        <div class="product-quantity-control">
-            <form action="/trafika" method="post" class="ajax" id="frm-productList-buy-9725-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-9725-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+<div id="snippet-productList-buy-14497-quantity">        <div class="product-quantity-control">
+            <form action="/ovoce-a-zelenina" method="post" class="ajax" id="frm-productList-buy-14497-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-14497-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
                 <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-9725-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+            <input type="hidden" name="do" value="productList-buy-14497-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
 </form>
 
         </div>
@@ -4129,21 +5118,21 @@ Hladká mouka</textarea>
 
         
     </div>
-    <div id="product-append-38229" class="product-item">
+    <div id="product-append-7636" class="product-item">
         <div class="product-item-flags">
         </div>
         <div class="product-item-image">
-                <a data-href="/trafika?productList-id=38229&amp;do=productList-modal"
+                <a data-href="/ovoce-a-zelenina?productList-id=7636&amp;do=productList-modal"
                    data-target="productList-productModal"
-                   data-product-id="38229"
-                   data-product-price="86"
-                   data-page-title="L&amp;M Blue Label Soft 20ks"
-                   data-page-path="/produkt/38229-l-m-blue-label-soft-20ks"
+                   data-product-id="7636"
+                   data-product-price="2.97"
+                   data-page-title="Cibule žlutá volná (cca 300g)"
+                   data-page-path="/produkt/7636-cibule-zluta-volna-cca-300g"
                    data-user-id=""
                    aria-hidden="true"
                    data-kosikmodal-onclose="currentPageDataPush"
                    onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/55937.jpg" alt="L&amp;M Blue Label Soft 20ks" class="loading-images loading-image">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/12721.jpg" alt="Cibule žlutá volná (cca 300g)" class="loading-images loading-image">
                 </a>
 
 
@@ -4151,27 +5140,29 @@ Hladká mouka</textarea>
 
         </div>
                 <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="L&amp;M Blue Label Soft 20ks" data-href="/trafika?productList-id=38229&amp;do=productList-modal" class="product-name modal-link"
+                <h5><a href="javascript:void(0)" aria-label="Cibule žlutá volná (cca 300g)" data-href="/ovoce-a-zelenina?productList-id=7636&amp;do=productList-modal" class="product-name modal-link"
                    data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    L&amp;M Blue Label Soft 20ks
+                    Cibule žlutá volná (cca 300g)
                     
                 </a></h5>
             <p class="product-item-price ">
                 <span class="price-before-discount">
 				</span>
-                <strong class="price">86,00 Kč</strong>
+                <small class="circa-prefix">cca </small>
+                <strong class="price">3,00 Kč</strong>
 
             </p>
             <p class="product-item-unit">
-                    (<strong class="price">86,00 Kč</strong> / ks)
+                    (<strong class="price">9,90 Kč</strong> / kg)
             </p>
                         <div class="product-list-rating">
+                <span><ul class="rating"><li class="rating-children rating-1 up" data-rating="1"><i class="fa fa-star"></i></li><li class="rating-children rating-2 up" data-rating="2"><i class="fa fa-star"></i></li><li class="rating-children rating-3 up" data-rating="3"><i class="fa fa-star"></i></li><li class="rating-children rating-4 up" data-rating="4"><i class="fa fa-star"></i></li><li class="rating-children rating-5 down" data-rating="5"><i class="fa fa-star"></i></li></ul></span>
             </div>
-<div id="snippet-productList-buy-38229-quantity">        <div class="product-quantity-control">
-            <form action="/trafika" method="post" class="ajax" id="frm-productList-buy-38229-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-38229-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+<div id="snippet-productList-buy-7636-quantity">        <div class="product-quantity-control">
+            <form action="/ovoce-a-zelenina" method="post" class="ajax" id="frm-productList-buy-7636-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-7636-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
                 <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-38229-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+            <input type="hidden" name="do" value="productList-buy-7636-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
 </form>
 
         </div>
@@ -4183,21 +5174,21 @@ Hladká mouka</textarea>
 
         
     </div>
-    <div id="product-append-17429" class="product-item">
+    <div id="product-append-395" class="product-item">
         <div class="product-item-flags">
         </div>
         <div class="product-item-image">
-                <a data-href="/trafika?productList-id=17429&amp;do=productList-modal"
+                <a data-href="/ovoce-a-zelenina?productList-id=395&amp;do=productList-modal"
                    data-target="productList-productModal"
-                   data-product-id="17429"
-                   data-product-price="86"
-                   data-page-title="L&amp;M LOFT True Blue SLI 20ks"
-                   data-page-path="/produkt/17429-l-m-loft-true-blue-sli-20ks"
+                   data-product-id="395"
+                   data-product-price="5.933"
+                   data-page-title="Jablko Golden Delicious (cca 170g)"
+                   data-page-path="/produkt/395-jablko-golden-delicious-cca-170g"
                    data-user-id=""
                    aria-hidden="true"
                    data-kosikmodal-onclose="currentPageDataPush"
                    onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/34706.jpg" alt="L&amp;M LOFT True Blue SLI 20ks" class="loading-images loading-image">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/415.jpg" alt="Jablko Golden Delicious (cca 170g)" class="loading-images loading-image">
                 </a>
 
 
@@ -4205,27 +5196,29 @@ Hladká mouka</textarea>
 
         </div>
                 <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="L&amp;M LOFT True Blue SLI 20ks" data-href="/trafika?productList-id=17429&amp;do=productList-modal" class="product-name modal-link"
+                <h5><a href="javascript:void(0)" aria-label="Jablko Golden Delicious (cca 170g)" data-href="/ovoce-a-zelenina?productList-id=395&amp;do=productList-modal" class="product-name modal-link"
                    data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    L&amp;M LOFT True Blue SLI 20ks
+                    Jablko Golden Delicious (cca 170g)
                     
                 </a></h5>
             <p class="product-item-price ">
                 <span class="price-before-discount">
 				</span>
-                <strong class="price">86,00 Kč</strong>
+                <small class="circa-prefix">cca </small>
+                <strong class="price">5,90 Kč</strong>
 
             </p>
             <p class="product-item-unit">
-                    (<strong class="price">86,00 Kč</strong> / ks)
+                    (<strong class="price">34,90 Kč</strong> / kg)
             </p>
                         <div class="product-list-rating">
+                <span><ul class="rating"><li class="rating-children rating-1 up" data-rating="1"><i class="fa fa-star"></i></li><li class="rating-children rating-2 up" data-rating="2"><i class="fa fa-star"></i></li><li class="rating-children rating-3 up" data-rating="3"><i class="fa fa-star"></i></li><li class="rating-children rating-4 up" data-rating="4"><i class="fa fa-star"></i></li><li class="rating-children rating-5 down" data-rating="5"><i class="fa fa-star"></i></li></ul></span>
             </div>
-<div id="snippet-productList-buy-17429-quantity">        <div class="product-quantity-control">
-            <form action="/trafika" method="post" class="ajax" id="frm-productList-buy-17429-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-17429-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+<div id="snippet-productList-buy-395-quantity">        <div class="product-quantity-control">
+            <form action="/ovoce-a-zelenina" method="post" class="ajax" id="frm-productList-buy-395-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-395-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
                 <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-17429-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+            <input type="hidden" name="do" value="productList-buy-395-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
 </form>
 
         </div>
@@ -4237,21 +5230,21 @@ Hladká mouka</textarea>
 
         
     </div>
-    <div id="product-append-12495" class="product-item">
+    <div id="product-append-417" class="product-item">
         <div class="product-item-flags">
         </div>
         <div class="product-item-image">
-                <a data-href="/trafika?productList-id=12495&amp;do=productList-modal"
+                <a data-href="/ovoce-a-zelenina?productList-id=417&amp;do=productList-modal"
                    data-target="productList-productModal"
-                   data-product-id="12495"
-                   data-product-price="91"
-                   data-page-title="L&amp;M Blue Label 20ks"
-                   data-page-path="/produkt/12495-l-m-blue-label-20ks"
+                   data-product-id="417"
+                   data-product-price="14.9"
+                   data-page-title="Okurka hadovka (cca 330g)"
+                   data-page-path="/produkt/417-okurka-hadovka-cca-330g"
                    data-user-id=""
                    aria-hidden="true"
                    data-kosikmodal-onclose="currentPageDataPush"
                    onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/29761.jpg" alt="L&amp;M Blue Label 20ks" class="loading-images loading-image">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/440.jpg" alt="Okurka hadovka (cca 330g)" class="loading-images loading-image">
                 </a>
 
 
@@ -4259,27 +5252,28 @@ Hladká mouka</textarea>
 
         </div>
                 <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="L&amp;M Blue Label 20ks" data-href="/trafika?productList-id=12495&amp;do=productList-modal" class="product-name modal-link"
+                <h5><a href="javascript:void(0)" aria-label="Okurka hadovka (cca 330g)" data-href="/ovoce-a-zelenina?productList-id=417&amp;do=productList-modal" class="product-name modal-link"
                    data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    L&amp;M Blue Label 20ks
+                    Okurka hadovka (cca 330g)
                     
                 </a></h5>
             <p class="product-item-price ">
                 <span class="price-before-discount">
 				</span>
-                <strong class="price">91,00 Kč</strong>
+                <strong class="price">14,90 Kč</strong>
 
             </p>
             <p class="product-item-unit">
-                    (<strong class="price">91,00 Kč</strong> / ks)
+                    (<strong class="price">45,20 Kč</strong> / kg)
             </p>
                         <div class="product-list-rating">
+                <span><ul class="rating"><li class="rating-children rating-1 up" data-rating="1"><i class="fa fa-star"></i></li><li class="rating-children rating-2 up" data-rating="2"><i class="fa fa-star"></i></li><li class="rating-children rating-3 up" data-rating="3"><i class="fa fa-star"></i></li><li class="rating-children rating-4 up" data-rating="4"><i class="fa fa-star"></i></li><li class="rating-children rating-5 down" data-rating="5"><i class="fa fa-star"></i></li></ul></span>
             </div>
-<div id="snippet-productList-buy-12495-quantity">        <div class="product-quantity-control">
-            <form action="/trafika" method="post" class="ajax" id="frm-productList-buy-12495-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-12495-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+<div id="snippet-productList-buy-417-quantity">        <div class="product-quantity-control">
+            <form action="/ovoce-a-zelenina" method="post" class="ajax" id="frm-productList-buy-417-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-417-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
                 <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-12495-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+            <input type="hidden" name="do" value="productList-buy-417-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
 </form>
 
         </div>
@@ -4291,21 +5285,21 @@ Hladká mouka</textarea>
 
         
     </div>
-    <div id="product-append-13633" class="product-item">
+    <div id="product-append-5962" class="product-item">
         <div class="product-item-flags">
         </div>
         <div class="product-item-image">
-                <a data-href="/trafika?productList-id=13633&amp;do=productList-modal"
+                <a data-href="/ovoce-a-zelenina?productList-id=5962&amp;do=productList-modal"
                    data-target="productList-productModal"
-                   data-product-id="13633"
-                   data-product-price="86"
-                   data-page-title="Petra Klasik červená 20ks"
-                   data-page-path="/produkt/13633-petra-klasik-cervena-20ks"
+                   data-product-id="5962"
+                   data-product-price="7.961"
+                   data-page-title="Banán Chiquita (cca 190g)"
+                   data-page-path="/produkt/5962-banan-chiquita-cca-190g"
                    data-user-id=""
                    aria-hidden="true"
                    data-kosikmodal-onclose="currentPageDataPush"
                    onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/30867.jpg" alt="Petra Klasik červená 20ks" class="loading-images loading-image">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/7687.jpg" alt="Banán Chiquita (cca 190g)" class="loading-images loading-image">
                 </a>
 
 
@@ -4313,27 +5307,29 @@ Hladká mouka</textarea>
 
         </div>
                 <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Petra Klasik červená 20ks" data-href="/trafika?productList-id=13633&amp;do=productList-modal" class="product-name modal-link"
+                <h5><a href="javascript:void(0)" aria-label="Banán Chiquita (cca 190g)" data-href="/ovoce-a-zelenina?productList-id=5962&amp;do=productList-modal" class="product-name modal-link"
                    data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Petra Klasik červená 20ks
+                    Banán Chiquita (cca 190g)
                     
                 </a></h5>
             <p class="product-item-price ">
                 <span class="price-before-discount">
 				</span>
-                <strong class="price">86,00 Kč</strong>
+                <small class="circa-prefix">cca </small>
+                <strong class="price">8,00 Kč</strong>
 
             </p>
             <p class="product-item-unit">
-                    (<strong class="price">86,00 Kč</strong> / ks)
+                    (<strong class="price">41,90 Kč</strong> / kg)
             </p>
                         <div class="product-list-rating">
+                <span><ul class="rating"><li class="rating-children rating-1 up" data-rating="1"><i class="fa fa-star"></i></li><li class="rating-children rating-2 up" data-rating="2"><i class="fa fa-star"></i></li><li class="rating-children rating-3 up" data-rating="3"><i class="fa fa-star"></i></li><li class="rating-children rating-4 up" data-rating="4"><i class="fa fa-star"></i></li><li class="rating-children rating-5 down" data-rating="5"><i class="fa fa-star"></i></li></ul></span>
             </div>
-<div id="snippet-productList-buy-13633-quantity">        <div class="product-quantity-control">
-            <form action="/trafika" method="post" class="ajax" id="frm-productList-buy-13633-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-13633-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+<div id="snippet-productList-buy-5962-quantity">        <div class="product-quantity-control">
+            <form action="/ovoce-a-zelenina" method="post" class="ajax" id="frm-productList-buy-5962-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-5962-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
                 <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-13633-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+            <input type="hidden" name="do" value="productList-buy-5962-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
 </form>
 
         </div>
@@ -4345,21 +5341,21 @@ Hladká mouka</textarea>
 
         
     </div>
-    <div id="product-append-9788" class="product-item">
+    <div id="product-append-33024" class="product-item">
         <div class="product-item-flags">
         </div>
         <div class="product-item-image">
-                <a data-href="/trafika?productList-id=9788&amp;do=productList-modal"
+                <a data-href="/ovoce-a-zelenina?productList-id=33024&amp;do=productList-modal"
                    data-target="productList-productModal"
-                   data-product-id="9788"
-                   data-product-price="86"
-                   data-page-title="Philip Morris Ruby 100`s 20ks"
-                   data-page-path="/produkt/9788-philip-morris-ruby-100-s-20ks"
+                   data-product-id="33024"
+                   data-product-price="5.45"
+                   data-page-title="Brambory konzumní pozdní volné (cca 500g)"
+                   data-page-path="/produkt/33024-brambory-konzumni-pozdni-volne-cca-500g"
                    data-user-id=""
                    aria-hidden="true"
                    data-kosikmodal-onclose="currentPageDataPush"
                    onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/27459.jpg" alt="Philip Morris Ruby 100`s 20ks" class="loading-images loading-image">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/50500.jpg" alt="Brambory konzumní pozdní volné (cca 500g)" class="loading-images loading-image">
                 </a>
 
 
@@ -4367,27 +5363,29 @@ Hladká mouka</textarea>
 
         </div>
                 <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Philip Morris Ruby 100`s 20ks" data-href="/trafika?productList-id=9788&amp;do=productList-modal" class="product-name modal-link"
+                <h5><a href="javascript:void(0)" aria-label="Brambory konzumní pozdní volné (cca 500g)" data-href="/ovoce-a-zelenina?productList-id=33024&amp;do=productList-modal" class="product-name modal-link"
                    data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Philip Morris Ruby 100`s 20ks
+                    Brambory konzumní pozdní volné (cca 500g)
                     
                 </a></h5>
             <p class="product-item-price ">
                 <span class="price-before-discount">
 				</span>
-                <strong class="price">86,00 Kč</strong>
+                <small class="circa-prefix">cca </small>
+                <strong class="price">5,50 Kč</strong>
 
             </p>
             <p class="product-item-unit">
-                    (<strong class="price">86,00 Kč</strong> / ks)
+                    (<strong class="price">10,90 Kč</strong> / kg)
             </p>
                         <div class="product-list-rating">
+                <span><ul class="rating"><li class="rating-children rating-1 up" data-rating="1"><i class="fa fa-star"></i></li><li class="rating-children rating-2 up" data-rating="2"><i class="fa fa-star"></i></li><li class="rating-children rating-3 up" data-rating="3"><i class="fa fa-star"></i></li><li class="rating-children rating-4 up" data-rating="4"><i class="fa fa-star"></i></li><li class="rating-children rating-5 up" data-rating="5"><i class="fa fa-star"></i></li></ul></span>
             </div>
-<div id="snippet-productList-buy-9788-quantity">        <div class="product-quantity-control">
-            <form action="/trafika" method="post" class="ajax" id="frm-productList-buy-9788-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-9788-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+<div id="snippet-productList-buy-33024-quantity">        <div class="product-quantity-control">
+            <form action="/ovoce-a-zelenina" method="post" class="ajax" id="frm-productList-buy-33024-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-33024-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
                 <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-9788-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+            <input type="hidden" name="do" value="productList-buy-33024-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
 </form>
 
         </div>
@@ -4399,21 +5397,21 @@ Hladká mouka</textarea>
 
         
     </div>
-    <div id="product-append-9715" class="product-item">
+    <div id="product-append-7977" class="product-item">
         <div class="product-item-flags">
         </div>
         <div class="product-item-image">
-                <a data-href="/trafika?productList-id=9715&amp;do=productList-modal"
+                <a data-href="/ovoce-a-zelenina?productList-id=7977&amp;do=productList-modal"
                    data-target="productList-productModal"
-                   data-product-id="9715"
-                   data-product-price="96"
-                   data-page-title="Lucky Strike Red 20ks"
-                   data-page-path="/produkt/9715-lucky-strike-red-20ks"
+                   data-product-id="7977"
+                   data-product-price="5.382"
+                   data-page-title="Jablko Jonagold (cca 180g)"
+                   data-page-path="/produkt/7977-jablko-jonagold-cca-180g"
                    data-user-id=""
                    aria-hidden="true"
                    data-kosikmodal-onclose="currentPageDataPush"
                    onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/27383.jpg" alt="Lucky Strike Red 20ks" class="loading-images loading-image">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/13510.jpg" alt="Jablko Jonagold (cca 180g)" class="loading-images loading-image">
                 </a>
 
 
@@ -4421,27 +5419,29 @@ Hladká mouka</textarea>
 
         </div>
                 <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Lucky Strike Red 20ks" data-href="/trafika?productList-id=9715&amp;do=productList-modal" class="product-name modal-link"
+                <h5><a href="javascript:void(0)" aria-label="Jablko Jonagold (cca 180g)" data-href="/ovoce-a-zelenina?productList-id=7977&amp;do=productList-modal" class="product-name modal-link"
                    data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Lucky Strike Red 20ks
+                    Jablko Jonagold (cca 180g)
                     
                 </a></h5>
             <p class="product-item-price ">
                 <span class="price-before-discount">
 				</span>
-                <strong class="price">96,00 Kč</strong>
+                <small class="circa-prefix">cca </small>
+                <strong class="price">5,40 Kč</strong>
 
             </p>
             <p class="product-item-unit">
-                    (<strong class="price">96,00 Kč</strong> / ks)
+                    (<strong class="price">29,90 Kč</strong> / kg)
             </p>
                         <div class="product-list-rating">
+                <span><ul class="rating"><li class="rating-children rating-1 up" data-rating="1"><i class="fa fa-star"></i></li><li class="rating-children rating-2 up" data-rating="2"><i class="fa fa-star"></i></li><li class="rating-children rating-3 up" data-rating="3"><i class="fa fa-star"></i></li><li class="rating-children rating-4 down" data-rating="4"><i class="fa fa-star"></i></li><li class="rating-children rating-5 down" data-rating="5"><i class="fa fa-star"></i></li></ul></span>
             </div>
-<div id="snippet-productList-buy-9715-quantity">        <div class="product-quantity-control">
-            <form action="/trafika" method="post" class="ajax" id="frm-productList-buy-9715-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-9715-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+<div id="snippet-productList-buy-7977-quantity">        <div class="product-quantity-control">
+            <form action="/ovoce-a-zelenina" method="post" class="ajax" id="frm-productList-buy-7977-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-7977-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
                 <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-9715-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+            <input type="hidden" name="do" value="productList-buy-7977-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
 </form>
 
         </div>
@@ -4453,21 +5453,21 @@ Hladká mouka</textarea>
 
         
     </div>
-    <div id="product-append-42348" class="product-item">
+    <div id="product-append-397" class="product-item">
         <div class="product-item-flags">
         </div>
         <div class="product-item-image">
-                <a data-href="/trafika?productList-id=42348&amp;do=productList-modal"
+                <a data-href="/ovoce-a-zelenina?productList-id=397&amp;do=productList-modal"
                    data-target="productList-productModal"
-                   data-product-id="42348"
-                   data-product-price="84"
-                   data-page-title="Camel Shorts Filters 20ks"
-                   data-page-path="/produkt/42348-camel-shorts-filters-20ks"
+                   data-product-id="397"
+                   data-product-price="4.552"
+                   data-page-title="Bluma tmavá (cca 80g)"
+                   data-page-path="/produkt/397-bluma-tmava-cca-80g"
                    data-user-id=""
                    aria-hidden="true"
                    data-kosikmodal-onclose="currentPageDataPush"
                    onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/60065.jpg" alt="Camel Shorts Filters 20ks" class="loading-images loading-image">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/419.jpg" alt="Bluma tmavá (cca 80g)" class="loading-images loading-image">
                 </a>
 
 
@@ -4475,27 +5475,29 @@ Hladká mouka</textarea>
 
         </div>
                 <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Camel Shorts Filters 20ks" data-href="/trafika?productList-id=42348&amp;do=productList-modal" class="product-name modal-link"
+                <h5><a href="javascript:void(0)" aria-label="Bluma tmavá (cca 80g)" data-href="/ovoce-a-zelenina?productList-id=397&amp;do=productList-modal" class="product-name modal-link"
                    data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Camel Shorts Filters 20ks
+                    Bluma tmavá (cca 80g)
                     
                 </a></h5>
             <p class="product-item-price ">
                 <span class="price-before-discount">
 				</span>
-                <strong class="price">84,00 Kč</strong>
+                <small class="circa-prefix">cca </small>
+                <strong class="price">4,60 Kč</strong>
 
             </p>
             <p class="product-item-unit">
-                    (<strong class="price">84,00 Kč</strong> / Ks)
+                    (<strong class="price">56,90 Kč</strong> / kg)
             </p>
                         <div class="product-list-rating">
+                <span><ul class="rating"><li class="rating-children rating-1 up" data-rating="1"><i class="fa fa-star"></i></li><li class="rating-children rating-2 up" data-rating="2"><i class="fa fa-star"></i></li><li class="rating-children rating-3 up" data-rating="3"><i class="fa fa-star"></i></li><li class="rating-children rating-4 up" data-rating="4"><i class="fa fa-star"></i></li><li class="rating-children rating-5 down" data-rating="5"><i class="fa fa-star"></i></li></ul></span>
             </div>
-<div id="snippet-productList-buy-42348-quantity">        <div class="product-quantity-control">
-            <form action="/trafika" method="post" class="ajax" id="frm-productList-buy-42348-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-42348-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+<div id="snippet-productList-buy-397-quantity">        <div class="product-quantity-control">
+            <form action="/ovoce-a-zelenina" method="post" class="ajax" id="frm-productList-buy-397-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-397-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
                 <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-42348-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+            <input type="hidden" name="do" value="productList-buy-397-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
 </form>
 
         </div>
@@ -4507,21 +5509,21 @@ Hladká mouka</textarea>
 
         
     </div>
-    <div id="product-append-9787" class="product-item">
+    <div id="product-append-13488" class="product-item">
         <div class="product-item-flags">
         </div>
         <div class="product-item-image">
-                <a data-href="/trafika?productList-id=9787&amp;do=productList-modal"
+                <a data-href="/ovoce-a-zelenina?productList-id=13488&amp;do=productList-modal"
                    data-target="productList-productModal"
-                   data-product-id="9787"
-                   data-product-price="86"
-                   data-page-title="Philip Morris Ruby 20ks"
-                   data-page-path="/produkt/9787-philip-morris-ruby-20ks"
+                   data-product-id="13488"
+                   data-product-price="6.821"
+                   data-page-title="Jablko Gala (cca 190g)"
+                   data-page-path="/produkt/13488-jablko-gala-cca-190g"
                    data-user-id=""
                    aria-hidden="true"
                    data-kosikmodal-onclose="currentPageDataPush"
                    onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/27458.jpg" alt="Philip Morris Ruby 20ks" class="loading-images loading-image">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/30825.jpg" alt="Jablko Gala (cca 190g)" class="loading-images loading-image">
                 </a>
 
 
@@ -4529,27 +5531,28 @@ Hladká mouka</textarea>
 
         </div>
                 <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Philip Morris Ruby 20ks" data-href="/trafika?productList-id=9787&amp;do=productList-modal" class="product-name modal-link"
+                <h5><a href="javascript:void(0)" aria-label="Jablko Gala (cca 190g)" data-href="/ovoce-a-zelenina?productList-id=13488&amp;do=productList-modal" class="product-name modal-link"
                    data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Philip Morris Ruby 20ks
+                    Jablko Gala (cca 190g)
                     
                 </a></h5>
             <p class="product-item-price ">
                 <span class="price-before-discount">
 				</span>
-                <strong class="price">86,00 Kč</strong>
+                <small class="circa-prefix">cca </small>
+                <strong class="price">6,80 Kč</strong>
 
             </p>
             <p class="product-item-unit">
-                    (<strong class="price">86,00 Kč</strong> / ks)
+                    (<strong class="price">35,90 Kč</strong> / kg)
             </p>
                         <div class="product-list-rating">
             </div>
-<div id="snippet-productList-buy-9787-quantity">        <div class="product-quantity-control">
-            <form action="/trafika" method="post" class="ajax" id="frm-productList-buy-9787-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-9787-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+<div id="snippet-productList-buy-13488-quantity">        <div class="product-quantity-control">
+            <form action="/ovoce-a-zelenina" method="post" class="ajax" id="frm-productList-buy-13488-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-13488-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
                 <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-9787-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+            <input type="hidden" name="do" value="productList-buy-13488-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
 </form>
 
         </div>
@@ -4561,21 +5564,21 @@ Hladká mouka</textarea>
 
         
     </div>
-    <div id="product-append-9720" class="product-item">
+    <div id="product-append-7979" class="product-item">
         <div class="product-item-flags">
         </div>
         <div class="product-item-image">
-                <a data-href="/trafika?productList-id=9720&amp;do=productList-modal"
+                <a data-href="/ovoce-a-zelenina?productList-id=7979&amp;do=productList-modal"
                    data-target="productList-productModal"
-                   data-product-id="9720"
-                   data-product-price="86"
-                   data-page-title="Marlboro Red FWD 70 RS Box 20ks"
-                   data-page-path="/produkt/9720-marlboro-red-fwd-70-rs-box-20ks"
+                   data-product-id="7979"
+                   data-product-price="10.327"
+                   data-page-title="Hruška zelená Alexander Lucas (cca 230g)"
+                   data-page-path="/produkt/7979-hruska-zelena-alexander-lucas-cca-230g"
                    data-user-id=""
                    aria-hidden="true"
                    data-kosikmodal-onclose="currentPageDataPush"
                    onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/27388.jpg" alt="Marlboro Red FWD 70 RS Box 20ks" class="loading-images loading-image">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/13513.jpg" alt="Hruška zelená Alexander Lucas (cca 230g)" class="loading-images loading-image">
                 </a>
 
 
@@ -4583,27 +5586,29 @@ Hladká mouka</textarea>
 
         </div>
                 <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Marlboro Red FWD 70 RS Box 20ks" data-href="/trafika?productList-id=9720&amp;do=productList-modal" class="product-name modal-link"
+                <h5><a href="javascript:void(0)" aria-label="Hruška zelená Alexander Lucas (cca 230g)" data-href="/ovoce-a-zelenina?productList-id=7979&amp;do=productList-modal" class="product-name modal-link"
                    data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Marlboro Red FWD 70 RS Box 20ks
+                    Hruška zelená Alexander Lucas (cca 230g)
                     
                 </a></h5>
             <p class="product-item-price ">
                 <span class="price-before-discount">
 				</span>
-                <strong class="price">86,00 Kč</strong>
+                <small class="circa-prefix">cca </small>
+                <strong class="price">10,30 Kč</strong>
 
             </p>
             <p class="product-item-unit">
-                    (<strong class="price">86,00 Kč</strong> / ks)
+                    (<strong class="price">44,90 Kč</strong> / kg)
             </p>
                         <div class="product-list-rating">
+                <span><ul class="rating"><li class="rating-children rating-1 up" data-rating="1"><i class="fa fa-star"></i></li><li class="rating-children rating-2 up" data-rating="2"><i class="fa fa-star"></i></li><li class="rating-children rating-3 up" data-rating="3"><i class="fa fa-star"></i></li><li class="rating-children rating-4 up" data-rating="4"><i class="fa fa-star"></i></li><li class="rating-children rating-5 up" data-rating="5"><i class="fa fa-star"></i></li></ul></span>
             </div>
-<div id="snippet-productList-buy-9720-quantity">        <div class="product-quantity-control">
-            <form action="/trafika" method="post" class="ajax" id="frm-productList-buy-9720-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-9720-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+<div id="snippet-productList-buy-7979-quantity">        <div class="product-quantity-control">
+            <form action="/ovoce-a-zelenina" method="post" class="ajax" id="frm-productList-buy-7979-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-7979-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
                 <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-9720-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+            <input type="hidden" name="do" value="productList-buy-7979-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
 </form>
 
         </div>
@@ -4615,21 +5620,21 @@ Hladká mouka</textarea>
 
         
     </div>
-    <div id="product-append-14419" class="product-item">
+    <div id="product-append-7640" class="product-item">
         <div class="product-item-flags">
         </div>
         <div class="product-item-image">
-                <a data-href="/trafika?productList-id=14419&amp;do=productList-modal"
+                <a data-href="/ovoce-a-zelenina?productList-id=7640&amp;do=productList-modal"
                    data-target="productList-productModal"
-                   data-product-id="14419"
-                   data-product-price="94"
-                   data-page-title="Marlboro KS Soft Red FWD 20ks"
-                   data-page-path="/produkt/14419-marlboro-ks-soft-red-fwd-20ks"
+                   data-product-id="7640"
+                   data-product-price="6.948"
+                   data-page-title="Paprika červená (cca 120g)"
+                   data-page-path="/produkt/7640-paprika-cervena-cca-120g"
                    data-user-id=""
                    aria-hidden="true"
                    data-kosikmodal-onclose="currentPageDataPush"
                    onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/31699.jpg" alt="Marlboro KS Soft Red FWD 20ks" class="loading-images loading-image">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/12758.jpg" alt="Paprika červená (cca 120g)" class="loading-images loading-image">
                 </a>
 
 
@@ -4637,27 +5642,29 @@ Hladká mouka</textarea>
 
         </div>
                 <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Marlboro KS Soft Red FWD 20ks" data-href="/trafika?productList-id=14419&amp;do=productList-modal" class="product-name modal-link"
+                <h5><a href="javascript:void(0)" aria-label="Paprika červená (cca 120g)" data-href="/ovoce-a-zelenina?productList-id=7640&amp;do=productList-modal" class="product-name modal-link"
                    data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Marlboro KS Soft Red FWD 20ks
+                    Paprika červená (cca 120g)
                     
                 </a></h5>
             <p class="product-item-price ">
                 <span class="price-before-discount">
 				</span>
-                <strong class="price">94,00 Kč</strong>
+                <small class="circa-prefix">cca </small>
+                <strong class="price">6,90 Kč</strong>
 
             </p>
             <p class="product-item-unit">
-                    (<strong class="price">94,00 Kč</strong> / ks)
+                    (<strong class="price">57,90 Kč</strong> / kg)
             </p>
                         <div class="product-list-rating">
+                <span><ul class="rating"><li class="rating-children rating-1 up" data-rating="1"><i class="fa fa-star"></i></li><li class="rating-children rating-2 up" data-rating="2"><i class="fa fa-star"></i></li><li class="rating-children rating-3 up" data-rating="3"><i class="fa fa-star"></i></li><li class="rating-children rating-4 up" data-rating="4"><i class="fa fa-star"></i></li><li class="rating-children rating-5 up" data-rating="5"><i class="fa fa-star"></i></li></ul></span>
             </div>
-<div id="snippet-productList-buy-14419-quantity">        <div class="product-quantity-control">
-            <form action="/trafika" method="post" class="ajax" id="frm-productList-buy-14419-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-14419-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+<div id="snippet-productList-buy-7640-quantity">        <div class="product-quantity-control">
+            <form action="/ovoce-a-zelenina" method="post" class="ajax" id="frm-productList-buy-7640-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-7640-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
                 <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-14419-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+            <input type="hidden" name="do" value="productList-buy-7640-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
 </form>
 
         </div>
@@ -4669,21 +5676,21 @@ Hladká mouka</textarea>
 
         
     </div>
-    <div id="product-append-9642" class="product-item">
+    <div id="product-append-13090" class="product-item">
         <div class="product-item-flags">
         </div>
         <div class="product-item-image">
-                <a data-href="/trafika?productList-id=9642&amp;do=productList-modal"
+                <a data-href="/ovoce-a-zelenina?productList-id=13090&amp;do=productList-modal"
                    data-target="productList-productModal"
-                   data-product-id="9642"
-                   data-product-price="87"
-                   data-page-title="Camel Black 20ks"
-                   data-page-path="/produkt/9642-camel-black-20ks"
+                   data-product-id="13090"
+                   data-product-price="8.136"
+                   data-page-title="Pomeranč (cca 240g)"
+                   data-page-path="/produkt/13090-pomeranc-cca-240g"
                    data-user-id=""
                    aria-hidden="true"
                    data-kosikmodal-onclose="currentPageDataPush"
                    onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/27298.jpg" alt="Camel Black 20ks" class="loading-images loading-image">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/30489.jpg" alt="Pomeranč (cca 240g)" class="loading-images loading-image">
                 </a>
 
 
@@ -4691,27 +5698,29 @@ Hladká mouka</textarea>
 
         </div>
                 <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Camel Black 20ks" data-href="/trafika?productList-id=9642&amp;do=productList-modal" class="product-name modal-link"
+                <h5><a href="javascript:void(0)" aria-label="Pomeranč (cca 240g)" data-href="/ovoce-a-zelenina?productList-id=13090&amp;do=productList-modal" class="product-name modal-link"
                    data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Camel Black 20ks
+                    Pomeranč (cca 240g)
                     
                 </a></h5>
             <p class="product-item-price ">
                 <span class="price-before-discount">
 				</span>
-                <strong class="price">87,00 Kč</strong>
+                <small class="circa-prefix">cca </small>
+                <strong class="price">8,10 Kč</strong>
 
             </p>
             <p class="product-item-unit">
-                    (<strong class="price">87,00 Kč</strong> / ks)
+                    (<strong class="price">33,90 Kč</strong> / kg)
             </p>
                         <div class="product-list-rating">
+                <span><ul class="rating"><li class="rating-children rating-1 up" data-rating="1"><i class="fa fa-star"></i></li><li class="rating-children rating-2 up" data-rating="2"><i class="fa fa-star"></i></li><li class="rating-children rating-3 up" data-rating="3"><i class="fa fa-star"></i></li><li class="rating-children rating-4 up" data-rating="4"><i class="fa fa-star"></i></li><li class="rating-children rating-5 down" data-rating="5"><i class="fa fa-star"></i></li></ul></span>
             </div>
-<div id="snippet-productList-buy-9642-quantity">        <div class="product-quantity-control">
-            <form action="/trafika" method="post" class="ajax" id="frm-productList-buy-9642-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-9642-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+<div id="snippet-productList-buy-13090-quantity">        <div class="product-quantity-control">
+            <form action="/ovoce-a-zelenina" method="post" class="ajax" id="frm-productList-buy-13090-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-13090-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
                 <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-9642-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+            <input type="hidden" name="do" value="productList-buy-13090-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
 </form>
 
         </div>
@@ -4723,21 +5732,24 @@ Hladká mouka</textarea>
 
         
     </div>
-    <div id="product-append-17448" class="product-item">
+    <div id="product-append-390" class="product-item">
         <div class="product-item-flags">
+            <div class="flag-sale ">
+                <span class="percents">25<small>&#37;</small></span>
+            </div>
         </div>
         <div class="product-item-image">
-                <a data-href="/trafika?productList-id=17448&amp;do=productList-modal"
+                <a data-href="/ovoce-a-zelenina?productList-id=390&amp;do=productList-modal"
                    data-target="productList-productModal"
-                   data-product-id="17448"
-                   data-product-price="92"
-                   data-page-title="Lucky Strike Cold 20ks"
-                   data-page-path="/produkt/17448-lucky-strike-cold-20ks"
+                   data-product-id="390"
+                   data-product-price="7.9"
+                   data-page-title="Kiwi (cca 110g)"
+                   data-page-path="/produkt/390-kiwi-cca-110g"
                    data-user-id=""
                    aria-hidden="true"
                    data-kosikmodal-onclose="currentPageDataPush"
                    onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/34725.jpg" alt="Lucky Strike Cold 20ks" class="loading-images loading-image">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/410.jpg" alt="Kiwi (cca 110g)" class="loading-images loading-image">
                 </a>
 
 
@@ -4745,27 +5757,29 @@ Hladká mouka</textarea>
 
         </div>
                 <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Lucky Strike Cold 20ks" data-href="/trafika?productList-id=17448&amp;do=productList-modal" class="product-name modal-link"
+                <h5><a href="javascript:void(0)" aria-label="Kiwi (cca 110g)" data-href="/ovoce-a-zelenina?productList-id=390&amp;do=productList-modal" class="product-name modal-link"
                    data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Lucky Strike Cold 20ks
+                    Kiwi (cca 110g)
                     
                 </a></h5>
-            <p class="product-item-price ">
+            <p class="product-item-price product-in-discount">
                 <span class="price-before-discount">
+					<span><strong class="price">7,90 Kč</strong></span>
 				</span>
-                <strong class="price">92,00 Kč</strong>
+                <strong class="price">5,90 Kč</strong>
 
             </p>
             <p class="product-item-unit">
-                    (<strong class="price">92,00 Kč</strong> / ks)
+                    (<strong class="price">53,60 Kč</strong> / kg)
             </p>
                         <div class="product-list-rating">
+                <span><ul class="rating"><li class="rating-children rating-1 up" data-rating="1"><i class="fa fa-star"></i></li><li class="rating-children rating-2 up" data-rating="2"><i class="fa fa-star"></i></li><li class="rating-children rating-3 up" data-rating="3"><i class="fa fa-star"></i></li><li class="rating-children rating-4 up" data-rating="4"><i class="fa fa-star"></i></li><li class="rating-children rating-5 up" data-rating="5"><i class="fa fa-star"></i></li></ul></span>
             </div>
-<div id="snippet-productList-buy-17448-quantity">        <div class="product-quantity-control">
-            <form action="/trafika" method="post" class="ajax" id="frm-productList-buy-17448-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-17448-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+<div id="snippet-productList-buy-390-quantity">        <div class="product-quantity-control">
+            <form action="/ovoce-a-zelenina" method="post" class="ajax" id="frm-productList-buy-390-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-390-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
                 <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-17448-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+            <input type="hidden" name="do" value="productList-buy-390-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
 </form>
 
         </div>
@@ -4777,21 +5791,21 @@ Hladká mouka</textarea>
 
         
     </div>
-    <div id="product-append-42350" class="product-item">
+    <div id="product-append-7639" class="product-item">
         <div class="product-item-flags">
         </div>
         <div class="product-item-image">
-                <a data-href="/trafika?productList-id=42350&amp;do=productList-modal"
+                <a data-href="/ovoce-a-zelenina?productList-id=7639&amp;do=productList-modal"
                    data-target="productList-productModal"
-                   data-product-id="42350"
-                   data-product-price="86"
-                   data-page-title="Viceroy Plus Modrá 20ks"
-                   data-page-path="/produkt/42350-viceroy-plus-modra-20ks"
+                   data-product-id="7639"
+                   data-product-price="5.69"
+                   data-page-title="Paprika bílá (cca 100g)"
+                   data-page-path="/produkt/7639-paprika-bila-cca-100g"
                    data-user-id=""
                    aria-hidden="true"
                    data-kosikmodal-onclose="currentPageDataPush"
                    onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/60067.jpg" alt="Viceroy Plus Modrá 20ks" class="loading-images loading-image">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/12757.jpg" alt="Paprika bílá (cca 100g)" class="loading-images loading-image">
                 </a>
 
 
@@ -4799,27 +5813,29 @@ Hladká mouka</textarea>
 
         </div>
                 <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Viceroy Plus Modrá 20ks" data-href="/trafika?productList-id=42350&amp;do=productList-modal" class="product-name modal-link"
+                <h5><a href="javascript:void(0)" aria-label="Paprika bílá (cca 100g)" data-href="/ovoce-a-zelenina?productList-id=7639&amp;do=productList-modal" class="product-name modal-link"
                    data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Viceroy Plus Modrá 20ks
+                    Paprika bílá (cca 100g)
                     
                 </a></h5>
             <p class="product-item-price ">
                 <span class="price-before-discount">
 				</span>
-                <strong class="price">86,00 Kč</strong>
+                <small class="circa-prefix">cca </small>
+                <strong class="price">5,70 Kč</strong>
 
             </p>
             <p class="product-item-unit">
-                    (<strong class="price">4,30 Kč</strong> / ks)
+                    (<strong class="price">56,90 Kč</strong> / kg)
             </p>
                         <div class="product-list-rating">
+                <span><ul class="rating"><li class="rating-children rating-1 up" data-rating="1"><i class="fa fa-star"></i></li><li class="rating-children rating-2 up" data-rating="2"><i class="fa fa-star"></i></li><li class="rating-children rating-3 up" data-rating="3"><i class="fa fa-star"></i></li><li class="rating-children rating-4 up" data-rating="4"><i class="fa fa-star"></i></li><li class="rating-children rating-5 up" data-rating="5"><i class="fa fa-star"></i></li></ul></span>
             </div>
-<div id="snippet-productList-buy-42350-quantity">        <div class="product-quantity-control">
-            <form action="/trafika" method="post" class="ajax" id="frm-productList-buy-42350-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-42350-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+<div id="snippet-productList-buy-7639-quantity">        <div class="product-quantity-control">
+            <form action="/ovoce-a-zelenina" method="post" class="ajax" id="frm-productList-buy-7639-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-7639-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
                 <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-42350-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+            <input type="hidden" name="do" value="productList-buy-7639-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
 </form>
 
         </div>
@@ -4831,21 +5847,21 @@ Hladká mouka</textarea>
 
         
     </div>
-    <div id="product-append-17447" class="product-item">
+    <div id="product-append-22755" class="product-item">
         <div class="product-item-flags">
         </div>
         <div class="product-item-image">
-                <a data-href="/trafika?productList-id=17447&amp;do=productList-modal"
+                <a data-href="/ovoce-a-zelenina?productList-id=22755&amp;do=productList-modal"
                    data-target="productList-productModal"
-                   data-product-id="17447"
-                   data-product-price="96"
-                   data-page-title="Camel Blue 20ks"
-                   data-page-path="/produkt/17447-camel-blue-20ks"
+                   data-product-id="22755"
+                   data-product-price="13.9"
+                   data-page-title="Kaki churma (cca 300g)"
+                   data-page-path="/produkt/22755-kaki-churma-cca-300g"
                    data-user-id=""
                    aria-hidden="true"
                    data-kosikmodal-onclose="currentPageDataPush"
                    onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/34724.jpg" alt="Camel Blue 20ks" class="loading-images loading-image">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/40004.jpg" alt="Kaki churma (cca 300g)" class="loading-images loading-image">
                 </a>
 
 
@@ -4853,27 +5869,28 @@ Hladká mouka</textarea>
 
         </div>
                 <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Camel Blue 20ks" data-href="/trafika?productList-id=17447&amp;do=productList-modal" class="product-name modal-link"
+                <h5><a href="javascript:void(0)" aria-label="Kaki churma (cca 300g)" data-href="/ovoce-a-zelenina?productList-id=22755&amp;do=productList-modal" class="product-name modal-link"
                    data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Camel Blue 20ks
+                    Kaki churma (cca 300g)
                     
                 </a></h5>
             <p class="product-item-price ">
                 <span class="price-before-discount">
 				</span>
-                <strong class="price">96,00 Kč</strong>
+                <strong class="price">13,90 Kč</strong>
 
             </p>
             <p class="product-item-unit">
-                    (<strong class="price">96,00 Kč</strong> / ks)
+                    (<strong class="price">46,30 Kč</strong> / kg)
             </p>
                         <div class="product-list-rating">
+                <span><ul class="rating"><li class="rating-children rating-1 up" data-rating="1"><i class="fa fa-star"></i></li><li class="rating-children rating-2 up" data-rating="2"><i class="fa fa-star"></i></li><li class="rating-children rating-3 up" data-rating="3"><i class="fa fa-star"></i></li><li class="rating-children rating-4 up" data-rating="4"><i class="fa fa-star"></i></li><li class="rating-children rating-5 up" data-rating="5"><i class="fa fa-star"></i></li></ul></span>
             </div>
-<div id="snippet-productList-buy-17447-quantity">        <div class="product-quantity-control">
-            <form action="/trafika" method="post" class="ajax" id="frm-productList-buy-17447-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-17447-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+<div id="snippet-productList-buy-22755-quantity">        <div class="product-quantity-control">
+            <form action="/ovoce-a-zelenina" method="post" class="ajax" id="frm-productList-buy-22755-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-22755-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
                 <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-17447-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+            <input type="hidden" name="do" value="productList-buy-22755-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
 </form>
 
         </div>
@@ -4885,21 +5902,21 @@ Hladká mouka</textarea>
 
         
     </div>
-    <div id="product-append-13642" class="product-item">
+    <div id="product-append-7978" class="product-item">
         <div class="product-item-flags">
         </div>
         <div class="product-item-image">
-                <a data-href="/trafika?productList-id=13642&amp;do=productList-modal"
+                <a data-href="/ovoce-a-zelenina?productList-id=7978&amp;do=productList-modal"
                    data-target="productList-productModal"
-                   data-product-id="13642"
-                   data-product-price="85"
-                   data-page-title="West Duo 20ks"
-                   data-page-path="/produkt/13642-west-duo-20ks"
+                   data-product-id="7978"
+                   data-product-price="29.9"
+                   data-page-title="Pomeranče síť 1 kg"
+                   data-page-path="/produkt/7978-pomerance-sit-1-kg"
                    data-user-id=""
                    aria-hidden="true"
                    data-kosikmodal-onclose="currentPageDataPush"
                    onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/30876.jpg" alt="West Duo 20ks" class="loading-images loading-image">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/13512.jpg" alt="Pomeranče síť 1 kg" class="loading-images loading-image">
                 </a>
 
 
@@ -4907,27 +5924,28 @@ Hladká mouka</textarea>
 
         </div>
                 <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="West Duo 20ks" data-href="/trafika?productList-id=13642&amp;do=productList-modal" class="product-name modal-link"
+                <h5><a href="javascript:void(0)" aria-label="Pomeranče síť 1 kg" data-href="/ovoce-a-zelenina?productList-id=7978&amp;do=productList-modal" class="product-name modal-link"
                    data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    West Duo 20ks
+                    Pomeranče síť 1 kg
                     
                 </a></h5>
             <p class="product-item-price ">
                 <span class="price-before-discount">
 				</span>
-                <strong class="price">85,00 Kč</strong>
+                <strong class="price">29,90 Kč</strong>
 
             </p>
             <p class="product-item-unit">
-                    (<strong class="price">85,00 Kč</strong> / ks)
+                    (<strong class="price">29,90 Kč</strong> / kg)
             </p>
                         <div class="product-list-rating">
+                <span><ul class="rating"><li class="rating-children rating-1 up" data-rating="1"><i class="fa fa-star"></i></li><li class="rating-children rating-2 down" data-rating="2"><i class="fa fa-star"></i></li><li class="rating-children rating-3 down" data-rating="3"><i class="fa fa-star"></i></li><li class="rating-children rating-4 down" data-rating="4"><i class="fa fa-star"></i></li><li class="rating-children rating-5 down" data-rating="5"><i class="fa fa-star"></i></li></ul></span>
             </div>
-<div id="snippet-productList-buy-13642-quantity">        <div class="product-quantity-control">
-            <form action="/trafika" method="post" class="ajax" id="frm-productList-buy-13642-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-13642-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+<div id="snippet-productList-buy-7978-quantity">        <div class="product-quantity-control">
+            <form action="/ovoce-a-zelenina" method="post" class="ajax" id="frm-productList-buy-7978-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-7978-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
                 <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-13642-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+            <input type="hidden" name="do" value="productList-buy-7978-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
 </form>
 
         </div>
@@ -4939,21 +5957,21 @@ Hladká mouka</textarea>
 
         
     </div>
-    <div id="product-append-14418" class="product-item">
+    <div id="product-append-14011" class="product-item">
         <div class="product-item-flags">
         </div>
         <div class="product-item-image">
-                <a data-href="/trafika?productList-id=14418&amp;do=productList-modal"
+                <a data-href="/ovoce-a-zelenina?productList-id=14011&amp;do=productList-modal"
                    data-target="productList-productModal"
-                   data-product-id="14418"
-                   data-product-price="86"
-                   data-page-title="Philip Morris Royal 100´s  20ks"
-                   data-page-path="/produkt/14418-philip-morris-royal-100s-20ks"
+                   data-product-id="14011"
+                   data-product-price="5.841"
+                   data-page-title="Paprika červená kapie (cca 90g)"
+                   data-page-path="/produkt/14011-paprika-cervena-kapie-cca-90g"
                    data-user-id=""
                    aria-hidden="true"
                    data-kosikmodal-onclose="currentPageDataPush"
                    onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/31698.jpg" alt="Philip Morris Royal 100´s  20ks" class="loading-images loading-image">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/31264.jpg" alt="Paprika červená kapie (cca 90g)" class="loading-images loading-image">
                 </a>
 
 
@@ -4961,27 +5979,29 @@ Hladká mouka</textarea>
 
         </div>
                 <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Philip Morris Royal 100´s  20ks" data-href="/trafika?productList-id=14418&amp;do=productList-modal" class="product-name modal-link"
+                <h5><a href="javascript:void(0)" aria-label="Paprika červená kapie (cca 90g)" data-href="/ovoce-a-zelenina?productList-id=14011&amp;do=productList-modal" class="product-name modal-link"
                    data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Philip Morris Royal 100´s  20ks
+                    Paprika červená kapie (cca 90g)
                     
                 </a></h5>
             <p class="product-item-price ">
                 <span class="price-before-discount">
 				</span>
-                <strong class="price">86,00 Kč</strong>
+                <small class="circa-prefix">cca </small>
+                <strong class="price">5,80 Kč</strong>
 
             </p>
             <p class="product-item-unit">
-                    (<strong class="price">86,00 Kč</strong> / ks)
+                    (<strong class="price">64,90 Kč</strong> / kg)
             </p>
                         <div class="product-list-rating">
+                <span><ul class="rating"><li class="rating-children rating-1 up" data-rating="1"><i class="fa fa-star"></i></li><li class="rating-children rating-2 up" data-rating="2"><i class="fa fa-star"></i></li><li class="rating-children rating-3 up" data-rating="3"><i class="fa fa-star"></i></li><li class="rating-children rating-4 up" data-rating="4"><i class="fa fa-star"></i></li><li class="rating-children rating-5 up" data-rating="5"><i class="fa fa-star"></i></li></ul></span>
             </div>
-<div id="snippet-productList-buy-14418-quantity">        <div class="product-quantity-control">
-            <form action="/trafika" method="post" class="ajax" id="frm-productList-buy-14418-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-14418-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+<div id="snippet-productList-buy-14011-quantity">        <div class="product-quantity-control">
+            <form action="/ovoce-a-zelenina" method="post" class="ajax" id="frm-productList-buy-14011-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-14011-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
                 <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-14418-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+            <input type="hidden" name="do" value="productList-buy-14011-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
 </form>
 
         </div>
@@ -4993,21 +6013,21 @@ Hladká mouka</textarea>
 
         
     </div>
-    <div id="product-append-37045" class="product-item">
+    <div id="product-append-410" class="product-item">
         <div class="product-item-flags">
         </div>
         <div class="product-item-image">
-                <a data-href="/trafika?productList-id=37045&amp;do=productList-modal"
+                <a data-href="/ovoce-a-zelenina?productList-id=410&amp;do=productList-modal"
                    data-target="productList-productModal"
-                   data-product-id="37045"
-                   data-product-price="86"
-                   data-page-title="Viceroy Plus Stříbrná 20ks"
-                   data-page-path="/produkt/37045-viceroy-plus-stribrna-20ks"
+                   data-product-id="410"
+                   data-product-price="4.975"
+                   data-page-title="Cibule červená (cca 250g)"
+                   data-page-path="/produkt/410-cibule-cervena-cca-250g"
                    data-user-id=""
                    aria-hidden="true"
                    data-kosikmodal-onclose="currentPageDataPush"
                    onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/54668.jpg" alt="Viceroy Plus Stříbrná 20ks" class="loading-images loading-image">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/433.jpg" alt="Cibule červená (cca 250g)" class="loading-images loading-image">
                 </a>
 
 
@@ -5015,27 +6035,29 @@ Hladká mouka</textarea>
 
         </div>
                 <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Viceroy Plus Stříbrná 20ks" data-href="/trafika?productList-id=37045&amp;do=productList-modal" class="product-name modal-link"
+                <h5><a href="javascript:void(0)" aria-label="Cibule červená (cca 250g)" data-href="/ovoce-a-zelenina?productList-id=410&amp;do=productList-modal" class="product-name modal-link"
                    data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Viceroy Plus Stříbrná 20ks
+                    Cibule červená (cca 250g)
                     
                 </a></h5>
             <p class="product-item-price ">
                 <span class="price-before-discount">
 				</span>
-                <strong class="price">86,00 Kč</strong>
+                <small class="circa-prefix">cca </small>
+                <strong class="price">5,00 Kč</strong>
 
             </p>
             <p class="product-item-unit">
-                    (<strong class="price">86,00 Kč</strong> / ks)
+                    (<strong class="price">19,90 Kč</strong> / kg)
             </p>
                         <div class="product-list-rating">
+                <span><ul class="rating"><li class="rating-children rating-1 up" data-rating="1"><i class="fa fa-star"></i></li><li class="rating-children rating-2 up" data-rating="2"><i class="fa fa-star"></i></li><li class="rating-children rating-3 up" data-rating="3"><i class="fa fa-star"></i></li><li class="rating-children rating-4 up" data-rating="4"><i class="fa fa-star"></i></li><li class="rating-children rating-5 down" data-rating="5"><i class="fa fa-star"></i></li></ul></span>
             </div>
-<div id="snippet-productList-buy-37045-quantity">        <div class="product-quantity-control">
-            <form action="/trafika" method="post" class="ajax" id="frm-productList-buy-37045-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-37045-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+<div id="snippet-productList-buy-410-quantity">        <div class="product-quantity-control">
+            <form action="/ovoce-a-zelenina" method="post" class="ajax" id="frm-productList-buy-410-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-410-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
                 <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-37045-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+            <input type="hidden" name="do" value="productList-buy-410-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
 </form>
 
         </div>
@@ -5047,21 +6069,21 @@ Hladká mouka</textarea>
 
         
     </div>
-    <div id="product-append-9707" class="product-item">
+    <div id="product-append-408" class="product-item">
         <div class="product-item-flags">
         </div>
         <div class="product-item-image">
-                <a data-href="/trafika?productList-id=9707&amp;do=productList-modal"
+                <a data-href="/ovoce-a-zelenina?productList-id=408&amp;do=productList-modal"
                    data-target="productList-productModal"
-                   data-product-id="9707"
-                   data-product-price="86"
-                   data-page-title="L&amp;M LOFT Black BOT SLI 20ks"
-                   data-page-path="/produkt/9707-l-m-loft-black-bot-sli-20ks"
+                   data-product-id="408"
+                   data-product-price="6.293"
+                   data-page-title="Česnek (cca 70g)"
+                   data-page-path="/produkt/408-cesnek-cca-70g"
                    data-user-id=""
                    aria-hidden="true"
                    data-kosikmodal-onclose="currentPageDataPush"
                    onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/27375.jpg" alt="L&amp;M LOFT Black BOT SLI 20ks" class="loading-images loading-image">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/431.jpg" alt="Česnek (cca 70g)" class="loading-images loading-image">
                 </a>
 
 
@@ -5069,27 +6091,28 @@ Hladká mouka</textarea>
 
         </div>
                 <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="L&amp;M LOFT Black BOT SLI 20ks" data-href="/trafika?productList-id=9707&amp;do=productList-modal" class="product-name modal-link"
+                <h5><a href="javascript:void(0)" aria-label="Česnek (cca 70g)" data-href="/ovoce-a-zelenina?productList-id=408&amp;do=productList-modal" class="product-name modal-link"
                    data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    L&amp;M LOFT Black BOT SLI 20ks
+                    Česnek (cca 70g)
                     
                 </a></h5>
             <p class="product-item-price ">
                 <span class="price-before-discount">
 				</span>
-                <strong class="price">86,00 Kč</strong>
+                <small class="circa-prefix">cca </small>
+                <strong class="price">6,30 Kč</strong>
 
             </p>
             <p class="product-item-unit">
-                    (<strong class="price">86,00 Kč</strong> / ks)
+                    (<strong class="price">89,90 Kč</strong> / kg)
             </p>
                         <div class="product-list-rating">
             </div>
-<div id="snippet-productList-buy-9707-quantity">        <div class="product-quantity-control">
-            <form action="/trafika" method="post" class="ajax" id="frm-productList-buy-9707-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-9707-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+<div id="snippet-productList-buy-408-quantity">        <div class="product-quantity-control">
+            <form action="/ovoce-a-zelenina" method="post" class="ajax" id="frm-productList-buy-408-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-408-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
                 <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-9707-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+            <input type="hidden" name="do" value="productList-buy-408-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
 </form>
 
         </div>
@@ -5219,7 +6242,7 @@ Hladká mouka</textarea>
 
 <div class="block block-subscribe-email" id="snippet-subscribeMailing-subscribeFormArea">
 		<p>Novinky a akční nabídky</p>
-		<form action="/trafika" method="post" class="ajax" id="frm-subscribeMailing-subscribe">
+		<form action="/ovoce-a-zelenina" method="post" class="ajax" id="frm-subscribeMailing-subscribe">
 		<label for="frm-subscribeMailing-subscribe-email">Zadejte svůj e-mail</label>
 		<input type="text" name="email" placeholder="Zadejte svůj e-mail" id="frm-subscribeMailing-subscribe-email" required data-nette-rules='[{"op":":filled","msg":"E-mail je povinný"},{"op":":email","msg":"E-mail nemá správný formát"}]'>
 		<input type="submit" name="_submit" value="Přihlásit" class="subscribe-button button-simple button-green" aria-label="Přihlásit se k odběru novinek">
@@ -5428,7 +6451,7 @@ Hladká mouka</textarea>
 <a href="javascript:void(0)" aria-label="Zavřít dialog" class="log-in-close-tag kosik-modal-close"></a>
 <div class="login-modal" id="snippet-loginModal-signIn-singIN">
         <h2 id="login-modal-label">Přihlásit</h2>
-        <form action="/trafika" method="post" id="frm-loginModal-signIn-signInForm">
+        <form action="/ovoce-a-zelenina" method="post" id="frm-loginModal-signIn-signInForm">
             <div class="form-row">
                     <label for="frm-loginModal-signIn-signInForm-email">E-mailová adresa</label>
                 <input type="text" name="email" maxlength="255" id="frm-loginModal-signIn-signInForm-email" required data-nette-rules='[{"op":":filled","msg":"Zadejte prosím svoji e-mailovou adresu."},{"op":":email","msg":"E-mailová adresa nemá správný formát."},{"op":":maxLength","msg":"Maximální délka e-mailové adresy je %length% znaků.","arg":255}]' class="form-control">
@@ -5438,7 +6461,7 @@ Hladká mouka</textarea>
                 <input type="password" name="password" id="frm-loginModal-signIn-signInForm-password" required data-nette-rules='[{"op":":filled","msg":"Zadejte prosím své heslo."}]' class="form-control">
             </div>
             <div class="form-row">
-                <a class="ajax link-red" href="/trafika?do=loginModal-signIn-recovery">Zapomněli jste heslo?</a>
+                <a class="ajax link-red" href="/ovoce-a-zelenina?do=loginModal-signIn-recovery">Zapomněli jste heslo?</a>
             </div>
             <div class="form-row">
                 <input type="submit" name="send" value="Přihlásit" class="button button-red ajax">
@@ -5451,11 +6474,11 @@ Hladká mouka</textarea>
             </span>
         </div>
         <div class="form-row">
-<a class="button button-facebook" data-href="true" href="/trafika?do=loginModal-signIn-facebook-fbLogin-open">Facebook přihlášení</a>        </div>
+<a class="button button-facebook" data-href="true" href="/ovoce-a-zelenina?do=loginModal-signIn-facebook-fbLogin-open">Facebook přihlášení</a>        </div>
 </div>
 <div class="login-modal" id="snippet-loginModal-signUp-singUP">
     <h2>Registrovat</h2>
-<div id="snippet-loginModal-signUp-register">        <form action="/trafika" method="post" id="frm-loginModal-signUp-signUpFormMain">
+<div id="snippet-loginModal-signUp-register">        <form action="/ovoce-a-zelenina" method="post" id="frm-loginModal-signUp-signUpFormMain">
             <div class="form-row">
                     <label for="frm-loginModal-signUp-signUpFormMain-email">Registrační e-mail</label>
                 <input type="text" name="email" maxlength="255" id="frm-loginModal-signUp-signUpFormMain-email" required data-nette-rules='[{"op":":filled","msg":"Zadejte prosím svou e-mailovou adresu."},{"op":":email","msg":"E-mailová adresa nemá správný formát."},{"op":":maxLength","msg":"Maximální délka e-mailové adresy je %length% znaků.","arg":255}]' class="form-control signup-email">
