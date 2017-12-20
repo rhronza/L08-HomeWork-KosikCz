@@ -11,7 +11,7 @@
         <link rel="apple-touch-icon" href="/css/images/logo.png">
         <link rel="stylesheet" type="text/css" href="/css/slim.min.css">
 
-<link rel="stylesheet" type="text/css" href="/webtemp/cssloader-6fe495a87813.css?1513005734">
+<link rel="stylesheet" type="text/css" href="/webtemp/cssloader-6fe495a87813.css?1513350274">
 <script type="text/javascript" src="/webtemp/jsloader-e4f5f7728c43.js?1511346204"></script>
 <script type="text/javascript">
     function currentPageDataPush() {
@@ -217,7 +217,10 @@ Hladká mouka</textarea>
                     <img src="/svg/recipes.svg" aria-hidden="true" alt="recepty">
                     <span class="item-name-desktop">Recepty</span>
                 </a></li>
-
+            <li><a href="https://blog.kosik.cz" data-href="true" target="_blank">
+                    <img src="/svg/blog.svg" aria-hidden="true" alt="blog">
+                    <span class="item-name-desktop">Blog</span>
+                </a></li>
             <li><a href="/delikatesy">
                     <img src="/svg/deli.svg" aria-hidden="true" alt="delikatesy">
                     <span class="item-name-desktop">Delikatesy</span>
@@ -229,6 +232,10 @@ Hladká mouka</textarea>
             <li><a class="christmas-link" href="/#christmas-inspiration">
                     <img src="/svg/vanoce.svg" aria-hidden="true" alt="Vánoce">
                     <span class="item-name-desktop">Vánoce</span>
+                </a></li>
+            <li><a href="/poctive-piti">
+                    <img src="/svg/honest-drinks.svg" aria-hidden="true" alt="poctivé pití">
+                    <span class="item-name-desktop">Poctivé pití</span>
                 </a></li>
         </ul>
     </div>
@@ -294,6 +301,13 @@ Hladká mouka</textarea>
                     </a>
                 </div>
 
+               <div class="ico-text-group">
+                    <a class="ico-text-group-link" href="https://blog.kosik.cz" data-href="true" target="_blank">
+                        <span class="item-name">Blog</span>
+                        <img src="/svg/blog.svg" aria-hidden="true" alt="blog">
+                    </a>
+                </div>
+
                 <div class="ico-text-group">
                     <a class="ico-text-group-link" href="/delikatesy" data-href="true">
                         <span class="item-name">Delikatesy</span>
@@ -312,6 +326,13 @@ Hladká mouka</textarea>
                     <a class="ico-text-group-link christmas-link" href="/#christmas-inspiration" data-href="true" >
                         <span class="item-name">Vánoce</span>
                         <img src="/svg/vanoce.svg" aria-hidden="true" alt="Vánoce">
+                    </a>
+                </div>
+
+                <div class="ico-text-group">
+                    <a class="ico-text-group-link" href="/poctive-piti" data-href="true" >
+                        <span class="item-name">Poctivé pití</span>
+                        <img src="/svg/honest-drinks.svg" aria-hidden="true" alt="Poctivé pití">
                     </a>
                 </div>
             </div>
@@ -876,6 +897,14 @@ Hladká mouka</textarea>
                                                 <a href="/maso-a-ryby/susene-maso/veprove">
                                                     Vepřové,
                                                 </a>
+
+                                                <a href="/maso-a-ryby/susene-maso/drubezi">
+                                                    Drůbeží,
+                                                </a>
+
+                                                <a href="/maso-a-ryby/susene-maso/ostatni">
+                                                    Ostatní,
+                                                </a>
                                         <a href="/maso-a-ryby/susene-maso">...</a>
                                     </div>
                                 </div>
@@ -1298,6 +1327,7 @@ Hladká mouka</textarea>
                                                 </a>
 
 
+
                                         <a href="/uzeniny-a-lahudky/lahudky">...</a>
                                     </div>
                                 </div>
@@ -1539,6 +1569,40 @@ Hladká mouka</textarea>
                             <div class="category-product-list">
 
                                                                 <div class="product-type">
+                                    <a href="/napoje/poctive-piti" class="product-type-image">
+                                        <img data-src="https://cdn.kosik.cz/content/category/svg/menu/1929.svg" alt="Poctivé pití">
+                                    </a>
+                                    <h3>
+                                        <a class="children" href="/napoje/poctive-piti">
+                                            Poctivé pití
+                                        </a>
+                                    </h3>
+
+                                                                        <div class="categories-container">
+
+                                                <a href="/napoje/poctive-piti/pivo-a-cider">
+                                                    Pivo a cider,
+                                                </a>
+
+                                                <a href="/napoje/poctive-piti/limonady">
+                                                    Limonády,
+                                                </a>
+
+                                                <a href="/napoje/poctive-piti/sirupy">
+                                                    Sirupy,
+                                                </a>
+
+                                                <a href="/napoje/poctive-piti/mosty">
+                                                    Mošty,
+                                                </a>
+
+                                                <a href="/napoje/poctive-piti/darkova-baleni">
+                                                    Dárková balení,
+                                                </a>
+                                        <a href="/napoje/poctive-piti">...</a>
+                                    </div>
+                                </div>
+                                <div class="product-type">
                                     <a href="/napoje/mineralni-a-pramenite" class="product-type-image">
                                         <img data-src="https://cdn.kosik.cz/content/category/svg/menu/1180.svg" alt="Minerální a pramenité">
                                     </a>
@@ -3336,6 +3400,10 @@ Hladká mouka</textarea>
                                                 <a href="/drogerie/pece-o-zdravi/masazni-emulze">
                                                     Masážní emulze,
                                                 </a>
+
+                                                <a href="/drogerie/pece-o-zdravi/pece-o-telo-a-vlasy">
+                                                    Péče o tělo a vlasy,
+                                                </a>
                                         <a href="/drogerie/pece-o-zdravi">...</a>
                                     </div>
                                 </div>
@@ -3606,13 +3674,13 @@ Hladká mouka</textarea>
         </div>
     </div>
     <div class="count" id="snippet-productFilter-countArea">
-        <p>375 produktů nalezeno</p>
+        <p>372 produktů nalezeno</p>
     </div>
 
         <h3 aria-label="Filtr Podle ceny">Podle ceny</h3>
         <div id="snippet-productFilter-priceFinalVatConstraintFormArea">
         <form action="/pecivo" method="post" class="ajax filter-constraint filter-range" id="frm-productFilter-priceFinalVatConstraintForm">
-                                <div id="slider-value" class="slider"><input type="text" name="value[min]" style="display:none" id="value-min" value="0"><input type="text" name="value[max]" style="display:none" id="value-max" value="310"><div data-suffix="Kč" data-minimum="0" data-maximum="310" data-value-min="0" data-value-max="310" data-step="10" class="range-wrapper"><div id="range-input"></div></div><span id="value-label-minValue"></span><span id="value-label-maxValue" style="float:right"></span></div>
+                                <div id="slider-value" class="slider"><input type="text" name="value[min]" style="display:none" id="value-min" value="0"><input type="text" name="value[max]" style="display:none" id="value-max" value="220"><div data-suffix="Kč" data-minimum="0" data-maximum="220" data-value-min="0" data-value-max="220" data-step="10" class="range-wrapper"><div id="range-input"></div></div><span id="value-label-minValue"></span><span id="value-label-maxValue" style="float:right"></span></div>
                                 <input type="hidden" name="do" value="productFilter-priceFinalVatConstraintForm-submit">
         <!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
 </form>
@@ -3792,8 +3860,8 @@ Hladká mouka</textarea>
 
 
                             <div class="form-row">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-86" value="86" aria-label="!Penam (25)">
-                            <label for="frm-productFilter-brandConstraintForm-value-86">Penam (25)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-86" value="86" aria-label="!Penam (23)">
+                            <label for="frm-productFilter-brandConstraintForm-value-86">Penam (23)</label>
                         </div>
 
 
@@ -3822,8 +3890,8 @@ Hladká mouka</textarea>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-328" value="328" aria-label="!Wasa (9)">
-                            <label for="frm-productFilter-brandConstraintForm-value-328">Wasa (9)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-328" value="328" aria-label="!Wasa (8)">
+                            <label for="frm-productFilter-brandConstraintForm-value-328">Wasa (8)</label>
                         </div>
 
 
@@ -3858,7 +3926,7 @@ Hladká mouka</textarea>
             var buttonsShowMoreClass = 'show-more-brands';
             var buttonsShowLessClass = 'show-less-brands';
             var filters = $('.filter-more-result');
-            var defaultFilterInputs = {"brand":[87,327,2166,2493,3122,86,2442,92,168,1771]};
+            var defaultFilterInputs = {"brand":[87,327,2166,2493,3122,86,92,2442,168,1771]};
 
             function hideCheckboxes(rows, key) {
 
@@ -3959,13 +4027,26 @@ Hladká mouka</textarea>
 		</div>
 
 		<div class="region-products-popular">
-<a href="https://www.kosik.cz/hledat?q=V%C3%A1no%C4%8Dky_a_%C5%A1toly"><img src="https://cdn.kosik.cz/content/category-banner/png/default/1249.png" alt="whiskas"></a><br><br>
+<a href="https://www.kosik.cz/hledat?q=Uzen%C3%BD_a_marinovan%C3%BD_losos"><img src="https://cdn.kosik.cz/content/category-banner/png/default/1342.png" alt="whiskas"></a><br><br>
 
 		<div class="region region-carousel region-products no-aside product-widget">
 			<div class="home-product-widget region-inner region-products-inner slick-carousel" data-open="3" data-close="4">
 				<div class="block block-title">
 					<h3>Doporučujeme</h3>
 				</div>
+<script async>
+
+    var onProductModalDestroy = function() {
+
+    	var pageData = window.dataLayer[0];
+
+        pageData["event"] = "ga.pageview";
+        pageData["pagePath"] = window.location.pathname;
+        pageData["pageTitle"] = window.document.title;
+
+	    dataLayer.push(pageData);
+    };
+</script>
 <div class="block block-product-items product-items" data-ajax-append="product-item" id="snippet-productWidget-widgetCarousel-1-productListArea">
     <div id="product-append-26395" class="product-item">
         <div class="product-item-flags">
@@ -4082,7 +4163,7 @@ Hladká mouka</textarea>
     <div id="product-append-50178" class="product-item">
         <div class="product-item-flags">
             <div class="flag-sale ">
-                <span class="percents">11<small>&#37;</small></span>
+                <span class="percents">43<small>&#37;</small></span>
             </div>
         </div>
         <div class="product-item-image">
@@ -4113,11 +4194,11 @@ Hladká mouka</textarea>
                 <span class="price-before-discount">
 					<span><strong class="price">349,00 Kč</strong></span>
 				</span>
-                <strong class="price">309,90 Kč</strong>
+                <strong class="price">199,00 Kč</strong>
 
             </p>
             <p class="product-item-unit">
-                    (<strong class="price">619,80 Kč</strong> / kg)
+                    (<strong class="price">398,00 Kč</strong> / kg)
             </p>
                         <div class="product-list-rating">
             </div>
@@ -4126,6 +4207,64 @@ Hladká mouka</textarea>
                 <input type="text" name="quantity" size="3" id="frm-productWidget-widgetCarousel-1-buy-50178-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
                 <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
             <input type="hidden" name="do" value="productWidget-widgetCarousel-1-buy-50178-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+</form>
+
+        </div>
+</div>
+                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
+
+
+        </div>
+
+        
+    </div>
+    <div id="product-append-26397" class="product-item">
+        <div class="product-item-flags">
+            <div class="flag-sale ">
+                <span class="percents">5<small>&#37;</small></span>
+            </div>
+        </div>
+        <div class="product-item-image">
+                <a data-href="/pecivo?productWidget-widgetCarousel-1-id=26397&amp;do=productWidget-widgetCarousel-1-modal"
+                   data-target="productWidget-widgetCarousel-1-productModal"
+                   data-product-id="26397"
+                   data-product-price="139.9"
+                   data-page-title="Pekárna Kabát Vánoční štola 650g"
+                   data-page-path="/produkt/26397-pekarna-kabat-vanocni-stola-650g"
+                   data-user-id=""
+                   aria-hidden="true"
+                   data-kosikmodal-onclose="onProductModalDestroy"
+                   onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/43670.jpg" alt="Pekárna Kabát Vánoční štola 650g" class="loading-images loading-image">
+                </a>
+
+
+
+
+        </div>
+                <div class="product-item-info">
+                <h5><a href="javascript:void(0)" aria-label="Pekárna Kabát Vánoční štola 650g" data-href="/pecivo?productWidget-widgetCarousel-1-id=26397&amp;do=productWidget-widgetCarousel-1-modal" class="product-name modal-link"
+                   data-target="productWidget-widgetCarousel-1-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    Pekárna Kabát Vánoční štola 650g
+                    <br><span class="new-product">Novinka</span>
+                </a></h5>
+            <p class="product-item-price product-in-discount">
+                <span class="price-before-discount">
+					<span><strong class="price">139,90 Kč</strong></span>
+				</span>
+                <strong class="price">132,90 Kč</strong>
+
+            </p>
+            <p class="product-item-unit">
+                    (<strong class="price">288,90 Kč</strong> / kg)
+            </p>
+                        <div class="product-list-rating">
+            </div>
+<div id="snippet-productWidget-widgetCarousel-1-buy-26397-quantity">        <div class="product-quantity-control">
+            <form action="/pecivo" method="post" class="ajax" id="frm-productWidget-widgetCarousel-1-buy-26397-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productWidget-widgetCarousel-1-buy-26397-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
+            <input type="hidden" name="do" value="productWidget-widgetCarousel-1-buy-26397-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
 </form>
 
         </div>
@@ -4234,60 +4373,6 @@ Hladká mouka</textarea>
                 <input type="text" name="quantity" size="3" id="frm-productWidget-widgetCarousel-1-buy-51884-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
                 <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
             <input type="hidden" name="do" value="productWidget-widgetCarousel-1-buy-51884-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
-</form>
-
-        </div>
-</div>
-                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
-
-
-        </div>
-
-        
-    </div>
-    <div id="product-append-24686" class="product-item">
-        <div class="product-item-flags">
-        </div>
-        <div class="product-item-image">
-                <a data-href="/pecivo?productWidget-widgetCarousel-1-id=24686&amp;do=productWidget-widgetCarousel-1-modal"
-                   data-target="productWidget-widgetCarousel-1-productModal"
-                   data-product-id="24686"
-                   data-product-price="36.9"
-                   data-page-title="Penam Kokosky 130g"
-                   data-page-path="/produkt/24686-penam-kokosky-130g"
-                   data-user-id=""
-                   aria-hidden="true"
-                   data-kosikmodal-onclose="onProductModalDestroy"
-                   onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/41946.jpg" alt="Penam Kokosky 130g" class="loading-images loading-image">
-                </a>
-
-
-
-
-        </div>
-                <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Penam Kokosky 130g" data-href="/pecivo?productWidget-widgetCarousel-1-id=24686&amp;do=productWidget-widgetCarousel-1-modal" class="product-name modal-link"
-                   data-target="productWidget-widgetCarousel-1-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Penam Kokosky 130g
-                    
-                </a></h5>
-            <p class="product-item-price ">
-                <span class="price-before-discount">
-				</span>
-                <strong class="price">36,90 Kč</strong>
-
-            </p>
-            <p class="product-item-unit">
-                    (<strong class="price">283,80 Kč</strong> / kg)
-            </p>
-                        <div class="product-list-rating">
-            </div>
-<div id="snippet-productWidget-widgetCarousel-1-buy-24686-quantity">        <div class="product-quantity-control">
-            <form action="/pecivo" method="post" class="ajax" id="frm-productWidget-widgetCarousel-1-buy-24686-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productWidget-widgetCarousel-1-buy-24686-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
-                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productWidget-widgetCarousel-1-buy-24686-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
 </form>
 
         </div>
@@ -4519,64 +4604,6 @@ Hladká mouka</textarea>
 
         
     </div>
-    <div id="product-append-50177" class="product-item">
-        <div class="product-item-flags">
-            <div class="flag-sale ">
-                <span class="percents">22<small>&#37;</small></span>
-            </div>
-        </div>
-        <div class="product-item-image">
-                <a data-href="/pecivo?productWidget-widgetCarousel-1-id=50177&amp;do=productWidget-widgetCarousel-1-modal"
-                   data-target="productWidget-widgetCarousel-1-productModal"
-                   data-product-id="50177"
-                   data-product-price="87.9"
-                   data-page-title="Aplica Sváteční vánočka 600g"
-                   data-page-path="/produkt/50177-aplica-svatecni-vanocka-600g"
-                   data-user-id=""
-                   aria-hidden="true"
-                   data-kosikmodal-onclose="onProductModalDestroy"
-                   onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/67771.jpg" alt="Aplica Sváteční vánočka 600g" class="loading-images loading-image">
-                </a>
-
-
-
-
-        </div>
-                <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Aplica Sváteční vánočka 600g" data-href="/pecivo?productWidget-widgetCarousel-1-id=50177&amp;do=productWidget-widgetCarousel-1-modal" class="product-name modal-link"
-                   data-target="productWidget-widgetCarousel-1-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Aplica Sváteční vánočka 600g
-                    
-                </a></h5>
-            <p class="product-item-price product-in-discount">
-                <span class="price-before-discount">
-					<span><strong class="price">87,90 Kč</strong></span>
-				</span>
-                <strong class="price">68,90 Kč</strong>
-
-            </p>
-            <p class="product-item-unit">
-                    (<strong class="price">114,80 Kč</strong> / kg)
-            </p>
-                        <div class="product-list-rating">
-            </div>
-<div id="snippet-productWidget-widgetCarousel-1-buy-50177-quantity">        <div class="product-quantity-control">
-            <form action="/pecivo" method="post" class="ajax" id="frm-productWidget-widgetCarousel-1-buy-50177-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productWidget-widgetCarousel-1-buy-50177-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
-                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productWidget-widgetCarousel-1-buy-50177-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
-</form>
-
-        </div>
-</div>
-                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
-
-
-        </div>
-
-        
-    </div>
     <div id="product-append-50308" class="product-item">
         <div class="product-item-flags">
         </div>
@@ -4620,60 +4647,6 @@ Hladká mouka</textarea>
                 <input type="text" name="quantity" size="3" id="frm-productWidget-widgetCarousel-1-buy-50308-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
                 <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
             <input type="hidden" name="do" value="productWidget-widgetCarousel-1-buy-50308-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
-</form>
-
-        </div>
-</div>
-                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
-
-
-        </div>
-
-        
-    </div>
-    <div id="product-append-50316" class="product-item">
-        <div class="product-item-flags">
-        </div>
-        <div class="product-item-image">
-                <a data-href="/pecivo?productWidget-widgetCarousel-1-id=50316&amp;do=productWidget-widgetCarousel-1-modal"
-                   data-target="productWidget-widgetCarousel-1-productModal"
-                   data-product-id="50316"
-                   data-product-price="23.9"
-                   data-page-title="Penam Veka grahamová 360g"
-                   data-page-path="/produkt/50316-penam-veka-grahamova-360g"
-                   data-user-id=""
-                   aria-hidden="true"
-                   data-kosikmodal-onclose="onProductModalDestroy"
-                   onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/67913.jpg" alt="Penam Veka grahamová 360g" class="loading-images loading-image">
-                </a>
-
-
-
-
-        </div>
-                <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Penam Veka grahamová 360g" data-href="/pecivo?productWidget-widgetCarousel-1-id=50316&amp;do=productWidget-widgetCarousel-1-modal" class="product-name modal-link"
-                   data-target="productWidget-widgetCarousel-1-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Penam Veka grahamová 360g
-                    
-                </a></h5>
-            <p class="product-item-price ">
-                <span class="price-before-discount">
-				</span>
-                <strong class="price">23,90 Kč</strong>
-
-            </p>
-            <p class="product-item-unit">
-                    (<strong class="price">66,40 Kč</strong> / kg)
-            </p>
-                        <div class="product-list-rating">
-            </div>
-<div id="snippet-productWidget-widgetCarousel-1-buy-50316-quantity">        <div class="product-quantity-control">
-            <form action="/pecivo" method="post" class="ajax" id="frm-productWidget-widgetCarousel-1-buy-50316-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productWidget-widgetCarousel-1-buy-50316-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
-                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productWidget-widgetCarousel-1-buy-50316-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
 </form>
 
         </div>
@@ -4782,123 +4755,6 @@ Hladká mouka</textarea>
                 <input type="text" name="quantity" size="3" id="frm-productWidget-widgetCarousel-1-buy-51883-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
                 <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
             <input type="hidden" name="do" value="productWidget-widgetCarousel-1-buy-51883-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
-</form>
-
-        </div>
-</div>
-                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
-
-
-        </div>
-
-        
-    </div>
-    <div id="product-append-26404" class="product-item">
-        <div class="product-item-flags">
-            <div class="flag-sale ">
-                <span class="percents">4<small>&#37;</small></span>
-            </div>
-        </div>
-        <div class="product-item-image">
-                <a data-href="/pecivo?productWidget-widgetCarousel-1-id=26404&amp;do=productWidget-widgetCarousel-1-modal"
-                   data-target="productWidget-widgetCarousel-1-productModal"
-                   data-product-id="26404"
-                   data-product-price="265"
-                   data-page-title="Pekárna Kabát Vánoční cukroví 375g"
-                   data-page-path="/produkt/26404-pekarna-kabat-vanocni-cukrovi-375g"
-                   data-user-id=""
-                   aria-hidden="true"
-                   data-kosikmodal-onclose="onProductModalDestroy"
-                   onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/43677.jpg" alt="Pekárna Kabát Vánoční cukroví 375g" class="loading-images loading-image">
-                </a>
-
-
-
-
-        </div>
-                <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Pekárna Kabát Vánoční cukroví 375g" data-href="/pecivo?productWidget-widgetCarousel-1-id=26404&amp;do=productWidget-widgetCarousel-1-modal" class="product-name modal-link"
-                   data-target="productWidget-widgetCarousel-1-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Pekárna Kabát Vánoční cukroví 375g
-                    
-                </a></h5>
-            <p class="product-item-price product-in-discount">
-                <span class="price-before-discount">
-					<span><strong class="price">265,00 Kč</strong></span>
-				</span>
-                <strong class="price">255,00 Kč</strong>
-
-            </p>
-            <p class="product-item-unit">
-                    (<strong class="price">680,00 Kč</strong> / kg)
-            </p>
-                        <div class="product-list-rating">
-                <span><ul class="rating"><li class="rating-children rating-1 up" data-rating="1"><i class="fa fa-star"></i></li><li class="rating-children rating-2 up" data-rating="2"><i class="fa fa-star"></i></li><li class="rating-children rating-3 up" data-rating="3"><i class="fa fa-star"></i></li><li class="rating-children rating-4 up" data-rating="4"><i class="fa fa-star"></i></li><li class="rating-children rating-5 up" data-rating="5"><i class="fa fa-star"></i></li></ul></span>
-            </div>
-<div id="snippet-productWidget-widgetCarousel-1-buy-26404-quantity">        <div class="product-quantity-control">
-            <form action="/pecivo" method="post" class="ajax" id="frm-productWidget-widgetCarousel-1-buy-26404-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productWidget-widgetCarousel-1-buy-26404-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
-                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productWidget-widgetCarousel-1-buy-26404-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
-</form>
-
-        </div>
-</div>
-                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
-
-
-        </div>
-
-        
-    </div>
-    <div id="product-append-24681" class="product-item">
-        <div class="product-item-flags">
-            <div class="flag-sale ">
-                <span class="percents">13<small>&#37;</small></span>
-            </div>
-        </div>
-        <div class="product-item-image">
-                <a data-href="/pecivo?productWidget-widgetCarousel-1-id=24681&amp;do=productWidget-widgetCarousel-1-modal"
-                   data-target="productWidget-widgetCarousel-1-productModal"
-                   data-product-id="24681"
-                   data-product-price="45.9"
-                   data-page-title="Penam Vánočka máslová s rozinkami sypaná mandlemi 400g"
-                   data-page-path="/produkt/24681-penam-vanocka-maslova-s-rozinkami-sypana-mandlemi-400g"
-                   data-user-id=""
-                   aria-hidden="true"
-                   data-kosikmodal-onclose="onProductModalDestroy"
-                   onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/41941.jpg" alt="Penam Vánočka máslová s rozinkami sypaná mandlemi 400g" class="loading-images loading-image">
-                </a>
-
-
-
-
-        </div>
-                <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Penam Vánočka máslová s rozinkami sypaná mandlemi 400g" data-href="/pecivo?productWidget-widgetCarousel-1-id=24681&amp;do=productWidget-widgetCarousel-1-modal" class="product-name modal-link"
-                   data-target="productWidget-widgetCarousel-1-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Penam Vánočka máslová s rozinkami sypaná mandlemi 400g
-                    
-                </a></h5>
-            <p class="product-item-price product-in-discount">
-                <span class="price-before-discount">
-					<span><strong class="price">45,90 Kč</strong></span>
-				</span>
-                <strong class="price">39,90 Kč</strong>
-
-            </p>
-            <p class="product-item-unit">
-                    (<strong class="price">99,80 Kč</strong> / kg)
-            </p>
-                        <div class="product-list-rating">
-            </div>
-<div id="snippet-productWidget-widgetCarousel-1-buy-24681-quantity">        <div class="product-quantity-control">
-            <form action="/pecivo" method="post" class="ajax" id="frm-productWidget-widgetCarousel-1-buy-24681-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productWidget-widgetCarousel-1-buy-24681-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
-                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productWidget-widgetCarousel-1-buy-24681-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
 </form>
 
         </div>
@@ -5184,64 +5040,6 @@ Hladká mouka</textarea>
 
         
     </div>
-    <div id="product-append-26398" class="product-item">
-        <div class="product-item-flags">
-            <div class="flag-sale ">
-                <span class="percents">9<small>&#37;</small></span>
-            </div>
-        </div>
-        <div class="product-item-image">
-                <a data-href="/pecivo?productWidget-widgetCarousel-1-id=26398&amp;do=productWidget-widgetCarousel-1-modal"
-                   data-target="productWidget-widgetCarousel-1-productModal"
-                   data-product-id="26398"
-                   data-product-price="149"
-                   data-page-title="Pekárna Kabát Vánočka s máslem 900g"
-                   data-page-path="/produkt/26398-pekarna-kabat-vanocka-s-maslem-900g"
-                   data-user-id=""
-                   aria-hidden="true"
-                   data-kosikmodal-onclose="onProductModalDestroy"
-                   onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/43671.jpg" alt="Pekárna Kabát Vánočka s máslem 900g" class="loading-images loading-image">
-                </a>
-
-
-
-
-        </div>
-                <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Pekárna Kabát Vánočka s máslem 900g" data-href="/pecivo?productWidget-widgetCarousel-1-id=26398&amp;do=productWidget-widgetCarousel-1-modal" class="product-name modal-link"
-                   data-target="productWidget-widgetCarousel-1-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Pekárna Kabát Vánočka s máslem 900g
-                    
-                </a></h5>
-            <p class="product-item-price product-in-discount">
-                <span class="price-before-discount">
-					<span><strong class="price">149,00 Kč</strong></span>
-				</span>
-                <strong class="price">135,00 Kč</strong>
-
-            </p>
-            <p class="product-item-unit">
-                    (<strong class="price">150,00 Kč</strong> / kg)
-            </p>
-                        <div class="product-list-rating">
-            </div>
-<div id="snippet-productWidget-widgetCarousel-1-buy-26398-quantity">        <div class="product-quantity-control">
-            <form action="/pecivo" method="post" class="ajax" id="frm-productWidget-widgetCarousel-1-buy-26398-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productWidget-widgetCarousel-1-buy-26398-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
-                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productWidget-widgetCarousel-1-buy-26398-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
-</form>
-
-        </div>
-</div>
-                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
-
-
-        </div>
-
-        
-    </div>
     <div id="product-append-50312" class="product-item">
         <div class="product-item-flags">
         </div>
@@ -5285,118 +5083,6 @@ Hladká mouka</textarea>
                 <input type="text" name="quantity" size="3" id="frm-productWidget-widgetCarousel-1-buy-50312-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
                 <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
             <input type="hidden" name="do" value="productWidget-widgetCarousel-1-buy-50312-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
-</form>
-
-        </div>
-</div>
-                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
-
-
-        </div>
-
-        
-    </div>
-    <div id="product-append-21205" class="product-item">
-        <div class="product-item-flags">
-            <div class="flag-sale ">
-                <span class="percents">22<small>&#37;</small></span>
-            </div>
-        </div>
-        <div class="product-item-image">
-                <a data-href="/pecivo?productWidget-widgetCarousel-1-id=21205&amp;do=productWidget-widgetCarousel-1-modal"
-                   data-target="productWidget-widgetCarousel-1-productModal"
-                   data-product-id="21205"
-                   data-product-price="57.9"
-                   data-page-title="PAC Hořovice Vánočka máslová s rozinkami a mandlemi 500g"
-                   data-page-path="/produkt/21205-pac-horovice-vanocka-maslova-s-rozinkami-a-mandlemi-500g"
-                   data-user-id=""
-                   aria-hidden="true"
-                   data-kosikmodal-onclose="onProductModalDestroy"
-                   onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/38457.jpg" alt="PAC Hořovice Vánočka máslová s rozinkami a mandlemi 500g" class="loading-images loading-image">
-                </a>
-
-
-
-
-        </div>
-                <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="PAC Hořovice Vánočka máslová s rozinkami a mandlemi 500g" data-href="/pecivo?productWidget-widgetCarousel-1-id=21205&amp;do=productWidget-widgetCarousel-1-modal" class="product-name modal-link"
-                   data-target="productWidget-widgetCarousel-1-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    PAC Hořovice Vánočka máslová s rozinkami a mandlemi 500g
-                    
-                </a></h5>
-            <p class="product-item-price product-in-discount">
-                <span class="price-before-discount">
-					<span><strong class="price">57,90 Kč</strong></span>
-				</span>
-                <strong class="price">44,90 Kč</strong>
-
-            </p>
-            <p class="product-item-unit">
-                    (<strong class="price">89,80 Kč</strong> / kg)
-            </p>
-                        <div class="product-list-rating">
-            </div>
-<div id="snippet-productWidget-widgetCarousel-1-buy-21205-quantity">        <div class="product-quantity-control">
-            <form action="/pecivo" method="post" class="ajax" id="frm-productWidget-widgetCarousel-1-buy-21205-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productWidget-widgetCarousel-1-buy-21205-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
-                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productWidget-widgetCarousel-1-buy-21205-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
-</form>
-
-        </div>
-</div>
-                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
-
-
-        </div>
-
-        
-    </div>
-    <div id="product-append-51842" class="product-item">
-        <div class="product-item-flags">
-        </div>
-        <div class="product-item-image">
-                <a data-href="/pecivo?productWidget-widgetCarousel-1-id=51842&amp;do=productWidget-widgetCarousel-1-modal"
-                   data-target="productWidget-widgetCarousel-1-productModal"
-                   data-product-id="51842"
-                   data-product-price="169"
-                   data-page-title="Můj dortík Kyjevský dort 740g"
-                   data-page-path="/produkt/51842-muj-dortik-kyjevsky-dort-740g"
-                   data-user-id=""
-                   aria-hidden="true"
-                   data-kosikmodal-onclose="onProductModalDestroy"
-                   onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/69417.jpg" alt="Můj dortík Kyjevský dort 740g" class="loading-images loading-image">
-                </a>
-
-
-
-
-        </div>
-                <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Můj dortík Kyjevský dort 740g" data-href="/pecivo?productWidget-widgetCarousel-1-id=51842&amp;do=productWidget-widgetCarousel-1-modal" class="product-name modal-link"
-                   data-target="productWidget-widgetCarousel-1-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Můj dortík Kyjevský dort 740g
-                    <br><span class="new-product">Novinka</span>
-                </a></h5>
-            <p class="product-item-price ">
-                <span class="price-before-discount">
-				</span>
-                <strong class="price">169,00 Kč</strong>
-
-            </p>
-            <p class="product-item-unit">
-                    (<strong class="price">228,40 Kč</strong> / kg)
-            </p>
-                        <div class="product-list-rating">
-            </div>
-<div id="snippet-productWidget-widgetCarousel-1-buy-51842-quantity">        <div class="product-quantity-control">
-            <form action="/pecivo" method="post" class="ajax" id="frm-productWidget-widgetCarousel-1-buy-51842-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productWidget-widgetCarousel-1-buy-51842-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
-                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productWidget-widgetCarousel-1-buy-51842-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
 </form>
 
         </div>
@@ -6154,6 +5840,64 @@ Hladká mouka</textarea>
 
         
     </div>
+    <div id="product-append-49549" class="product-item">
+        <div class="product-item-flags">
+            <div class="flag-sale ">
+                <span class="percents">41<small>&#37;</small></span>
+            </div>
+        </div>
+        <div class="product-item-image">
+                <a data-href="/pecivo?productList-id=49549&amp;do=productList-modal"
+                   data-target="productList-productModal"
+                   data-product-id="49549"
+                   data-product-price="4.9"
+                   data-page-title="Vandemoortele Profiterolky 12,5g KS"
+                   data-page-path="/produkt/49549-vandemoortele-profiterolky-12-5g-ks"
+                   data-user-id=""
+                   aria-hidden="true"
+                   data-kosikmodal-onclose="onProductModalDestroy"
+                   onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/67114.jpg" alt="Vandemoortele Profiterolky 12,5g KS" class="loading-images loading-image">
+                </a>
+
+
+
+
+        </div>
+                <div class="product-item-info">
+                <h5><a href="javascript:void(0)" aria-label="Vandemoortele Profiterolky 12,5g KS" data-href="/pecivo?productList-id=49549&amp;do=productList-modal" class="product-name modal-link"
+                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    Vandemoortele Profiterolky 12,5g KS
+                    
+                </a></h5>
+            <p class="product-item-price product-in-discount">
+                <span class="price-before-discount">
+					<span><strong class="price">4,90 Kč</strong></span>
+				</span>
+                <strong class="price">2,90 Kč</strong>
+
+            </p>
+            <p class="product-item-unit">
+                    (<strong class="price">232,00 Kč</strong> / kg)
+            </p>
+                        <div class="product-list-rating">
+            </div>
+<div id="snippet-productList-buy-49549-quantity">        <div class="product-quantity-control">
+            <form action="/pecivo" method="post" class="ajax" id="frm-productList-buy-49549-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-49549-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
+            <input type="hidden" name="do" value="productList-buy-49549-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+</form>
+
+        </div>
+</div>
+                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
+
+
+        </div>
+
+        
+    </div>
     <div id="product-append-21213" class="product-item">
         <div class="product-item-flags">
         </div>
@@ -6429,9 +6173,6 @@ Hladká mouka</textarea>
     </div>
     <div id="product-append-357" class="product-item">
         <div class="product-item-flags">
-            <div class="flag-sale ">
-                <span class="percents">20<small>&#37;</small></span>
-            </div>
         </div>
         <div class="product-item-image">
                 <a data-href="/pecivo?productList-id=357&amp;do=productList-modal"
@@ -6457,15 +6198,14 @@ Hladká mouka</textarea>
                     Penam Chléb toustový rosický světlý 500g
                     
                 </a></h5>
-            <p class="product-item-price product-in-discount">
+            <p class="product-item-price ">
                 <span class="price-before-discount">
-					<span><strong class="price">24,90 Kč</strong></span>
 				</span>
-                <strong class="price">19,90 Kč</strong>
+                <strong class="price">24,90 Kč</strong>
 
             </p>
             <p class="product-item-unit">
-                    (<strong class="price">39,80 Kč</strong> / kg)
+                    (<strong class="price">49,80 Kč</strong> / kg)
             </p>
                         <div class="product-list-rating">
             </div>
@@ -6648,170 +6388,6 @@ Hladká mouka</textarea>
 
         
     </div>
-    <div id="product-append-12839" class="product-item">
-        <div class="product-item-flags">
-        </div>
-        <div class="product-item-image">
-                <a data-href="/pecivo?productList-id=12839&amp;do=productList-modal"
-                   data-target="productList-productModal"
-                   data-product-id="12839"
-                   data-product-price="12.9"
-                   data-page-title="Preclík originální 85g"
-                   data-page-path="/produkt/12839-preclik-originalni-85g"
-                   data-user-id=""
-                   aria-hidden="true"
-                   data-kosikmodal-onclose="onProductModalDestroy"
-                   onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/30211.jpg" alt="Preclík originální 85g" class="loading-images loading-image">
-                </a>
-
-
-
-
-        </div>
-                <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Preclík originální 85g" data-href="/pecivo?productList-id=12839&amp;do=productList-modal" class="product-name modal-link"
-                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Preclík originální 85g
-                    
-                </a></h5>
-            <p class="product-item-price ">
-                <span class="price-before-discount">
-				</span>
-                <strong class="price">12,90 Kč</strong>
-
-            </p>
-            <p class="product-item-unit">
-                    (<strong class="price">151,80 Kč</strong> / kg)
-            </p>
-                        <div class="product-list-rating">
-                <span><ul class="rating"><li class="rating-children rating-1 up" data-rating="1"><i class="fa fa-star"></i></li><li class="rating-children rating-2 up" data-rating="2"><i class="fa fa-star"></i></li><li class="rating-children rating-3 up" data-rating="3"><i class="fa fa-star"></i></li><li class="rating-children rating-4 up" data-rating="4"><i class="fa fa-star"></i></li><li class="rating-children rating-5 up" data-rating="5"><i class="fa fa-star"></i></li></ul></span>
-            </div>
-<div id="snippet-productList-buy-12839-quantity">        <div class="product-quantity-control">
-            <form action="/pecivo" method="post" class="ajax" id="frm-productList-buy-12839-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-12839-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
-                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-12839-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
-</form>
-
-        </div>
-</div>
-                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
-
-
-        </div>
-
-        
-    </div>
-    <div id="product-append-24916" class="product-item">
-        <div class="product-item-flags">
-        </div>
-        <div class="product-item-image">
-                <a data-href="/pecivo?productList-id=24916&amp;do=productList-modal"
-                   data-target="productList-productModal"
-                   data-product-id="24916"
-                   data-product-price="9.9"
-                   data-page-title="Vandemoortele Donut cukrový 49g"
-                   data-page-path="/produkt/24916-vandemoortele-donut-cukrovy-49g"
-                   data-user-id=""
-                   aria-hidden="true"
-                   data-kosikmodal-onclose="onProductModalDestroy"
-                   onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/42189.jpg" alt="Vandemoortele Donut cukrový 49g" class="loading-images loading-image">
-                </a>
-
-
-
-
-        </div>
-                <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Vandemoortele Donut cukrový 49g" data-href="/pecivo?productList-id=24916&amp;do=productList-modal" class="product-name modal-link"
-                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Vandemoortele Donut cukrový 49g
-                    
-                </a></h5>
-            <p class="product-item-price ">
-                <span class="price-before-discount">
-				</span>
-                <strong class="price">9,90 Kč</strong>
-
-            </p>
-            <p class="product-item-unit">
-                    (<strong class="price">202,00 Kč</strong> / kg)
-            </p>
-                        <div class="product-list-rating">
-                <span><ul class="rating"><li class="rating-children rating-1 up" data-rating="1"><i class="fa fa-star"></i></li><li class="rating-children rating-2 up" data-rating="2"><i class="fa fa-star"></i></li><li class="rating-children rating-3 up" data-rating="3"><i class="fa fa-star"></i></li><li class="rating-children rating-4 up" data-rating="4"><i class="fa fa-star"></i></li><li class="rating-children rating-5 up" data-rating="5"><i class="fa fa-star"></i></li></ul></span>
-            </div>
-<div id="snippet-productList-buy-24916-quantity">        <div class="product-quantity-control">
-            <form action="/pecivo" method="post" class="ajax" id="frm-productList-buy-24916-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-24916-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
-                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-24916-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
-</form>
-
-        </div>
-</div>
-                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
-
-
-        </div>
-
-        
-    </div>
-    <div id="product-append-12851" class="product-item">
-        <div class="product-item-flags">
-        </div>
-        <div class="product-item-image">
-                <a data-href="/pecivo?productList-id=12851&amp;do=productList-modal"
-                   data-target="productList-productModal"
-                   data-product-id="12851"
-                   data-product-price="9.5"
-                   data-page-title="Dýňová bulka 60g"
-                   data-page-path="/produkt/12851-dynova-bulka-60g"
-                   data-user-id=""
-                   aria-hidden="true"
-                   data-kosikmodal-onclose="onProductModalDestroy"
-                   onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/30219.jpg" alt="Dýňová bulka 60g" class="loading-images loading-image">
-                </a>
-
-
-
-
-        </div>
-                <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Dýňová bulka 60g" data-href="/pecivo?productList-id=12851&amp;do=productList-modal" class="product-name modal-link"
-                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Dýňová bulka 60g
-                    
-                </a></h5>
-            <p class="product-item-price ">
-                <span class="price-before-discount">
-				</span>
-                <strong class="price">9,50 Kč</strong>
-
-            </p>
-            <p class="product-item-unit">
-                    (<strong class="price">158,30 Kč</strong> / kg)
-            </p>
-                        <div class="product-list-rating">
-            </div>
-<div id="snippet-productList-buy-12851-quantity">        <div class="product-quantity-control">
-            <form action="/pecivo" method="post" class="ajax" id="frm-productList-buy-12851-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-12851-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
-                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-12851-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
-</form>
-
-        </div>
-</div>
-                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
-
-
-        </div>
-
-        
-    </div>
     <div id="product-append-49546" class="product-item">
         <div class="product-item-flags">
             <div class="flag-sale ">
@@ -6913,6 +6489,116 @@ Hladká mouka</textarea>
                 <input type="text" name="quantity" size="3" id="frm-productList-buy-14478-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
                 <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
             <input type="hidden" name="do" value="productList-buy-14478-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+</form>
+
+        </div>
+</div>
+                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
+
+
+        </div>
+
+        
+    </div>
+    <div id="product-append-12839" class="product-item">
+        <div class="product-item-flags">
+        </div>
+        <div class="product-item-image">
+                <a data-href="/pecivo?productList-id=12839&amp;do=productList-modal"
+                   data-target="productList-productModal"
+                   data-product-id="12839"
+                   data-product-price="12.9"
+                   data-page-title="Preclík originální 85g"
+                   data-page-path="/produkt/12839-preclik-originalni-85g"
+                   data-user-id=""
+                   aria-hidden="true"
+                   data-kosikmodal-onclose="onProductModalDestroy"
+                   onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/30211.jpg" alt="Preclík originální 85g" class="loading-images loading-image">
+                </a>
+
+
+
+
+        </div>
+                <div class="product-item-info">
+                <h5><a href="javascript:void(0)" aria-label="Preclík originální 85g" data-href="/pecivo?productList-id=12839&amp;do=productList-modal" class="product-name modal-link"
+                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    Preclík originální 85g
+                    
+                </a></h5>
+            <p class="product-item-price ">
+                <span class="price-before-discount">
+				</span>
+                <strong class="price">12,90 Kč</strong>
+
+            </p>
+            <p class="product-item-unit">
+                    (<strong class="price">151,80 Kč</strong> / kg)
+            </p>
+                        <div class="product-list-rating">
+                <span><ul class="rating"><li class="rating-children rating-1 up" data-rating="1"><i class="fa fa-star"></i></li><li class="rating-children rating-2 up" data-rating="2"><i class="fa fa-star"></i></li><li class="rating-children rating-3 up" data-rating="3"><i class="fa fa-star"></i></li><li class="rating-children rating-4 up" data-rating="4"><i class="fa fa-star"></i></li><li class="rating-children rating-5 up" data-rating="5"><i class="fa fa-star"></i></li></ul></span>
+            </div>
+<div id="snippet-productList-buy-12839-quantity">        <div class="product-quantity-control">
+            <form action="/pecivo" method="post" class="ajax" id="frm-productList-buy-12839-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-12839-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
+            <input type="hidden" name="do" value="productList-buy-12839-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+</form>
+
+        </div>
+</div>
+                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
+
+
+        </div>
+
+        
+    </div>
+    <div id="product-append-24916" class="product-item">
+        <div class="product-item-flags">
+        </div>
+        <div class="product-item-image">
+                <a data-href="/pecivo?productList-id=24916&amp;do=productList-modal"
+                   data-target="productList-productModal"
+                   data-product-id="24916"
+                   data-product-price="9.9"
+                   data-page-title="Vandemoortele Donut cukrový 49g"
+                   data-page-path="/produkt/24916-vandemoortele-donut-cukrovy-49g"
+                   data-user-id=""
+                   aria-hidden="true"
+                   data-kosikmodal-onclose="onProductModalDestroy"
+                   onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/42189.jpg" alt="Vandemoortele Donut cukrový 49g" class="loading-images loading-image">
+                </a>
+
+
+
+
+        </div>
+                <div class="product-item-info">
+                <h5><a href="javascript:void(0)" aria-label="Vandemoortele Donut cukrový 49g" data-href="/pecivo?productList-id=24916&amp;do=productList-modal" class="product-name modal-link"
+                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    Vandemoortele Donut cukrový 49g
+                    
+                </a></h5>
+            <p class="product-item-price ">
+                <span class="price-before-discount">
+				</span>
+                <strong class="price">9,90 Kč</strong>
+
+            </p>
+            <p class="product-item-unit">
+                    (<strong class="price">202,00 Kč</strong> / kg)
+            </p>
+                        <div class="product-list-rating">
+                <span><ul class="rating"><li class="rating-children rating-1 up" data-rating="1"><i class="fa fa-star"></i></li><li class="rating-children rating-2 up" data-rating="2"><i class="fa fa-star"></i></li><li class="rating-children rating-3 up" data-rating="3"><i class="fa fa-star"></i></li><li class="rating-children rating-4 up" data-rating="4"><i class="fa fa-star"></i></li><li class="rating-children rating-5 up" data-rating="5"><i class="fa fa-star"></i></li></ul></span>
+            </div>
+<div id="snippet-productList-buy-24916-quantity">        <div class="product-quantity-control">
+            <form action="/pecivo" method="post" class="ajax" id="frm-productList-buy-24916-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-24916-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
+            <input type="hidden" name="do" value="productList-buy-24916-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
 </form>
 
         </div>

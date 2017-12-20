@@ -11,7 +11,7 @@
         <link rel="apple-touch-icon" href="/css/images/logo.png">
         <link rel="stylesheet" type="text/css" href="/css/slim.min.css">
 
-<link rel="stylesheet" type="text/css" href="/webtemp/cssloader-6fe495a87813.css?1513005734">
+<link rel="stylesheet" type="text/css" href="/webtemp/cssloader-6fe495a87813.css?1513350274">
 <script type="text/javascript" src="/webtemp/jsloader-e4f5f7728c43.js?1511346204"></script>
 <script type="text/javascript">
     function currentPageDataPush() {
@@ -217,7 +217,10 @@ Hladká mouka</textarea>
                     <img src="/svg/recipes.svg" aria-hidden="true" alt="recepty">
                     <span class="item-name-desktop">Recepty</span>
                 </a></li>
-
+            <li><a href="https://blog.kosik.cz" data-href="true" target="_blank">
+                    <img src="/svg/blog.svg" aria-hidden="true" alt="blog">
+                    <span class="item-name-desktop">Blog</span>
+                </a></li>
             <li><a href="/delikatesy">
                     <img src="/svg/deli.svg" aria-hidden="true" alt="delikatesy">
                     <span class="item-name-desktop">Delikatesy</span>
@@ -229,6 +232,10 @@ Hladká mouka</textarea>
             <li><a class="christmas-link" href="/#christmas-inspiration">
                     <img src="/svg/vanoce.svg" aria-hidden="true" alt="Vánoce">
                     <span class="item-name-desktop">Vánoce</span>
+                </a></li>
+            <li><a href="/poctive-piti">
+                    <img src="/svg/honest-drinks.svg" aria-hidden="true" alt="poctivé pití">
+                    <span class="item-name-desktop">Poctivé pití</span>
                 </a></li>
         </ul>
     </div>
@@ -294,6 +301,13 @@ Hladká mouka</textarea>
                     </a>
                 </div>
 
+               <div class="ico-text-group">
+                    <a class="ico-text-group-link" href="https://blog.kosik.cz" data-href="true" target="_blank">
+                        <span class="item-name">Blog</span>
+                        <img src="/svg/blog.svg" aria-hidden="true" alt="blog">
+                    </a>
+                </div>
+
                 <div class="ico-text-group">
                     <a class="ico-text-group-link" href="/delikatesy" data-href="true">
                         <span class="item-name">Delikatesy</span>
@@ -312,6 +326,13 @@ Hladká mouka</textarea>
                     <a class="ico-text-group-link christmas-link" href="/#christmas-inspiration" data-href="true" >
                         <span class="item-name">Vánoce</span>
                         <img src="/svg/vanoce.svg" aria-hidden="true" alt="Vánoce">
+                    </a>
+                </div>
+
+                <div class="ico-text-group">
+                    <a class="ico-text-group-link" href="/poctive-piti" data-href="true" >
+                        <span class="item-name">Poctivé pití</span>
+                        <img src="/svg/honest-drinks.svg" aria-hidden="true" alt="Poctivé pití">
                     </a>
                 </div>
             </div>
@@ -876,6 +897,14 @@ Hladká mouka</textarea>
                                                 <a href="/maso-a-ryby/susene-maso/veprove">
                                                     Vepřové,
                                                 </a>
+
+                                                <a href="/maso-a-ryby/susene-maso/drubezi">
+                                                    Drůbeží,
+                                                </a>
+
+                                                <a href="/maso-a-ryby/susene-maso/ostatni">
+                                                    Ostatní,
+                                                </a>
                                         <a href="/maso-a-ryby/susene-maso">...</a>
                                     </div>
                                 </div>
@@ -1298,6 +1327,7 @@ Hladká mouka</textarea>
                                                 </a>
 
 
+
                                         <a href="/uzeniny-a-lahudky/lahudky">...</a>
                                     </div>
                                 </div>
@@ -1539,6 +1569,40 @@ Hladká mouka</textarea>
                             <div class="category-product-list">
 
                                                                 <div class="product-type">
+                                    <a href="/napoje/poctive-piti" class="product-type-image">
+                                        <img data-src="https://cdn.kosik.cz/content/category/svg/menu/1929.svg" alt="Poctivé pití">
+                                    </a>
+                                    <h3>
+                                        <a class="children" href="/napoje/poctive-piti">
+                                            Poctivé pití
+                                        </a>
+                                    </h3>
+
+                                                                        <div class="categories-container">
+
+                                                <a href="/napoje/poctive-piti/pivo-a-cider">
+                                                    Pivo a cider,
+                                                </a>
+
+                                                <a href="/napoje/poctive-piti/limonady">
+                                                    Limonády,
+                                                </a>
+
+                                                <a href="/napoje/poctive-piti/sirupy">
+                                                    Sirupy,
+                                                </a>
+
+                                                <a href="/napoje/poctive-piti/mosty">
+                                                    Mošty,
+                                                </a>
+
+                                                <a href="/napoje/poctive-piti/darkova-baleni">
+                                                    Dárková balení,
+                                                </a>
+                                        <a href="/napoje/poctive-piti">...</a>
+                                    </div>
+                                </div>
+                                <div class="product-type">
                                     <a href="/napoje/mineralni-a-pramenite" class="product-type-image">
                                         <img data-src="https://cdn.kosik.cz/content/category/svg/menu/1180.svg" alt="Minerální a pramenité">
                                     </a>
@@ -3336,6 +3400,10 @@ Hladká mouka</textarea>
                                                 <a href="/drogerie/pece-o-zdravi/masazni-emulze">
                                                     Masážní emulze,
                                                 </a>
+
+                                                <a href="/drogerie/pece-o-zdravi/pece-o-telo-a-vlasy">
+                                                    Péče o tělo a vlasy,
+                                                </a>
                                         <a href="/drogerie/pece-o-zdravi">...</a>
                                     </div>
                                 </div>
@@ -3595,6 +3663,9 @@ Hladká mouka</textarea>
 						<a href="/uzeniny-a-lahudky/lahudky/rybi-speciality">Rybí speciality</a>
 					</li>
 					<li>
+						<a href="/uzeniny-a-lahudky/lahudky/bagety-a-sendvice">Bagety a sendviče</a>
+					</li>
+					<li>
 						<a href="/uzeniny-a-lahudky/lahudky/salaty">Saláty</a>
 					</li>
 					<li>
@@ -3615,13 +3686,13 @@ Hladká mouka</textarea>
         </div>
     </div>
     <div class="count" id="snippet-productFilter-countArea">
-        <p>611 produktů nalezeno</p>
+        <p>622 produktů nalezeno</p>
     </div>
 
         <h3 aria-label="Filtr Podle ceny">Podle ceny</h3>
         <div id="snippet-productFilter-priceFinalVatConstraintFormArea">
         <form action="/uzeniny-a-lahudky" method="post" class="ajax filter-constraint filter-range" id="frm-productFilter-priceFinalVatConstraintForm">
-                                <div id="slider-value" class="slider"><input type="text" name="value[min]" style="display:none" id="value-min" value="10"><input type="text" name="value[max]" style="display:none" id="value-max" value="2300"><div data-suffix="Kč" data-minimum="10" data-maximum="2300" data-value-min="10" data-value-max="2300" data-step="10" class="range-wrapper"><div id="range-input"></div></div><span id="value-label-minValue"></span><span id="value-label-maxValue" style="float:right"></span></div>
+                                <div id="slider-value" class="slider"><input type="text" name="value[min]" style="display:none" id="value-min" value="10"><input type="text" name="value[max]" style="display:none" id="value-max" value="2000"><div data-suffix="Kč" data-minimum="10" data-maximum="2000" data-value-min="10" data-value-max="2000" data-step="10" class="range-wrapper"><div id="range-input"></div></div><span id="value-label-minValue"></span><span id="value-label-maxValue" style="float:right"></span></div>
                                 <input type="hidden" name="do" value="productFilter-priceFinalVatConstraintForm-submit">
         <!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
 </form>
@@ -3651,8 +3722,8 @@ Hladká mouka</textarea>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-2609" value="2609" aria-label="!Amunak (3)">
-                            <label for="frm-productFilter-brandConstraintForm-value-2609">Amunak (3)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-2609" value="2609" aria-label="!Amunak (2)">
+                            <label for="frm-productFilter-brandConstraintForm-value-2609">Amunak (2)</label>
                         </div>
 
 
@@ -3663,8 +3734,8 @@ Hladká mouka</textarea>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-3483" value="3483" aria-label="!Asia Style (4)">
-                            <label for="frm-productFilter-brandConstraintForm-value-3483">Asia Style (4)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-3483" value="3483" aria-label="!Asia Style (5)">
+                            <label for="frm-productFilter-brandConstraintForm-value-3483">Asia Style (5)</label>
                         </div>
 
 
@@ -3777,8 +3848,8 @@ Hladká mouka</textarea>
 
 
                             <div class="form-row">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-2494" value="2494" aria-label="!Gastro (21)">
-                            <label for="frm-productFilter-brandConstraintForm-value-2494">Gastro (21)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-2494" value="2494" aria-label="!Gastro (23)">
+                            <label for="frm-productFilter-brandConstraintForm-value-2494">Gastro (23)</label>
                         </div>
 
 
@@ -3849,8 +3920,8 @@ Hladká mouka</textarea>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-3537" value="3537" aria-label="!Kouzelný koš (6)">
-                            <label for="frm-productFilter-brandConstraintForm-value-3537">Kouzelný koš (6)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-3537" value="3537" aria-label="!Kouzelný koš (1)">
+                            <label for="frm-productFilter-brandConstraintForm-value-3537">Kouzelný koš (1)</label>
                         </div>
 
 
@@ -3879,8 +3950,8 @@ Hladká mouka</textarea>
 
 
                             <div class="form-row">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-155" value="155" aria-label="!Le &amp; Co (36)">
-                            <label for="frm-productFilter-brandConstraintForm-value-155">Le &amp; Co (36)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-155" value="155" aria-label="!Le &amp; Co (35)">
+                            <label for="frm-productFilter-brandConstraintForm-value-155">Le &amp; Co (35)</label>
                         </div>
 
 
@@ -3903,8 +3974,8 @@ Hladká mouka</textarea>
 
 
                             <div class="form-row">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-2930" value="2930" aria-label="!Maso Brejcha (29)">
-                            <label for="frm-productFilter-brandConstraintForm-value-2930">Maso Brejcha (29)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-2930" value="2930" aria-label="!Maso Brejcha (28)">
+                            <label for="frm-productFilter-brandConstraintForm-value-2930">Maso Brejcha (28)</label>
                         </div>
 
 
@@ -3915,8 +3986,8 @@ Hladká mouka</textarea>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-1365" value="1365" aria-label="!Masokombinát Polička (2)">
-                            <label for="frm-productFilter-brandConstraintForm-value-1365">Masokombinát Polička (2)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-1365" value="1365" aria-label="!Masokombinát Polička (1)">
+                            <label for="frm-productFilter-brandConstraintForm-value-1365">Masokombinát Polička (1)</label>
                         </div>
 
 
@@ -4011,12 +4082,6 @@ Hladká mouka</textarea>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-160" value="160" aria-label="!Procházka (1)">
-                            <label for="frm-productFilter-brandConstraintForm-value-160">Procházka (1)</label>
-                        </div>
-
-
-                                                         <div class="form-row" style="display: none;">
                             <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-2452" value="2452" aria-label="!Prominent (6)">
                             <label for="frm-productFilter-brandConstraintForm-value-2452">Prominent (6)</label>
                         </div>
@@ -4071,6 +4136,12 @@ Hladká mouka</textarea>
 
 
                                                          <div class="form-row" style="display: none;">
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-3582" value="3582" aria-label="!Simply Fresh (5)">
+                            <label for="frm-productFilter-brandConstraintForm-value-3582">Simply Fresh (5)</label>
+                        </div>
+
+
+                                                         <div class="form-row" style="display: none;">
                             <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-3132" value="3132" aria-label="!Skaličan (17)">
                             <label for="frm-productFilter-brandConstraintForm-value-3132">Skaličan (17)</label>
                         </div>
@@ -4085,12 +4156,6 @@ Hladká mouka</textarea>
                                                          <div class="form-row" style="display: none;">
                             <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-1363" value="1363" aria-label="!Steinhauser (7)">
                             <label for="frm-productFilter-brandConstraintForm-value-1363">Steinhauser (7)</label>
-                        </div>
-
-
-                                                         <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-594" value="594" aria-label="!Svoboda (1)">
-                            <label for="frm-productFilter-brandConstraintForm-value-594">Svoboda (1)</label>
                         </div>
 
 
@@ -4161,8 +4226,8 @@ Hladká mouka</textarea>
 
 
                             <div class="form-row">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-3136" value="3136" aria-label="!Váhala (44)">
-                            <label for="frm-productFilter-brandConstraintForm-value-3136">Váhala (44)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-3136" value="3136" aria-label="!Váhala (47)">
+                            <label for="frm-productFilter-brandConstraintForm-value-3136">Váhala (47)</label>
                         </div>
 
 
@@ -4179,8 +4244,8 @@ Hladká mouka</textarea>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-2156" value="2156" aria-label="!apetit (5)">
-                            <label for="frm-productFilter-brandConstraintForm-value-2156">apetit (5)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-2156" value="2156" aria-label="!apetit (16)">
+                            <label for="frm-productFilter-brandConstraintForm-value-2156">apetit (16)</label>
                         </div>
 
 
@@ -4215,7 +4280,7 @@ Hladká mouka</textarea>
             var buttonsShowMoreClass = 'show-more-brands';
             var buttonsShowLessClass = 'show-less-brands';
             var filters = $('.filter-more-result');
-            var defaultFilterInputs = {"brand":[3136,1364,155,2930,2057,2494,166,156,1256,159]};
+            var defaultFilterInputs = {"brand":[3136,1364,155,2930,2494,2057,166,1256,156,159]};
 
             function hideCheckboxes(rows, key) {
 
@@ -4316,32 +4381,45 @@ Hladká mouka</textarea>
 		</div>
 
 		<div class="region-products-popular">
-<a href="https://www.kosik.cz/hledat?q=Dobroty_z_lososa"><img src="https://cdn.kosik.cz/content/category-banner/png/default/1247.png" alt="whiskas"></a><br><br>
+<a href="https://www.kosik.cz/hledat?q=Uzen%C3%BD_a_marinovan%C3%BD_losos"><img src="https://cdn.kosik.cz/content/category-banner/png/default/1341.png" alt="whiskas"></a><br><br>
 
 		<div class="region region-carousel region-products no-aside product-widget">
 			<div class="home-product-widget region-inner region-products-inner slick-carousel" data-open="3" data-close="4">
 				<div class="block block-title">
 					<h3>Doporučujeme</h3>
 				</div>
+<script async>
+
+    var onProductModalDestroy = function() {
+
+    	var pageData = window.dataLayer[0];
+
+        pageData["event"] = "ga.pageview";
+        pageData["pagePath"] = window.location.pathname;
+        pageData["pageTitle"] = window.document.title;
+
+	    dataLayer.push(pageData);
+    };
+</script>
 <div class="block block-product-items product-items" data-ajax-append="product-item" id="snippet-productWidget-widgetCarousel-1-productListArea">
-    <div id="product-append-43185" class="product-item">
+    <div id="product-append-50106" class="product-item">
         <div class="product-item-flags">
             <div class="flag-sale ">
-                <span class="percents">20<small>&#37;</small></span>
+                <span class="percents">6<small>&#37;</small></span>
             </div>
         </div>
         <div class="product-item-image">
-                <a data-href="/uzeniny-a-lahudky?productWidget-widgetCarousel-1-id=43185&amp;do=productWidget-widgetCarousel-1-modal"
+                <a data-href="/uzeniny-a-lahudky?productWidget-widgetCarousel-1-id=50106&amp;do=productWidget-widgetCarousel-1-modal"
                    data-target="productWidget-widgetCarousel-1-productModal"
-                   data-product-id="43185"
-                   data-product-price="399.2"
-                   data-page-title="Pick Uherský salám (cca 800g)"
-                   data-page-path="/produkt/43185-pick-uhersky-salam-cca-800g"
+                   data-product-id="50106"
+                   data-product-price="1699.9"
+                   data-page-title="Jamón Serrano dárkové balení 6,5kg"
+                   data-page-path="/produkt/50106-jamon-serrano-darkove-baleni-6-5kg"
                    data-user-id=""
                    aria-hidden="true"
                    data-kosikmodal-onclose="onProductModalDestroy"
                    onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/60902.jpg" alt="Pick Uherský salám (cca 800g)" class="loading-images loading-image">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/67692.jpg" alt="Jamón Serrano dárkové balení 6,5kg" class="loading-images loading-image">
                 </a>
 
 
@@ -4349,29 +4427,28 @@ Hladká mouka</textarea>
 
         </div>
                 <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Pick Uherský salám (cca 800g)" data-href="/uzeniny-a-lahudky?productWidget-widgetCarousel-1-id=43185&amp;do=productWidget-widgetCarousel-1-modal" class="product-name modal-link"
+                <h5><a href="javascript:void(0)" aria-label="Jamón Serrano dárkové balení 6,5kg" data-href="/uzeniny-a-lahudky?productWidget-widgetCarousel-1-id=50106&amp;do=productWidget-widgetCarousel-1-modal" class="product-name modal-link"
                    data-target="productWidget-widgetCarousel-1-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Pick Uherský salám (cca 800g)
-                    
+                    Jamón Serrano dárkové balení 6,5kg
+                    <br><span class="new-product">Novinka</span>
                 </a></h5>
             <p class="product-item-price product-in-discount">
                 <span class="price-before-discount">
-					<span><strong class="price">399,20 Kč</strong></span>
+					<span><strong class="price">1 699,90 Kč</strong></span>
 				</span>
-                <small class="circa-prefix">cca </small>
-                <strong class="price">319,20 Kč</strong>
+                <strong class="price">1 599,00 Kč</strong>
 
             </p>
             <p class="product-item-unit">
-                    (<strong class="price">399,00 Kč</strong> / kg)
+                    (<strong class="price">246,00 Kč</strong> / kg)
             </p>
                         <div class="product-list-rating">
             </div>
-<div id="snippet-productWidget-widgetCarousel-1-buy-43185-quantity">        <div class="product-quantity-control">
-            <form action="/uzeniny-a-lahudky" method="post" class="ajax" id="frm-productWidget-widgetCarousel-1-buy-43185-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productWidget-widgetCarousel-1-buy-43185-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+<div id="snippet-productWidget-widgetCarousel-1-buy-50106-quantity">        <div class="product-quantity-control">
+            <form action="/uzeniny-a-lahudky" method="post" class="ajax" id="frm-productWidget-widgetCarousel-1-buy-50106-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productWidget-widgetCarousel-1-buy-50106-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
                 <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productWidget-widgetCarousel-1-buy-43185-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+            <input type="hidden" name="do" value="productWidget-widgetCarousel-1-buy-50106-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
 </form>
 
         </div>
@@ -4430,6 +4507,65 @@ Hladká mouka</textarea>
                 <input type="text" name="quantity" size="3" id="frm-productWidget-widgetCarousel-1-buy-43199-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
                 <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
             <input type="hidden" name="do" value="productWidget-widgetCarousel-1-buy-43199-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+</form>
+
+        </div>
+</div>
+                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
+
+
+        </div>
+
+        
+    </div>
+    <div id="product-append-43185" class="product-item">
+        <div class="product-item-flags">
+            <div class="flag-sale ">
+                <span class="percents">20<small>&#37;</small></span>
+            </div>
+        </div>
+        <div class="product-item-image">
+                <a data-href="/uzeniny-a-lahudky?productWidget-widgetCarousel-1-id=43185&amp;do=productWidget-widgetCarousel-1-modal"
+                   data-target="productWidget-widgetCarousel-1-productModal"
+                   data-product-id="43185"
+                   data-product-price="399.2"
+                   data-page-title="Pick Uherský salám (cca 800g)"
+                   data-page-path="/produkt/43185-pick-uhersky-salam-cca-800g"
+                   data-user-id=""
+                   aria-hidden="true"
+                   data-kosikmodal-onclose="onProductModalDestroy"
+                   onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/60902.jpg" alt="Pick Uherský salám (cca 800g)" class="loading-images loading-image">
+                </a>
+
+
+
+
+        </div>
+                <div class="product-item-info">
+                <h5><a href="javascript:void(0)" aria-label="Pick Uherský salám (cca 800g)" data-href="/uzeniny-a-lahudky?productWidget-widgetCarousel-1-id=43185&amp;do=productWidget-widgetCarousel-1-modal" class="product-name modal-link"
+                   data-target="productWidget-widgetCarousel-1-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    Pick Uherský salám (cca 800g)
+                    
+                </a></h5>
+            <p class="product-item-price product-in-discount">
+                <span class="price-before-discount">
+					<span><strong class="price">399,20 Kč</strong></span>
+				</span>
+                <small class="circa-prefix">cca </small>
+                <strong class="price">319,20 Kč</strong>
+
+            </p>
+            <p class="product-item-unit">
+                    (<strong class="price">399,00 Kč</strong> / kg)
+            </p>
+                        <div class="product-list-rating">
+            </div>
+<div id="snippet-productWidget-widgetCarousel-1-buy-43185-quantity">        <div class="product-quantity-control">
+            <form action="/uzeniny-a-lahudky" method="post" class="ajax" id="frm-productWidget-widgetCarousel-1-buy-43185-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productWidget-widgetCarousel-1-buy-43185-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
+            <input type="hidden" name="do" value="productWidget-widgetCarousel-1-buy-43185-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
 </form>
 
         </div>
@@ -4771,6 +4907,9 @@ Hladká mouka</textarea>
     </div>
     <div id="product-append-766" class="product-item">
         <div class="product-item-flags">
+            <div class="flag-sale ">
+                <span class="percents">28<small>&#37;</small></span>
+            </div>
         </div>
         <div class="product-item-image">
                 <a data-href="/uzeniny-a-lahudky?productWidget-widgetCarousel-1-id=766&amp;do=productWidget-widgetCarousel-1-modal"
@@ -4796,14 +4935,15 @@ Hladká mouka</textarea>
                     Pick Uherský salám 400g
                     
                 </a></h5>
-            <p class="product-item-price ">
+            <p class="product-item-price product-in-discount">
                 <span class="price-before-discount">
+					<span><strong class="price">249,00 Kč</strong></span>
 				</span>
-                <strong class="price">249,00 Kč</strong>
+                <strong class="price">179,00 Kč</strong>
 
             </p>
             <p class="product-item-unit">
-                    (<strong class="price">622,50 Kč</strong> / kg)
+                    (<strong class="price">447,50 Kč</strong> / kg)
             </p>
                         <div class="product-list-rating">
             </div>
@@ -4826,7 +4966,7 @@ Hladká mouka</textarea>
     <div id="product-append-50406" class="product-item">
         <div class="product-item-flags">
             <div class="flag-sale ">
-                <span class="percents">13<small>&#37;</small></span>
+                <span class="percents">19<small>&#37;</small></span>
             </div>
         </div>
         <div class="product-item-image">
@@ -4857,11 +4997,11 @@ Hladká mouka</textarea>
                 <span class="price-before-discount">
 					<span><strong class="price">159,90 Kč</strong></span>
 				</span>
-                <strong class="price">139,90 Kč</strong>
+                <strong class="price">129,90 Kč</strong>
 
             </p>
             <p class="product-item-unit">
-                    (<strong class="price">349,80 Kč</strong> / kg)
+                    (<strong class="price">324,80 Kč</strong> / kg)
             </p>
                         <div class="product-list-rating">
             </div>
@@ -5287,6 +5427,65 @@ Hladká mouka</textarea>
 
         
     </div>
+    <div id="product-append-11606" class="product-item">
+        <div class="product-item-flags">
+            <div class="flag-sale ">
+                <span class="percents">46<small>&#37;</small></span>
+            </div>
+        </div>
+        <div class="product-item-image">
+                <a data-href="/uzeniny-a-lahudky?productList-id=11606&amp;do=productList-modal"
+                   data-target="productList-productModal"
+                   data-product-id="11606"
+                   data-product-price="32.9"
+                   data-page-title="Le &amp; Co Shaved Šunka zvonařka nejvyšší jakosti 100g"
+                   data-page-path="/produkt/11606-le-co-shaved-sunka-zvonarka-nejvyssi-jakosti-100g"
+                   data-user-id=""
+                   aria-hidden="true"
+                   data-kosikmodal-onclose="onProductModalDestroy"
+                   onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/29083.jpg" alt="Le &amp; Co Shaved Šunka zvonařka nejvyšší jakosti 100g" class="loading-images loading-image">
+                </a>
+
+
+
+
+        </div>
+                <div class="product-item-info">
+                <h5><a href="javascript:void(0)" aria-label="Le &amp; Co Shaved Šunka zvonařka nejvyšší jakosti 100g" data-href="/uzeniny-a-lahudky?productList-id=11606&amp;do=productList-modal" class="product-name modal-link"
+                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    Le &amp; Co Shaved Šunka zvonařka nejvyšší jakosti 100g
+                    
+                </a></h5>
+            <p class="product-item-price product-in-discount">
+                <span class="price-before-discount">
+					<span><strong class="price">32,90 Kč</strong></span>
+				</span>
+                <strong class="price">17,90 Kč</strong>
+
+            </p>
+            <p class="product-item-unit">
+                    (<strong class="price">179,00 Kč</strong> / kg)
+            </p>
+                        <div class="product-list-rating">
+                <span><ul class="rating"><li class="rating-children rating-1 up" data-rating="1"><i class="fa fa-star"></i></li><li class="rating-children rating-2 up" data-rating="2"><i class="fa fa-star"></i></li><li class="rating-children rating-3 up" data-rating="3"><i class="fa fa-star"></i></li><li class="rating-children rating-4 up" data-rating="4"><i class="fa fa-star"></i></li><li class="rating-children rating-5 up" data-rating="5"><i class="fa fa-star"></i></li></ul></span>
+            </div>
+<div id="snippet-productList-buy-11606-quantity">        <div class="product-quantity-control">
+            <form action="/uzeniny-a-lahudky" method="post" class="ajax" id="frm-productList-buy-11606-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-11606-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
+            <input type="hidden" name="do" value="productList-buy-11606-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+</form>
+
+        </div>
+</div>
+                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
+
+
+        </div>
+
+        
+    </div>
     <div id="product-append-16581" class="product-item">
         <div class="product-item-flags">
         </div>
@@ -5506,187 +5705,21 @@ Hladká mouka</textarea>
 
         
     </div>
-    <div id="product-append-40971" class="product-item">
+    <div id="product-append-32281" class="product-item">
         <div class="product-item-flags">
         </div>
         <div class="product-item-image">
-                <a data-href="/uzeniny-a-lahudky?productList-id=40971&amp;do=productList-modal"
+                <a data-href="/uzeniny-a-lahudky?productList-id=32281&amp;do=productList-modal"
                    data-target="productList-productModal"
-                   data-product-id="40971"
-                   data-product-price="18.9"
-                   data-page-title="Pejskar Vysočina krájená 100g"
-                   data-page-path="/produkt/40971-pejskar-vysocina-krajena-100g"
-                   data-user-id=""
-                   aria-hidden="true"
-                   data-kosikmodal-onclose="onProductModalDestroy"
-                   onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/58688.jpg" alt="Pejskar Vysočina krájená 100g" class="loading-images loading-image">
-                </a>
-
-
-
-
-        </div>
-                <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Pejskar Vysočina krájená 100g" data-href="/uzeniny-a-lahudky?productList-id=40971&amp;do=productList-modal" class="product-name modal-link"
-                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Pejskar Vysočina krájená 100g
-                    
-                </a></h5>
-            <p class="product-item-price ">
-                <span class="price-before-discount">
-				</span>
-                <strong class="price">18,90 Kč</strong>
-
-            </p>
-            <p class="product-item-unit">
-                    (<strong class="price">189,00 Kč</strong> / kg)
-            </p>
-                        <div class="product-list-rating">
-            </div>
-<div id="snippet-productList-buy-40971-quantity">        <div class="product-quantity-control">
-            <form action="/uzeniny-a-lahudky" method="post" class="ajax" id="frm-productList-buy-40971-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-40971-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
-                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-40971-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
-</form>
-
-        </div>
-</div>
-                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
-
-
-        </div>
-
-        
-    </div>
-    <div id="product-append-41532" class="product-item">
-        <div class="product-item-flags">
-            <div class="flag-sale ">
-                <span class="percents">25<small>&#37;</small></span>
-            </div>
-        </div>
-        <div class="product-item-image">
-                <a data-href="/uzeniny-a-lahudky?productList-id=41532&amp;do=productList-modal"
-                   data-target="productList-productModal"
-                   data-product-id="41532"
-                   data-product-price="15.9"
-                   data-page-title="Ponnath Řezničtí mistři Kapiový salám krájený 100g"
-                   data-page-path="/produkt/41532-ponnath-reznicti-mistri-kapiovy-salam-krajeny-100g"
-                   data-user-id=""
-                   aria-hidden="true"
-                   data-kosikmodal-onclose="onProductModalDestroy"
-                   onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/59249.jpg" alt="Ponnath Řezničtí mistři Kapiový salám krájený 100g" class="loading-images loading-image">
-                </a>
-
-
-
-
-        </div>
-                <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Ponnath Řezničtí mistři Kapiový salám krájený 100g" data-href="/uzeniny-a-lahudky?productList-id=41532&amp;do=productList-modal" class="product-name modal-link"
-                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Ponnath Řezničtí mistři Kapiový salám krájený 100g
-                    
-                </a></h5>
-            <p class="product-item-price product-in-discount">
-                <span class="price-before-discount">
-					<span><strong class="price">15,90 Kč</strong></span>
-				</span>
-                <strong class="price">11,90 Kč</strong>
-
-            </p>
-            <p class="product-item-unit">
-                    (<strong class="price">119,00 Kč</strong> / kg)
-            </p>
-                        <div class="product-list-rating">
-            </div>
-<div id="snippet-productList-buy-41532-quantity">        <div class="product-quantity-control">
-            <form action="/uzeniny-a-lahudky" method="post" class="ajax" id="frm-productList-buy-41532-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-41532-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
-                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-41532-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
-</form>
-
-        </div>
-</div>
-                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
-
-
-        </div>
-
-        
-    </div>
-    <div id="product-append-5084" class="product-item">
-        <div class="product-item-flags">
-        </div>
-        <div class="product-item-image">
-                <a data-href="/uzeniny-a-lahudky?productList-id=5084&amp;do=productList-modal"
-                   data-target="productList-productModal"
-                   data-product-id="5084"
-                   data-product-price="22.9"
-                   data-page-title="Le &amp; Co salám šunkový shaved 100g"
-                   data-page-path="/produkt/5084-le-co-salam-sunkovy-shaved-100g"
-                   data-user-id=""
-                   aria-hidden="true"
-                   data-kosikmodal-onclose="onProductModalDestroy"
-                   onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/5676.jpg" alt="Le &amp; Co salám šunkový shaved 100g" class="loading-images loading-image">
-                </a>
-
-
-
-
-        </div>
-                <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Le &amp; Co salám šunkový shaved 100g" data-href="/uzeniny-a-lahudky?productList-id=5084&amp;do=productList-modal" class="product-name modal-link"
-                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Le &amp; Co salám šunkový shaved 100g
-                    
-                </a></h5>
-            <p class="product-item-price ">
-                <span class="price-before-discount">
-				</span>
-                <strong class="price">22,90 Kč</strong>
-
-            </p>
-            <p class="product-item-unit">
-                    (<strong class="price">229,00 Kč</strong> / kg)
-            </p>
-                        <div class="product-list-rating">
-            </div>
-<div id="snippet-productList-buy-5084-quantity">        <div class="product-quantity-control">
-            <form action="/uzeniny-a-lahudky" method="post" class="ajax" id="frm-productList-buy-5084-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-5084-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
-                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-5084-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
-</form>
-
-        </div>
-</div>
-                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
-
-
-        </div>
-
-        
-    </div>
-    <div id="product-append-39785" class="product-item">
-        <div class="product-item-flags">
-        </div>
-        <div class="product-item-image">
-                <a data-href="/uzeniny-a-lahudky?productList-id=39785&amp;do=productList-modal"
-                   data-target="productList-productModal"
-                   data-product-id="39785"
+                   data-product-id="32281"
                    data-product-price="19.9"
-                   data-page-title="Pejskar Polický uherák krájený 75g"
-                   data-page-path="/produkt/39785-pejskar-policky-uherak-krajeny-75g"
+                   data-page-title="Maso Brejcha Anglická slanina krájená 100g"
+                   data-page-path="/produkt/32281-maso-brejcha-anglicka-slanina-krajena-100g"
                    data-user-id=""
                    aria-hidden="true"
                    data-kosikmodal-onclose="onProductModalDestroy"
                    onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/57502.jpg" alt="Pejskar Polický uherák krájený 75g" class="loading-images loading-image">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/49760.jpg" alt="Maso Brejcha Anglická slanina krájená 100g" class="loading-images loading-image">
                 </a>
 
 
@@ -5694,9 +5727,9 @@ Hladká mouka</textarea>
 
         </div>
                 <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Pejskar Polický uherák krájený 75g" data-href="/uzeniny-a-lahudky?productList-id=39785&amp;do=productList-modal" class="product-name modal-link"
+                <h5><a href="javascript:void(0)" aria-label="Maso Brejcha Anglická slanina krájená 100g" data-href="/uzeniny-a-lahudky?productList-id=32281&amp;do=productList-modal" class="product-name modal-link"
                    data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Pejskar Polický uherák krájený 75g
+                    Maso Brejcha Anglická slanina krájená 100g
                     
                 </a></h5>
             <p class="product-item-price ">
@@ -5706,15 +5739,16 @@ Hladká mouka</textarea>
 
             </p>
             <p class="product-item-unit">
-                    (<strong class="price">265,30 Kč</strong> / kg)
+                    (<strong class="price">199,00 Kč</strong> / kg)
             </p>
                         <div class="product-list-rating">
+                <span><ul class="rating"><li class="rating-children rating-1 up" data-rating="1"><i class="fa fa-star"></i></li><li class="rating-children rating-2 up" data-rating="2"><i class="fa fa-star"></i></li><li class="rating-children rating-3 up" data-rating="3"><i class="fa fa-star"></i></li><li class="rating-children rating-4 up" data-rating="4"><i class="fa fa-star"></i></li><li class="rating-children rating-5 up" data-rating="5"><i class="fa fa-star"></i></li></ul></span>
             </div>
-<div id="snippet-productList-buy-39785-quantity">        <div class="product-quantity-control">
-            <form action="/uzeniny-a-lahudky" method="post" class="ajax" id="frm-productList-buy-39785-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-39785-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+<div id="snippet-productList-buy-32281-quantity">        <div class="product-quantity-control">
+            <form action="/uzeniny-a-lahudky" method="post" class="ajax" id="frm-productList-buy-32281-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-32281-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
                 <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-39785-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+            <input type="hidden" name="do" value="productList-buy-32281-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
 </form>
 
         </div>
@@ -5726,21 +5760,24 @@ Hladká mouka</textarea>
 
         
     </div>
-    <div id="product-append-756" class="product-item">
+    <div id="product-append-11967" class="product-item">
         <div class="product-item-flags">
+            <div class="flag-sale ">
+                <span class="percents">33<small>&#37;</small></span>
+            </div>
         </div>
         <div class="product-item-image">
-                <a data-href="/uzeniny-a-lahudky?productList-id=756&amp;do=productList-modal"
+                <a data-href="/uzeniny-a-lahudky?productList-id=11967&amp;do=productList-modal"
                    data-target="productList-productModal"
-                   data-product-id="756"
+                   data-product-id="11967"
                    data-product-price="29.9"
-                   data-page-title="Le &amp; Co Shaved Šunka od kosti nejvyšší jakosti 100g"
-                   data-page-path="/produkt/756-le-co-shaved-sunka-od-kosti-nejvyssi-jakosti-100g"
+                   data-page-title="Le&amp;Co Kuřecí šunka pro děti nejvyšší jakost plátky 100g"
+                   data-page-path="/produkt/11967-le-co-kureci-sunka-pro-deti-nejvyssi-jakost-platky-100g"
                    data-user-id=""
                    aria-hidden="true"
                    data-kosikmodal-onclose="onProductModalDestroy"
                    onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/797.jpg" alt="Le &amp; Co Shaved Šunka od kosti nejvyšší jakosti 100g" class="loading-images loading-image">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/29327.jpg" alt="Le&amp;Co Kuřecí šunka pro děti nejvyšší jakost plátky 100g" class="loading-images loading-image">
                 </a>
 
 
@@ -5748,28 +5785,28 @@ Hladká mouka</textarea>
 
         </div>
                 <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Le &amp; Co Shaved Šunka od kosti nejvyšší jakosti 100g" data-href="/uzeniny-a-lahudky?productList-id=756&amp;do=productList-modal" class="product-name modal-link"
+                <h5><a href="javascript:void(0)" aria-label="Le&amp;Co Kuřecí šunka pro děti nejvyšší jakost plátky 100g" data-href="/uzeniny-a-lahudky?productList-id=11967&amp;do=productList-modal" class="product-name modal-link"
                    data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Le &amp; Co Shaved Šunka od kosti nejvyšší jakosti 100g
+                    Le&amp;Co Kuřecí šunka pro děti nejvyšší jakost plátky 100g
                     
                 </a></h5>
-            <p class="product-item-price ">
+            <p class="product-item-price product-in-discount">
                 <span class="price-before-discount">
+					<span><strong class="price">29,90 Kč</strong></span>
 				</span>
-                <strong class="price">29,90 Kč</strong>
+                <strong class="price">19,90 Kč</strong>
 
             </p>
             <p class="product-item-unit">
-                    (<strong class="price">299,00 Kč</strong> / kg)
+                    (<strong class="price">199,00 Kč</strong> / kg)
             </p>
                         <div class="product-list-rating">
-                <span><ul class="rating"><li class="rating-children rating-1 up" data-rating="1"><i class="fa fa-star"></i></li><li class="rating-children rating-2 up" data-rating="2"><i class="fa fa-star"></i></li><li class="rating-children rating-3 up" data-rating="3"><i class="fa fa-star"></i></li><li class="rating-children rating-4 up" data-rating="4"><i class="fa fa-star"></i></li><li class="rating-children rating-5 down" data-rating="5"><i class="fa fa-star"></i></li></ul></span>
             </div>
-<div id="snippet-productList-buy-756-quantity">        <div class="product-quantity-control">
-            <form action="/uzeniny-a-lahudky" method="post" class="ajax" id="frm-productList-buy-756-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-756-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+<div id="snippet-productList-buy-11967-quantity">        <div class="product-quantity-control">
+            <form action="/uzeniny-a-lahudky" method="post" class="ajax" id="frm-productList-buy-11967-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-11967-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
                 <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-756-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+            <input type="hidden" name="do" value="productList-buy-11967-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
 </form>
 
         </div>
@@ -5781,21 +5818,24 @@ Hladká mouka</textarea>
 
         
     </div>
-    <div id="product-append-753" class="product-item">
+    <div id="product-append-30923" class="product-item">
         <div class="product-item-flags">
+            <div class="flag-sale ">
+                <span class="percents">30<small>&#37;</small></span>
+            </div>
         </div>
         <div class="product-item-image">
-                <a data-href="/uzeniny-a-lahudky?productList-id=753&amp;do=productList-modal"
+                <a data-href="/uzeniny-a-lahudky?productList-id=30923&amp;do=productList-modal"
                    data-target="productList-productModal"
-                   data-product-id="753"
-                   data-product-price="29.9"
-                   data-page-title="Le &amp; Co Shaved Krůtí šunka pro děti krájená 100g"
-                   data-page-path="/produkt/753-le-co-shaved-kruti-sunka-pro-deti-krajena-100g"
+                   data-product-id="30923"
+                   data-product-price="19.9"
+                   data-page-title="Chodura Pivní salám 100g"
+                   data-page-path="/produkt/30923-chodura-pivni-salam-100g"
                    data-user-id=""
                    aria-hidden="true"
                    data-kosikmodal-onclose="onProductModalDestroy"
                    onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/794.jpg" alt="Le &amp; Co Shaved Krůtí šunka pro děti krájená 100g" class="loading-images loading-image">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/48321.jpg" alt="Chodura Pivní salám 100g" class="loading-images loading-image">
                 </a>
 
 
@@ -5803,81 +5843,29 @@ Hladká mouka</textarea>
 
         </div>
                 <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Le &amp; Co Shaved Krůtí šunka pro děti krájená 100g" data-href="/uzeniny-a-lahudky?productList-id=753&amp;do=productList-modal" class="product-name modal-link"
+                <h5><a href="javascript:void(0)" aria-label="Chodura Pivní salám 100g" data-href="/uzeniny-a-lahudky?productList-id=30923&amp;do=productList-modal" class="product-name modal-link"
                    data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Le &amp; Co Shaved Krůtí šunka pro děti krájená 100g
+                    Chodura Pivní salám 100g
                     
                 </a></h5>
-            <p class="product-item-price ">
+            <p class="product-item-price product-in-discount">
                 <span class="price-before-discount">
+					<span><strong class="price">19,90 Kč</strong></span>
 				</span>
-                <strong class="price">29,90 Kč</strong>
+                <strong class="price">13,90 Kč</strong>
 
             </p>
             <p class="product-item-unit">
-                    (<strong class="price">299,00 Kč</strong> / kg)
+                    (<strong class="price">139,00 Kč</strong> / kg)
             </p>
                         <div class="product-list-rating">
+                <span><ul class="rating"><li class="rating-children rating-1 up" data-rating="1"><i class="fa fa-star"></i></li><li class="rating-children rating-2 up" data-rating="2"><i class="fa fa-star"></i></li><li class="rating-children rating-3 up" data-rating="3"><i class="fa fa-star"></i></li><li class="rating-children rating-4 up" data-rating="4"><i class="fa fa-star"></i></li><li class="rating-children rating-5 up" data-rating="5"><i class="fa fa-star"></i></li></ul></span>
             </div>
-<div id="snippet-productList-buy-753-quantity">        <div class="product-quantity-control">
-            <form action="/uzeniny-a-lahudky" method="post" class="ajax" id="frm-productList-buy-753-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-753-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+<div id="snippet-productList-buy-30923-quantity">        <div class="product-quantity-control">
+            <form action="/uzeniny-a-lahudky" method="post" class="ajax" id="frm-productList-buy-30923-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-30923-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
                 <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-753-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
-</form>
-
-        </div>
-</div>
-                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
-
-
-        </div>
-
-        
-    </div>
-    <div id="product-append-11605" class="product-item">
-        <div class="product-item-flags">
-        </div>
-        <div class="product-item-image">
-                <a data-href="/uzeniny-a-lahudky?productList-id=11605&amp;do=productList-modal"
-                   data-target="productList-productModal"
-                   data-product-id="11605"
-                   data-product-price="24.9"
-                   data-page-title="Le &amp; Co Anglická slanina shaved 100g"
-                   data-page-path="/produkt/11605-le-co-anglicka-slanina-shaved-100g"
-                   data-user-id=""
-                   aria-hidden="true"
-                   data-kosikmodal-onclose="onProductModalDestroy"
-                   onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/29082.jpg" alt="Le &amp; Co Anglická slanina shaved 100g" class="loading-images loading-image">
-                </a>
-
-
-
-
-        </div>
-                <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Le &amp; Co Anglická slanina shaved 100g" data-href="/uzeniny-a-lahudky?productList-id=11605&amp;do=productList-modal" class="product-name modal-link"
-                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Le &amp; Co Anglická slanina shaved 100g
-                    
-                </a></h5>
-            <p class="product-item-price ">
-                <span class="price-before-discount">
-				</span>
-                <strong class="price">24,90 Kč</strong>
-
-            </p>
-            <p class="product-item-unit">
-                    (<strong class="price">249,00 Kč</strong> / kg)
-            </p>
-                        <div class="product-list-rating">
-            </div>
-<div id="snippet-productList-buy-11605-quantity">        <div class="product-quantity-control">
-            <form action="/uzeniny-a-lahudky" method="post" class="ajax" id="frm-productList-buy-11605-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-11605-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
-                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-11605-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+            <input type="hidden" name="do" value="productList-buy-30923-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
 </form>
 
         </div>
@@ -5947,21 +5935,24 @@ Hladká mouka</textarea>
 
         
     </div>
-    <div id="product-append-32286" class="product-item">
+    <div id="product-append-752" class="product-item">
         <div class="product-item-flags">
+            <div class="flag-sale ">
+                <span class="percents">30<small>&#37;</small></span>
+            </div>
         </div>
         <div class="product-item-image">
-                <a data-href="/uzeniny-a-lahudky?productList-id=32286&amp;do=productList-modal"
+                <a data-href="/uzeniny-a-lahudky?productList-id=752&amp;do=productList-modal"
                    data-target="productList-productModal"
-                   data-product-id="32286"
-                   data-product-price="23.9"
-                   data-page-title="Maso Brejcha Debrecínská pečeně 100g"
-                   data-page-path="/produkt/32286-maso-brejcha-debrecinska-pecene-100g"
+                   data-product-id="752"
+                   data-product-price="49.9"
+                   data-page-title="Le &amp; Co Shaved Krůtí prsní šunka 200g"
+                   data-page-path="/produkt/752-le-co-shaved-kruti-prsni-sunka-200g"
                    data-user-id=""
                    aria-hidden="true"
                    data-kosikmodal-onclose="onProductModalDestroy"
                    onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/49765.jpg" alt="Maso Brejcha Debrecínská pečeně 100g" class="loading-images loading-image">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/793.jpg" alt="Le &amp; Co Shaved Krůtí prsní šunka 200g" class="loading-images loading-image">
                 </a>
 
 
@@ -5969,27 +5960,357 @@ Hladká mouka</textarea>
 
         </div>
                 <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Maso Brejcha Debrecínská pečeně 100g" data-href="/uzeniny-a-lahudky?productList-id=32286&amp;do=productList-modal" class="product-name modal-link"
+                <h5><a href="javascript:void(0)" aria-label="Le &amp; Co Shaved Krůtí prsní šunka 200g" data-href="/uzeniny-a-lahudky?productList-id=752&amp;do=productList-modal" class="product-name modal-link"
                    data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Maso Brejcha Debrecínská pečeně 100g
+                    Le &amp; Co Shaved Krůtí prsní šunka 200g
+                    
+                </a></h5>
+            <p class="product-item-price product-in-discount">
+                <span class="price-before-discount">
+					<span><strong class="price">49,90 Kč</strong></span>
+				</span>
+                <strong class="price">34,90 Kč</strong>
+
+            </p>
+            <p class="product-item-unit">
+                    (<strong class="price">174,50 Kč</strong> / kg)
+            </p>
+                        <div class="product-list-rating">
+            </div>
+<div id="snippet-productList-buy-752-quantity">        <div class="product-quantity-control">
+            <form action="/uzeniny-a-lahudky" method="post" class="ajax" id="frm-productList-buy-752-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-752-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
+            <input type="hidden" name="do" value="productList-buy-752-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+</form>
+
+        </div>
+</div>
+                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
+
+
+        </div>
+
+        
+    </div>
+    <div id="product-append-756" class="product-item">
+        <div class="product-item-flags">
+        </div>
+        <div class="product-item-image">
+                <a data-href="/uzeniny-a-lahudky?productList-id=756&amp;do=productList-modal"
+                   data-target="productList-productModal"
+                   data-product-id="756"
+                   data-product-price="29.9"
+                   data-page-title="Le &amp; Co Shaved Šunka od kosti nejvyšší jakosti 100g"
+                   data-page-path="/produkt/756-le-co-shaved-sunka-od-kosti-nejvyssi-jakosti-100g"
+                   data-user-id=""
+                   aria-hidden="true"
+                   data-kosikmodal-onclose="onProductModalDestroy"
+                   onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/797.jpg" alt="Le &amp; Co Shaved Šunka od kosti nejvyšší jakosti 100g" class="loading-images loading-image">
+                </a>
+
+
+
+
+        </div>
+                <div class="product-item-info">
+                <h5><a href="javascript:void(0)" aria-label="Le &amp; Co Shaved Šunka od kosti nejvyšší jakosti 100g" data-href="/uzeniny-a-lahudky?productList-id=756&amp;do=productList-modal" class="product-name modal-link"
+                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    Le &amp; Co Shaved Šunka od kosti nejvyšší jakosti 100g
                     
                 </a></h5>
             <p class="product-item-price ">
                 <span class="price-before-discount">
 				</span>
-                <strong class="price">23,90 Kč</strong>
+                <strong class="price">29,90 Kč</strong>
 
             </p>
             <p class="product-item-unit">
-                    (<strong class="price">239,00 Kč</strong> / kg)
+                    (<strong class="price">299,00 Kč</strong> / kg)
+            </p>
+                        <div class="product-list-rating">
+                <span><ul class="rating"><li class="rating-children rating-1 up" data-rating="1"><i class="fa fa-star"></i></li><li class="rating-children rating-2 up" data-rating="2"><i class="fa fa-star"></i></li><li class="rating-children rating-3 up" data-rating="3"><i class="fa fa-star"></i></li><li class="rating-children rating-4 up" data-rating="4"><i class="fa fa-star"></i></li><li class="rating-children rating-5 down" data-rating="5"><i class="fa fa-star"></i></li></ul></span>
+            </div>
+<div id="snippet-productList-buy-756-quantity">        <div class="product-quantity-control">
+            <form action="/uzeniny-a-lahudky" method="post" class="ajax" id="frm-productList-buy-756-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-756-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
+            <input type="hidden" name="do" value="productList-buy-756-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+</form>
+
+        </div>
+</div>
+                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
+
+
+        </div>
+
+        
+    </div>
+    <div id="product-append-11605" class="product-item">
+        <div class="product-item-flags">
+        </div>
+        <div class="product-item-image">
+                <a data-href="/uzeniny-a-lahudky?productList-id=11605&amp;do=productList-modal"
+                   data-target="productList-productModal"
+                   data-product-id="11605"
+                   data-product-price="24.9"
+                   data-page-title="Le &amp; Co Anglická slanina shaved 100g"
+                   data-page-path="/produkt/11605-le-co-anglicka-slanina-shaved-100g"
+                   data-user-id=""
+                   aria-hidden="true"
+                   data-kosikmodal-onclose="onProductModalDestroy"
+                   onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/29082.jpg" alt="Le &amp; Co Anglická slanina shaved 100g" class="loading-images loading-image">
+                </a>
+
+
+
+
+        </div>
+                <div class="product-item-info">
+                <h5><a href="javascript:void(0)" aria-label="Le &amp; Co Anglická slanina shaved 100g" data-href="/uzeniny-a-lahudky?productList-id=11605&amp;do=productList-modal" class="product-name modal-link"
+                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    Le &amp; Co Anglická slanina shaved 100g
+                    
+                </a></h5>
+            <p class="product-item-price ">
+                <span class="price-before-discount">
+				</span>
+                <strong class="price">24,90 Kč</strong>
+
+            </p>
+            <p class="product-item-unit">
+                    (<strong class="price">249,00 Kč</strong> / kg)
             </p>
                         <div class="product-list-rating">
             </div>
-<div id="snippet-productList-buy-32286-quantity">        <div class="product-quantity-control">
-            <form action="/uzeniny-a-lahudky" method="post" class="ajax" id="frm-productList-buy-32286-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-32286-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+<div id="snippet-productList-buy-11605-quantity">        <div class="product-quantity-control">
+            <form action="/uzeniny-a-lahudky" method="post" class="ajax" id="frm-productList-buy-11605-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-11605-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
                 <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-32286-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+            <input type="hidden" name="do" value="productList-buy-11605-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+</form>
+
+        </div>
+</div>
+                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
+
+
+        </div>
+
+        
+    </div>
+    <div id="product-append-753" class="product-item">
+        <div class="product-item-flags">
+        </div>
+        <div class="product-item-image">
+                <a data-href="/uzeniny-a-lahudky?productList-id=753&amp;do=productList-modal"
+                   data-target="productList-productModal"
+                   data-product-id="753"
+                   data-product-price="29.9"
+                   data-page-title="Le &amp; Co Shaved Krůtí šunka pro děti krájená 100g"
+                   data-page-path="/produkt/753-le-co-shaved-kruti-sunka-pro-deti-krajena-100g"
+                   data-user-id=""
+                   aria-hidden="true"
+                   data-kosikmodal-onclose="onProductModalDestroy"
+                   onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/794.jpg" alt="Le &amp; Co Shaved Krůtí šunka pro děti krájená 100g" class="loading-images loading-image">
+                </a>
+
+
+
+
+        </div>
+                <div class="product-item-info">
+                <h5><a href="javascript:void(0)" aria-label="Le &amp; Co Shaved Krůtí šunka pro děti krájená 100g" data-href="/uzeniny-a-lahudky?productList-id=753&amp;do=productList-modal" class="product-name modal-link"
+                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    Le &amp; Co Shaved Krůtí šunka pro děti krájená 100g
+                    
+                </a></h5>
+            <p class="product-item-price ">
+                <span class="price-before-discount">
+				</span>
+                <strong class="price">29,90 Kč</strong>
+
+            </p>
+            <p class="product-item-unit">
+                    (<strong class="price">299,00 Kč</strong> / kg)
+            </p>
+                        <div class="product-list-rating">
+            </div>
+<div id="snippet-productList-buy-753-quantity">        <div class="product-quantity-control">
+            <form action="/uzeniny-a-lahudky" method="post" class="ajax" id="frm-productList-buy-753-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-753-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
+            <input type="hidden" name="do" value="productList-buy-753-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+</form>
+
+        </div>
+</div>
+                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
+
+
+        </div>
+
+        
+    </div>
+    <div id="product-append-5084" class="product-item">
+        <div class="product-item-flags">
+        </div>
+        <div class="product-item-image">
+                <a data-href="/uzeniny-a-lahudky?productList-id=5084&amp;do=productList-modal"
+                   data-target="productList-productModal"
+                   data-product-id="5084"
+                   data-product-price="22.9"
+                   data-page-title="Le &amp; Co salám šunkový shaved 100g"
+                   data-page-path="/produkt/5084-le-co-salam-sunkovy-shaved-100g"
+                   data-user-id=""
+                   aria-hidden="true"
+                   data-kosikmodal-onclose="onProductModalDestroy"
+                   onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/5676.jpg" alt="Le &amp; Co salám šunkový shaved 100g" class="loading-images loading-image">
+                </a>
+
+
+
+
+        </div>
+                <div class="product-item-info">
+                <h5><a href="javascript:void(0)" aria-label="Le &amp; Co salám šunkový shaved 100g" data-href="/uzeniny-a-lahudky?productList-id=5084&amp;do=productList-modal" class="product-name modal-link"
+                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    Le &amp; Co salám šunkový shaved 100g
+                    
+                </a></h5>
+            <p class="product-item-price ">
+                <span class="price-before-discount">
+				</span>
+                <strong class="price">22,90 Kč</strong>
+
+            </p>
+            <p class="product-item-unit">
+                    (<strong class="price">229,00 Kč</strong> / kg)
+            </p>
+                        <div class="product-list-rating">
+            </div>
+<div id="snippet-productList-buy-5084-quantity">        <div class="product-quantity-control">
+            <form action="/uzeniny-a-lahudky" method="post" class="ajax" id="frm-productList-buy-5084-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-5084-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
+            <input type="hidden" name="do" value="productList-buy-5084-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+</form>
+
+        </div>
+</div>
+                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
+
+
+        </div>
+
+        
+    </div>
+    <div id="product-append-11965" class="product-item">
+        <div class="product-item-flags">
+            <div class="flag-sale ">
+                <span class="percents">33<small>&#37;</small></span>
+            </div>
+        </div>
+        <div class="product-item-image">
+                <a data-href="/uzeniny-a-lahudky?productList-id=11965&amp;do=productList-modal"
+                   data-target="productList-productModal"
+                   data-product-id="11965"
+                   data-product-price="59.9"
+                   data-page-title="Noel Fuet extra 170g"
+                   data-page-path="/produkt/11965-noel-fuet-extra-170g"
+                   data-user-id=""
+                   aria-hidden="true"
+                   data-kosikmodal-onclose="onProductModalDestroy"
+                   onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/29326.jpg" alt="Noel Fuet extra 170g" class="loading-images loading-image">
+                </a>
+
+
+
+
+        </div>
+                <div class="product-item-info">
+                <h5><a href="javascript:void(0)" aria-label="Noel Fuet extra 170g" data-href="/uzeniny-a-lahudky?productList-id=11965&amp;do=productList-modal" class="product-name modal-link"
+                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    Noel Fuet extra 170g
+                    
+                </a></h5>
+            <p class="product-item-price product-in-discount">
+                <span class="price-before-discount">
+					<span><strong class="price">59,90 Kč</strong></span>
+				</span>
+                <strong class="price">39,90 Kč</strong>
+
+            </p>
+            <p class="product-item-unit">
+                    (<strong class="price">234,70 Kč</strong> / kg)
+            </p>
+                        <div class="product-list-rating">
+            </div>
+<div id="snippet-productList-buy-11965-quantity">        <div class="product-quantity-control">
+            <form action="/uzeniny-a-lahudky" method="post" class="ajax" id="frm-productList-buy-11965-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-11965-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
+            <input type="hidden" name="do" value="productList-buy-11965-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+</form>
+
+        </div>
+</div>
+                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
+
+
+        </div>
+
+        
+    </div>
+    <div id="product-append-12703" class="product-item">
+        <div class="product-item-flags">
+        </div>
+        <div class="product-item-image">
+                <a data-href="/uzeniny-a-lahudky?productList-id=12703&amp;do=productList-modal"
+                   data-target="productList-productModal"
+                   data-product-id="12703"
+                   data-product-price="29.9"
+                   data-page-title="Dobrou chuť Listové těsto chlazené vyválené na pečícím papíře 300g"
+                   data-page-path="/produkt/12703-dobrou-chut-listove-testo-chlazene-vyvalene-na-pecicim-papire-300g"
+                   data-user-id=""
+                   aria-hidden="true"
+                   data-kosikmodal-onclose="onProductModalDestroy"
+                   onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/29970.jpg" alt="Dobrou chuť Listové těsto chlazené vyválené na pečícím papíře 300g" class="loading-images loading-image">
+                </a>
+
+
+
+
+        </div>
+                <div class="product-item-info">
+                <h5><a href="javascript:void(0)" aria-label="Dobrou chuť Listové těsto chlazené vyválené na pečícím papíře 300g" data-href="/uzeniny-a-lahudky?productList-id=12703&amp;do=productList-modal" class="product-name modal-link"
+                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    Dobrou chuť Listové těsto chlazené vyválené na pečícím papíře 300g
+                    
+                </a></h5>
+            <p class="product-item-price ">
+                <span class="price-before-discount">
+				</span>
+                <strong class="price">29,90 Kč</strong>
+
+            </p>
+            <p class="product-item-unit">
+                    (<strong class="price">99,70 Kč</strong> / kg)
+            </p>
+                        <div class="product-list-rating">
+            </div>
+<div id="snippet-productList-buy-12703-quantity">        <div class="product-quantity-control">
+            <form action="/uzeniny-a-lahudky" method="post" class="ajax" id="frm-productList-buy-12703-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-12703-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
+            <input type="hidden" name="do" value="productList-buy-12703-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
 </form>
 
         </div>
@@ -6056,24 +6377,21 @@ Hladká mouka</textarea>
 
         
     </div>
-    <div id="product-append-30923" class="product-item">
+    <div id="product-append-32286" class="product-item">
         <div class="product-item-flags">
-            <div class="flag-sale ">
-                <span class="percents">30<small>&#37;</small></span>
-            </div>
         </div>
         <div class="product-item-image">
-                <a data-href="/uzeniny-a-lahudky?productList-id=30923&amp;do=productList-modal"
+                <a data-href="/uzeniny-a-lahudky?productList-id=32286&amp;do=productList-modal"
                    data-target="productList-productModal"
-                   data-product-id="30923"
-                   data-product-price="19.9"
-                   data-page-title="Chodura Pivní salám 100g"
-                   data-page-path="/produkt/30923-chodura-pivni-salam-100g"
+                   data-product-id="32286"
+                   data-product-price="23.9"
+                   data-page-title="Maso Brejcha Debrecínská pečeně 100g"
+                   data-page-path="/produkt/32286-maso-brejcha-debrecinska-pecene-100g"
                    data-user-id=""
                    aria-hidden="true"
                    data-kosikmodal-onclose="onProductModalDestroy"
                    onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/48321.jpg" alt="Chodura Pivní salám 100g" class="loading-images loading-image">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/49765.jpg" alt="Maso Brejcha Debrecínská pečeně 100g" class="loading-images loading-image">
                 </a>
 
 
@@ -6081,29 +6399,27 @@ Hladká mouka</textarea>
 
         </div>
                 <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Chodura Pivní salám 100g" data-href="/uzeniny-a-lahudky?productList-id=30923&amp;do=productList-modal" class="product-name modal-link"
+                <h5><a href="javascript:void(0)" aria-label="Maso Brejcha Debrecínská pečeně 100g" data-href="/uzeniny-a-lahudky?productList-id=32286&amp;do=productList-modal" class="product-name modal-link"
                    data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Chodura Pivní salám 100g
+                    Maso Brejcha Debrecínská pečeně 100g
                     
                 </a></h5>
-            <p class="product-item-price product-in-discount">
+            <p class="product-item-price ">
                 <span class="price-before-discount">
-					<span><strong class="price">19,90 Kč</strong></span>
 				</span>
-                <strong class="price">13,90 Kč</strong>
+                <strong class="price">23,90 Kč</strong>
 
             </p>
             <p class="product-item-unit">
-                    (<strong class="price">139,00 Kč</strong> / kg)
+                    (<strong class="price">239,00 Kč</strong> / kg)
             </p>
                         <div class="product-list-rating">
-                <span><ul class="rating"><li class="rating-children rating-1 up" data-rating="1"><i class="fa fa-star"></i></li><li class="rating-children rating-2 up" data-rating="2"><i class="fa fa-star"></i></li><li class="rating-children rating-3 up" data-rating="3"><i class="fa fa-star"></i></li><li class="rating-children rating-4 up" data-rating="4"><i class="fa fa-star"></i></li><li class="rating-children rating-5 up" data-rating="5"><i class="fa fa-star"></i></li></ul></span>
             </div>
-<div id="snippet-productList-buy-30923-quantity">        <div class="product-quantity-control">
-            <form action="/uzeniny-a-lahudky" method="post" class="ajax" id="frm-productList-buy-30923-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-30923-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+<div id="snippet-productList-buy-32286-quantity">        <div class="product-quantity-control">
+            <form action="/uzeniny-a-lahudky" method="post" class="ajax" id="frm-productList-buy-32286-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-32286-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
                 <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-30923-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+            <input type="hidden" name="do" value="productList-buy-32286-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
 </form>
 
         </div>
@@ -6223,24 +6539,21 @@ Hladká mouka</textarea>
 
         
     </div>
-    <div id="product-append-771" class="product-item">
+    <div id="product-append-40237" class="product-item">
         <div class="product-item-flags">
-            <div class="flag-sale ">
-                <span class="percents">23<small>&#37;</small></span>
-            </div>
         </div>
         <div class="product-item-image">
-                <a data-href="/uzeniny-a-lahudky?productList-id=771&amp;do=productList-modal"
+                <a data-href="/uzeniny-a-lahudky?productList-id=40237&amp;do=productList-modal"
                    data-target="productList-productModal"
-                   data-product-id="771"
-                   data-product-price="42.9"
-                   data-page-title="Ponnath Řeznictví mistři Vídeňské minipárečky 200g"
-                   data-page-path="/produkt/771-ponnath-reznictvi-mistri-videnske-miniparecky-200g"
+                   data-product-id="40237"
+                   data-product-price="34.965"
+                   data-page-title="Farmářské uzeniny Farmářské párky balení (cca 185g)"
+                   data-page-path="/produkt/40237-farmarske-uzeniny-farmarske-parky-baleni-cca-185g"
                    data-user-id=""
                    aria-hidden="true"
                    data-kosikmodal-onclose="onProductModalDestroy"
                    onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/817.jpg" alt="Ponnath Řeznictví mistři Vídeňské minipárečky 200g" class="loading-images loading-image">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/57954.jpg" alt="Farmářské uzeniny Farmářské párky balení (cca 185g)" class="loading-images loading-image">
                 </a>
 
 
@@ -6248,28 +6561,28 @@ Hladká mouka</textarea>
 
         </div>
                 <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Ponnath Řeznictví mistři Vídeňské minipárečky 200g" data-href="/uzeniny-a-lahudky?productList-id=771&amp;do=productList-modal" class="product-name modal-link"
+                <h5><a href="javascript:void(0)" aria-label="Farmářské uzeniny Farmářské párky balení (cca 185g)" data-href="/uzeniny-a-lahudky?productList-id=40237&amp;do=productList-modal" class="product-name modal-link"
                    data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Ponnath Řeznictví mistři Vídeňské minipárečky 200g
+                    Farmářské uzeniny Farmářské párky balení (cca 185g)
                     
                 </a></h5>
-            <p class="product-item-price product-in-discount">
+            <p class="product-item-price ">
                 <span class="price-before-discount">
-					<span><strong class="price">42,90 Kč</strong></span>
 				</span>
-                <strong class="price">32,90 Kč</strong>
+                <small class="circa-prefix">cca </small>
+                <strong class="price">35,00 Kč</strong>
 
             </p>
             <p class="product-item-unit">
-                    (<strong class="price">164,50 Kč</strong> / kg)
+                    (<strong class="price">189,00 Kč</strong> / kg)
             </p>
                         <div class="product-list-rating">
             </div>
-<div id="snippet-productList-buy-771-quantity">        <div class="product-quantity-control">
-            <form action="/uzeniny-a-lahudky" method="post" class="ajax" id="frm-productList-buy-771-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-771-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+<div id="snippet-productList-buy-40237-quantity">        <div class="product-quantity-control">
+            <form action="/uzeniny-a-lahudky" method="post" class="ajax" id="frm-productList-buy-40237-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-40237-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
                 <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-771-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+            <input type="hidden" name="do" value="productList-buy-40237-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
 </form>
 
         </div>
@@ -6335,24 +6648,24 @@ Hladká mouka</textarea>
 
         
     </div>
-    <div id="product-append-12703" class="product-item">
+    <div id="product-append-11608" class="product-item">
         <div class="product-item-flags">
             <div class="flag-sale ">
-                <span class="percents">27<small>&#37;</small></span>
+                <span class="percents">31<small>&#37;</small></span>
             </div>
         </div>
         <div class="product-item-image">
-                <a data-href="/uzeniny-a-lahudky?productList-id=12703&amp;do=productList-modal"
+                <a data-href="/uzeniny-a-lahudky?productList-id=11608&amp;do=productList-modal"
                    data-target="productList-productModal"
-                   data-product-id="12703"
-                   data-product-price="29.9"
-                   data-page-title="Dobrou chuť Listové těsto chlazené vyválené na pečícím papíře 300g"
-                   data-page-path="/produkt/12703-dobrou-chut-listove-testo-chlazene-vyvalene-na-pecicim-papire-300g"
+                   data-product-id="11608"
+                   data-product-price="31.9"
+                   data-page-title="Le &amp; Co Venkovská šunka nejvyšší jakosti 100g"
+                   data-page-path="/produkt/11608-le-co-venkovska-sunka-nejvyssi-jakosti-100g"
                    data-user-id=""
                    aria-hidden="true"
                    data-kosikmodal-onclose="onProductModalDestroy"
                    onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/29970.jpg" alt="Dobrou chuť Listové těsto chlazené vyválené na pečícím papíře 300g" class="loading-images loading-image">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/29084.jpg" alt="Le &amp; Co Venkovská šunka nejvyšší jakosti 100g" class="loading-images loading-image">
                 </a>
 
 
@@ -6360,195 +6673,28 @@ Hladká mouka</textarea>
 
         </div>
                 <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Dobrou chuť Listové těsto chlazené vyválené na pečícím papíře 300g" data-href="/uzeniny-a-lahudky?productList-id=12703&amp;do=productList-modal" class="product-name modal-link"
+                <h5><a href="javascript:void(0)" aria-label="Le &amp; Co Venkovská šunka nejvyšší jakosti 100g" data-href="/uzeniny-a-lahudky?productList-id=11608&amp;do=productList-modal" class="product-name modal-link"
                    data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Dobrou chuť Listové těsto chlazené vyválené na pečícím papíře 300g
+                    Le &amp; Co Venkovská šunka nejvyšší jakosti 100g
                     
                 </a></h5>
             <p class="product-item-price product-in-discount">
                 <span class="price-before-discount">
-					<span><strong class="price">29,90 Kč</strong></span>
+					<span><strong class="price">31,90 Kč</strong></span>
 				</span>
                 <strong class="price">21,90 Kč</strong>
 
             </p>
             <p class="product-item-unit">
-                    (<strong class="price">73,00 Kč</strong> / kg)
+                    (<strong class="price">219,00 Kč</strong> / kg)
             </p>
                         <div class="product-list-rating">
             </div>
-<div id="snippet-productList-buy-12703-quantity">        <div class="product-quantity-control">
-            <form action="/uzeniny-a-lahudky" method="post" class="ajax" id="frm-productList-buy-12703-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-12703-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+<div id="snippet-productList-buy-11608-quantity">        <div class="product-quantity-control">
+            <form action="/uzeniny-a-lahudky" method="post" class="ajax" id="frm-productList-buy-11608-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-11608-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
                 <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-12703-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
-</form>
-
-        </div>
-</div>
-                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
-
-
-        </div>
-
-        
-    </div>
-    <div id="product-append-40237" class="product-item">
-        <div class="product-item-flags">
-        </div>
-        <div class="product-item-image">
-                <a data-href="/uzeniny-a-lahudky?productList-id=40237&amp;do=productList-modal"
-                   data-target="productList-productModal"
-                   data-product-id="40237"
-                   data-product-price="34.965"
-                   data-page-title="Farmářské uzeniny Farmářské párky balení (cca 185g)"
-                   data-page-path="/produkt/40237-farmarske-uzeniny-farmarske-parky-baleni-cca-185g"
-                   data-user-id=""
-                   aria-hidden="true"
-                   data-kosikmodal-onclose="onProductModalDestroy"
-                   onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/57954.jpg" alt="Farmářské uzeniny Farmářské párky balení (cca 185g)" class="loading-images loading-image">
-                </a>
-
-
-
-
-        </div>
-                <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Farmářské uzeniny Farmářské párky balení (cca 185g)" data-href="/uzeniny-a-lahudky?productList-id=40237&amp;do=productList-modal" class="product-name modal-link"
-                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Farmářské uzeniny Farmářské párky balení (cca 185g)
-                    
-                </a></h5>
-            <p class="product-item-price ">
-                <span class="price-before-discount">
-				</span>
-                <small class="circa-prefix">cca </small>
-                <strong class="price">35,00 Kč</strong>
-
-            </p>
-            <p class="product-item-unit">
-                    (<strong class="price">189,00 Kč</strong> / kg)
-            </p>
-                        <div class="product-list-rating">
-            </div>
-<div id="snippet-productList-buy-40237-quantity">        <div class="product-quantity-control">
-            <form action="/uzeniny-a-lahudky" method="post" class="ajax" id="frm-productList-buy-40237-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-40237-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
-                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-40237-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
-</form>
-
-        </div>
-</div>
-                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
-
-
-        </div>
-
-        
-    </div>
-    <div id="product-append-40972" class="product-item">
-        <div class="product-item-flags">
-            <div class="flag-sale ">
-                <span class="percents">15<small>&#37;</small></span>
-            </div>
-        </div>
-        <div class="product-item-image">
-                <a data-href="/uzeniny-a-lahudky?productList-id=40972&amp;do=productList-modal"
-                   data-target="productList-productModal"
-                   data-product-id="40972"
-                   data-product-price="19.9"
-                   data-page-title="Pejskar Herkules krájený 75g"
-                   data-page-path="/produkt/40972-pejskar-herkules-krajeny-75g"
-                   data-user-id=""
-                   aria-hidden="true"
-                   data-kosikmodal-onclose="onProductModalDestroy"
-                   onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/58689.jpg" alt="Pejskar Herkules krájený 75g" class="loading-images loading-image">
-                </a>
-
-
-
-
-        </div>
-                <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Pejskar Herkules krájený 75g" data-href="/uzeniny-a-lahudky?productList-id=40972&amp;do=productList-modal" class="product-name modal-link"
-                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Pejskar Herkules krájený 75g
-                    
-                </a></h5>
-            <p class="product-item-price product-in-discount">
-                <span class="price-before-discount">
-					<span><strong class="price">19,90 Kč</strong></span>
-				</span>
-                <strong class="price">16,90 Kč</strong>
-
-            </p>
-            <p class="product-item-unit">
-                    (<strong class="price">225,30 Kč</strong> / kg)
-            </p>
-                        <div class="product-list-rating">
-            </div>
-<div id="snippet-productList-buy-40972-quantity">        <div class="product-quantity-control">
-            <form action="/uzeniny-a-lahudky" method="post" class="ajax" id="frm-productList-buy-40972-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-40972-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
-                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-40972-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
-</form>
-
-        </div>
-</div>
-                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
-
-
-        </div>
-
-        
-    </div>
-    <div id="product-append-20481" class="product-item">
-        <div class="product-item-flags">
-        </div>
-        <div class="product-item-image">
-                <a data-href="/uzeniny-a-lahudky?productList-id=20481&amp;do=productList-modal"
-                   data-target="productList-productModal"
-                   data-product-id="20481"
-                   data-product-price="29.9"
-                   data-page-title="Brick Čerstvé těsto na pizzu 280g"
-                   data-page-path="/produkt/20481-brick-cerstve-testo-na-pizzu-280g"
-                   data-user-id=""
-                   aria-hidden="true"
-                   data-kosikmodal-onclose="onProductModalDestroy"
-                   onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/37733.jpg" alt="Brick Čerstvé těsto na pizzu 280g" class="loading-images loading-image">
-                </a>
-
-
-
-
-        </div>
-                <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Brick Čerstvé těsto na pizzu 280g" data-href="/uzeniny-a-lahudky?productList-id=20481&amp;do=productList-modal" class="product-name modal-link"
-                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Brick Čerstvé těsto na pizzu 280g
-                    
-                </a></h5>
-            <p class="product-item-price ">
-                <span class="price-before-discount">
-				</span>
-                <strong class="price">29,90 Kč</strong>
-
-            </p>
-            <p class="product-item-unit">
-                    (<strong class="price">106,80 Kč</strong> / kg)
-            </p>
-                        <div class="product-list-rating">
-            </div>
-<div id="snippet-productList-buy-20481-quantity">        <div class="product-quantity-control">
-            <form action="/uzeniny-a-lahudky" method="post" class="ajax" id="frm-productList-buy-20481-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-20481-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
-                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-20481-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+            <input type="hidden" name="do" value="productList-buy-11608-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
 </form>
 
         </div>

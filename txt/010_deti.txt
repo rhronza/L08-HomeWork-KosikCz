@@ -11,7 +11,7 @@
         <link rel="apple-touch-icon" href="/css/images/logo.png">
         <link rel="stylesheet" type="text/css" href="/css/slim.min.css">
 
-<link rel="stylesheet" type="text/css" href="/webtemp/cssloader-6fe495a87813.css?1513005734">
+<link rel="stylesheet" type="text/css" href="/webtemp/cssloader-6fe495a87813.css?1513350274">
 <script type="text/javascript" src="/webtemp/jsloader-e4f5f7728c43.js?1511346204"></script>
 <script type="text/javascript">
     function currentPageDataPush() {
@@ -217,7 +217,10 @@ Hladká mouka</textarea>
                     <img src="/svg/recipes.svg" aria-hidden="true" alt="recepty">
                     <span class="item-name-desktop">Recepty</span>
                 </a></li>
-
+            <li><a href="https://blog.kosik.cz" data-href="true" target="_blank">
+                    <img src="/svg/blog.svg" aria-hidden="true" alt="blog">
+                    <span class="item-name-desktop">Blog</span>
+                </a></li>
             <li><a href="/delikatesy">
                     <img src="/svg/deli.svg" aria-hidden="true" alt="delikatesy">
                     <span class="item-name-desktop">Delikatesy</span>
@@ -229,6 +232,10 @@ Hladká mouka</textarea>
             <li><a class="christmas-link" href="/#christmas-inspiration">
                     <img src="/svg/vanoce.svg" aria-hidden="true" alt="Vánoce">
                     <span class="item-name-desktop">Vánoce</span>
+                </a></li>
+            <li><a href="/poctive-piti">
+                    <img src="/svg/honest-drinks.svg" aria-hidden="true" alt="poctivé pití">
+                    <span class="item-name-desktop">Poctivé pití</span>
                 </a></li>
         </ul>
     </div>
@@ -294,6 +301,13 @@ Hladká mouka</textarea>
                     </a>
                 </div>
 
+               <div class="ico-text-group">
+                    <a class="ico-text-group-link" href="https://blog.kosik.cz" data-href="true" target="_blank">
+                        <span class="item-name">Blog</span>
+                        <img src="/svg/blog.svg" aria-hidden="true" alt="blog">
+                    </a>
+                </div>
+
                 <div class="ico-text-group">
                     <a class="ico-text-group-link" href="/delikatesy" data-href="true">
                         <span class="item-name">Delikatesy</span>
@@ -312,6 +326,13 @@ Hladká mouka</textarea>
                     <a class="ico-text-group-link christmas-link" href="/#christmas-inspiration" data-href="true" >
                         <span class="item-name">Vánoce</span>
                         <img src="/svg/vanoce.svg" aria-hidden="true" alt="Vánoce">
+                    </a>
+                </div>
+
+                <div class="ico-text-group">
+                    <a class="ico-text-group-link" href="/poctive-piti" data-href="true" >
+                        <span class="item-name">Poctivé pití</span>
+                        <img src="/svg/honest-drinks.svg" aria-hidden="true" alt="Poctivé pití">
                     </a>
                 </div>
             </div>
@@ -876,6 +897,14 @@ Hladká mouka</textarea>
                                                 <a href="/maso-a-ryby/susene-maso/veprove">
                                                     Vepřové,
                                                 </a>
+
+                                                <a href="/maso-a-ryby/susene-maso/drubezi">
+                                                    Drůbeží,
+                                                </a>
+
+                                                <a href="/maso-a-ryby/susene-maso/ostatni">
+                                                    Ostatní,
+                                                </a>
                                         <a href="/maso-a-ryby/susene-maso">...</a>
                                     </div>
                                 </div>
@@ -1298,6 +1327,7 @@ Hladká mouka</textarea>
                                                 </a>
 
 
+
                                         <a href="/uzeniny-a-lahudky/lahudky">...</a>
                                     </div>
                                 </div>
@@ -1539,6 +1569,40 @@ Hladká mouka</textarea>
                             <div class="category-product-list">
 
                                                                 <div class="product-type">
+                                    <a href="/napoje/poctive-piti" class="product-type-image">
+                                        <img data-src="https://cdn.kosik.cz/content/category/svg/menu/1929.svg" alt="Poctivé pití">
+                                    </a>
+                                    <h3>
+                                        <a class="children" href="/napoje/poctive-piti">
+                                            Poctivé pití
+                                        </a>
+                                    </h3>
+
+                                                                        <div class="categories-container">
+
+                                                <a href="/napoje/poctive-piti/pivo-a-cider">
+                                                    Pivo a cider,
+                                                </a>
+
+                                                <a href="/napoje/poctive-piti/limonady">
+                                                    Limonády,
+                                                </a>
+
+                                                <a href="/napoje/poctive-piti/sirupy">
+                                                    Sirupy,
+                                                </a>
+
+                                                <a href="/napoje/poctive-piti/mosty">
+                                                    Mošty,
+                                                </a>
+
+                                                <a href="/napoje/poctive-piti/darkova-baleni">
+                                                    Dárková balení,
+                                                </a>
+                                        <a href="/napoje/poctive-piti">...</a>
+                                    </div>
+                                </div>
+                                <div class="product-type">
                                     <a href="/napoje/mineralni-a-pramenite" class="product-type-image">
                                         <img data-src="https://cdn.kosik.cz/content/category/svg/menu/1180.svg" alt="Minerální a pramenité">
                                     </a>
@@ -3336,6 +3400,10 @@ Hladká mouka</textarea>
                                                 <a href="/drogerie/pece-o-zdravi/masazni-emulze">
                                                     Masážní emulze,
                                                 </a>
+
+                                                <a href="/drogerie/pece-o-zdravi/pece-o-telo-a-vlasy">
+                                                    Péče o tělo a vlasy,
+                                                </a>
                                         <a href="/drogerie/pece-o-zdravi">...</a>
                                     </div>
                                 </div>
@@ -3729,7 +3797,7 @@ Hladká mouka</textarea>
         </div>
     </div>
     <div class="count" id="snippet-productFilter-countArea">
-        <p>1750 produktů nalezeno</p>
+        <p>1786 produktů nalezeno</p>
     </div>
 
         <h3 aria-label="Filtr Podle ceny">Podle ceny</h3>
@@ -3759,8 +3827,8 @@ Hladká mouka</textarea>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-2405" value="2405" aria-label="!Albi (3)">
-                            <label for="frm-productFilter-brandConstraintForm-value-2405">Albi (3)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-2405" value="2405" aria-label="!Albi (5)">
+                            <label for="frm-productFilter-brandConstraintForm-value-2405">Albi (5)</label>
                         </div>
 
 
@@ -3791,6 +3859,12 @@ Hladká mouka</textarea>
                                                          <div class="form-row" style="display: none;">
                             <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-3333" value="3333" aria-label="!Appy Kids CO (5)">
                             <label for="frm-productFilter-brandConstraintForm-value-3333">Appy Kids CO (5)</label>
+                        </div>
+
+
+                                                         <div class="form-row" style="display: none;">
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-1572" value="1572" aria-label="!Aquafresh (1)">
+                            <label for="frm-productFilter-brandConstraintForm-value-1572">Aquafresh (1)</label>
                         </div>
 
 
@@ -3849,6 +3923,12 @@ Hladká mouka</textarea>
 
 
                                                          <div class="form-row" style="display: none;">
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-3567" value="3567" aria-label="!Beemy (16)">
+                            <label for="frm-productFilter-brandConstraintForm-value-3567">Beemy (16)</label>
+                        </div>
+
+
+                                                         <div class="form-row" style="display: none;">
                             <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-56" value="56" aria-label="!Bel (1)">
                             <label for="frm-productFilter-brandConstraintForm-value-56">Bel (1)</label>
                         </div>
@@ -3873,8 +3953,8 @@ Hladká mouka</textarea>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-87" value="87" aria-label="!Bez značky (13)">
-                            <label for="frm-productFilter-brandConstraintForm-value-87">Bez značky (13)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-87" value="87" aria-label="!Bez značky (11)">
+                            <label for="frm-productFilter-brandConstraintForm-value-87">Bez značky (11)</label>
                         </div>
 
 
@@ -3923,6 +4003,12 @@ Hladká mouka</textarea>
                                                          <div class="form-row" style="display: none;">
                             <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-2813" value="2813" aria-label="!Cleanex Trade (1)">
                             <label for="frm-productFilter-brandConstraintForm-value-2813">Cleanex Trade (1)</label>
+                        </div>
+
+
+                                                         <div class="form-row" style="display: none;">
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-70" value="70" aria-label="!Colgate (1)">
+                            <label for="frm-productFilter-brandConstraintForm-value-70">Colgate (1)</label>
                         </div>
 
 
@@ -3981,8 +4067,8 @@ Hladká mouka</textarea>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-3409" value="3409" aria-label="!Donau (3)">
-                            <label for="frm-productFilter-brandConstraintForm-value-3409">Donau (3)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-3409" value="3409" aria-label="!Donau (1)">
+                            <label for="frm-productFilter-brandConstraintForm-value-3409">Donau (1)</label>
                         </div>
 
 
@@ -3998,9 +4084,15 @@ Hladká mouka</textarea>
                         </div>
 
 
+                                                         <div class="form-row" style="display: none;">
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-583" value="583" aria-label="!Elmex (2)">
+                            <label for="frm-productFilter-brandConstraintForm-value-583">Elmex (2)</label>
+                        </div>
+
+
                             <div class="form-row">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-3212" value="3212" aria-label="!Freche Freunde (40)">
-                            <label for="frm-productFilter-brandConstraintForm-value-3212">Freche Freunde (40)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-3212" value="3212" aria-label="!Freche Freunde (42)">
+                            <label for="frm-productFilter-brandConstraintForm-value-3212">Freche Freunde (42)</label>
                         </div>
 
 
@@ -4023,14 +4115,14 @@ Hladká mouka</textarea>
 
 
                             <div class="form-row">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-1458" value="1458" aria-label="!Hami (69)">
-                            <label for="frm-productFilter-brandConstraintForm-value-1458">Hami (69)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-1458" value="1458" aria-label="!Hami (68)">
+                            <label for="frm-productFilter-brandConstraintForm-value-1458">Hami (68)</label>
                         </div>
 
 
                             <div class="form-row">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-1242" value="1242" aria-label="!Hamánek (58)">
-                            <label for="frm-productFilter-brandConstraintForm-value-1242">Hamánek (58)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-1242" value="1242" aria-label="!Hamánek (57)">
+                            <label for="frm-productFilter-brandConstraintForm-value-1242">Hamánek (57)</label>
                         </div>
 
 
@@ -4071,8 +4163,8 @@ Hladká mouka</textarea>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-8" value="8" aria-label="!Huggies (4)">
-                            <label for="frm-productFilter-brandConstraintForm-value-8">Huggies (4)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-8" value="8" aria-label="!Huggies (3)">
+                            <label for="frm-productFilter-brandConstraintForm-value-8">Huggies (3)</label>
                         </div>
 
 
@@ -4107,8 +4199,8 @@ Hladká mouka</textarea>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-3366" value="3366" aria-label="!Karton P+P (15)">
-                            <label for="frm-productFilter-brandConstraintForm-value-3366">Karton P+P (15)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-3366" value="3366" aria-label="!Karton P+P (14)">
+                            <label for="frm-productFilter-brandConstraintForm-value-3366">Karton P+P (14)</label>
                         </div>
 
 
@@ -4131,8 +4223,8 @@ Hladká mouka</textarea>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-2581" value="2581" aria-label="!Kores (3)">
-                            <label for="frm-productFilter-brandConstraintForm-value-2581">Kores (3)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-2581" value="2581" aria-label="!Kores (2)">
+                            <label for="frm-productFilter-brandConstraintForm-value-2581">Kores (2)</label>
                         </div>
 
 
@@ -4220,9 +4312,9 @@ Hladká mouka</textarea>
                         </div>
 
 
-                            <div class="form-row">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-1877" value="1877" aria-label="!NUK (41)">
-                            <label for="frm-productFilter-brandConstraintForm-value-1877">NUK (41)</label>
+                                                         <div class="form-row" style="display: none;">
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-1877" value="1877" aria-label="!NUK (38)">
+                            <label for="frm-productFilter-brandConstraintForm-value-1877">NUK (38)</label>
                         </div>
 
 
@@ -4233,8 +4325,8 @@ Hladká mouka</textarea>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-170" value="170" aria-label="!Nestlé (33)">
-                            <label for="frm-productFilter-brandConstraintForm-value-170">Nestlé (33)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-170" value="170" aria-label="!Nestlé (31)">
+                            <label for="frm-productFilter-brandConstraintForm-value-170">Nestlé (31)</label>
                         </div>
 
 
@@ -4269,8 +4361,20 @@ Hladká mouka</textarea>
 
 
                                                          <div class="form-row" style="display: none;">
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-1137" value="1137" aria-label="!Odol (2)">
+                            <label for="frm-productFilter-brandConstraintForm-value-1137">Odol (2)</label>
+                        </div>
+
+
+                                                         <div class="form-row" style="display: none;">
                             <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-2858" value="2858" aria-label="!Olimp (1)">
                             <label for="frm-productFilter-brandConstraintForm-value-2858">Olimp (1)</label>
+                        </div>
+
+
+                                                         <div class="form-row" style="display: none;">
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-1335" value="1335" aria-label="!Oral B (4)">
+                            <label for="frm-productFilter-brandConstraintForm-value-1335">Oral B (4)</label>
                         </div>
 
 
@@ -4287,8 +4391,8 @@ Hladká mouka</textarea>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-2253" value="2253" aria-label="!Ovocňák (6)">
-                            <label for="frm-productFilter-brandConstraintForm-value-2253">Ovocňák (6)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-2253" value="2253" aria-label="!Ovocňák (7)">
+                            <label for="frm-productFilter-brandConstraintForm-value-2253">Ovocňák (7)</label>
                         </div>
 
 
@@ -4305,8 +4409,8 @@ Hladká mouka</textarea>
 
 
                             <div class="form-row">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-7" value="7" aria-label="!Pampers (93)">
-                            <label for="frm-productFilter-brandConstraintForm-value-7">Pampers (93)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-7" value="7" aria-label="!Pampers (94)">
+                            <label for="frm-productFilter-brandConstraintForm-value-7">Pampers (94)</label>
                         </div>
 
 
@@ -4413,8 +4517,20 @@ Hladká mouka</textarea>
 
 
                                                          <div class="form-row" style="display: none;">
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-1478" value="1478" aria-label="!Sensodyne (1)">
+                            <label for="frm-productFilter-brandConstraintForm-value-1478">Sensodyne (1)</label>
+                        </div>
+
+
+                                                         <div class="form-row" style="display: none;">
                             <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-3138" value="3138" aria-label="!Sevt (7)">
                             <label for="frm-productFilter-brandConstraintForm-value-3138">Sevt (7)</label>
+                        </div>
+
+
+                                                         <div class="form-row" style="display: none;">
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-74" value="74" aria-label="!Signal (4)">
+                            <label for="frm-productFilter-brandConstraintForm-value-74">Signal (4)</label>
                         </div>
 
 
@@ -4449,6 +4565,12 @@ Hladká mouka</textarea>
 
 
                                                          <div class="form-row" style="display: none;">
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-763" value="763" aria-label="!Spokar (1)">
+                            <label for="frm-productFilter-brandConstraintForm-value-763">Spokar (1)</label>
+                        </div>
+
+
+                                                         <div class="form-row" style="display: none;">
                             <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-3387" value="3387" aria-label="!Spoko (2)">
                             <label for="frm-productFilter-brandConstraintForm-value-3387">Spoko (2)</label>
                         </div>
@@ -4472,9 +4594,9 @@ Hladká mouka</textarea>
                         </div>
 
 
-                                                         <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-1462" value="1462" aria-label="!Sunárek (39)">
-                            <label for="frm-productFilter-brandConstraintForm-value-1462">Sunárek (39)</label>
+                            <div class="form-row">
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-1462" value="1462" aria-label="!Sunárek (38)">
+                            <label for="frm-productFilter-brandConstraintForm-value-1462">Sunárek (38)</label>
                         </div>
 
 
@@ -4491,14 +4613,14 @@ Hladká mouka</textarea>
 
 
                             <div class="form-row">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-3374" value="3374" aria-label="!Teddies (99)">
-                            <label for="frm-productFilter-brandConstraintForm-value-3374">Teddies (99)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-3374" value="3374" aria-label="!Teddies (105)">
+                            <label for="frm-productFilter-brandConstraintForm-value-3374">Teddies (105)</label>
                         </div>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-3247" value="3247" aria-label="!Tetesept (3)">
-                            <label for="frm-productFilter-brandConstraintForm-value-3247">Tetesept (3)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-3247" value="3247" aria-label="!Tetesept (2)">
+                            <label for="frm-productFilter-brandConstraintForm-value-3247">Tetesept (2)</label>
                         </div>
 
 
@@ -4509,8 +4631,8 @@ Hladká mouka</textarea>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-3441" value="3441" aria-label="!Trefl (15)">
-                            <label for="frm-productFilter-brandConstraintForm-value-3441">Trefl (15)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-3441" value="3441" aria-label="!Trefl (19)">
+                            <label for="frm-productFilter-brandConstraintForm-value-3441">Trefl (19)</label>
                         </div>
 
 
@@ -4523,6 +4645,12 @@ Hladká mouka</textarea>
                                                          <div class="form-row" style="display: none;">
                             <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-3050" value="3050" aria-label="!Urban Fruit (5)">
                             <label for="frm-productFilter-brandConstraintForm-value-3050">Urban Fruit (5)</label>
+                        </div>
+
+
+                                                         <div class="form-row" style="display: none;">
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-75" value="75" aria-label="!Vademecum (5)">
+                            <label for="frm-productFilter-brandConstraintForm-value-75">Vademecum (5)</label>
                         </div>
 
 
@@ -4551,14 +4679,14 @@ Hladká mouka</textarea>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-3367" value="3367" aria-label="!WEDO (30)">
-                            <label for="frm-productFilter-brandConstraintForm-value-3367">WEDO (30)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-3367" value="3367" aria-label="!WEDO (31)">
+                            <label for="frm-productFilter-brandConstraintForm-value-3367">WEDO (31)</label>
                         </div>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-3491" value="3491" aria-label="!Weleda (14)">
-                            <label for="frm-productFilter-brandConstraintForm-value-3491">Weleda (14)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-3491" value="3491" aria-label="!Weleda (15)">
+                            <label for="frm-productFilter-brandConstraintForm-value-3491">Weleda (15)</label>
                         </div>
 
 
@@ -4569,8 +4697,8 @@ Hladká mouka</textarea>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-3386" value="3386" aria-label="!Y-Plus (9)">
-                            <label for="frm-productFilter-brandConstraintForm-value-3386">Y-Plus (9)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-3386" value="3386" aria-label="!Y-Plus (6)">
+                            <label for="frm-productFilter-brandConstraintForm-value-3386">Y-Plus (6)</label>
                         </div>
 
 
@@ -4611,7 +4739,7 @@ Hladká mouka</textarea>
             var buttonsShowMoreClass = 'show-more-brands';
             var buttonsShowLessClass = 'show-less-brands';
             var filters = $('.filter-more-result');
-            var defaultFilterInputs = {"brand":[1460,3374,7,1458,3192,3235,1242,3334,1877,3212]};
+            var defaultFilterInputs = {"brand":[1460,3374,7,1458,3192,3235,1242,3212,3334,1462]};
 
             function hideCheckboxes(rows, key) {
 
@@ -4712,13 +4840,26 @@ Hladká mouka</textarea>
 		</div>
 
 		<div class="region-products-popular">
-<a href="https://www.kosik.cz/hledat?q=PampersPremiumAkce"><img src="https://cdn.kosik.cz/content/category-banner/png/default/1263.png" alt="whiskas"></a><br><br>
+<a href="https://www.kosik.cz/hledat?q=MuumiPlenky"><img src="https://cdn.kosik.cz/content/category-banner/png/default/1353.png" alt="whiskas"></a><br><br>
 
 		<div class="region region-carousel region-products no-aside product-widget">
 			<div class="home-product-widget region-inner region-products-inner slick-carousel" data-open="3" data-close="4">
 				<div class="block block-title">
 					<h3>Doporučujeme</h3>
 				</div>
+<script async>
+
+    var onProductModalDestroy = function() {
+
+    	var pageData = window.dataLayer[0];
+
+        pageData["event"] = "ga.pageview";
+        pageData["pagePath"] = window.location.pathname;
+        pageData["pageTitle"] = window.document.title;
+
+	    dataLayer.push(pageData);
+    };
+</script>
 <div class="block block-product-items product-items" data-ajax-append="product-item" id="snippet-productWidget-widgetCarousel-1-productListArea">
     <div id="product-append-49178" class="product-item">
         <div class="product-item-flags">
@@ -4835,7 +4976,7 @@ Hladká mouka</textarea>
     <div id="product-append-50731" class="product-item">
         <div class="product-item-flags">
             <div class="flag-sale ">
-                <span class="percents">34<small>&#37;</small></span>
+                <span class="percents">21<small>&#37;</small></span>
             </div>
         </div>
         <div class="product-item-image">
@@ -4843,13 +4984,13 @@ Hladká mouka</textarea>
                    data-target="productWidget-widgetCarousel-1-productModal"
                    data-product-id="50731"
                    data-product-price="150"
-                   data-page-title="Freche Freunde Mikulášský balíček velký"
-                   data-page-path="/produkt/50731-freche-freunde-mikulassky-balicek-velky"
+                   data-page-title="Freche Freunde Vánoční balíček velký"
+                   data-page-path="/produkt/50731-freche-freunde-vanocni-balicek-velky"
                    data-user-id=""
                    aria-hidden="true"
                    data-kosikmodal-onclose="onProductModalDestroy"
                    onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/68256.jpg" alt="Freche Freunde Mikulášský balíček velký" class="loading-images loading-image">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/68256.jpg" alt="Freche Freunde Vánoční balíček velký" class="loading-images loading-image">
                 </a>
 
 
@@ -4857,20 +4998,20 @@ Hladká mouka</textarea>
 
         </div>
                 <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Freche Freunde Mikulášský balíček velký" data-href="/deti?productWidget-widgetCarousel-1-id=50731&amp;do=productWidget-widgetCarousel-1-modal" class="product-name modal-link"
+                <h5><a href="javascript:void(0)" aria-label="Freche Freunde Vánoční balíček velký" data-href="/deti?productWidget-widgetCarousel-1-id=50731&amp;do=productWidget-widgetCarousel-1-modal" class="product-name modal-link"
                    data-target="productWidget-widgetCarousel-1-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Freche Freunde Mikulášský balíček velký
+                    Freche Freunde Vánoční balíček velký
                     <br><span class="new-product">Novinka</span>
                 </a></h5>
             <p class="product-item-price product-in-discount">
                 <span class="price-before-discount">
 					<span><strong class="price">150,00 Kč</strong></span>
 				</span>
-                <strong class="price">99,00 Kč</strong>
+                <strong class="price">119,00 Kč</strong>
 
             </p>
             <p class="product-item-unit">
-                    (<strong class="price">99,00 Kč</strong> / ks)
+                    (<strong class="price">119,00 Kč</strong> / ks)
             </p>
                         <div class="product-list-rating">
             </div>
@@ -5062,6 +5203,9 @@ Hladká mouka</textarea>
     </div>
     <div id="product-append-50576" class="product-item">
         <div class="product-item-flags">
+            <div class="flag-sale ">
+                <span class="percents">12<small>&#37;</small></span>
+            </div>
         </div>
         <div class="product-item-image">
                 <a data-href="/deti?productWidget-widgetCarousel-1-id=50576&amp;do=productWidget-widgetCarousel-1-modal"
@@ -5087,14 +5231,15 @@ Hladká mouka</textarea>
                     TETRA velká bavlněná osuška růžová srdíčka
                     <br><span class="new-product">Novinka</span>
                 </a></h5>
-            <p class="product-item-price ">
+            <p class="product-item-price product-in-discount">
                 <span class="price-before-discount">
+					<span><strong class="price">329,00 Kč</strong></span>
 				</span>
-                <strong class="price">329,00 Kč</strong>
+                <strong class="price">289,00 Kč</strong>
 
             </p>
             <p class="product-item-unit">
-                    (<strong class="price">329,00 Kč</strong> / ks)
+                    (<strong class="price">289,00 Kč</strong> / ks)
             </p>
                         <div class="product-list-rating">
             </div>
@@ -5174,6 +5319,9 @@ Hladká mouka</textarea>
     </div>
     <div id="product-append-49180" class="product-item">
         <div class="product-item-flags">
+            <div class="flag-sale ">
+                <span class="percents">16<small>&#37;</small></span>
+            </div>
         </div>
         <div class="product-item-image">
                 <a data-href="/deti?productWidget-widgetCarousel-1-id=49180&amp;do=productWidget-widgetCarousel-1-modal"
@@ -5199,14 +5347,15 @@ Hladká mouka</textarea>
                     LEGO Ninjago Honička po NINJAGO™ City
                     <br><span class="new-product">Novinka</span>
                 </a></h5>
-            <p class="product-item-price ">
+            <p class="product-item-price product-in-discount">
                 <span class="price-before-discount">
+					<span><strong class="price">499,00 Kč</strong></span>
 				</span>
-                <strong class="price">499,00 Kč</strong>
+                <strong class="price">419,00 Kč</strong>
 
             </p>
             <p class="product-item-unit">
-                    (<strong class="price">499,00 Kč</strong> / ks)
+                    (<strong class="price">419,00 Kč</strong> / ks)
             </p>
                         <div class="product-list-rating">
             </div>
@@ -5446,60 +5595,6 @@ Hladká mouka</textarea>
 
         
     </div>
-    <div id="product-append-41813" class="product-item">
-        <div class="product-item-flags">
-        </div>
-        <div class="product-item-image">
-                <a data-href="/deti?productWidget-widgetCarousel-1-id=41813&amp;do=productWidget-widgetCarousel-1-modal"
-                   data-target="productWidget-widgetCarousel-1-productModal"
-                   data-product-id="41813"
-                   data-product-price="13.9"
-                   data-page-title="Kubík 100 % ovocná kapsička jablko-banán 100g"
-                   data-page-path="/produkt/41813-kubik-100-ovocna-kapsicka-jablko-banan-100g"
-                   data-user-id=""
-                   aria-hidden="true"
-                   data-kosikmodal-onclose="onProductModalDestroy"
-                   onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/59530.jpg" alt="Kubík 100 % ovocná kapsička jablko-banán 100g" class="loading-images loading-image">
-                </a>
-
-
-
-
-        </div>
-                <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Kubík 100 % ovocná kapsička jablko-banán 100g" data-href="/deti?productWidget-widgetCarousel-1-id=41813&amp;do=productWidget-widgetCarousel-1-modal" class="product-name modal-link"
-                   data-target="productWidget-widgetCarousel-1-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Kubík 100 % ovocná kapsička jablko-banán 100g
-                    
-                </a></h5>
-            <p class="product-item-price ">
-                <span class="price-before-discount">
-				</span>
-                <strong class="price">13,90 Kč</strong>
-
-            </p>
-            <p class="product-item-unit">
-                    (<strong class="price">139,00 Kč</strong> / kg)
-            </p>
-                        <div class="product-list-rating">
-            </div>
-<div id="snippet-productWidget-widgetCarousel-1-buy-41813-quantity">        <div class="product-quantity-control">
-            <form action="/deti" method="post" class="ajax" id="frm-productWidget-widgetCarousel-1-buy-41813-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productWidget-widgetCarousel-1-buy-41813-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
-                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productWidget-widgetCarousel-1-buy-41813-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
-</form>
-
-        </div>
-</div>
-                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
-
-
-        </div>
-
-        
-    </div>
     <div id="product-append-49281" class="product-item">
         <div class="product-item-flags">
             <div class="flag-sale ">
@@ -5547,60 +5642,6 @@ Hladká mouka</textarea>
                 <input type="text" name="quantity" size="3" id="frm-productWidget-widgetCarousel-1-buy-49281-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
                 <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
             <input type="hidden" name="do" value="productWidget-widgetCarousel-1-buy-49281-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
-</form>
-
-        </div>
-</div>
-                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
-
-
-        </div>
-
-        
-    </div>
-    <div id="product-append-5985" class="product-item">
-        <div class="product-item-flags">
-        </div>
-        <div class="product-item-image">
-                <a data-href="/deti?productWidget-widgetCarousel-1-id=5985&amp;do=productWidget-widgetCarousel-1-modal"
-                   data-target="productWidget-widgetCarousel-1-productModal"
-                   data-product-id="5985"
-                   data-product-price="44.9"
-                   data-page-title="Hami nemléčná kaše krupicová s ovocem 180g, 6+"
-                   data-page-path="/produkt/5985-hami-nemlecna-kase-krupicova-s-ovocem-180g-6"
-                   data-user-id=""
-                   aria-hidden="true"
-                   data-kosikmodal-onclose="onProductModalDestroy"
-                   onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/7716.jpg" alt="Hami nemléčná kaše krupicová s ovocem 180g, 6+" class="loading-images loading-image">
-                </a>
-
-
-
-
-        </div>
-                <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Hami nemléčná kaše krupicová s ovocem 180g, 6+" data-href="/deti?productWidget-widgetCarousel-1-id=5985&amp;do=productWidget-widgetCarousel-1-modal" class="product-name modal-link"
-                   data-target="productWidget-widgetCarousel-1-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Hami nemléčná kaše krupicová s ovocem 180g, 6+
-                    
-                </a></h5>
-            <p class="product-item-price ">
-                <span class="price-before-discount">
-				</span>
-                <strong class="price">44,90 Kč</strong>
-
-            </p>
-            <p class="product-item-unit">
-                    (<strong class="price">249,40 Kč</strong> / kg)
-            </p>
-                        <div class="product-list-rating">
-            </div>
-<div id="snippet-productWidget-widgetCarousel-1-buy-5985-quantity">        <div class="product-quantity-control">
-            <form action="/deti" method="post" class="ajax" id="frm-productWidget-widgetCarousel-1-buy-5985-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productWidget-widgetCarousel-1-buy-5985-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
-                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productWidget-widgetCarousel-1-buy-5985-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
 </form>
 
         </div>
@@ -5917,6 +5958,65 @@ Hladká mouka</textarea>
 
         
     </div>
+    <div id="product-append-43315" class="product-item">
+        <div class="product-item-flags">
+            <div class="flag-sale ">
+                <span class="percents">32<small>&#37;</small></span>
+            </div>
+        </div>
+        <div class="product-item-image">
+                <a data-href="/deti?productList-id=43315&amp;do=productList-modal"
+                   data-target="productList-productModal"
+                   data-product-id="43315"
+                   data-product-price="16.9"
+                   data-page-title="Hello Cuuc 100% ovocná kapsička s jahodami 100g"
+                   data-page-path="/produkt/43315-hello-cuuc-100-ovocna-kapsicka-s-jahodami-100g"
+                   data-user-id=""
+                   aria-hidden="true"
+                   data-kosikmodal-onclose="onProductModalDestroy"
+                   onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/61032.jpg" alt="Hello Cuuc 100% ovocná kapsička s jahodami 100g" class="loading-images loading-image">
+                </a>
+
+
+
+
+        </div>
+                <div class="product-item-info">
+                <h5><a href="javascript:void(0)" aria-label="Hello Cuuc 100% ovocná kapsička s jahodami 100g" data-href="/deti?productList-id=43315&amp;do=productList-modal" class="product-name modal-link"
+                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    Hello Cuuc 100% ovocná kapsička s jahodami 100g
+                    
+                </a></h5>
+            <p class="product-item-price product-in-discount">
+                <span class="price-before-discount">
+					<span><strong class="price">16,90 Kč</strong></span>
+				</span>
+                <strong class="price">11,50 Kč</strong>
+
+            </p>
+            <p class="product-item-unit">
+                    (<strong class="price">115,00 Kč</strong> / kg)
+            </p>
+                        <div class="product-list-rating">
+                <span><ul class="rating"><li class="rating-children rating-1 up" data-rating="1"><i class="fa fa-star"></i></li><li class="rating-children rating-2 up" data-rating="2"><i class="fa fa-star"></i></li><li class="rating-children rating-3 up" data-rating="3"><i class="fa fa-star"></i></li><li class="rating-children rating-4 up" data-rating="4"><i class="fa fa-star"></i></li><li class="rating-children rating-5 up" data-rating="5"><i class="fa fa-star"></i></li></ul></span>
+            </div>
+<div id="snippet-productList-buy-43315-quantity">        <div class="product-quantity-control">
+            <form action="/deti" method="post" class="ajax" id="frm-productList-buy-43315-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-43315-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
+            <input type="hidden" name="do" value="productList-buy-43315-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+</form>
+
+        </div>
+</div>
+                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
+
+
+        </div>
+
+        
+    </div>
     <div id="product-append-20083" class="product-item">
         <div class="product-item-flags">
         </div>
@@ -5960,172 +6060,6 @@ Hladká mouka</textarea>
                 <input type="text" name="quantity" size="3" id="frm-productList-buy-20083-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
                 <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
             <input type="hidden" name="do" value="productList-buy-20083-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
-</form>
-
-        </div>
-</div>
-                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
-
-
-        </div>
-
-        
-    </div>
-    <div id="product-append-3973" class="product-item">
-        <div class="product-item-flags">
-        </div>
-        <div class="product-item-image">
-                <a data-href="/deti?productList-id=3973&amp;do=productList-modal"
-                   data-target="productList-productModal"
-                   data-product-id="3973"
-                   data-product-price="12.9"
-                   data-page-title="Aquila První voda neperlivá kojenecká 0,5l"
-                   data-page-path="/produkt/3973-aquila-prvni-voda-neperliva-kojenecka-0-5l"
-                   data-user-id=""
-                   aria-hidden="true"
-                   data-kosikmodal-onclose="onProductModalDestroy"
-                   onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/4142.jpg" alt="Aquila První voda neperlivá kojenecká 0,5l" class="loading-images loading-image">
-                </a>
-
-
-
-
-        </div>
-                <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Aquila První voda neperlivá kojenecká 0,5l" data-href="/deti?productList-id=3973&amp;do=productList-modal" class="product-name modal-link"
-                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Aquila První voda neperlivá kojenecká 0,5l
-                    
-                </a></h5>
-            <p class="product-item-price ">
-                <span class="price-before-discount">
-				</span>
-                <strong class="price">12,90 Kč</strong>
-
-            </p>
-            <p class="product-item-unit">
-                    (<strong class="price">25,80 Kč</strong> / l)
-            </p>
-                        <div class="product-list-rating">
-            </div>
-<div id="snippet-productList-buy-3973-quantity">        <div class="product-quantity-control">
-            <form action="/deti" method="post" class="ajax" id="frm-productList-buy-3973-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-3973-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
-                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-3973-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
-</form>
-
-        </div>
-</div>
-                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
-
-
-        </div>
-
-        
-    </div>
-    <div id="product-append-9590" class="product-item">
-        <div class="product-item-flags">
-        </div>
-        <div class="product-item-image">
-                <a data-href="/deti?productList-id=9590&amp;do=productList-modal"
-                   data-target="productList-productModal"
-                   data-product-id="9590"
-                   data-product-price="39.9"
-                   data-page-title="Nutrend Kojenecká voda 5l"
-                   data-page-path="/produkt/9590-nutrend-kojenecka-voda-5l"
-                   data-user-id=""
-                   aria-hidden="true"
-                   data-kosikmodal-onclose="onProductModalDestroy"
-                   onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/25662.jpg" alt="Nutrend Kojenecká voda 5l" class="loading-images loading-image">
-                </a>
-
-
-
-
-        </div>
-                <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Nutrend Kojenecká voda 5l" data-href="/deti?productList-id=9590&amp;do=productList-modal" class="product-name modal-link"
-                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Nutrend Kojenecká voda 5l
-                    
-                </a></h5>
-            <p class="product-item-price ">
-                <span class="price-before-discount">
-				</span>
-                <strong class="price">39,90 Kč</strong>
-
-            </p>
-            <p class="product-item-unit">
-                    (<strong class="price">8,00 Kč</strong> / l)
-            </p>
-                        <div class="product-list-rating">
-            </div>
-<div id="snippet-productList-buy-9590-quantity">        <div class="product-quantity-control">
-            <form action="/deti" method="post" class="ajax" id="frm-productList-buy-9590-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-9590-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
-                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-9590-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
-</form>
-
-        </div>
-</div>
-                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
-
-
-        </div>
-
-        
-    </div>
-    <div id="product-append-3431" class="product-item">
-        <div class="product-item-flags">
-            <div class="flag-sale ">
-                <span class="percents">18<small>&#37;</small></span>
-            </div>
-        </div>
-        <div class="product-item-image">
-                <a data-href="/deti?productList-id=3431&amp;do=productList-modal"
-                   data-target="productList-productModal"
-                   data-product-id="3431"
-                   data-product-price="16.9"
-                   data-page-title="Cvrček Kojenecká výživa s broskvemi od dokončeného 4. měsíce 190g"
-                   data-page-path="/produkt/3431-cvrcek-kojenecka-vyziva-s-broskvemi-od-dokonceneho-4-mesice-190g"
-                   data-user-id=""
-                   aria-hidden="true"
-                   data-kosikmodal-onclose="onProductModalDestroy"
-                   onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/3547.jpg" alt="Cvrček Kojenecká výživa s broskvemi od dokončeného 4. měsíce 190g" class="loading-images loading-image">
-                </a>
-
-
-
-
-        </div>
-                <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Cvrček Kojenecká výživa s broskvemi od dokončeného 4. měsíce 190g" data-href="/deti?productList-id=3431&amp;do=productList-modal" class="product-name modal-link"
-                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Cvrček Kojenecká výživa s broskvemi od dokončeného 4. měsíce 190g
-                    
-                </a></h5>
-            <p class="product-item-price product-in-discount">
-                <span class="price-before-discount">
-					<span><strong class="price">16,90 Kč</strong></span>
-				</span>
-                <strong class="price">13,90 Kč</strong>
-
-            </p>
-            <p class="product-item-unit">
-                    (<strong class="price">73,20 Kč</strong> / kg)
-            </p>
-                        <div class="product-list-rating">
-            </div>
-<div id="snippet-productList-buy-3431-quantity">        <div class="product-quantity-control">
-            <form action="/deti" method="post" class="ajax" id="frm-productList-buy-3431-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-3431-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
-                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-3431-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
 </form>
 
         </div>
@@ -6195,21 +6129,21 @@ Hladká mouka</textarea>
 
         
     </div>
-    <div id="product-append-12441" class="product-item">
+    <div id="product-append-9590" class="product-item">
         <div class="product-item-flags">
         </div>
         <div class="product-item-image">
-                <a data-href="/deti?productList-id=12441&amp;do=productList-modal"
+                <a data-href="/deti?productList-id=9590&amp;do=productList-modal"
                    data-target="productList-productModal"
-                   data-product-id="12441"
-                   data-product-price="16.9"
-                   data-page-title="Nutrend Horský Pramen Kojenecká voda 1,5l"
-                   data-page-path="/produkt/12441-nutrend-horsky-pramen-kojenecka-voda-1-5l"
+                   data-product-id="9590"
+                   data-product-price="39.9"
+                   data-page-title="Nutrend Kojenecká voda 5l"
+                   data-page-path="/produkt/9590-nutrend-kojenecka-voda-5l"
                    data-user-id=""
                    aria-hidden="true"
                    data-kosikmodal-onclose="onProductModalDestroy"
                    onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/29708.jpg" alt="Nutrend Horský Pramen Kojenecká voda 1,5l" class="loading-images loading-image">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/25662.jpg" alt="Nutrend Kojenecká voda 5l" class="loading-images loading-image">
                 </a>
 
 
@@ -6217,27 +6151,27 @@ Hladká mouka</textarea>
 
         </div>
                 <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Nutrend Horský Pramen Kojenecká voda 1,5l" data-href="/deti?productList-id=12441&amp;do=productList-modal" class="product-name modal-link"
+                <h5><a href="javascript:void(0)" aria-label="Nutrend Kojenecká voda 5l" data-href="/deti?productList-id=9590&amp;do=productList-modal" class="product-name modal-link"
                    data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Nutrend Horský Pramen Kojenecká voda 1,5l
+                    Nutrend Kojenecká voda 5l
                     
                 </a></h5>
             <p class="product-item-price ">
                 <span class="price-before-discount">
 				</span>
-                <strong class="price">16,90 Kč</strong>
+                <strong class="price">39,90 Kč</strong>
 
             </p>
             <p class="product-item-unit">
-                    (<strong class="price">11,30 Kč</strong> / l)
+                    (<strong class="price">8,00 Kč</strong> / l)
             </p>
                         <div class="product-list-rating">
             </div>
-<div id="snippet-productList-buy-12441-quantity">        <div class="product-quantity-control">
-            <form action="/deti" method="post" class="ajax" id="frm-productList-buy-12441-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-12441-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+<div id="snippet-productList-buy-9590-quantity">        <div class="product-quantity-control">
+            <form action="/deti" method="post" class="ajax" id="frm-productList-buy-9590-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-9590-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
                 <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-12441-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+            <input type="hidden" name="do" value="productList-buy-9590-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
 </form>
 
         </div>
@@ -6249,21 +6183,21 @@ Hladká mouka</textarea>
 
         
     </div>
-    <div id="product-append-17395" class="product-item">
+    <div id="product-append-3973" class="product-item">
         <div class="product-item-flags">
         </div>
         <div class="product-item-image">
-                <a data-href="/deti?productList-id=17395&amp;do=productList-modal"
+                <a data-href="/deti?productList-id=3973&amp;do=productList-modal"
                    data-target="productList-productModal"
-                   data-product-id="17395"
-                   data-product-price="11.9"
-                   data-page-title="Hello Ovocná kapsička s jahodami a vitaminem C 100g"
-                   data-page-path="/produkt/17395-hello-ovocna-kapsicka-s-jahodami-a-vitaminem-c-100g"
+                   data-product-id="3973"
+                   data-product-price="12.9"
+                   data-page-title="Aquila První voda neperlivá kojenecká 0,5l"
+                   data-page-path="/produkt/3973-aquila-prvni-voda-neperliva-kojenecka-0-5l"
                    data-user-id=""
                    aria-hidden="true"
                    data-kosikmodal-onclose="onProductModalDestroy"
                    onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/34672.jpg" alt="Hello Ovocná kapsička s jahodami a vitaminem C 100g" class="loading-images loading-image">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/4142.jpg" alt="Aquila První voda neperlivá kojenecká 0,5l" class="loading-images loading-image">
                 </a>
 
 
@@ -6271,140 +6205,27 @@ Hladká mouka</textarea>
 
         </div>
                 <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Hello Ovocná kapsička s jahodami a vitaminem C 100g" data-href="/deti?productList-id=17395&amp;do=productList-modal" class="product-name modal-link"
+                <h5><a href="javascript:void(0)" aria-label="Aquila První voda neperlivá kojenecká 0,5l" data-href="/deti?productList-id=3973&amp;do=productList-modal" class="product-name modal-link"
                    data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Hello Ovocná kapsička s jahodami a vitaminem C 100g
+                    Aquila První voda neperlivá kojenecká 0,5l
                     
                 </a></h5>
             <p class="product-item-price ">
                 <span class="price-before-discount">
 				</span>
-                <strong class="price">11,90 Kč</strong>
+                <strong class="price">12,90 Kč</strong>
 
             </p>
             <p class="product-item-unit">
-                    (<strong class="price">119,00 Kč</strong> / kg)
+                    (<strong class="price">25,80 Kč</strong> / l)
             </p>
                         <div class="product-list-rating">
             </div>
-<div id="snippet-productList-buy-17395-quantity">        <div class="product-quantity-control">
-            <form action="/deti" method="post" class="ajax" id="frm-productList-buy-17395-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-17395-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+<div id="snippet-productList-buy-3973-quantity">        <div class="product-quantity-control">
+            <form action="/deti" method="post" class="ajax" id="frm-productList-buy-3973-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-3973-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
                 <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-17395-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
-</form>
-
-        </div>
-</div>
-                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
-
-
-        </div>
-
-        
-    </div>
-    <div id="product-append-43315" class="product-item">
-        <div class="product-item-flags">
-            <div class="flag-sale ">
-                <span class="percents">32<small>&#37;</small></span>
-            </div>
-        </div>
-        <div class="product-item-image">
-                <a data-href="/deti?productList-id=43315&amp;do=productList-modal"
-                   data-target="productList-productModal"
-                   data-product-id="43315"
-                   data-product-price="16.9"
-                   data-page-title="Hello Cuuc 100% ovocná kapsička s jahodami 100g"
-                   data-page-path="/produkt/43315-hello-cuuc-100-ovocna-kapsicka-s-jahodami-100g"
-                   data-user-id=""
-                   aria-hidden="true"
-                   data-kosikmodal-onclose="onProductModalDestroy"
-                   onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/61032.jpg" alt="Hello Cuuc 100% ovocná kapsička s jahodami 100g" class="loading-images loading-image">
-                </a>
-
-
-
-
-        </div>
-                <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Hello Cuuc 100% ovocná kapsička s jahodami 100g" data-href="/deti?productList-id=43315&amp;do=productList-modal" class="product-name modal-link"
-                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Hello Cuuc 100% ovocná kapsička s jahodami 100g
-                    
-                </a></h5>
-            <p class="product-item-price product-in-discount">
-                <span class="price-before-discount">
-					<span><strong class="price">16,90 Kč</strong></span>
-				</span>
-                <strong class="price">11,50 Kč</strong>
-
-            </p>
-            <p class="product-item-unit">
-                    (<strong class="price">115,00 Kč</strong> / kg)
-            </p>
-                        <div class="product-list-rating">
-                <span><ul class="rating"><li class="rating-children rating-1 up" data-rating="1"><i class="fa fa-star"></i></li><li class="rating-children rating-2 up" data-rating="2"><i class="fa fa-star"></i></li><li class="rating-children rating-3 up" data-rating="3"><i class="fa fa-star"></i></li><li class="rating-children rating-4 up" data-rating="4"><i class="fa fa-star"></i></li><li class="rating-children rating-5 up" data-rating="5"><i class="fa fa-star"></i></li></ul></span>
-            </div>
-<div id="snippet-productList-buy-43315-quantity">        <div class="product-quantity-control">
-            <form action="/deti" method="post" class="ajax" id="frm-productList-buy-43315-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-43315-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
-                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-43315-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
-</form>
-
-        </div>
-</div>
-                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
-
-
-        </div>
-
-        
-    </div>
-    <div id="product-append-13569" class="product-item">
-        <div class="product-item-flags">
-        </div>
-        <div class="product-item-image">
-                <a data-href="/deti?productList-id=13569&amp;do=productList-modal"
-                   data-target="productList-productModal"
-                   data-product-id="13569"
-                   data-product-price="17.9"
-                   data-page-title="Rej Kukuřičné křupky bez soli 100g"
-                   data-page-path="/produkt/13569-rej-kukuricne-krupky-bez-soli-100g"
-                   data-user-id=""
-                   aria-hidden="true"
-                   data-kosikmodal-onclose="onProductModalDestroy"
-                   onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/30859.jpg" alt="Rej Kukuřičné křupky bez soli 100g" class="loading-images loading-image">
-                </a>
-
-
-
-
-        </div>
-                <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Rej Kukuřičné křupky bez soli 100g" data-href="/deti?productList-id=13569&amp;do=productList-modal" class="product-name modal-link"
-                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Rej Kukuřičné křupky bez soli 100g
-                    
-                </a></h5>
-            <p class="product-item-price ">
-                <span class="price-before-discount">
-				</span>
-                <strong class="price">17,90 Kč</strong>
-
-            </p>
-            <p class="product-item-unit">
-                    (<strong class="price">179,00 Kč</strong> / kg)
-            </p>
-                        <div class="product-list-rating">
-            </div>
-<div id="snippet-productList-buy-13569-quantity">        <div class="product-quantity-control">
-            <form action="/deti" method="post" class="ajax" id="frm-productList-buy-13569-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-13569-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
-                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-13569-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+            <input type="hidden" name="do" value="productList-buy-3973-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
 </form>
 
         </div>
@@ -6470,21 +6291,24 @@ Hladká mouka</textarea>
 
         
     </div>
-    <div id="product-append-41816" class="product-item">
+    <div id="product-append-3431" class="product-item">
         <div class="product-item-flags">
+            <div class="flag-sale ">
+                <span class="percents">18<small>&#37;</small></span>
+            </div>
         </div>
         <div class="product-item-image">
-                <a data-href="/deti?productList-id=41816&amp;do=productList-modal"
+                <a data-href="/deti?productList-id=3431&amp;do=productList-modal"
                    data-target="productList-productModal"
-                   data-product-id="41816"
-                   data-product-price="13.9"
-                   data-page-title="Kubík 100% ovocná kapsička Hruška-jablko-mrkev-banán 100g"
-                   data-page-path="/produkt/41816-kubik-100-ovocna-kapsicka-hruska-jablko-mrkev-banan-100g"
+                   data-product-id="3431"
+                   data-product-price="16.9"
+                   data-page-title="Cvrček Kojenecká výživa s broskvemi od dokončeného 4. měsíce 190g"
+                   data-page-path="/produkt/3431-cvrcek-kojenecka-vyziva-s-broskvemi-od-dokonceneho-4-mesice-190g"
                    data-user-id=""
                    aria-hidden="true"
                    data-kosikmodal-onclose="onProductModalDestroy"
                    onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/59533.jpg" alt="Kubík 100% ovocná kapsička Hruška-jablko-mrkev-banán 100g" class="loading-images loading-image">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/3547.jpg" alt="Cvrček Kojenecká výživa s broskvemi od dokončeného 4. měsíce 190g" class="loading-images loading-image">
                 </a>
 
 
@@ -6492,27 +6316,28 @@ Hladká mouka</textarea>
 
         </div>
                 <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Kubík 100% ovocná kapsička Hruška-jablko-mrkev-banán 100g" data-href="/deti?productList-id=41816&amp;do=productList-modal" class="product-name modal-link"
+                <h5><a href="javascript:void(0)" aria-label="Cvrček Kojenecká výživa s broskvemi od dokončeného 4. měsíce 190g" data-href="/deti?productList-id=3431&amp;do=productList-modal" class="product-name modal-link"
                    data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Kubík 100% ovocná kapsička Hruška-jablko-mrkev-banán 100g
+                    Cvrček Kojenecká výživa s broskvemi od dokončeného 4. měsíce 190g
                     
                 </a></h5>
-            <p class="product-item-price ">
+            <p class="product-item-price product-in-discount">
                 <span class="price-before-discount">
+					<span><strong class="price">16,90 Kč</strong></span>
 				</span>
                 <strong class="price">13,90 Kč</strong>
 
             </p>
             <p class="product-item-unit">
-                    (<strong class="price">139,00 Kč</strong> / kg)
+                    (<strong class="price">73,20 Kč</strong> / kg)
             </p>
                         <div class="product-list-rating">
             </div>
-<div id="snippet-productList-buy-41816-quantity">        <div class="product-quantity-control">
-            <form action="/deti" method="post" class="ajax" id="frm-productList-buy-41816-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-41816-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+<div id="snippet-productList-buy-3431-quantity">        <div class="product-quantity-control">
+            <form action="/deti" method="post" class="ajax" id="frm-productList-buy-3431-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-3431-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
                 <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-41816-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+            <input type="hidden" name="do" value="productList-buy-3431-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
 </form>
 
         </div>
@@ -6524,21 +6349,21 @@ Hladká mouka</textarea>
 
         
     </div>
-    <div id="product-append-41813" class="product-item">
+    <div id="product-append-12441" class="product-item">
         <div class="product-item-flags">
         </div>
         <div class="product-item-image">
-                <a data-href="/deti?productList-id=41813&amp;do=productList-modal"
+                <a data-href="/deti?productList-id=12441&amp;do=productList-modal"
                    data-target="productList-productModal"
-                   data-product-id="41813"
-                   data-product-price="13.9"
-                   data-page-title="Kubík 100 % ovocná kapsička jablko-banán 100g"
-                   data-page-path="/produkt/41813-kubik-100-ovocna-kapsicka-jablko-banan-100g"
+                   data-product-id="12441"
+                   data-product-price="16.9"
+                   data-page-title="Nutrend Horský Pramen Kojenecká voda 1,5l"
+                   data-page-path="/produkt/12441-nutrend-horsky-pramen-kojenecka-voda-1-5l"
                    data-user-id=""
                    aria-hidden="true"
                    data-kosikmodal-onclose="onProductModalDestroy"
                    onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/59530.jpg" alt="Kubík 100 % ovocná kapsička jablko-banán 100g" class="loading-images loading-image">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/29708.jpg" alt="Nutrend Horský Pramen Kojenecká voda 1,5l" class="loading-images loading-image">
                 </a>
 
 
@@ -6546,81 +6371,27 @@ Hladká mouka</textarea>
 
         </div>
                 <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Kubík 100 % ovocná kapsička jablko-banán 100g" data-href="/deti?productList-id=41813&amp;do=productList-modal" class="product-name modal-link"
+                <h5><a href="javascript:void(0)" aria-label="Nutrend Horský Pramen Kojenecká voda 1,5l" data-href="/deti?productList-id=12441&amp;do=productList-modal" class="product-name modal-link"
                    data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Kubík 100 % ovocná kapsička jablko-banán 100g
+                    Nutrend Horský Pramen Kojenecká voda 1,5l
                     
                 </a></h5>
             <p class="product-item-price ">
                 <span class="price-before-discount">
 				</span>
-                <strong class="price">13,90 Kč</strong>
+                <strong class="price">16,90 Kč</strong>
 
             </p>
             <p class="product-item-unit">
-                    (<strong class="price">139,00 Kč</strong> / kg)
+                    (<strong class="price">11,30 Kč</strong> / l)
             </p>
                         <div class="product-list-rating">
             </div>
-<div id="snippet-productList-buy-41813-quantity">        <div class="product-quantity-control">
-            <form action="/deti" method="post" class="ajax" id="frm-productList-buy-41813-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-41813-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+<div id="snippet-productList-buy-12441-quantity">        <div class="product-quantity-control">
+            <form action="/deti" method="post" class="ajax" id="frm-productList-buy-12441-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-12441-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
                 <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-41813-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
-</form>
-
-        </div>
-</div>
-                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
-
-
-        </div>
-
-        
-    </div>
-    <div id="product-append-10179" class="product-item">
-        <div class="product-item-flags">
-        </div>
-        <div class="product-item-image">
-                <a data-href="/deti?productList-id=10179&amp;do=productList-modal"
-                   data-target="productList-productModal"
-                   data-product-id="10179"
-                   data-product-price="11.9"
-                   data-page-title="Hello Ovocná přesnídávka s meruňkami a vitaminem C 190g"
-                   data-page-path="/produkt/10179-hello-ovocna-presnidavka-s-merunkami-a-vitaminem-c-190g"
-                   data-user-id=""
-                   aria-hidden="true"
-                   data-kosikmodal-onclose="onProductModalDestroy"
-                   onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/27967.jpg" alt="Hello Ovocná přesnídávka s meruňkami a vitaminem C 190g" class="loading-images loading-image">
-                </a>
-
-
-
-
-        </div>
-                <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Hello Ovocná přesnídávka s meruňkami a vitaminem C 190g" data-href="/deti?productList-id=10179&amp;do=productList-modal" class="product-name modal-link"
-                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Hello Ovocná přesnídávka s meruňkami a vitaminem C 190g
-                    
-                </a></h5>
-            <p class="product-item-price ">
-                <span class="price-before-discount">
-				</span>
-                <strong class="price">11,90 Kč</strong>
-
-            </p>
-            <p class="product-item-unit">
-                    (<strong class="price">62,60 Kč</strong> / kg)
-            </p>
-                        <div class="product-list-rating">
-            </div>
-<div id="snippet-productList-buy-10179-quantity">        <div class="product-quantity-control">
-            <form action="/deti" method="post" class="ajax" id="frm-productList-buy-10179-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-10179-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
-                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-10179-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+            <input type="hidden" name="do" value="productList-buy-12441-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
 </form>
 
         </div>
@@ -6686,6 +6457,114 @@ Hladká mouka</textarea>
 
         
     </div>
+    <div id="product-append-10179" class="product-item">
+        <div class="product-item-flags">
+        </div>
+        <div class="product-item-image">
+                <a data-href="/deti?productList-id=10179&amp;do=productList-modal"
+                   data-target="productList-productModal"
+                   data-product-id="10179"
+                   data-product-price="11.9"
+                   data-page-title="Hello Ovocná přesnídávka s meruňkami a vitaminem C 190g"
+                   data-page-path="/produkt/10179-hello-ovocna-presnidavka-s-merunkami-a-vitaminem-c-190g"
+                   data-user-id=""
+                   aria-hidden="true"
+                   data-kosikmodal-onclose="onProductModalDestroy"
+                   onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/27967.jpg" alt="Hello Ovocná přesnídávka s meruňkami a vitaminem C 190g" class="loading-images loading-image">
+                </a>
+
+
+
+
+        </div>
+                <div class="product-item-info">
+                <h5><a href="javascript:void(0)" aria-label="Hello Ovocná přesnídávka s meruňkami a vitaminem C 190g" data-href="/deti?productList-id=10179&amp;do=productList-modal" class="product-name modal-link"
+                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    Hello Ovocná přesnídávka s meruňkami a vitaminem C 190g
+                    
+                </a></h5>
+            <p class="product-item-price ">
+                <span class="price-before-discount">
+				</span>
+                <strong class="price">11,90 Kč</strong>
+
+            </p>
+            <p class="product-item-unit">
+                    (<strong class="price">62,60 Kč</strong> / kg)
+            </p>
+                        <div class="product-list-rating">
+            </div>
+<div id="snippet-productList-buy-10179-quantity">        <div class="product-quantity-control">
+            <form action="/deti" method="post" class="ajax" id="frm-productList-buy-10179-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-10179-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
+            <input type="hidden" name="do" value="productList-buy-10179-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+</form>
+
+        </div>
+</div>
+                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
+
+
+        </div>
+
+        
+    </div>
+    <div id="product-append-17395" class="product-item">
+        <div class="product-item-flags">
+        </div>
+        <div class="product-item-image">
+                <a data-href="/deti?productList-id=17395&amp;do=productList-modal"
+                   data-target="productList-productModal"
+                   data-product-id="17395"
+                   data-product-price="11.9"
+                   data-page-title="Hello Ovocná kapsička s jahodami a vitaminem C 100g"
+                   data-page-path="/produkt/17395-hello-ovocna-kapsicka-s-jahodami-a-vitaminem-c-100g"
+                   data-user-id=""
+                   aria-hidden="true"
+                   data-kosikmodal-onclose="onProductModalDestroy"
+                   onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/34672.jpg" alt="Hello Ovocná kapsička s jahodami a vitaminem C 100g" class="loading-images loading-image">
+                </a>
+
+
+
+
+        </div>
+                <div class="product-item-info">
+                <h5><a href="javascript:void(0)" aria-label="Hello Ovocná kapsička s jahodami a vitaminem C 100g" data-href="/deti?productList-id=17395&amp;do=productList-modal" class="product-name modal-link"
+                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    Hello Ovocná kapsička s jahodami a vitaminem C 100g
+                    
+                </a></h5>
+            <p class="product-item-price ">
+                <span class="price-before-discount">
+				</span>
+                <strong class="price">11,90 Kč</strong>
+
+            </p>
+            <p class="product-item-unit">
+                    (<strong class="price">119,00 Kč</strong> / kg)
+            </p>
+                        <div class="product-list-rating">
+            </div>
+<div id="snippet-productList-buy-17395-quantity">        <div class="product-quantity-control">
+            <form action="/deti" method="post" class="ajax" id="frm-productList-buy-17395-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-17395-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
+            <input type="hidden" name="do" value="productList-buy-17395-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+</form>
+
+        </div>
+</div>
+                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
+
+
+        </div>
+
+        
+    </div>
     <div id="product-append-12417" class="product-item">
         <div class="product-item-flags">
         </div>
@@ -6740,21 +6619,21 @@ Hladká mouka</textarea>
 
         
     </div>
-    <div id="product-append-3945" class="product-item">
+    <div id="product-append-13569" class="product-item">
         <div class="product-item-flags">
         </div>
         <div class="product-item-image">
-                <a data-href="/deti?productList-id=3945&amp;do=productList-modal"
+                <a data-href="/deti?productList-id=13569&amp;do=productList-modal"
                    data-target="productList-productModal"
-                   data-product-id="3945"
-                   data-product-price="13.9"
-                   data-page-title="Kubík 100% ovocná kapsička jahoda, jablko, banán, mrkev 100g"
-                   data-page-path="/produkt/3945-kubik-100-ovocna-kapsicka-jahoda-jablko-banan-mrkev-100g"
+                   data-product-id="13569"
+                   data-product-price="17.9"
+                   data-page-title="Rej Kukuřičné křupky bez soli 100g"
+                   data-page-path="/produkt/13569-rej-kukuricne-krupky-bez-soli-100g"
                    data-user-id=""
                    aria-hidden="true"
                    data-kosikmodal-onclose="onProductModalDestroy"
                    onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/4113.jpg" alt="Kubík 100% ovocná kapsička jahoda, jablko, banán, mrkev 100g" class="loading-images loading-image">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/30859.jpg" alt="Rej Kukuřičné křupky bez soli 100g" class="loading-images loading-image">
                 </a>
 
 
@@ -6762,81 +6641,27 @@ Hladká mouka</textarea>
 
         </div>
                 <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Kubík 100% ovocná kapsička jahoda, jablko, banán, mrkev 100g" data-href="/deti?productList-id=3945&amp;do=productList-modal" class="product-name modal-link"
+                <h5><a href="javascript:void(0)" aria-label="Rej Kukuřičné křupky bez soli 100g" data-href="/deti?productList-id=13569&amp;do=productList-modal" class="product-name modal-link"
                    data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Kubík 100% ovocná kapsička jahoda, jablko, banán, mrkev 100g
+                    Rej Kukuřičné křupky bez soli 100g
                     
                 </a></h5>
             <p class="product-item-price ">
                 <span class="price-before-discount">
 				</span>
-                <strong class="price">13,90 Kč</strong>
+                <strong class="price">17,90 Kč</strong>
 
             </p>
             <p class="product-item-unit">
-                    (<strong class="price">139,00 Kč</strong> / kg)
+                    (<strong class="price">179,00 Kč</strong> / kg)
             </p>
                         <div class="product-list-rating">
             </div>
-<div id="snippet-productList-buy-3945-quantity">        <div class="product-quantity-control">
-            <form action="/deti" method="post" class="ajax" id="frm-productList-buy-3945-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-3945-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+<div id="snippet-productList-buy-13569-quantity">        <div class="product-quantity-control">
+            <form action="/deti" method="post" class="ajax" id="frm-productList-buy-13569-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-13569-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
                 <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-3945-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
-</form>
-
-        </div>
-</div>
-                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
-
-
-        </div>
-
-        
-    </div>
-    <div id="product-append-17394" class="product-item">
-        <div class="product-item-flags">
-        </div>
-        <div class="product-item-image">
-                <a data-href="/deti?productList-id=17394&amp;do=productList-modal"
-                   data-target="productList-productModal"
-                   data-product-id="17394"
-                   data-product-price="11.9"
-                   data-page-title="Hello Ovocná přesnídávka s meruňkami a vitaminem C 100 g"
-                   data-page-path="/produkt/17394-hello-ovocna-presnidavka-s-merunkami-a-vitaminem-c-100-g"
-                   data-user-id=""
-                   aria-hidden="true"
-                   data-kosikmodal-onclose="onProductModalDestroy"
-                   onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/34671.jpg" alt="Hello Ovocná přesnídávka s meruňkami a vitaminem C 100 g" class="loading-images loading-image">
-                </a>
-
-
-
-
-        </div>
-                <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Hello Ovocná přesnídávka s meruňkami a vitaminem C 100 g" data-href="/deti?productList-id=17394&amp;do=productList-modal" class="product-name modal-link"
-                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Hello Ovocná přesnídávka s meruňkami a vitaminem C 100 g
-                    
-                </a></h5>
-            <p class="product-item-price ">
-                <span class="price-before-discount">
-				</span>
-                <strong class="price">11,90 Kč</strong>
-
-            </p>
-            <p class="product-item-unit">
-                    (<strong class="price">119,00 Kč</strong> / kg)
-            </p>
-                        <div class="product-list-rating">
-            </div>
-<div id="snippet-productList-buy-17394-quantity">        <div class="product-quantity-control">
-            <form action="/deti" method="post" class="ajax" id="frm-productList-buy-17394-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-17394-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
-                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-17394-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+            <input type="hidden" name="do" value="productList-buy-13569-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
 </form>
 
         </div>
@@ -6891,6 +6716,176 @@ Hladká mouka</textarea>
                 <input type="text" name="quantity" size="3" id="frm-productList-buy-8297-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
                 <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
             <input type="hidden" name="do" value="productList-buy-8297-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+</form>
+
+        </div>
+</div>
+                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
+
+
+        </div>
+
+        
+    </div>
+    <div id="product-append-43316" class="product-item">
+        <div class="product-item-flags">
+            <div class="flag-sale ">
+                <span class="percents">18<small>&#37;</small></span>
+            </div>
+        </div>
+        <div class="product-item-image">
+                <a data-href="/deti?productList-id=43316&amp;do=productList-modal"
+                   data-target="productList-productModal"
+                   data-product-id="43316"
+                   data-product-price="16.9"
+                   data-page-title="Hello Cuuc 100% ovocná kapsička s meruňkami 100g"
+                   data-page-path="/produkt/43316-hello-cuuc-100-ovocna-kapsicka-s-merunkami-100g"
+                   data-user-id=""
+                   aria-hidden="true"
+                   data-kosikmodal-onclose="onProductModalDestroy"
+                   onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/61033.jpg" alt="Hello Cuuc 100% ovocná kapsička s meruňkami 100g" class="loading-images loading-image">
+                </a>
+
+
+
+
+        </div>
+                <div class="product-item-info">
+                <h5><a href="javascript:void(0)" aria-label="Hello Cuuc 100% ovocná kapsička s meruňkami 100g" data-href="/deti?productList-id=43316&amp;do=productList-modal" class="product-name modal-link"
+                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    Hello Cuuc 100% ovocná kapsička s meruňkami 100g
+                    
+                </a></h5>
+            <p class="product-item-price product-in-discount">
+                <span class="price-before-discount">
+					<span><strong class="price">16,90 Kč</strong></span>
+				</span>
+                <strong class="price">13,90 Kč</strong>
+
+            </p>
+            <p class="product-item-unit">
+                    (<strong class="price">139,00 Kč</strong> / kg)
+            </p>
+                        <div class="product-list-rating">
+            </div>
+<div id="snippet-productList-buy-43316-quantity">        <div class="product-quantity-control">
+            <form action="/deti" method="post" class="ajax" id="frm-productList-buy-43316-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-43316-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
+            <input type="hidden" name="do" value="productList-buy-43316-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+</form>
+
+        </div>
+</div>
+                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
+
+
+        </div>
+
+        
+    </div>
+    <div id="product-append-3438" class="product-item">
+        <div class="product-item-flags">
+            <div class="flag-sale ">
+                <span class="percents">20<small>&#37;</small></span>
+            </div>
+        </div>
+        <div class="product-item-image">
+                <a data-href="/deti?productList-id=3438&amp;do=productList-modal"
+                   data-target="productList-productModal"
+                   data-product-id="3438"
+                   data-product-price="29.9"
+                   data-page-title="Panda Vlhčené ubrousky 64 ks"
+                   data-page-path="/produkt/3438-panda-vlhcene-ubrousky-64-ks"
+                   data-user-id=""
+                   aria-hidden="true"
+                   data-kosikmodal-onclose="onProductModalDestroy"
+                   onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/3554.jpg" alt="Panda Vlhčené ubrousky 64 ks" class="loading-images loading-image">
+                </a>
+
+
+
+
+        </div>
+                <div class="product-item-info">
+                <h5><a href="javascript:void(0)" aria-label="Panda Vlhčené ubrousky 64 ks" data-href="/deti?productList-id=3438&amp;do=productList-modal" class="product-name modal-link"
+                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    Panda Vlhčené ubrousky 64 ks
+                    
+                </a></h5>
+            <p class="product-item-price product-in-discount">
+                <span class="price-before-discount">
+					<span><strong class="price">29,90 Kč</strong></span>
+				</span>
+                <strong class="price">23,90 Kč</strong>
+
+            </p>
+            <p class="product-item-unit">
+                    (<strong class="price">0,40 Kč</strong> / ks)
+            </p>
+                        <div class="product-list-rating">
+            </div>
+<div id="snippet-productList-buy-3438-quantity">        <div class="product-quantity-control">
+            <form action="/deti" method="post" class="ajax" id="frm-productList-buy-3438-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-3438-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
+            <input type="hidden" name="do" value="productList-buy-3438-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+</form>
+
+        </div>
+</div>
+                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
+
+
+        </div>
+
+        
+    </div>
+    <div id="product-append-17394" class="product-item">
+        <div class="product-item-flags">
+        </div>
+        <div class="product-item-image">
+                <a data-href="/deti?productList-id=17394&amp;do=productList-modal"
+                   data-target="productList-productModal"
+                   data-product-id="17394"
+                   data-product-price="11.9"
+                   data-page-title="Hello Ovocná přesnídávka s meruňkami a vitaminem C 100 g"
+                   data-page-path="/produkt/17394-hello-ovocna-presnidavka-s-merunkami-a-vitaminem-c-100-g"
+                   data-user-id=""
+                   aria-hidden="true"
+                   data-kosikmodal-onclose="onProductModalDestroy"
+                   onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/34671.jpg" alt="Hello Ovocná přesnídávka s meruňkami a vitaminem C 100 g" class="loading-images loading-image">
+                </a>
+
+
+
+
+        </div>
+                <div class="product-item-info">
+                <h5><a href="javascript:void(0)" aria-label="Hello Ovocná přesnídávka s meruňkami a vitaminem C 100 g" data-href="/deti?productList-id=17394&amp;do=productList-modal" class="product-name modal-link"
+                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    Hello Ovocná přesnídávka s meruňkami a vitaminem C 100 g
+                    
+                </a></h5>
+            <p class="product-item-price ">
+                <span class="price-before-discount">
+				</span>
+                <strong class="price">11,90 Kč</strong>
+
+            </p>
+            <p class="product-item-unit">
+                    (<strong class="price">119,00 Kč</strong> / kg)
+            </p>
+                        <div class="product-list-rating">
+            </div>
+<div id="snippet-productList-buy-17394-quantity">        <div class="product-quantity-control">
+            <form action="/deti" method="post" class="ajax" id="frm-productList-buy-17394-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-17394-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
+            <input type="hidden" name="do" value="productList-buy-17394-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
 </form>
 
         </div>
@@ -6957,6 +6952,60 @@ Hladká mouka</textarea>
 
         
     </div>
+    <div id="product-append-31825" class="product-item">
+        <div class="product-item-flags">
+        </div>
+        <div class="product-item-image">
+                <a data-href="/deti?productList-id=31825&amp;do=productList-modal"
+                   data-target="productList-productModal"
+                   data-product-id="31825"
+                   data-product-price="11.9"
+                   data-page-title="Hello Ovocná kapsička s broskvemi a vitaminem C 100 g"
+                   data-page-path="/produkt/31825-hello-ovocna-kapsicka-s-broskvemi-a-vitaminem-c-100-g"
+                   data-user-id=""
+                   aria-hidden="true"
+                   data-kosikmodal-onclose="onProductModalDestroy"
+                   onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/49270.jpg" alt="Hello Ovocná kapsička s broskvemi a vitaminem C 100 g" class="loading-images loading-image">
+                </a>
+
+
+
+
+        </div>
+                <div class="product-item-info">
+                <h5><a href="javascript:void(0)" aria-label="Hello Ovocná kapsička s broskvemi a vitaminem C 100 g" data-href="/deti?productList-id=31825&amp;do=productList-modal" class="product-name modal-link"
+                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    Hello Ovocná kapsička s broskvemi a vitaminem C 100 g
+                    
+                </a></h5>
+            <p class="product-item-price ">
+                <span class="price-before-discount">
+				</span>
+                <strong class="price">11,90 Kč</strong>
+
+            </p>
+            <p class="product-item-unit">
+                    (<strong class="price">119,00 Kč</strong> / kg)
+            </p>
+                        <div class="product-list-rating">
+            </div>
+<div id="snippet-productList-buy-31825-quantity">        <div class="product-quantity-control">
+            <form action="/deti" method="post" class="ajax" id="frm-productList-buy-31825-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-31825-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
+            <input type="hidden" name="do" value="productList-buy-31825-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+</form>
+
+        </div>
+</div>
+                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
+
+
+        </div>
+
+        
+    </div>
     <div id="product-append-41814" class="product-item">
         <div class="product-item-flags">
         </div>
@@ -7011,21 +7060,21 @@ Hladká mouka</textarea>
 
         
     </div>
-    <div id="product-append-31827" class="product-item">
+    <div id="product-append-2201" class="product-item">
         <div class="product-item-flags">
         </div>
         <div class="product-item-image">
-                <a data-href="/deti?productList-id=31827&amp;do=productList-modal"
+                <a data-href="/deti?productList-id=2201&amp;do=productList-modal"
                    data-target="productList-productModal"
-                   data-product-id="31827"
-                   data-product-price="11.9"
-                   data-page-title="Hello Ovocná kapsička s jablky a vitamínem C 100 g"
-                   data-page-path="/produkt/31827-hello-ovocna-kapsicka-s-jablky-a-vitaminem-c-100-g"
+                   data-product-id="2201"
+                   data-product-price="15.9"
+                   data-page-title="Hamánek Dětská výživa s jahodami neslazená 180g"
+                   data-page-path="/produkt/2201-hamanek-detska-vyziva-s-jahodami-neslazena-180g"
                    data-user-id=""
                    aria-hidden="true"
                    data-kosikmodal-onclose="onProductModalDestroy"
                    onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/49272.jpg" alt="Hello Ovocná kapsička s jablky a vitamínem C 100 g" class="loading-images loading-image">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/2284.jpg" alt="Hamánek Dětská výživa s jahodami neslazená 180g" class="loading-images loading-image">
                 </a>
 
 
@@ -7033,27 +7082,27 @@ Hladká mouka</textarea>
 
         </div>
                 <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Hello Ovocná kapsička s jablky a vitamínem C 100 g" data-href="/deti?productList-id=31827&amp;do=productList-modal" class="product-name modal-link"
+                <h5><a href="javascript:void(0)" aria-label="Hamánek Dětská výživa s jahodami neslazená 180g" data-href="/deti?productList-id=2201&amp;do=productList-modal" class="product-name modal-link"
                    data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Hello Ovocná kapsička s jablky a vitamínem C 100 g
+                    Hamánek Dětská výživa s jahodami neslazená 180g
                     
                 </a></h5>
             <p class="product-item-price ">
                 <span class="price-before-discount">
 				</span>
-                <strong class="price">11,90 Kč</strong>
+                <strong class="price">15,90 Kč</strong>
 
             </p>
             <p class="product-item-unit">
-                    (<strong class="price">119,00 Kč</strong> / kg)
+                    (<strong class="price">88,30 Kč</strong> / kg)
             </p>
                         <div class="product-list-rating">
             </div>
-<div id="snippet-productList-buy-31827-quantity">        <div class="product-quantity-control">
-            <form action="/deti" method="post" class="ajax" id="frm-productList-buy-31827-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-31827-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+<div id="snippet-productList-buy-2201-quantity">        <div class="product-quantity-control">
+            <form action="/deti" method="post" class="ajax" id="frm-productList-buy-2201-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-2201-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
                 <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-31827-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+            <input type="hidden" name="do" value="productList-buy-2201-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
 </form>
 
         </div>

@@ -11,7 +11,7 @@
         <link rel="apple-touch-icon" href="/css/images/logo.png">
         <link rel="stylesheet" type="text/css" href="/css/slim.min.css">
 
-<link rel="stylesheet" type="text/css" href="/webtemp/cssloader-6fe495a87813.css?1513005734">
+<link rel="stylesheet" type="text/css" href="/webtemp/cssloader-6fe495a87813.css?1513350274">
 <script type="text/javascript" src="/webtemp/jsloader-e4f5f7728c43.js?1511346204"></script>
 <script type="text/javascript">
     function currentPageDataPush() {
@@ -217,7 +217,10 @@ Hladká mouka</textarea>
                     <img src="/svg/recipes.svg" aria-hidden="true" alt="recepty">
                     <span class="item-name-desktop">Recepty</span>
                 </a></li>
-
+            <li><a href="https://blog.kosik.cz" data-href="true" target="_blank">
+                    <img src="/svg/blog.svg" aria-hidden="true" alt="blog">
+                    <span class="item-name-desktop">Blog</span>
+                </a></li>
             <li><a href="/delikatesy">
                     <img src="/svg/deli.svg" aria-hidden="true" alt="delikatesy">
                     <span class="item-name-desktop">Delikatesy</span>
@@ -229,6 +232,10 @@ Hladká mouka</textarea>
             <li><a class="christmas-link" href="/#christmas-inspiration">
                     <img src="/svg/vanoce.svg" aria-hidden="true" alt="Vánoce">
                     <span class="item-name-desktop">Vánoce</span>
+                </a></li>
+            <li><a href="/poctive-piti">
+                    <img src="/svg/honest-drinks.svg" aria-hidden="true" alt="poctivé pití">
+                    <span class="item-name-desktop">Poctivé pití</span>
                 </a></li>
         </ul>
     </div>
@@ -294,6 +301,13 @@ Hladká mouka</textarea>
                     </a>
                 </div>
 
+               <div class="ico-text-group">
+                    <a class="ico-text-group-link" href="https://blog.kosik.cz" data-href="true" target="_blank">
+                        <span class="item-name">Blog</span>
+                        <img src="/svg/blog.svg" aria-hidden="true" alt="blog">
+                    </a>
+                </div>
+
                 <div class="ico-text-group">
                     <a class="ico-text-group-link" href="/delikatesy" data-href="true">
                         <span class="item-name">Delikatesy</span>
@@ -312,6 +326,13 @@ Hladká mouka</textarea>
                     <a class="ico-text-group-link christmas-link" href="/#christmas-inspiration" data-href="true" >
                         <span class="item-name">Vánoce</span>
                         <img src="/svg/vanoce.svg" aria-hidden="true" alt="Vánoce">
+                    </a>
+                </div>
+
+                <div class="ico-text-group">
+                    <a class="ico-text-group-link" href="/poctive-piti" data-href="true" >
+                        <span class="item-name">Poctivé pití</span>
+                        <img src="/svg/honest-drinks.svg" aria-hidden="true" alt="Poctivé pití">
                     </a>
                 </div>
             </div>
@@ -876,6 +897,14 @@ Hladká mouka</textarea>
                                                 <a href="/maso-a-ryby/susene-maso/veprove">
                                                     Vepřové,
                                                 </a>
+
+                                                <a href="/maso-a-ryby/susene-maso/drubezi">
+                                                    Drůbeží,
+                                                </a>
+
+                                                <a href="/maso-a-ryby/susene-maso/ostatni">
+                                                    Ostatní,
+                                                </a>
                                         <a href="/maso-a-ryby/susene-maso">...</a>
                                     </div>
                                 </div>
@@ -1298,6 +1327,7 @@ Hladká mouka</textarea>
                                                 </a>
 
 
+
                                         <a href="/uzeniny-a-lahudky/lahudky">...</a>
                                     </div>
                                 </div>
@@ -1539,6 +1569,40 @@ Hladká mouka</textarea>
                             <div class="category-product-list">
 
                                                                 <div class="product-type">
+                                    <a href="/napoje/poctive-piti" class="product-type-image">
+                                        <img data-src="https://cdn.kosik.cz/content/category/svg/menu/1929.svg" alt="Poctivé pití">
+                                    </a>
+                                    <h3>
+                                        <a class="children" href="/napoje/poctive-piti">
+                                            Poctivé pití
+                                        </a>
+                                    </h3>
+
+                                                                        <div class="categories-container">
+
+                                                <a href="/napoje/poctive-piti/pivo-a-cider">
+                                                    Pivo a cider,
+                                                </a>
+
+                                                <a href="/napoje/poctive-piti/limonady">
+                                                    Limonády,
+                                                </a>
+
+                                                <a href="/napoje/poctive-piti/sirupy">
+                                                    Sirupy,
+                                                </a>
+
+                                                <a href="/napoje/poctive-piti/mosty">
+                                                    Mošty,
+                                                </a>
+
+                                                <a href="/napoje/poctive-piti/darkova-baleni">
+                                                    Dárková balení,
+                                                </a>
+                                        <a href="/napoje/poctive-piti">...</a>
+                                    </div>
+                                </div>
+                                <div class="product-type">
                                     <a href="/napoje/mineralni-a-pramenite" class="product-type-image">
                                         <img data-src="https://cdn.kosik.cz/content/category/svg/menu/1180.svg" alt="Minerální a pramenité">
                                     </a>
@@ -3336,6 +3400,10 @@ Hladká mouka</textarea>
                                                 <a href="/drogerie/pece-o-zdravi/masazni-emulze">
                                                     Masážní emulze,
                                                 </a>
+
+                                                <a href="/drogerie/pece-o-zdravi/pece-o-telo-a-vlasy">
+                                                    Péče o tělo a vlasy,
+                                                </a>
                                         <a href="/drogerie/pece-o-zdravi">...</a>
                                     </div>
                                 </div>
@@ -3613,7 +3681,7 @@ Hladká mouka</textarea>
         </div>
     </div>
     <div class="count" id="snippet-productFilter-countArea">
-        <p>1201 produktů nalezeno</p>
+        <p>1177 produktů nalezeno</p>
     </div>
 
         <h3 aria-label="Filtr Podle ceny">Podle ceny</h3>
@@ -3631,8 +3699,8 @@ Hladká mouka</textarea>
                 <div class="filter-categories" id="filter-brand">
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-2421" value="2421" aria-label="!Adventuros (4)">
-                            <label for="frm-productFilter-brandConstraintForm-value-2421">Adventuros (4)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-2421" value="2421" aria-label="!Adventuros (3)">
+                            <label for="frm-productFilter-brandConstraintForm-value-2421">Adventuros (3)</label>
                         </div>
 
 
@@ -3793,8 +3861,8 @@ Hladká mouka</textarea>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-14" value="14" aria-label="!Friskies (39)">
-                            <label for="frm-productFilter-brandConstraintForm-value-14">Friskies (39)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-14" value="14" aria-label="!Friskies (38)">
+                            <label for="frm-productFilter-brandConstraintForm-value-14">Friskies (38)</label>
                         </div>
 
 
@@ -3811,8 +3879,8 @@ Hladká mouka</textarea>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-3341" value="3341" aria-label="!GimCat (4)">
-                            <label for="frm-productFilter-brandConstraintForm-value-3341">GimCat (4)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-3341" value="3341" aria-label="!GimCat (3)">
+                            <label for="frm-productFilter-brandConstraintForm-value-3341">GimCat (3)</label>
                         </div>
 
 
@@ -3829,8 +3897,8 @@ Hladká mouka</textarea>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-2356" value="2356" aria-label="!Gimborn (27)">
-                            <label for="frm-productFilter-brandConstraintForm-value-2356">Gimborn (27)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-2356" value="2356" aria-label="!Gimborn (25)">
+                            <label for="frm-productFilter-brandConstraintForm-value-2356">Gimborn (25)</label>
                         </div>
 
 
@@ -3841,14 +3909,14 @@ Hladká mouka</textarea>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-2358" value="2358" aria-label="!Gimpet (24)">
-                            <label for="frm-productFilter-brandConstraintForm-value-2358">Gimpet (24)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-2358" value="2358" aria-label="!Gimpet (19)">
+                            <label for="frm-productFilter-brandConstraintForm-value-2358">Gimpet (19)</label>
                         </div>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-16" value="16" aria-label="!Gourmet (31)">
-                            <label for="frm-productFilter-brandConstraintForm-value-16">Gourmet (31)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-16" value="16" aria-label="!Gourmet (30)">
+                            <label for="frm-productFilter-brandConstraintForm-value-16">Gourmet (30)</label>
                         </div>
 
 
@@ -3865,8 +3933,8 @@ Hladká mouka</textarea>
 
 
                             <div class="form-row">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-2313" value="2313" aria-label="!Huhubamboo (48)">
-                            <label for="frm-productFilter-brandConstraintForm-value-2313">Huhubamboo (48)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-2313" value="2313" aria-label="!Huhubamboo (46)">
+                            <label for="frm-productFilter-brandConstraintForm-value-2313">Huhubamboo (46)</label>
                         </div>
 
 
@@ -3889,8 +3957,8 @@ Hladká mouka</textarea>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-3531" value="3531" aria-label="!Mastery (10)">
-                            <label for="frm-productFilter-brandConstraintForm-value-3531">Mastery (10)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-3531" value="3531" aria-label="!Mastery (1)">
+                            <label for="frm-productFilter-brandConstraintForm-value-3531">Mastery (1)</label>
                         </div>
 
 
@@ -3937,8 +4005,8 @@ Hladká mouka</textarea>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-2319" value="2319" aria-label="!Perfecto (4)">
-                            <label for="frm-productFilter-brandConstraintForm-value-2319">Perfecto (4)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-2319" value="2319" aria-label="!Perfecto (3)">
+                            <label for="frm-productFilter-brandConstraintForm-value-2319">Perfecto (3)</label>
                         </div>
 
 
@@ -3985,8 +4053,8 @@ Hladká mouka</textarea>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-3343" value="3343" aria-label="!Purina Pro Plan (40)">
-                            <label for="frm-productFilter-brandConstraintForm-value-3343">Purina Pro Plan (40)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-3343" value="3343" aria-label="!Purina Pro Plan (39)">
+                            <label for="frm-productFilter-brandConstraintForm-value-3343">Purina Pro Plan (39)</label>
                         </div>
 
 
@@ -4021,14 +4089,14 @@ Hladká mouka</textarea>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-2364" value="2364" aria-label="!Tommi (33)">
-                            <label for="frm-productFilter-brandConstraintForm-value-2364">Tommi (33)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-2364" value="2364" aria-label="!Tommi (34)">
+                            <label for="frm-productFilter-brandConstraintForm-value-2364">Tommi (34)</label>
                         </div>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-2363" value="2363" aria-label="!Trainer (13)">
-                            <label for="frm-productFilter-brandConstraintForm-value-2363">Trainer (13)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-2363" value="2363" aria-label="!Trainer (12)">
+                            <label for="frm-productFilter-brandConstraintForm-value-2363">Trainer (12)</label>
                         </div>
 
 
@@ -4081,7 +4149,7 @@ Hladká mouka</textarea>
             var buttonsShowMoreClass = 'show-more-brands';
             var buttonsShowLessClass = 'show-less-brands';
             var filters = $('.filter-more-result');
-            var defaultFilterInputs = {"brand":[2784,2783,2323,2309,15,2313,19,2311,13,3185]};
+            var defaultFilterInputs = {"brand":[2784,2783,2323,2309,15,19,2311,2313,13,3185]};
 
             function hideCheckboxes(rows, key) {
 
@@ -4182,68 +4250,27 @@ Hladká mouka</textarea>
 		</div>
 
 		<div class="region-products-popular">
-<a href="https://www.kosik.cz/hledat?q=TommiCosmetics"><img src="https://cdn.kosik.cz/content/category-banner/png/default/1268.png" alt="whiskas"></a><br><br>
+<a href="https://www.kosik.cz/hledat?q=huhubambooPodestylky"><img src="https://cdn.kosik.cz/content/category-banner/png/default/1356.png" alt="whiskas"></a><br><br>
 
 		<div class="region region-carousel region-products no-aside product-widget">
 			<div class="home-product-widget region-inner region-products-inner slick-carousel" data-open="3" data-close="4">
 				<div class="block block-title">
 					<h3>Doporučujeme</h3>
 				</div>
+<script async>
+
+    var onProductModalDestroy = function() {
+
+    	var pageData = window.dataLayer[0];
+
+        pageData["event"] = "ga.pageview";
+        pageData["pagePath"] = window.location.pathname;
+        pageData["pageTitle"] = window.document.title;
+
+	    dataLayer.push(pageData);
+    };
+</script>
 <div class="block block-product-items product-items" data-ajax-append="product-item" id="snippet-productWidget-widgetCarousel-1-productListArea">
-    <div id="product-append-50241" class="product-item">
-        <div class="product-item-flags">
-        </div>
-        <div class="product-item-image">
-                <a data-href="/mazlicci?productWidget-widgetCarousel-1-id=50241&amp;do=productWidget-widgetCarousel-1-modal"
-                   data-target="productWidget-widgetCarousel-1-productModal"
-                   data-product-id="50241"
-                   data-product-price="459"
-                   data-page-title="Mastery Dog Senior 3kg"
-                   data-page-path="/produkt/50241-mastery-dog-senior-3kg"
-                   data-user-id=""
-                   aria-hidden="true"
-                   data-kosikmodal-onclose="onProductModalDestroy"
-                   onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/67837.jpg" alt="Mastery Dog Senior 3kg" class="loading-images loading-image">
-                </a>
-
-
-
-
-        </div>
-                <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Mastery Dog Senior 3kg" data-href="/mazlicci?productWidget-widgetCarousel-1-id=50241&amp;do=productWidget-widgetCarousel-1-modal" class="product-name modal-link"
-                   data-target="productWidget-widgetCarousel-1-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Mastery Dog Senior 3kg
-                    <br><span class="new-product">Novinka</span>
-                </a></h5>
-            <p class="product-item-price ">
-                <span class="price-before-discount">
-				</span>
-                <strong class="price">459,00 Kč</strong>
-
-            </p>
-            <p class="product-item-unit">
-                    (<strong class="price">153,00 Kč</strong> / kg)
-            </p>
-                        <div class="product-list-rating">
-            </div>
-<div id="snippet-productWidget-widgetCarousel-1-buy-50241-quantity">        <div class="product-quantity-control">
-            <form action="/mazlicci" method="post" class="ajax" id="frm-productWidget-widgetCarousel-1-buy-50241-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productWidget-widgetCarousel-1-buy-50241-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
-                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productWidget-widgetCarousel-1-buy-50241-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
-</form>
-
-        </div>
-</div>
-                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
-
-
-        </div>
-
-        
-    </div>
     <div id="product-append-50190" class="product-item">
         <div class="product-item-flags">
             <div class="flag-sale ">
@@ -4255,13 +4282,13 @@ Hladká mouka</textarea>
                    data-target="productWidget-widgetCarousel-1-productModal"
                    data-product-id="50190"
                    data-product-price="489"
-                   data-page-title="Huhubamboo Adventní kalendář 260g"
-                   data-page-path="/produkt/50190-huhubamboo-adventni-kalendar-260g"
+                   data-page-title="Huhubamboo Vánoční  nadílka 260g"
+                   data-page-path="/produkt/50190-huhubamboo-vanocni-nadilka-260g"
                    data-user-id=""
                    aria-hidden="true"
                    data-kosikmodal-onclose="onProductModalDestroy"
                    onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/67784.jpg" alt="Huhubamboo Adventní kalendář 260g" class="loading-images loading-image">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/67784.jpg" alt="Huhubamboo Vánoční  nadílka 260g" class="loading-images loading-image">
                 </a>
 
 
@@ -4269,9 +4296,9 @@ Hladká mouka</textarea>
 
         </div>
                 <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Huhubamboo Adventní kalendář 260g" data-href="/mazlicci?productWidget-widgetCarousel-1-id=50190&amp;do=productWidget-widgetCarousel-1-modal" class="product-name modal-link"
+                <h5><a href="javascript:void(0)" aria-label="Huhubamboo Vánoční  nadílka 260g" data-href="/mazlicci?productWidget-widgetCarousel-1-id=50190&amp;do=productWidget-widgetCarousel-1-modal" class="product-name modal-link"
                    data-target="productWidget-widgetCarousel-1-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Huhubamboo Adventní kalendář 260g
+                    Huhubamboo Vánoční  nadílka 260g
                     <br><span class="new-product">Novinka</span>
                 </a></h5>
             <p class="product-item-price product-in-discount">
@@ -4467,7 +4494,7 @@ Hladká mouka</textarea>
     <div id="product-append-42981" class="product-item">
         <div class="product-item-flags">
             <div class="flag-sale ">
-                <span class="percents">43<small>&#37;</small></span>
+                <span class="percents">41<small>&#37;</small></span>
             </div>
         </div>
         <div class="product-item-image">
@@ -4498,11 +4525,11 @@ Hladká mouka</textarea>
                 <span class="price-before-discount">
 					<span><strong class="price">489,00 Kč</strong></span>
 				</span>
-                <strong class="price">279,00 Kč</strong>
+                <strong class="price">289,00 Kč</strong>
 
             </p>
             <p class="product-item-unit">
-                    (<strong class="price">11,60 Kč</strong> / ks)
+                    (<strong class="price">12,00 Kč</strong> / ks)
             </p>
                         <div class="product-list-rating">
             </div>
@@ -4684,114 +4711,6 @@ Hladká mouka</textarea>
 
         
     </div>
-    <div id="product-append-50237" class="product-item">
-        <div class="product-item-flags">
-        </div>
-        <div class="product-item-image">
-                <a data-href="/mazlicci?productWidget-widgetCarousel-1-id=50237&amp;do=productWidget-widgetCarousel-1-modal"
-                   data-target="productWidget-widgetCarousel-1-productModal"
-                   data-product-id="50237"
-                   data-product-price="458"
-                   data-page-title="Mastery Puppy 3kg"
-                   data-page-path="/produkt/50237-mastery-puppy-3kg"
-                   data-user-id=""
-                   aria-hidden="true"
-                   data-kosikmodal-onclose="onProductModalDestroy"
-                   onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/67833.jpg" alt="Mastery Puppy 3kg" class="loading-images loading-image">
-                </a>
-
-
-
-
-        </div>
-                <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Mastery Puppy 3kg" data-href="/mazlicci?productWidget-widgetCarousel-1-id=50237&amp;do=productWidget-widgetCarousel-1-modal" class="product-name modal-link"
-                   data-target="productWidget-widgetCarousel-1-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Mastery Puppy 3kg
-                    <br><span class="new-product">Novinka</span>
-                </a></h5>
-            <p class="product-item-price ">
-                <span class="price-before-discount">
-				</span>
-                <strong class="price">458,00 Kč</strong>
-
-            </p>
-            <p class="product-item-unit">
-                    (<strong class="price">152,70 Kč</strong> / kg)
-            </p>
-                        <div class="product-list-rating">
-            </div>
-<div id="snippet-productWidget-widgetCarousel-1-buy-50237-quantity">        <div class="product-quantity-control">
-            <form action="/mazlicci" method="post" class="ajax" id="frm-productWidget-widgetCarousel-1-buy-50237-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productWidget-widgetCarousel-1-buy-50237-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
-                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productWidget-widgetCarousel-1-buy-50237-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
-</form>
-
-        </div>
-</div>
-                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
-
-
-        </div>
-
-        
-    </div>
-    <div id="product-append-50245" class="product-item">
-        <div class="product-item-flags">
-        </div>
-        <div class="product-item-image">
-                <a data-href="/mazlicci?productWidget-widgetCarousel-1-id=50245&amp;do=productWidget-widgetCarousel-1-modal"
-                   data-target="productWidget-widgetCarousel-1-productModal"
-                   data-product-id="50245"
-                   data-product-price="589"
-                   data-page-title="Mastery Kitten 3kg"
-                   data-page-path="/produkt/50245-mastery-kitten-3kg"
-                   data-user-id=""
-                   aria-hidden="true"
-                   data-kosikmodal-onclose="onProductModalDestroy"
-                   onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/67841.jpg" alt="Mastery Kitten 3kg" class="loading-images loading-image">
-                </a>
-
-
-
-
-        </div>
-                <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Mastery Kitten 3kg" data-href="/mazlicci?productWidget-widgetCarousel-1-id=50245&amp;do=productWidget-widgetCarousel-1-modal" class="product-name modal-link"
-                   data-target="productWidget-widgetCarousel-1-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Mastery Kitten 3kg
-                    <br><span class="new-product">Novinka</span>
-                </a></h5>
-            <p class="product-item-price ">
-                <span class="price-before-discount">
-				</span>
-                <strong class="price">589,00 Kč</strong>
-
-            </p>
-            <p class="product-item-unit">
-                    (<strong class="price">196,30 Kč</strong> / kg)
-            </p>
-                        <div class="product-list-rating">
-            </div>
-<div id="snippet-productWidget-widgetCarousel-1-buy-50245-quantity">        <div class="product-quantity-control">
-            <form action="/mazlicci" method="post" class="ajax" id="frm-productWidget-widgetCarousel-1-buy-50245-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productWidget-widgetCarousel-1-buy-50245-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
-                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productWidget-widgetCarousel-1-buy-50245-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
-</form>
-
-        </div>
-</div>
-                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
-
-
-        </div>
-
-        
-    </div>
     <div id="product-append-42984" class="product-item">
         <div class="product-item-flags">
             <div class="flag-sale ">
@@ -4850,60 +4769,6 @@ Hladká mouka</textarea>
 
         
     </div>
-    <div id="product-append-50246" class="product-item">
-        <div class="product-item-flags">
-        </div>
-        <div class="product-item-image">
-                <a data-href="/mazlicci?productWidget-widgetCarousel-1-id=50246&amp;do=productWidget-widgetCarousel-1-modal"
-                   data-target="productWidget-widgetCarousel-1-productModal"
-                   data-product-id="50246"
-                   data-product-price="548"
-                   data-page-title="Mastery Cat Adult with Duck 3kg"
-                   data-page-path="/produkt/50246-mastery-cat-adult-with-duck-3kg"
-                   data-user-id=""
-                   aria-hidden="true"
-                   data-kosikmodal-onclose="onProductModalDestroy"
-                   onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/67842.jpg" alt="Mastery Cat Adult with Duck 3kg" class="loading-images loading-image">
-                </a>
-
-
-
-
-        </div>
-                <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Mastery Cat Adult with Duck 3kg" data-href="/mazlicci?productWidget-widgetCarousel-1-id=50246&amp;do=productWidget-widgetCarousel-1-modal" class="product-name modal-link"
-                   data-target="productWidget-widgetCarousel-1-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Mastery Cat Adult with Duck 3kg
-                    <br><span class="new-product">Novinka</span>
-                </a></h5>
-            <p class="product-item-price ">
-                <span class="price-before-discount">
-				</span>
-                <strong class="price">548,00 Kč</strong>
-
-            </p>
-            <p class="product-item-unit">
-                    (<strong class="price">182,70 Kč</strong> / kg)
-            </p>
-                        <div class="product-list-rating">
-            </div>
-<div id="snippet-productWidget-widgetCarousel-1-buy-50246-quantity">        <div class="product-quantity-control">
-            <form action="/mazlicci" method="post" class="ajax" id="frm-productWidget-widgetCarousel-1-buy-50246-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productWidget-widgetCarousel-1-buy-50246-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
-                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productWidget-widgetCarousel-1-buy-50246-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
-</form>
-
-        </div>
-</div>
-                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
-
-
-        </div>
-
-        
-    </div>
     <div id="product-append-84" class="product-item">
         <div class="product-item-flags">
         </div>
@@ -4947,114 +4812,6 @@ Hladká mouka</textarea>
                 <input type="text" name="quantity" size="3" id="frm-productWidget-widgetCarousel-1-buy-84-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
                 <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
             <input type="hidden" name="do" value="productWidget-widgetCarousel-1-buy-84-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
-</form>
-
-        </div>
-</div>
-                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
-
-
-        </div>
-
-        
-    </div>
-    <div id="product-append-50239" class="product-item">
-        <div class="product-item-flags">
-        </div>
-        <div class="product-item-image">
-                <a data-href="/mazlicci?productWidget-widgetCarousel-1-id=50239&amp;do=productWidget-widgetCarousel-1-modal"
-                   data-target="productWidget-widgetCarousel-1-productModal"
-                   data-product-id="50239"
-                   data-product-price="439"
-                   data-page-title="Mastery Dog Adult with Duck kompletní krmivo pro dospělé psy 3kg"
-                   data-page-path="/produkt/50239-mastery-dog-adult-with-duck-kompletni-krmivo-pro-dospele-psy-3kg"
-                   data-user-id=""
-                   aria-hidden="true"
-                   data-kosikmodal-onclose="onProductModalDestroy"
-                   onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/67835.jpg" alt="Mastery Dog Adult with Duck kompletní krmivo pro dospělé psy 3kg" class="loading-images loading-image">
-                </a>
-
-
-
-
-        </div>
-                <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Mastery Dog Adult with Duck kompletní krmivo pro dospělé psy 3kg" data-href="/mazlicci?productWidget-widgetCarousel-1-id=50239&amp;do=productWidget-widgetCarousel-1-modal" class="product-name modal-link"
-                   data-target="productWidget-widgetCarousel-1-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Mastery Dog Adult with Duck kompletní krmivo pro dospělé psy 3kg
-                    <br><span class="new-product">Novinka</span>
-                </a></h5>
-            <p class="product-item-price ">
-                <span class="price-before-discount">
-				</span>
-                <strong class="price">439,00 Kč</strong>
-
-            </p>
-            <p class="product-item-unit">
-                    (<strong class="price">146,30 Kč</strong> / kg)
-            </p>
-                        <div class="product-list-rating">
-            </div>
-<div id="snippet-productWidget-widgetCarousel-1-buy-50239-quantity">        <div class="product-quantity-control">
-            <form action="/mazlicci" method="post" class="ajax" id="frm-productWidget-widgetCarousel-1-buy-50239-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productWidget-widgetCarousel-1-buy-50239-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
-                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productWidget-widgetCarousel-1-buy-50239-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
-</form>
-
-        </div>
-</div>
-                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
-
-
-        </div>
-
-        
-    </div>
-    <div id="product-append-50248" class="product-item">
-        <div class="product-item-flags">
-        </div>
-        <div class="product-item-image">
-                <a data-href="/mazlicci?productWidget-widgetCarousel-1-id=50248&amp;do=productWidget-widgetCarousel-1-modal"
-                   data-target="productWidget-widgetCarousel-1-productModal"
-                   data-product-id="50248"
-                   data-product-price="588"
-                   data-page-title="Mastery Cat Adult Light Sterilised 3kg"
-                   data-page-path="/produkt/50248-mastery-cat-adult-light-sterilised-3kg"
-                   data-user-id=""
-                   aria-hidden="true"
-                   data-kosikmodal-onclose="onProductModalDestroy"
-                   onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/67844.jpg" alt="Mastery Cat Adult Light Sterilised 3kg" class="loading-images loading-image">
-                </a>
-
-
-
-
-        </div>
-                <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Mastery Cat Adult Light Sterilised 3kg" data-href="/mazlicci?productWidget-widgetCarousel-1-id=50248&amp;do=productWidget-widgetCarousel-1-modal" class="product-name modal-link"
-                   data-target="productWidget-widgetCarousel-1-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Mastery Cat Adult Light Sterilised 3kg
-                    <br><span class="new-product">Novinka</span>
-                </a></h5>
-            <p class="product-item-price ">
-                <span class="price-before-discount">
-				</span>
-                <strong class="price">588,00 Kč</strong>
-
-            </p>
-            <p class="product-item-unit">
-                    (<strong class="price">196,00 Kč</strong> / kg)
-            </p>
-                        <div class="product-list-rating">
-            </div>
-<div id="snippet-productWidget-widgetCarousel-1-buy-50248-quantity">        <div class="product-quantity-control">
-            <form action="/mazlicci" method="post" class="ajax" id="frm-productWidget-widgetCarousel-1-buy-50248-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productWidget-widgetCarousel-1-buy-50248-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
-                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productWidget-widgetCarousel-1-buy-50248-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
 </form>
 
         </div>
@@ -5122,9 +4879,6 @@ Hladká mouka</textarea>
     </div>
     <div id="product-append-20326" class="product-item">
         <div class="product-item-flags">
-            <div class="flag-sale ">
-                <span class="percents">8<small>&#37;</small></span>
-            </div>
         </div>
         <div class="product-item-image">
                 <a data-href="/mazlicci?productWidget-widgetCarousel-1-id=20326&amp;do=productWidget-widgetCarousel-1-modal"
@@ -5150,11 +4904,10 @@ Hladká mouka</textarea>
                     Gimbi podestýlka hoblinová 60l
                     
                 </a></h5>
-            <p class="product-item-price product-in-discount">
+            <p class="product-item-price ">
                 <span class="price-before-discount">
-					<span><strong class="price">74,90 Kč</strong></span>
 				</span>
-                <strong class="price">69,00 Kč</strong>
+                <strong class="price">74,90 Kč</strong>
 
             </p>
             <p class="product-item-unit">
@@ -5221,60 +4974,6 @@ Hladká mouka</textarea>
                 <input type="text" name="quantity" size="3" id="frm-productWidget-widgetCarousel-1-buy-46522-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
                 <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
             <input type="hidden" name="do" value="productWidget-widgetCarousel-1-buy-46522-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
-</form>
-
-        </div>
-</div>
-                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
-
-
-        </div>
-
-        
-    </div>
-    <div id="product-append-50240" class="product-item">
-        <div class="product-item-flags">
-        </div>
-        <div class="product-item-image">
-                <a data-href="/mazlicci?productWidget-widgetCarousel-1-id=50240&amp;do=productWidget-widgetCarousel-1-modal"
-                   data-target="productWidget-widgetCarousel-1-productModal"
-                   data-product-id="50240"
-                   data-product-price="437"
-                   data-page-title="Mastery Dog Adult Light Sterilised 3kg"
-                   data-page-path="/produkt/50240-mastery-dog-adult-light-sterilised-3kg"
-                   data-user-id=""
-                   aria-hidden="true"
-                   data-kosikmodal-onclose="onProductModalDestroy"
-                   onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/67836.jpg" alt="Mastery Dog Adult Light Sterilised 3kg" class="loading-images loading-image">
-                </a>
-
-
-
-
-        </div>
-                <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Mastery Dog Adult Light Sterilised 3kg" data-href="/mazlicci?productWidget-widgetCarousel-1-id=50240&amp;do=productWidget-widgetCarousel-1-modal" class="product-name modal-link"
-                   data-target="productWidget-widgetCarousel-1-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Mastery Dog Adult Light Sterilised 3kg
-                    <br><span class="new-product">Novinka</span>
-                </a></h5>
-            <p class="product-item-price ">
-                <span class="price-before-discount">
-				</span>
-                <strong class="price">437,00 Kč</strong>
-
-            </p>
-            <p class="product-item-unit">
-                    (<strong class="price">145,70 Kč</strong> / kg)
-            </p>
-                        <div class="product-list-rating">
-            </div>
-<div id="snippet-productWidget-widgetCarousel-1-buy-50240-quantity">        <div class="product-quantity-control">
-            <form action="/mazlicci" method="post" class="ajax" id="frm-productWidget-widgetCarousel-1-buy-50240-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productWidget-widgetCarousel-1-buy-50240-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
-                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productWidget-widgetCarousel-1-buy-50240-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
 </form>
 
         </div>
@@ -5394,60 +5093,6 @@ Hladká mouka</textarea>
 
         
     </div>
-    <div id="product-append-50247" class="product-item">
-        <div class="product-item-flags">
-        </div>
-        <div class="product-item-image">
-                <a data-href="/mazlicci?productWidget-widgetCarousel-1-id=50247&amp;do=productWidget-widgetCarousel-1-modal"
-                   data-target="productWidget-widgetCarousel-1-productModal"
-                   data-product-id="50247"
-                   data-product-price="554"
-                   data-page-title="Mastery Cat Adult with Fish 3kg"
-                   data-page-path="/produkt/50247-mastery-cat-adult-with-fish-3kg"
-                   data-user-id=""
-                   aria-hidden="true"
-                   data-kosikmodal-onclose="onProductModalDestroy"
-                   onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/67843.jpg" alt="Mastery Cat Adult with Fish 3kg" class="loading-images loading-image">
-                </a>
-
-
-
-
-        </div>
-                <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Mastery Cat Adult with Fish 3kg" data-href="/mazlicci?productWidget-widgetCarousel-1-id=50247&amp;do=productWidget-widgetCarousel-1-modal" class="product-name modal-link"
-                   data-target="productWidget-widgetCarousel-1-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Mastery Cat Adult with Fish 3kg
-                    <br><span class="new-product">Novinka</span>
-                </a></h5>
-            <p class="product-item-price ">
-                <span class="price-before-discount">
-				</span>
-                <strong class="price">554,00 Kč</strong>
-
-            </p>
-            <p class="product-item-unit">
-                    (<strong class="price">184,70 Kč</strong> / kg)
-            </p>
-                        <div class="product-list-rating">
-            </div>
-<div id="snippet-productWidget-widgetCarousel-1-buy-50247-quantity">        <div class="product-quantity-control">
-            <form action="/mazlicci" method="post" class="ajax" id="frm-productWidget-widgetCarousel-1-buy-50247-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productWidget-widgetCarousel-1-buy-50247-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
-                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productWidget-widgetCarousel-1-buy-50247-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
-</form>
-
-        </div>
-</div>
-                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
-
-
-        </div>
-
-        
-    </div>
     <div id="product-append-21448" class="product-item">
         <div class="product-item-flags">
         </div>
@@ -5556,60 +5201,6 @@ Hladká mouka</textarea>
 
         
     </div>
-    <div id="product-append-50249" class="product-item">
-        <div class="product-item-flags">
-        </div>
-        <div class="product-item-image">
-                <a data-href="/mazlicci?productWidget-widgetCarousel-1-id=50249&amp;do=productWidget-widgetCarousel-1-modal"
-                   data-target="productWidget-widgetCarousel-1-productModal"
-                   data-product-id="50249"
-                   data-product-price="570"
-                   data-page-title="Mastery Cat Senior 10+ 3kg"
-                   data-page-path="/produkt/50249-mastery-cat-senior-10-3kg"
-                   data-user-id=""
-                   aria-hidden="true"
-                   data-kosikmodal-onclose="onProductModalDestroy"
-                   onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/67845.jpg" alt="Mastery Cat Senior 10+ 3kg" class="loading-images loading-image">
-                </a>
-
-
-
-
-        </div>
-                <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Mastery Cat Senior 10+ 3kg" data-href="/mazlicci?productWidget-widgetCarousel-1-id=50249&amp;do=productWidget-widgetCarousel-1-modal" class="product-name modal-link"
-                   data-target="productWidget-widgetCarousel-1-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Mastery Cat Senior 10+ 3kg
-                    <br><span class="new-product">Novinka</span>
-                </a></h5>
-            <p class="product-item-price ">
-                <span class="price-before-discount">
-				</span>
-                <strong class="price">570,00 Kč</strong>
-
-            </p>
-            <p class="product-item-unit">
-                    (<strong class="price">190,00 Kč</strong> / kg)
-            </p>
-                        <div class="product-list-rating">
-            </div>
-<div id="snippet-productWidget-widgetCarousel-1-buy-50249-quantity">        <div class="product-quantity-control">
-            <form action="/mazlicci" method="post" class="ajax" id="frm-productWidget-widgetCarousel-1-buy-50249-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productWidget-widgetCarousel-1-buy-50249-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
-                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productWidget-widgetCarousel-1-buy-50249-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
-</form>
-
-        </div>
-</div>
-                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
-
-
-        </div>
-
-        
-    </div>
     <div id="product-append-43368" class="product-item">
         <div class="product-item-flags">
         </div>
@@ -5618,13 +5209,13 @@ Hladká mouka</textarea>
                    data-target="productWidget-widgetCarousel-1-productModal"
                    data-product-id="43368"
                    data-product-price="159"
-                   data-page-title="Nutrilove granule s čerstvým kuřecím 1,5kg + Dárek"
-                   data-page-path="/produkt/43368-nutrilove-granule-s-cerstvym-kurecim-1-5kg-darek"
+                   data-page-title="Nutrilove granule s čerstvým kuřecím 1,5kg"
+                   data-page-path="/produkt/43368-nutrilove-granule-s-cerstvym-kurecim-1-5kg"
                    data-user-id=""
                    aria-hidden="true"
                    data-kosikmodal-onclose="onProductModalDestroy"
                    onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/61085.jpg" alt="Nutrilove granule s čerstvým kuřecím 1,5kg + Dárek" class="loading-images loading-image">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/61085.jpg" alt="Nutrilove granule s čerstvým kuřecím 1,5kg" class="loading-images loading-image">
                 </a>
 
 
@@ -5632,9 +5223,9 @@ Hladká mouka</textarea>
 
         </div>
                 <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Nutrilove granule s čerstvým kuřecím 1,5kg + Dárek" data-href="/mazlicci?productWidget-widgetCarousel-1-id=43368&amp;do=productWidget-widgetCarousel-1-modal" class="product-name modal-link"
+                <h5><a href="javascript:void(0)" aria-label="Nutrilove granule s čerstvým kuřecím 1,5kg" data-href="/mazlicci?productWidget-widgetCarousel-1-id=43368&amp;do=productWidget-widgetCarousel-1-modal" class="product-name modal-link"
                    data-target="productWidget-widgetCarousel-1-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Nutrilove granule s čerstvým kuřecím 1,5kg + Dárek
+                    Nutrilove granule s čerstvým kuřecím 1,5kg
                     
                 </a></h5>
             <p class="product-item-price ">
@@ -5672,13 +5263,13 @@ Hladká mouka</textarea>
                    data-target="productWidget-widgetCarousel-1-productModal"
                    data-product-id="43370"
                    data-product-price="159"
-                   data-page-title="Nutrilove granule Sterile s čerstvým kuřecím 1,4kg + Dárek"
-                   data-page-path="/produkt/43370-nutrilove-granule-sterile-s-cerstvym-kurecim-1-4kg-darek"
+                   data-page-title="Nutrilove granule Sterile s čerstvým kuřecím 1,4kg"
+                   data-page-path="/produkt/43370-nutrilove-granule-sterile-s-cerstvym-kurecim-1-4kg"
                    data-user-id=""
                    aria-hidden="true"
                    data-kosikmodal-onclose="onProductModalDestroy"
                    onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/61087.jpg" alt="Nutrilove granule Sterile s čerstvým kuřecím 1,4kg + Dárek" class="loading-images loading-image">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/61087.jpg" alt="Nutrilove granule Sterile s čerstvým kuřecím 1,4kg" class="loading-images loading-image">
                 </a>
 
 
@@ -5686,9 +5277,9 @@ Hladká mouka</textarea>
 
         </div>
                 <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Nutrilove granule Sterile s čerstvým kuřecím 1,4kg + Dárek" data-href="/mazlicci?productWidget-widgetCarousel-1-id=43370&amp;do=productWidget-widgetCarousel-1-modal" class="product-name modal-link"
+                <h5><a href="javascript:void(0)" aria-label="Nutrilove granule Sterile s čerstvým kuřecím 1,4kg" data-href="/mazlicci?productWidget-widgetCarousel-1-id=43370&amp;do=productWidget-widgetCarousel-1-modal" class="product-name modal-link"
                    data-target="productWidget-widgetCarousel-1-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Nutrilove granule Sterile s čerstvým kuřecím 1,4kg + Dárek
+                    Nutrilove granule Sterile s čerstvým kuřecím 1,4kg
                     
                 </a></h5>
             <p class="product-item-price ">
@@ -5726,13 +5317,13 @@ Hladká mouka</textarea>
                    data-target="productWidget-widgetCarousel-1-productModal"
                    data-product-id="43354"
                    data-product-price="189"
-                   data-page-title="Nutrilove granule Junior L s čerstvým kuřecím 3kg + Dárek"
-                   data-page-path="/produkt/43354-nutrilove-granule-junior-l-s-cerstvym-kurecim-3kg-darek"
+                   data-page-title="Nutrilove granule Junior L s čerstvým kuřecím 3kg"
+                   data-page-path="/produkt/43354-nutrilove-granule-junior-l-s-cerstvym-kurecim-3kg"
                    data-user-id=""
                    aria-hidden="true"
                    data-kosikmodal-onclose="onProductModalDestroy"
                    onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/61071.jpg" alt="Nutrilove granule Junior L s čerstvým kuřecím 3kg + Dárek" class="loading-images loading-image">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/61071.jpg" alt="Nutrilove granule Junior L s čerstvým kuřecím 3kg" class="loading-images loading-image">
                 </a>
 
 
@@ -5740,9 +5331,9 @@ Hladká mouka</textarea>
 
         </div>
                 <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Nutrilove granule Junior L s čerstvým kuřecím 3kg + Dárek" data-href="/mazlicci?productWidget-widgetCarousel-1-id=43354&amp;do=productWidget-widgetCarousel-1-modal" class="product-name modal-link"
+                <h5><a href="javascript:void(0)" aria-label="Nutrilove granule Junior L s čerstvým kuřecím 3kg" data-href="/mazlicci?productWidget-widgetCarousel-1-id=43354&amp;do=productWidget-widgetCarousel-1-modal" class="product-name modal-link"
                    data-target="productWidget-widgetCarousel-1-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Nutrilove granule Junior L s čerstvým kuřecím 3kg + Dárek
+                    Nutrilove granule Junior L s čerstvým kuřecím 3kg
                     
                 </a></h5>
             <p class="product-item-price ">
@@ -5780,13 +5371,13 @@ Hladká mouka</textarea>
                    data-target="productWidget-widgetCarousel-1-productModal"
                    data-product-id="43360"
                    data-product-price="169"
-                   data-page-title="Nutrilove granule Adult L s čerstvým kuřecím 3kg + Dárek"
-                   data-page-path="/produkt/43360-nutrilove-granule-adult-l-s-cerstvym-kurecim-3kg-darek"
+                   data-page-title="Nutrilove granule Adult L s čerstvým kuřecím 3kg"
+                   data-page-path="/produkt/43360-nutrilove-granule-adult-l-s-cerstvym-kurecim-3kg"
                    data-user-id=""
                    aria-hidden="true"
                    data-kosikmodal-onclose="onProductModalDestroy"
                    onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/61077.jpg" alt="Nutrilove granule Adult L s čerstvým kuřecím 3kg + Dárek" class="loading-images loading-image">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/61077.jpg" alt="Nutrilove granule Adult L s čerstvým kuřecím 3kg" class="loading-images loading-image">
                 </a>
 
 
@@ -5794,9 +5385,9 @@ Hladká mouka</textarea>
 
         </div>
                 <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Nutrilove granule Adult L s čerstvým kuřecím 3kg + Dárek" data-href="/mazlicci?productWidget-widgetCarousel-1-id=43360&amp;do=productWidget-widgetCarousel-1-modal" class="product-name modal-link"
+                <h5><a href="javascript:void(0)" aria-label="Nutrilove granule Adult L s čerstvým kuřecím 3kg" data-href="/mazlicci?productWidget-widgetCarousel-1-id=43360&amp;do=productWidget-widgetCarousel-1-modal" class="product-name modal-link"
                    data-target="productWidget-widgetCarousel-1-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Nutrilove granule Adult L s čerstvým kuřecím 3kg + Dárek
+                    Nutrilove granule Adult L s čerstvým kuřecím 3kg
                     
                 </a></h5>
             <p class="product-item-price ">
@@ -5834,13 +5425,13 @@ Hladká mouka</textarea>
                    data-target="productWidget-widgetCarousel-1-productModal"
                    data-product-id="43362"
                    data-product-price="169"
-                   data-page-title="Nutrilove granule Mature 7+ s čerstvým kuřecím 3kg + Dárek"
-                   data-page-path="/produkt/43362-nutrilove-granule-mature-7-s-cerstvym-kurecim-3kg-darek"
+                   data-page-title="Nutrilove granule Mature 7+ s čerstvým kuřecím 3kg"
+                   data-page-path="/produkt/43362-nutrilove-granule-mature-7-s-cerstvym-kurecim-3kg"
                    data-user-id=""
                    aria-hidden="true"
                    data-kosikmodal-onclose="onProductModalDestroy"
                    onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/61079.jpg" alt="Nutrilove granule Mature 7+ s čerstvým kuřecím 3kg + Dárek" class="loading-images loading-image">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/61079.jpg" alt="Nutrilove granule Mature 7+ s čerstvým kuřecím 3kg" class="loading-images loading-image">
                 </a>
 
 
@@ -5848,9 +5439,9 @@ Hladká mouka</textarea>
 
         </div>
                 <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Nutrilove granule Mature 7+ s čerstvým kuřecím 3kg + Dárek" data-href="/mazlicci?productWidget-widgetCarousel-1-id=43362&amp;do=productWidget-widgetCarousel-1-modal" class="product-name modal-link"
+                <h5><a href="javascript:void(0)" aria-label="Nutrilove granule Mature 7+ s čerstvým kuřecím 3kg" data-href="/mazlicci?productWidget-widgetCarousel-1-id=43362&amp;do=productWidget-widgetCarousel-1-modal" class="product-name modal-link"
                    data-target="productWidget-widgetCarousel-1-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Nutrilove granule Mature 7+ s čerstvým kuřecím 3kg + Dárek
+                    Nutrilove granule Mature 7+ s čerstvým kuřecím 3kg
                     
                 </a></h5>
             <p class="product-item-price ">
@@ -5888,13 +5479,13 @@ Hladká mouka</textarea>
                    data-target="productWidget-widgetCarousel-1-productModal"
                    data-product-id="43364"
                    data-product-price="179"
-                   data-page-title="Nutrilove Granule Active s čerstvým kuřecím 3kg + Dárek"
-                   data-page-path="/produkt/43364-nutrilove-granule-active-s-cerstvym-kurecim-3kg-darek"
+                   data-page-title="Nutrilove Granule Active s čerstvým kuřecím 3kg"
+                   data-page-path="/produkt/43364-nutrilove-granule-active-s-cerstvym-kurecim-3kg"
                    data-user-id=""
                    aria-hidden="true"
                    data-kosikmodal-onclose="onProductModalDestroy"
                    onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/61081.jpg" alt="Nutrilove Granule Active s čerstvým kuřecím 3kg + Dárek" class="loading-images loading-image">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/61081.jpg" alt="Nutrilove Granule Active s čerstvým kuřecím 3kg" class="loading-images loading-image">
                 </a>
 
 
@@ -5902,9 +5493,9 @@ Hladká mouka</textarea>
 
         </div>
                 <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Nutrilove Granule Active s čerstvým kuřecím 3kg + Dárek" data-href="/mazlicci?productWidget-widgetCarousel-1-id=43364&amp;do=productWidget-widgetCarousel-1-modal" class="product-name modal-link"
+                <h5><a href="javascript:void(0)" aria-label="Nutrilove Granule Active s čerstvým kuřecím 3kg" data-href="/mazlicci?productWidget-widgetCarousel-1-id=43364&amp;do=productWidget-widgetCarousel-1-modal" class="product-name modal-link"
                    data-target="productWidget-widgetCarousel-1-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Nutrilove Granule Active s čerstvým kuřecím 3kg + Dárek
+                    Nutrilove Granule Active s čerstvým kuřecím 3kg
                     
                 </a></h5>
             <p class="product-item-price ">
@@ -5942,13 +5533,13 @@ Hladká mouka</textarea>
                    data-target="productWidget-widgetCarousel-1-productModal"
                    data-product-id="43366"
                    data-product-price="199"
-                   data-page-title="Nutrilove Granule Sensitive s jehněčím a rýží 3kg + Dárek"
-                   data-page-path="/produkt/43366-nutrilove-granule-sensitive-s-jehnecim-a-ryzi-3kg-darek"
+                   data-page-title="Nutrilove Granule Sensitive s jehněčím a rýží 3kg"
+                   data-page-path="/produkt/43366-nutrilove-granule-sensitive-s-jehnecim-a-ryzi-3kg"
                    data-user-id=""
                    aria-hidden="true"
                    data-kosikmodal-onclose="onProductModalDestroy"
                    onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/61083.jpg" alt="Nutrilove Granule Sensitive s jehněčím a rýží 3kg + Dárek" class="loading-images loading-image">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/61083.jpg" alt="Nutrilove Granule Sensitive s jehněčím a rýží 3kg" class="loading-images loading-image">
                 </a>
 
 
@@ -5956,9 +5547,9 @@ Hladká mouka</textarea>
 
         </div>
                 <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Nutrilove Granule Sensitive s jehněčím a rýží 3kg + Dárek" data-href="/mazlicci?productWidget-widgetCarousel-1-id=43366&amp;do=productWidget-widgetCarousel-1-modal" class="product-name modal-link"
+                <h5><a href="javascript:void(0)" aria-label="Nutrilove Granule Sensitive s jehněčím a rýží 3kg" data-href="/mazlicci?productWidget-widgetCarousel-1-id=43366&amp;do=productWidget-widgetCarousel-1-modal" class="product-name modal-link"
                    data-target="productWidget-widgetCarousel-1-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Nutrilove Granule Sensitive s jehněčím a rýží 3kg + Dárek
+                    Nutrilove Granule Sensitive s jehněčím a rýží 3kg
                     
                 </a></h5>
             <p class="product-item-price ">
@@ -6098,7 +5689,7 @@ Hladká mouka</textarea>
     <div id="product-append-14430" class="product-item">
         <div class="product-item-flags">
             <div class="flag-sale ">
-                <span class="percents">39<small>&#37;</small></span>
+                <span class="percents">54<small>&#37;</small></span>
             </div>
         </div>
         <div class="product-item-image">
@@ -6129,11 +5720,11 @@ Hladká mouka</textarea>
                 <span class="price-before-discount">
 					<span><strong class="price">12,90 Kč</strong></span>
 				</span>
-                <strong class="price">7,90 Kč</strong>
+                <strong class="price">5,90 Kč</strong>
 
             </p>
             <p class="product-item-unit">
-                    (<strong class="price">7,90 Kč</strong> / ks)
+                    (<strong class="price">5,90 Kč</strong> / ks)
             </p>
                         <div class="product-list-rating">
             </div>
@@ -6156,7 +5747,7 @@ Hladká mouka</textarea>
     <div id="product-append-14427" class="product-item">
         <div class="product-item-flags">
             <div class="flag-sale ">
-                <span class="percents">39<small>&#37;</small></span>
+                <span class="percents">54<small>&#37;</small></span>
             </div>
         </div>
         <div class="product-item-image">
@@ -6187,11 +5778,11 @@ Hladká mouka</textarea>
                 <span class="price-before-discount">
 					<span><strong class="price">12,90 Kč</strong></span>
 				</span>
-                <strong class="price">7,90 Kč</strong>
+                <strong class="price">5,90 Kč</strong>
 
             </p>
             <p class="product-item-unit">
-                    (<strong class="price">79,00 Kč</strong> / kg)
+                    (<strong class="price">59,00 Kč</strong> / kg)
             </p>
                         <div class="product-list-rating">
             </div>
@@ -6200,64 +5791,6 @@ Hladká mouka</textarea>
                 <input type="text" name="quantity" size="3" id="frm-productList-buy-14427-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
                 <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
             <input type="hidden" name="do" value="productList-buy-14427-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
-</form>
-
-        </div>
-</div>
-                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
-
-
-        </div>
-
-        
-    </div>
-    <div id="product-append-14851" class="product-item">
-        <div class="product-item-flags">
-            <div class="flag-sale ">
-                <span class="percents">39<small>&#37;</small></span>
-            </div>
-        </div>
-        <div class="product-item-image">
-                <a data-href="/mazlicci?productList-id=14851&amp;do=productList-modal"
-                   data-target="productList-productModal"
-                   data-product-id="14851"
-                   data-product-price="12.9"
-                   data-page-title="PreVital Premium kapsa kuřecí&amp;krůtí v omáčce 100g"
-                   data-page-path="/produkt/14851-prevital-premium-kapsa-kureci-kruti-v-omacce-100g"
-                   data-user-id=""
-                   aria-hidden="true"
-                   data-kosikmodal-onclose="onProductModalDestroy"
-                   onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/32120.jpg" alt="PreVital Premium kapsa kuřecí&amp;krůtí v omáčce 100g" class="loading-images loading-image">
-                </a>
-
-
-
-
-        </div>
-                <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="PreVital Premium kapsa kuřecí&amp;krůtí v omáčce 100g" data-href="/mazlicci?productList-id=14851&amp;do=productList-modal" class="product-name modal-link"
-                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    PreVital Premium kapsa kuřecí&amp;krůtí v omáčce 100g
-                    
-                </a></h5>
-            <p class="product-item-price product-in-discount">
-                <span class="price-before-discount">
-					<span><strong class="price">12,90 Kč</strong></span>
-				</span>
-                <strong class="price">7,90 Kč</strong>
-
-            </p>
-            <p class="product-item-unit">
-                    (<strong class="price">7,90 Kč</strong> / ks)
-            </p>
-                        <div class="product-list-rating">
-            </div>
-<div id="snippet-productList-buy-14851-quantity">        <div class="product-quantity-control">
-            <form action="/mazlicci" method="post" class="ajax" id="frm-productList-buy-14851-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-14851-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
-                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-14851-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
 </form>
 
         </div>
@@ -6327,8 +5860,123 @@ Hladká mouka</textarea>
 
         
     </div>
+    <div id="product-append-14851" class="product-item">
+        <div class="product-item-flags">
+            <div class="flag-sale ">
+                <span class="percents">39<small>&#37;</small></span>
+            </div>
+        </div>
+        <div class="product-item-image">
+                <a data-href="/mazlicci?productList-id=14851&amp;do=productList-modal"
+                   data-target="productList-productModal"
+                   data-product-id="14851"
+                   data-product-price="12.9"
+                   data-page-title="PreVital Premium kapsa kuřecí&amp;krůtí v omáčce 100g"
+                   data-page-path="/produkt/14851-prevital-premium-kapsa-kureci-kruti-v-omacce-100g"
+                   data-user-id=""
+                   aria-hidden="true"
+                   data-kosikmodal-onclose="onProductModalDestroy"
+                   onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/32120.jpg" alt="PreVital Premium kapsa kuřecí&amp;krůtí v omáčce 100g" class="loading-images loading-image">
+                </a>
+
+
+
+
+        </div>
+                <div class="product-item-info">
+                <h5><a href="javascript:void(0)" aria-label="PreVital Premium kapsa kuřecí&amp;krůtí v omáčce 100g" data-href="/mazlicci?productList-id=14851&amp;do=productList-modal" class="product-name modal-link"
+                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    PreVital Premium kapsa kuřecí&amp;krůtí v omáčce 100g
+                    
+                </a></h5>
+            <p class="product-item-price product-in-discount">
+                <span class="price-before-discount">
+					<span><strong class="price">12,90 Kč</strong></span>
+				</span>
+                <strong class="price">7,90 Kč</strong>
+
+            </p>
+            <p class="product-item-unit">
+                    (<strong class="price">7,90 Kč</strong> / ks)
+            </p>
+                        <div class="product-list-rating">
+            </div>
+<div id="snippet-productList-buy-14851-quantity">        <div class="product-quantity-control">
+            <form action="/mazlicci" method="post" class="ajax" id="frm-productList-buy-14851-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-14851-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
+            <input type="hidden" name="do" value="productList-buy-14851-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+</form>
+
+        </div>
+</div>
+                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
+
+
+        </div>
+
+        
+    </div>
+    <div id="product-append-21032" class="product-item">
+        <div class="product-item-flags">
+        </div>
+        <div class="product-item-image">
+                <a data-href="/mazlicci?productList-id=21032&amp;do=productList-modal"
+                   data-target="productList-productModal"
+                   data-product-id="21032"
+                   data-product-price="34.9"
+                   data-page-title="Dibaq Krmné piškoty pro psy 200g"
+                   data-page-path="/produkt/21032-dibaq-krmne-piskoty-pro-psy-200g"
+                   data-user-id=""
+                   aria-hidden="true"
+                   data-kosikmodal-onclose="onProductModalDestroy"
+                   onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/38284.jpg" alt="Dibaq Krmné piškoty pro psy 200g" class="loading-images loading-image">
+                </a>
+
+
+
+
+        </div>
+                <div class="product-item-info">
+                <h5><a href="javascript:void(0)" aria-label="Dibaq Krmné piškoty pro psy 200g" data-href="/mazlicci?productList-id=21032&amp;do=productList-modal" class="product-name modal-link"
+                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    Dibaq Krmné piškoty pro psy 200g
+                    
+                </a></h5>
+            <p class="product-item-price ">
+                <span class="price-before-discount">
+				</span>
+                <strong class="price">34,90 Kč</strong>
+
+            </p>
+            <p class="product-item-unit">
+                    (<strong class="price">174,50 Kč</strong> / kg)
+            </p>
+                        <div class="product-list-rating">
+            </div>
+<div id="snippet-productList-buy-21032-quantity">        <div class="product-quantity-control">
+            <form action="/mazlicci" method="post" class="ajax" id="frm-productList-buy-21032-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-21032-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
+            <input type="hidden" name="do" value="productList-buy-21032-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+</form>
+
+        </div>
+</div>
+                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
+
+
+        </div>
+
+        
+    </div>
     <div id="product-append-20361" class="product-item">
         <div class="product-item-flags">
+            <div class="flag-sale ">
+                <span class="percents">7<small>&#37;</small></span>
+            </div>
         </div>
         <div class="product-item-image">
                 <a data-href="/mazlicci?productList-id=20361&amp;do=productList-modal"
@@ -6354,14 +6002,15 @@ Hladká mouka</textarea>
                     Migliorgatto konzerva pro kočky kuře+krocan 405g
                     
                 </a></h5>
-            <p class="product-item-price ">
+            <p class="product-item-price product-in-discount">
                 <span class="price-before-discount">
+					<span><strong class="price">13,90 Kč</strong></span>
 				</span>
-                <strong class="price">13,90 Kč</strong>
+                <strong class="price">12,90 Kč</strong>
 
             </p>
             <p class="product-item-unit">
-                    (<strong class="price">13,90 Kč</strong> / ks)
+                    (<strong class="price">12,90 Kč</strong> / ks)
             </p>
                         <div class="product-list-rating">
             </div>
@@ -6381,24 +6030,24 @@ Hladká mouka</textarea>
 
         
     </div>
-    <div id="product-append-4234" class="product-item">
+    <div id="product-append-20349" class="product-item">
         <div class="product-item-flags">
             <div class="flag-sale ">
-                <span class="percents">18<small>&#37;</small></span>
+                <span class="percents">7<small>&#37;</small></span>
             </div>
         </div>
         <div class="product-item-image">
-                <a data-href="/mazlicci?productList-id=4234&amp;do=productList-modal"
+                <a data-href="/mazlicci?productList-id=20349&amp;do=productList-modal"
                    data-target="productList-productModal"
-                   data-product-id="4234"
-                   data-product-price="16.9"
-                   data-page-title="Reno Kompletní krmivo pro dospělé kočky s kousky hovězího v omáčce 415g"
-                   data-page-path="/produkt/4234-reno-kompletni-krmivo-pro-dospele-kocky-s-kousky-hoveziho-v-omacce-415g"
+                   data-product-id="20349"
+                   data-product-price="13.9"
+                   data-page-title="Migliorgatto konzerva pro kočky hovězí 405g"
+                   data-page-path="/produkt/20349-migliorgatto-konzerva-pro-kocky-hovezi-405g"
                    data-user-id=""
                    aria-hidden="true"
                    data-kosikmodal-onclose="onProductModalDestroy"
                    onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/4420.jpg" alt="Reno Kompletní krmivo pro dospělé kočky s kousky hovězího v omáčce 415g" class="loading-images loading-image">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/37601.jpg" alt="Migliorgatto konzerva pro kočky hovězí 405g" class="loading-images loading-image">
                 </a>
 
 
@@ -6406,140 +6055,28 @@ Hladká mouka</textarea>
 
         </div>
                 <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Reno Kompletní krmivo pro dospělé kočky s kousky hovězího v omáčce 415g" data-href="/mazlicci?productList-id=4234&amp;do=productList-modal" class="product-name modal-link"
+                <h5><a href="javascript:void(0)" aria-label="Migliorgatto konzerva pro kočky hovězí 405g" data-href="/mazlicci?productList-id=20349&amp;do=productList-modal" class="product-name modal-link"
                    data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Reno Kompletní krmivo pro dospělé kočky s kousky hovězího v omáčce 415g
+                    Migliorgatto konzerva pro kočky hovězí 405g
                     
                 </a></h5>
             <p class="product-item-price product-in-discount">
                 <span class="price-before-discount">
-					<span><strong class="price">16,90 Kč</strong></span>
+					<span><strong class="price">13,90 Kč</strong></span>
 				</span>
-                <strong class="price">13,90 Kč</strong>
+                <strong class="price">12,90 Kč</strong>
 
             </p>
             <p class="product-item-unit">
-                    (<strong class="price">33,50 Kč</strong> / kg)
+                    (<strong class="price">12,90 Kč</strong> / ks)
             </p>
                         <div class="product-list-rating">
             </div>
-<div id="snippet-productList-buy-4234-quantity">        <div class="product-quantity-control">
-            <form action="/mazlicci" method="post" class="ajax" id="frm-productList-buy-4234-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-4234-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+<div id="snippet-productList-buy-20349-quantity">        <div class="product-quantity-control">
+            <form action="/mazlicci" method="post" class="ajax" id="frm-productList-buy-20349-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-20349-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
                 <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-4234-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
-</form>
-
-        </div>
-</div>
-                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
-
-
-        </div>
-
-        
-    </div>
-    <div id="product-append-21032" class="product-item">
-        <div class="product-item-flags">
-        </div>
-        <div class="product-item-image">
-                <a data-href="/mazlicci?productList-id=21032&amp;do=productList-modal"
-                   data-target="productList-productModal"
-                   data-product-id="21032"
-                   data-product-price="27.9"
-                   data-page-title="Dibaq Krmné piškoty pro psy 200g"
-                   data-page-path="/produkt/21032-dibaq-krmne-piskoty-pro-psy-200g"
-                   data-user-id=""
-                   aria-hidden="true"
-                   data-kosikmodal-onclose="onProductModalDestroy"
-                   onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/38284.jpg" alt="Dibaq Krmné piškoty pro psy 200g" class="loading-images loading-image">
-                </a>
-
-
-
-
-        </div>
-                <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Dibaq Krmné piškoty pro psy 200g" data-href="/mazlicci?productList-id=21032&amp;do=productList-modal" class="product-name modal-link"
-                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Dibaq Krmné piškoty pro psy 200g
-                    
-                </a></h5>
-            <p class="product-item-price ">
-                <span class="price-before-discount">
-				</span>
-                <strong class="price">27,90 Kč</strong>
-
-            </p>
-            <p class="product-item-unit">
-                    (<strong class="price">139,50 Kč</strong> / kg)
-            </p>
-                        <div class="product-list-rating">
-            </div>
-<div id="snippet-productList-buy-21032-quantity">        <div class="product-quantity-control">
-            <form action="/mazlicci" method="post" class="ajax" id="frm-productList-buy-21032-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-21032-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
-                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-21032-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
-</form>
-
-        </div>
-</div>
-                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
-
-
-        </div>
-
-        
-    </div>
-    <div id="product-append-20178" class="product-item">
-        <div class="product-item-flags">
-            <div class="flag-sale ">
-                <span class="percents">41<small>&#37;</small></span>
-            </div>
-        </div>
-        <div class="product-item-image">
-                <a data-href="/mazlicci?productList-id=20178&amp;do=productList-modal"
-                   data-target="productList-productModal"
-                   data-product-id="20178"
-                   data-product-price="134.9"
-                   data-page-title="Whiskas Sterile plněné granule s lososem 1+ věk 1,4kg"
-                   data-page-path="/produkt/20178-whiskas-sterile-plnene-granule-s-lososem-1-vek-1-4kg"
-                   data-user-id=""
-                   aria-hidden="true"
-                   data-kosikmodal-onclose="onProductModalDestroy"
-                   onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/37430.jpg" alt="Whiskas Sterile plněné granule s lososem 1+ věk 1,4kg" class="loading-images loading-image">
-                </a>
-
-
-
-
-        </div>
-                <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Whiskas Sterile plněné granule s lososem 1+ věk 1,4kg" data-href="/mazlicci?productList-id=20178&amp;do=productList-modal" class="product-name modal-link"
-                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Whiskas Sterile plněné granule s lososem 1+ věk 1,4kg
-                    
-                </a></h5>
-            <p class="product-item-price product-in-discount">
-                <span class="price-before-discount">
-					<span><strong class="price">134,90 Kč</strong></span>
-				</span>
-                <strong class="price">79,90 Kč</strong>
-
-            </p>
-            <p class="product-item-unit">
-                    (<strong class="price">57,10 Kč</strong> / kg)
-            </p>
-                        <div class="product-list-rating">
-            </div>
-<div id="snippet-productList-buy-20178-quantity">        <div class="product-quantity-control">
-            <form action="/mazlicci" method="post" class="ajax" id="frm-productList-buy-20178-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-20178-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
-                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-20178-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+            <input type="hidden" name="do" value="productList-buy-20349-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
 </form>
 
         </div>
@@ -6605,62 +6142,11 @@ Hladká mouka</textarea>
 
         
     </div>
-    <div id="product-append-20349" class="product-item">
-        <div class="product-item-flags">
-        </div>
-        <div class="product-item-image">
-                <a data-href="/mazlicci?productList-id=20349&amp;do=productList-modal"
-                   data-target="productList-productModal"
-                   data-product-id="20349"
-                   data-product-price="13.9"
-                   data-page-title="Migliorgatto konzerva pro kočky hovězí 405g"
-                   data-page-path="/produkt/20349-migliorgatto-konzerva-pro-kocky-hovezi-405g"
-                   data-user-id=""
-                   aria-hidden="true"
-                   data-kosikmodal-onclose="onProductModalDestroy"
-                   onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/37601.jpg" alt="Migliorgatto konzerva pro kočky hovězí 405g" class="loading-images loading-image">
-                </a>
-
-
-
-
-        </div>
-                <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Migliorgatto konzerva pro kočky hovězí 405g" data-href="/mazlicci?productList-id=20349&amp;do=productList-modal" class="product-name modal-link"
-                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Migliorgatto konzerva pro kočky hovězí 405g
-                    
-                </a></h5>
-            <p class="product-item-price ">
-                <span class="price-before-discount">
-				</span>
-                <strong class="price">13,90 Kč</strong>
-
-            </p>
-            <p class="product-item-unit">
-                    (<strong class="price">13,90 Kč</strong> / ks)
-            </p>
-                        <div class="product-list-rating">
-            </div>
-<div id="snippet-productList-buy-20349-quantity">        <div class="product-quantity-control">
-            <form action="/mazlicci" method="post" class="ajax" id="frm-productList-buy-20349-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-20349-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
-                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-20349-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
-</form>
-
-        </div>
-</div>
-                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
-
-
-        </div>
-
-        
-    </div>
     <div id="product-append-20354" class="product-item">
         <div class="product-item-flags">
+            <div class="flag-sale ">
+                <span class="percents">7<small>&#37;</small></span>
+            </div>
         </div>
         <div class="product-item-image">
                 <a data-href="/mazlicci?productList-id=20354&amp;do=productList-modal"
@@ -6686,14 +6172,15 @@ Hladká mouka</textarea>
                     Migliorgatto konzerva pro kočky králík 405g
                     
                 </a></h5>
-            <p class="product-item-price ">
+            <p class="product-item-price product-in-discount">
                 <span class="price-before-discount">
+					<span><strong class="price">13,90 Kč</strong></span>
 				</span>
-                <strong class="price">13,90 Kč</strong>
+                <strong class="price">12,90 Kč</strong>
 
             </p>
             <p class="product-item-unit">
-                    (<strong class="price">13,90 Kč</strong> / ks)
+                    (<strong class="price">12,90 Kč</strong> / ks)
             </p>
                         <div class="product-list-rating">
             </div>
@@ -6713,11 +6200,66 @@ Hladká mouka</textarea>
 
         
     </div>
-    <div id="product-append-4224" class="product-item">
+    <div id="product-append-46447" class="product-item">
         <div class="product-item-flags">
             <div class="flag-sale ">
-                <span class="percents">17<small>&#37;</small></span>
+                <span class="percents">25<small>&#37;</small></span>
             </div>
+        </div>
+        <div class="product-item-image">
+                <a data-href="/mazlicci?productList-id=46447&amp;do=productList-modal"
+                   data-target="productList-productModal"
+                   data-product-id="46447"
+                   data-product-price="479"
+                   data-page-title="FELIX Fantastic lahodný výběr mix 44x100g"
+                   data-page-path="/produkt/46447-felix-fantastic-lahodny-vyber-mix-44x100g"
+                   data-user-id=""
+                   aria-hidden="true"
+                   data-kosikmodal-onclose="onProductModalDestroy"
+                   onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/63958.jpg" alt="FELIX Fantastic lahodný výběr mix 44x100g" class="loading-images loading-image">
+                </a>
+
+
+
+
+        </div>
+                <div class="product-item-info">
+                <h5><a href="javascript:void(0)" aria-label="FELIX Fantastic lahodný výběr mix 44x100g" data-href="/mazlicci?productList-id=46447&amp;do=productList-modal" class="product-name modal-link"
+                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    FELIX Fantastic lahodný výběr mix 44x100g
+                    
+                </a></h5>
+            <p class="product-item-price product-in-discount">
+                <span class="price-before-discount">
+					<span><strong class="price">479,00 Kč</strong></span>
+				</span>
+                <strong class="price">359,00 Kč</strong>
+
+            </p>
+            <p class="product-item-unit">
+                    (<strong class="price">8,20 Kč</strong> / ks)
+            </p>
+                        <div class="product-list-rating">
+            </div>
+<div id="snippet-productList-buy-46447-quantity">        <div class="product-quantity-control">
+            <form action="/mazlicci" method="post" class="ajax" id="frm-productList-buy-46447-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-46447-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
+            <input type="hidden" name="do" value="productList-buy-46447-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+</form>
+
+        </div>
+</div>
+                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
+
+
+        </div>
+
+        
+    </div>
+    <div id="product-append-4224" class="product-item">
+        <div class="product-item-flags">
         </div>
         <div class="product-item-image">
                 <a data-href="/mazlicci?productList-id=4224&amp;do=productList-modal"
@@ -6743,15 +6285,14 @@ Hladká mouka</textarea>
                     Reno Kompletní krmivo pro dospělé psy s kousky kuřete 1240g
                     
                 </a></h5>
-            <p class="product-item-price product-in-discount">
+            <p class="product-item-price ">
                 <span class="price-before-discount">
-					<span><strong class="price">34,90 Kč</strong></span>
 				</span>
-                <strong class="price">28,90 Kč</strong>
+                <strong class="price">34,90 Kč</strong>
 
             </p>
             <p class="product-item-unit">
-                    (<strong class="price">23,30 Kč</strong> / kg)
+                    (<strong class="price">28,10 Kč</strong> / kg)
             </p>
                         <div class="product-list-rating">
             </div>
@@ -6879,21 +6420,21 @@ Hladká mouka</textarea>
 
         
     </div>
-    <div id="product-append-4238" class="product-item">
+    <div id="product-append-50260" class="product-item">
         <div class="product-item-flags">
         </div>
         <div class="product-item-image">
-                <a data-href="/mazlicci?productList-id=4238&amp;do=productList-modal"
+                <a data-href="/mazlicci?productList-id=50260&amp;do=productList-modal"
                    data-target="productList-productModal"
-                   data-product-id="4238"
-                   data-product-price="11.9"
-                   data-page-title="G&amp;G Cat Feine Terrine mit Ente und Truthahn 100g"
-                   data-page-path="/produkt/4238-g-g-cat-feine-terrine-mit-ente-und-truthahn-100g"
+                   data-product-id="50260"
+                   data-product-price="62"
+                   data-page-title="Borcat Extra stelivo 10l"
+                   data-page-path="/produkt/50260-borcat-extra-stelivo-10l"
                    data-user-id=""
                    aria-hidden="true"
                    data-kosikmodal-onclose="onProductModalDestroy"
                    onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/4424.jpg" alt="G&amp;G Cat Feine Terrine mit Ente und Truthahn 100g" class="loading-images loading-image">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/67856.jpg" alt="Borcat Extra stelivo 10l" class="loading-images loading-image">
                 </a>
 
 
@@ -6901,27 +6442,86 @@ Hladká mouka</textarea>
 
         </div>
                 <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="G&amp;G Cat Feine Terrine mit Ente und Truthahn 100g" data-href="/mazlicci?productList-id=4238&amp;do=productList-modal" class="product-name modal-link"
+                <h5><a href="javascript:void(0)" aria-label="Borcat Extra stelivo 10l" data-href="/mazlicci?productList-id=50260&amp;do=productList-modal" class="product-name modal-link"
                    data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    G&amp;G Cat Feine Terrine mit Ente und Truthahn 100g
-                    
+                    Borcat Extra stelivo 10l
+                    <br><span class="new-product">Novinka</span>
                 </a></h5>
             <p class="product-item-price ">
                 <span class="price-before-discount">
 				</span>
-                <strong class="price">11,90 Kč</strong>
+                <strong class="price">62,00 Kč</strong>
 
             </p>
             <p class="product-item-unit">
-                    (<strong class="price">119,00 Kč</strong> / kg)
+                    (<strong class="price">6,20 Kč</strong> / l)
             </p>
                         <div class="product-list-rating">
             </div>
-<div id="snippet-productList-buy-4238-quantity">        <div class="product-quantity-control">
-            <form action="/mazlicci" method="post" class="ajax" id="frm-productList-buy-4238-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-4238-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+<div id="snippet-productList-buy-50260-quantity">        <div class="product-quantity-control">
+            <form action="/mazlicci" method="post" class="ajax" id="frm-productList-buy-50260-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-50260-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
                 <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-4238-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+            <input type="hidden" name="do" value="productList-buy-50260-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+</form>
+
+        </div>
+</div>
+                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
+
+
+        </div>
+
+        
+    </div>
+    <div id="product-append-20252" class="product-item">
+        <div class="product-item-flags">
+            <div class="flag-sale ">
+                <span class="percents">14<small>&#37;</small></span>
+            </div>
+        </div>
+        <div class="product-item-image">
+                <a data-href="/mazlicci?productList-id=20252&amp;do=productList-modal"
+                   data-target="productList-productModal"
+                   data-product-id="20252"
+                   data-product-price="34.9"
+                   data-page-title="Animonda GranCarno Adult konzerva pro psy hovězí+kuře 400g"
+                   data-page-path="/produkt/20252-animonda-grancarno-adult-konzerva-pro-psy-hovezi-kure-400g"
+                   data-user-id=""
+                   aria-hidden="true"
+                   data-kosikmodal-onclose="onProductModalDestroy"
+                   onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/37504.jpg" alt="Animonda GranCarno Adult konzerva pro psy hovězí+kuře 400g" class="loading-images loading-image">
+                </a>
+
+
+
+
+        </div>
+                <div class="product-item-info">
+                <h5><a href="javascript:void(0)" aria-label="Animonda GranCarno Adult konzerva pro psy hovězí+kuře 400g" data-href="/mazlicci?productList-id=20252&amp;do=productList-modal" class="product-name modal-link"
+                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    Animonda GranCarno Adult konzerva pro psy hovězí+kuře 400g
+                    
+                </a></h5>
+            <p class="product-item-price product-in-discount">
+                <span class="price-before-discount">
+					<span><strong class="price">34,90 Kč</strong></span>
+				</span>
+                <strong class="price">29,90 Kč</strong>
+
+            </p>
+            <p class="product-item-unit">
+                    (<strong class="price">74,80 Kč</strong> / kg)
+            </p>
+                        <div class="product-list-rating">
+                <span><ul class="rating"><li class="rating-children rating-1 up" data-rating="1"><i class="fa fa-star"></i></li><li class="rating-children rating-2 up" data-rating="2"><i class="fa fa-star"></i></li><li class="rating-children rating-3 up" data-rating="3"><i class="fa fa-star"></i></li><li class="rating-children rating-4 up" data-rating="4"><i class="fa fa-star"></i></li><li class="rating-children rating-5 up" data-rating="5"><i class="fa fa-star"></i></li></ul></span>
+            </div>
+<div id="snippet-productList-buy-20252-quantity">        <div class="product-quantity-control">
+            <form action="/mazlicci" method="post" class="ajax" id="frm-productList-buy-20252-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-20252-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
+            <input type="hidden" name="do" value="productList-buy-20252-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
 </form>
 
         </div>
@@ -6987,6 +6587,64 @@ Hladká mouka</textarea>
 
         
     </div>
+    <div id="product-append-20343" class="product-item">
+        <div class="product-item-flags">
+            <div class="flag-sale ">
+                <span class="percents">7<small>&#37;</small></span>
+            </div>
+        </div>
+        <div class="product-item-image">
+                <a data-href="/mazlicci?productList-id=20343&amp;do=productList-modal"
+                   data-target="productList-productModal"
+                   data-product-id="20343"
+                   data-product-price="13.9"
+                   data-page-title="Migliorcane konzerva pro psy kuře+krůta 405g"
+                   data-page-path="/produkt/20343-migliorcane-konzerva-pro-psy-kure-kruta-405g"
+                   data-user-id=""
+                   aria-hidden="true"
+                   data-kosikmodal-onclose="onProductModalDestroy"
+                   onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/37595.jpg" alt="Migliorcane konzerva pro psy kuře+krůta 405g" class="loading-images loading-image">
+                </a>
+
+
+
+
+        </div>
+                <div class="product-item-info">
+                <h5><a href="javascript:void(0)" aria-label="Migliorcane konzerva pro psy kuře+krůta 405g" data-href="/mazlicci?productList-id=20343&amp;do=productList-modal" class="product-name modal-link"
+                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    Migliorcane konzerva pro psy kuře+krůta 405g
+                    
+                </a></h5>
+            <p class="product-item-price product-in-discount">
+                <span class="price-before-discount">
+					<span><strong class="price">13,90 Kč</strong></span>
+				</span>
+                <strong class="price">12,90 Kč</strong>
+
+            </p>
+            <p class="product-item-unit">
+                    (<strong class="price">31,90 Kč</strong> / kg)
+            </p>
+                        <div class="product-list-rating">
+            </div>
+<div id="snippet-productList-buy-20343-quantity">        <div class="product-quantity-control">
+            <form action="/mazlicci" method="post" class="ajax" id="frm-productList-buy-20343-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-20343-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
+            <input type="hidden" name="do" value="productList-buy-20343-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+</form>
+
+        </div>
+</div>
+                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
+
+
+        </div>
+
+        
+    </div>
     <div id="product-append-20421" class="product-item">
         <div class="product-item-flags">
         </div>
@@ -7041,64 +6699,6 @@ Hladká mouka</textarea>
 
         
     </div>
-    <div id="product-append-4223" class="product-item">
-        <div class="product-item-flags">
-            <div class="flag-sale ">
-                <span class="percents">26<small>&#37;</small></span>
-            </div>
-        </div>
-        <div class="product-item-image">
-                <a data-href="/mazlicci?productList-id=4223&amp;do=productList-modal"
-                   data-target="productList-productModal"
-                   data-product-id="4223"
-                   data-product-price="34.9"
-                   data-page-title="Reno Kompletní krmivo pro dospělé psy s kousky hovězím v omáčce 1240g"
-                   data-page-path="/produkt/4223-reno-kompletni-krmivo-pro-dospele-psy-s-kousky-hovezim-v-omacce-1240g"
-                   data-user-id=""
-                   aria-hidden="true"
-                   data-kosikmodal-onclose="onProductModalDestroy"
-                   onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/4406.jpg" alt="Reno Kompletní krmivo pro dospělé psy s kousky hovězím v omáčce 1240g" class="loading-images loading-image">
-                </a>
-
-
-
-
-        </div>
-                <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Reno Kompletní krmivo pro dospělé psy s kousky hovězím v omáčce 1240g" data-href="/mazlicci?productList-id=4223&amp;do=productList-modal" class="product-name modal-link"
-                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Reno Kompletní krmivo pro dospělé psy s kousky hovězím v omáčce 1240g
-                    
-                </a></h5>
-            <p class="product-item-price product-in-discount">
-                <span class="price-before-discount">
-					<span><strong class="price">34,90 Kč</strong></span>
-				</span>
-                <strong class="price">25,90 Kč</strong>
-
-            </p>
-            <p class="product-item-unit">
-                    (<strong class="price">20,90 Kč</strong> / kg)
-            </p>
-                        <div class="product-list-rating">
-            </div>
-<div id="snippet-productList-buy-4223-quantity">        <div class="product-quantity-control">
-            <form action="/mazlicci" method="post" class="ajax" id="frm-productList-buy-4223-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-4223-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
-                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-4223-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
-</form>
-
-        </div>
-</div>
-                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
-
-
-        </div>
-
-        
-    </div>
     <div id="product-append-20440" class="product-item">
         <div class="product-item-flags">
         </div>
@@ -7142,60 +6742,6 @@ Hladká mouka</textarea>
                 <input type="text" name="quantity" size="3" id="frm-productList-buy-20440-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
                 <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
             <input type="hidden" name="do" value="productList-buy-20440-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
-</form>
-
-        </div>
-</div>
-                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
-
-
-        </div>
-
-        
-    </div>
-    <div id="product-append-20343" class="product-item">
-        <div class="product-item-flags">
-        </div>
-        <div class="product-item-image">
-                <a data-href="/mazlicci?productList-id=20343&amp;do=productList-modal"
-                   data-target="productList-productModal"
-                   data-product-id="20343"
-                   data-product-price="13.9"
-                   data-page-title="Migliorcane konzerva pro psy kuře+krůta 405g"
-                   data-page-path="/produkt/20343-migliorcane-konzerva-pro-psy-kure-kruta-405g"
-                   data-user-id=""
-                   aria-hidden="true"
-                   data-kosikmodal-onclose="onProductModalDestroy"
-                   onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/37595.jpg" alt="Migliorcane konzerva pro psy kuře+krůta 405g" class="loading-images loading-image">
-                </a>
-
-
-
-
-        </div>
-                <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Migliorcane konzerva pro psy kuře+krůta 405g" data-href="/mazlicci?productList-id=20343&amp;do=productList-modal" class="product-name modal-link"
-                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Migliorcane konzerva pro psy kuře+krůta 405g
-                    
-                </a></h5>
-            <p class="product-item-price ">
-                <span class="price-before-discount">
-				</span>
-                <strong class="price">13,90 Kč</strong>
-
-            </p>
-            <p class="product-item-unit">
-                    (<strong class="price">34,30 Kč</strong> / kg)
-            </p>
-                        <div class="product-list-rating">
-            </div>
-<div id="snippet-productList-buy-20343-quantity">        <div class="product-quantity-control">
-            <form action="/mazlicci" method="post" class="ajax" id="frm-productList-buy-20343-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-20343-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
-                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-20343-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
 </form>
 
         </div>
@@ -7319,21 +6865,21 @@ Hladká mouka</textarea>
 
         
     </div>
-    <div id="product-append-50260" class="product-item">
+    <div id="product-append-14434" class="product-item">
         <div class="product-item-flags">
         </div>
         <div class="product-item-image">
-                <a data-href="/mazlicci?productList-id=50260&amp;do=productList-modal"
+                <a data-href="/mazlicci?productList-id=14434&amp;do=productList-modal"
                    data-target="productList-productModal"
-                   data-product-id="50260"
-                   data-product-price="62"
-                   data-page-title="Borcat Extra stelivo 10l"
-                   data-page-path="/produkt/50260-borcat-extra-stelivo-10l"
+                   data-product-id="14434"
+                   data-product-price="12.9"
+                   data-page-title="VitalBite kapsička trhané kousky kuřecí v omáčce 85g"
+                   data-page-path="/produkt/14434-vitalbite-kapsicka-trhane-kousky-kureci-v-omacce-85g"
                    data-user-id=""
                    aria-hidden="true"
                    data-kosikmodal-onclose="onProductModalDestroy"
                    onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/67856.jpg" alt="Borcat Extra stelivo 10l" class="loading-images loading-image">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/31656.jpg" alt="VitalBite kapsička trhané kousky kuřecí v omáčce 85g" class="loading-images loading-image">
                 </a>
 
 
@@ -7341,27 +6887,27 @@ Hladká mouka</textarea>
 
         </div>
                 <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Borcat Extra stelivo 10l" data-href="/mazlicci?productList-id=50260&amp;do=productList-modal" class="product-name modal-link"
+                <h5><a href="javascript:void(0)" aria-label="VitalBite kapsička trhané kousky kuřecí v omáčce 85g" data-href="/mazlicci?productList-id=14434&amp;do=productList-modal" class="product-name modal-link"
                    data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Borcat Extra stelivo 10l
-                    <br><span class="new-product">Novinka</span>
+                    VitalBite kapsička trhané kousky kuřecí v omáčce 85g
+                    
                 </a></h5>
             <p class="product-item-price ">
                 <span class="price-before-discount">
 				</span>
-                <strong class="price">62,00 Kč</strong>
+                <strong class="price">12,90 Kč</strong>
 
             </p>
             <p class="product-item-unit">
-                    (<strong class="price">6,20 Kč</strong> / l)
+                    (<strong class="price">12,90 Kč</strong> / ks)
             </p>
                         <div class="product-list-rating">
             </div>
-<div id="snippet-productList-buy-50260-quantity">        <div class="product-quantity-control">
-            <form action="/mazlicci" method="post" class="ajax" id="frm-productList-buy-50260-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-50260-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+<div id="snippet-productList-buy-14434-quantity">        <div class="product-quantity-control">
+            <form action="/mazlicci" method="post" class="ajax" id="frm-productList-buy-14434-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-14434-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
                 <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-50260-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+            <input type="hidden" name="do" value="productList-buy-14434-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
 </form>
 
         </div>
@@ -7373,21 +6919,21 @@ Hladká mouka</textarea>
 
         
     </div>
-    <div id="product-append-21248" class="product-item">
+    <div id="product-append-12499" class="product-item">
         <div class="product-item-flags">
         </div>
         <div class="product-item-image">
-                <a data-href="/mazlicci?productList-id=21248&amp;do=productList-modal"
+                <a data-href="/mazlicci?productList-id=12499&amp;do=productList-modal"
                    data-target="productList-productModal"
-                   data-product-id="21248"
-                   data-product-price="44.9"
-                   data-page-title="Gimborn Seno krmné 30l"
-                   data-page-path="/produkt/21248-gimborn-seno-krmne-30l"
+                   data-product-id="12499"
+                   data-product-price="99"
+                   data-page-title="Mikeš stelivo pro kočky 10kg"
+                   data-page-path="/produkt/12499-mikes-stelivo-pro-kocky-10kg"
                    data-user-id=""
                    aria-hidden="true"
                    data-kosikmodal-onclose="onProductModalDestroy"
                    onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/38500.jpg" alt="Gimborn Seno krmné 30l" class="loading-images loading-image">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/29785.jpg" alt="Mikeš stelivo pro kočky 10kg" class="loading-images loading-image">
                 </a>
 
 
@@ -7395,28 +6941,85 @@ Hladká mouka</textarea>
 
         </div>
                 <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Gimborn Seno krmné 30l" data-href="/mazlicci?productList-id=21248&amp;do=productList-modal" class="product-name modal-link"
+                <h5><a href="javascript:void(0)" aria-label="Mikeš stelivo pro kočky 10kg" data-href="/mazlicci?productList-id=12499&amp;do=productList-modal" class="product-name modal-link"
                    data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Gimborn Seno krmné 30l
+                    Mikeš stelivo pro kočky 10kg
                     
                 </a></h5>
             <p class="product-item-price ">
                 <span class="price-before-discount">
 				</span>
-                <strong class="price">44,90 Kč</strong>
+                <strong class="price">99,00 Kč</strong>
 
             </p>
             <p class="product-item-unit">
-                    (<strong class="price">1,50 Kč</strong> / l)
+                    (<strong class="price">9,90 Kč</strong> / kg)
             </p>
                         <div class="product-list-rating">
-                <span><ul class="rating"><li class="rating-children rating-1 up" data-rating="1"><i class="fa fa-star"></i></li><li class="rating-children rating-2 up" data-rating="2"><i class="fa fa-star"></i></li><li class="rating-children rating-3 up" data-rating="3"><i class="fa fa-star"></i></li><li class="rating-children rating-4 up" data-rating="4"><i class="fa fa-star"></i></li><li class="rating-children rating-5 down" data-rating="5"><i class="fa fa-star"></i></li></ul></span>
             </div>
-<div id="snippet-productList-buy-21248-quantity">        <div class="product-quantity-control">
-            <form action="/mazlicci" method="post" class="ajax" id="frm-productList-buy-21248-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-21248-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+<div id="snippet-productList-buy-12499-quantity">        <div class="product-quantity-control">
+            <form action="/mazlicci" method="post" class="ajax" id="frm-productList-buy-12499-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-12499-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
                 <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-21248-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+            <input type="hidden" name="do" value="productList-buy-12499-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+</form>
+
+        </div>
+</div>
+                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
+
+
+        </div>
+
+        
+    </div>
+    <div id="product-append-20151" class="product-item">
+        <div class="product-item-flags">
+            <div class="flag-sale ">
+                <span class="percents">22<small>&#37;</small></span>
+            </div>
+        </div>
+        <div class="product-item-image">
+                <a data-href="/mazlicci?productList-id=20151&amp;do=productList-modal"
+                   data-target="productList-productModal"
+                   data-product-id="20151"
+                   data-product-price="17.9"
+                   data-page-title="Sheba Selection in Sauce Kompletní krmivo pro dospělé kočky s lososem 85g"
+                   data-page-path="/produkt/20151-sheba-selection-in-sauce-kompletni-krmivo-pro-dospele-kocky-s-lososem-85g"
+                   data-user-id=""
+                   aria-hidden="true"
+                   data-kosikmodal-onclose="onProductModalDestroy"
+                   onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/37403.jpg" alt="Sheba Selection in Sauce Kompletní krmivo pro dospělé kočky s lososem 85g" class="loading-images loading-image">
+                </a>
+
+
+
+
+        </div>
+                <div class="product-item-info">
+                <h5><a href="javascript:void(0)" aria-label="Sheba Selection in Sauce Kompletní krmivo pro dospělé kočky s lososem 85g" data-href="/mazlicci?productList-id=20151&amp;do=productList-modal" class="product-name modal-link"
+                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    Sheba Selection in Sauce Kompletní krmivo pro dospělé kočky s lososem 85g
+                    
+                </a></h5>
+            <p class="product-item-price product-in-discount">
+                <span class="price-before-discount">
+					<span><strong class="price">17,90 Kč</strong></span>
+				</span>
+                <strong class="price">13,90 Kč</strong>
+
+            </p>
+            <p class="product-item-unit">
+                    (<strong class="price">13,90 Kč</strong> / ks)
+            </p>
+                        <div class="product-list-rating">
+            </div>
+<div id="snippet-productList-buy-20151-quantity">        <div class="product-quantity-control">
+            <form action="/mazlicci" method="post" class="ajax" id="frm-productList-buy-20151-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-20151-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
+            <input type="hidden" name="do" value="productList-buy-20151-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
 </form>
 
         </div>

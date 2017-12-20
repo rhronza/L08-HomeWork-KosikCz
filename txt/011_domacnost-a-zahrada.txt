@@ -11,7 +11,7 @@
         <link rel="apple-touch-icon" href="/css/images/logo.png">
         <link rel="stylesheet" type="text/css" href="/css/slim.min.css">
 
-<link rel="stylesheet" type="text/css" href="/webtemp/cssloader-6fe495a87813.css?1513005734">
+<link rel="stylesheet" type="text/css" href="/webtemp/cssloader-6fe495a87813.css?1513350274">
 <script type="text/javascript" src="/webtemp/jsloader-e4f5f7728c43.js?1511346204"></script>
 <script type="text/javascript">
     function currentPageDataPush() {
@@ -217,7 +217,10 @@ Hladká mouka</textarea>
                     <img src="/svg/recipes.svg" aria-hidden="true" alt="recepty">
                     <span class="item-name-desktop">Recepty</span>
                 </a></li>
-
+            <li><a href="https://blog.kosik.cz" data-href="true" target="_blank">
+                    <img src="/svg/blog.svg" aria-hidden="true" alt="blog">
+                    <span class="item-name-desktop">Blog</span>
+                </a></li>
             <li><a href="/delikatesy">
                     <img src="/svg/deli.svg" aria-hidden="true" alt="delikatesy">
                     <span class="item-name-desktop">Delikatesy</span>
@@ -229,6 +232,10 @@ Hladká mouka</textarea>
             <li><a class="christmas-link" href="/#christmas-inspiration">
                     <img src="/svg/vanoce.svg" aria-hidden="true" alt="Vánoce">
                     <span class="item-name-desktop">Vánoce</span>
+                </a></li>
+            <li><a href="/poctive-piti">
+                    <img src="/svg/honest-drinks.svg" aria-hidden="true" alt="poctivé pití">
+                    <span class="item-name-desktop">Poctivé pití</span>
                 </a></li>
         </ul>
     </div>
@@ -294,6 +301,13 @@ Hladká mouka</textarea>
                     </a>
                 </div>
 
+               <div class="ico-text-group">
+                    <a class="ico-text-group-link" href="https://blog.kosik.cz" data-href="true" target="_blank">
+                        <span class="item-name">Blog</span>
+                        <img src="/svg/blog.svg" aria-hidden="true" alt="blog">
+                    </a>
+                </div>
+
                 <div class="ico-text-group">
                     <a class="ico-text-group-link" href="/delikatesy" data-href="true">
                         <span class="item-name">Delikatesy</span>
@@ -312,6 +326,13 @@ Hladká mouka</textarea>
                     <a class="ico-text-group-link christmas-link" href="/#christmas-inspiration" data-href="true" >
                         <span class="item-name">Vánoce</span>
                         <img src="/svg/vanoce.svg" aria-hidden="true" alt="Vánoce">
+                    </a>
+                </div>
+
+                <div class="ico-text-group">
+                    <a class="ico-text-group-link" href="/poctive-piti" data-href="true" >
+                        <span class="item-name">Poctivé pití</span>
+                        <img src="/svg/honest-drinks.svg" aria-hidden="true" alt="Poctivé pití">
                     </a>
                 </div>
             </div>
@@ -876,6 +897,14 @@ Hladká mouka</textarea>
                                                 <a href="/maso-a-ryby/susene-maso/veprove">
                                                     Vepřové,
                                                 </a>
+
+                                                <a href="/maso-a-ryby/susene-maso/drubezi">
+                                                    Drůbeží,
+                                                </a>
+
+                                                <a href="/maso-a-ryby/susene-maso/ostatni">
+                                                    Ostatní,
+                                                </a>
                                         <a href="/maso-a-ryby/susene-maso">...</a>
                                     </div>
                                 </div>
@@ -1298,6 +1327,7 @@ Hladká mouka</textarea>
                                                 </a>
 
 
+
                                         <a href="/uzeniny-a-lahudky/lahudky">...</a>
                                     </div>
                                 </div>
@@ -1539,6 +1569,40 @@ Hladká mouka</textarea>
                             <div class="category-product-list">
 
                                                                 <div class="product-type">
+                                    <a href="/napoje/poctive-piti" class="product-type-image">
+                                        <img data-src="https://cdn.kosik.cz/content/category/svg/menu/1929.svg" alt="Poctivé pití">
+                                    </a>
+                                    <h3>
+                                        <a class="children" href="/napoje/poctive-piti">
+                                            Poctivé pití
+                                        </a>
+                                    </h3>
+
+                                                                        <div class="categories-container">
+
+                                                <a href="/napoje/poctive-piti/pivo-a-cider">
+                                                    Pivo a cider,
+                                                </a>
+
+                                                <a href="/napoje/poctive-piti/limonady">
+                                                    Limonády,
+                                                </a>
+
+                                                <a href="/napoje/poctive-piti/sirupy">
+                                                    Sirupy,
+                                                </a>
+
+                                                <a href="/napoje/poctive-piti/mosty">
+                                                    Mošty,
+                                                </a>
+
+                                                <a href="/napoje/poctive-piti/darkova-baleni">
+                                                    Dárková balení,
+                                                </a>
+                                        <a href="/napoje/poctive-piti">...</a>
+                                    </div>
+                                </div>
+                                <div class="product-type">
                                     <a href="/napoje/mineralni-a-pramenite" class="product-type-image">
                                         <img data-src="https://cdn.kosik.cz/content/category/svg/menu/1180.svg" alt="Minerální a pramenité">
                                     </a>
@@ -3336,6 +3400,10 @@ Hladká mouka</textarea>
                                                 <a href="/drogerie/pece-o-zdravi/masazni-emulze">
                                                     Masážní emulze,
                                                 </a>
+
+                                                <a href="/drogerie/pece-o-zdravi/pece-o-telo-a-vlasy">
+                                                    Péče o tělo a vlasy,
+                                                </a>
                                         <a href="/drogerie/pece-o-zdravi">...</a>
                                     </div>
                                 </div>
@@ -3707,7 +3775,7 @@ Hladká mouka</textarea>
         </div>
     </div>
     <div class="count" id="snippet-productFilter-countArea">
-        <p>2001 produktů nalezeno</p>
+        <p>1953 produktů nalezeno</p>
     </div>
 
         <h3 aria-label="Filtr Podle ceny">Podle ceny</h3>
@@ -3731,24 +3799,24 @@ Hladká mouka</textarea>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-1345" value="1345" aria-label="!ARO (28)">
-                            <label for="frm-productFilter-brandConstraintForm-value-1345">ARO (28)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-1345" value="1345" aria-label="!ARO (27)">
+                            <label for="frm-productFilter-brandConstraintForm-value-1345">ARO (27)</label>
                         </div>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-1390" value="1390" aria-label="!Agro (11)">
-                            <label for="frm-productFilter-brandConstraintForm-value-1390">Agro (11)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-1390" value="1390" aria-label="!Agro (9)">
+                            <label for="frm-productFilter-brandConstraintForm-value-1390">Agro (9)</label>
                         </div>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-1475" value="1475" aria-label="!Air Wick (41)">
-                            <label for="frm-productFilter-brandConstraintForm-value-1475">Air Wick (41)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-1475" value="1475" aria-label="!Air Wick (40)">
+                            <label for="frm-productFilter-brandConstraintForm-value-1475">Air Wick (40)</label>
                         </div>
 
 
-                                                         <div class="form-row" style="display: none;">
+                            <div class="form-row">
                             <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-669" value="669" aria-label="!Alufix (44)">
                             <label for="frm-productFilter-brandConstraintForm-value-669">Alufix (44)</label>
                         </div>
@@ -3773,8 +3841,8 @@ Hladká mouka</textarea>
 
 
                             <div class="form-row">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-670" value="670" aria-label="!Banquet (86)">
-                            <label for="frm-productFilter-brandConstraintForm-value-670">Banquet (86)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-670" value="670" aria-label="!Banquet (84)">
+                            <label for="frm-productFilter-brandConstraintForm-value-670">Banquet (84)</label>
                         </div>
 
 
@@ -3785,8 +3853,8 @@ Hladká mouka</textarea>
 
 
                             <div class="form-row">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-87" value="87" aria-label="!Bez značky (350)">
-                            <label for="frm-productFilter-brandConstraintForm-value-87">Bez značky (350)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-87" value="87" aria-label="!Bez značky (335)">
+                            <label for="frm-productFilter-brandConstraintForm-value-87">Bez značky (335)</label>
                         </div>
 
 
@@ -3827,8 +3895,8 @@ Hladká mouka</textarea>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-2508" value="2508" aria-label="!Centropen (10)">
-                            <label for="frm-productFilter-brandConstraintForm-value-2508">Centropen (10)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-2508" value="2508" aria-label="!Centropen (9)">
+                            <label for="frm-productFilter-brandConstraintForm-value-2508">Centropen (9)</label>
                         </div>
 
 
@@ -3839,8 +3907,8 @@ Hladká mouka</textarea>
 
 
                             <div class="form-row">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-2813" value="2813" aria-label="!Cleanex Trade (57)">
-                            <label for="frm-productFilter-brandConstraintForm-value-2813">Cleanex Trade (57)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-2813" value="2813" aria-label="!Cleanex Trade (58)">
+                            <label for="frm-productFilter-brandConstraintForm-value-2813">Cleanex Trade (58)</label>
                         </div>
 
 
@@ -3863,8 +3931,8 @@ Hladká mouka</textarea>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-84" value="84" aria-label="!Durex (6)">
-                            <label for="frm-productFilter-brandConstraintForm-value-84">Durex (6)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-84" value="84" aria-label="!Durex (7)">
+                            <label for="frm-productFilter-brandConstraintForm-value-84">Durex (7)</label>
                         </div>
 
 
@@ -3881,8 +3949,8 @@ Hladká mouka</textarea>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-2408" value="2408" aria-label="!Emos s.r.o. (12)">
-                            <label for="frm-productFilter-brandConstraintForm-value-2408">Emos s.r.o. (12)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-2408" value="2408" aria-label="!Emos s.r.o. (11)">
+                            <label for="frm-productFilter-brandConstraintForm-value-2408">Emos s.r.o. (11)</label>
                         </div>
 
 
@@ -3923,8 +3991,8 @@ Hladká mouka</textarea>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-661" value="661" aria-label="!G&amp;G (13)">
-                            <label for="frm-productFilter-brandConstraintForm-value-661">G&amp;G (13)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-661" value="661" aria-label="!G&amp;G (12)">
+                            <label for="frm-productFilter-brandConstraintForm-value-661">G&amp;G (12)</label>
                         </div>
 
 
@@ -3941,8 +4009,8 @@ Hladká mouka</textarea>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-3505" value="3505" aria-label="!Habaček (14)">
-                            <label for="frm-productFilter-brandConstraintForm-value-3505">Habaček (14)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-3505" value="3505" aria-label="!Habaček (11)">
+                            <label for="frm-productFilter-brandConstraintForm-value-3505">Habaček (11)</label>
                         </div>
 
 
@@ -4025,8 +4093,8 @@ Hladká mouka</textarea>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-2782" value="2782" aria-label="!Kneipp (8)">
-                            <label for="frm-productFilter-brandConstraintForm-value-2782">Kneipp (8)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-2782" value="2782" aria-label="!Kneipp (7)">
+                            <label for="frm-productFilter-brandConstraintForm-value-2782">Kneipp (7)</label>
                         </div>
 
 
@@ -4037,8 +4105,8 @@ Hladká mouka</textarea>
 
 
                             <div class="form-row">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-2581" value="2581" aria-label="!Kores (94)">
-                            <label for="frm-productFilter-brandConstraintForm-value-2581">Kores (94)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-2581" value="2581" aria-label="!Kores (92)">
+                            <label for="frm-productFilter-brandConstraintForm-value-2581">Kores (92)</label>
                         </div>
 
 
@@ -4055,8 +4123,8 @@ Hladká mouka</textarea>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-3109" value="3109" aria-label="!Lamart (36)">
-                            <label for="frm-productFilter-brandConstraintForm-value-3109">Lamart (36)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-3109" value="3109" aria-label="!Lamart (35)">
+                            <label for="frm-productFilter-brandConstraintForm-value-3109">Lamart (35)</label>
                         </div>
 
 
@@ -4097,20 +4165,20 @@ Hladká mouka</textarea>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-3401" value="3401" aria-label="!LotusGrill (22)">
-                            <label for="frm-productFilter-brandConstraintForm-value-3401">LotusGrill (22)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-3401" value="3401" aria-label="!LotusGrill (21)">
+                            <label for="frm-productFilter-brandConstraintForm-value-3401">LotusGrill (21)</label>
                         </div>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-3475" value="3475" aria-label="!MaV (9)">
-                            <label for="frm-productFilter-brandConstraintForm-value-3475">MaV (9)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-3475" value="3475" aria-label="!MaV (6)">
+                            <label for="frm-productFilter-brandConstraintForm-value-3475">MaV (6)</label>
                         </div>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-2516" value="2516" aria-label="!Maped (7)">
-                            <label for="frm-productFilter-brandConstraintForm-value-2516">Maped (7)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-2516" value="2516" aria-label="!Maped (6)">
+                            <label for="frm-productFilter-brandConstraintForm-value-2516">Maped (6)</label>
                         </div>
 
 
@@ -4145,8 +4213,8 @@ Hladká mouka</textarea>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-741" value="741" aria-label="!Metsa Tissue (1)">
-                            <label for="frm-productFilter-brandConstraintForm-value-741">Metsa Tissue (1)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-1877" value="1877" aria-label="!NUK (1)">
+                            <label for="frm-productFilter-brandConstraintForm-value-1877">NUK (1)</label>
                         </div>
 
 
@@ -4169,20 +4237,14 @@ Hladká mouka</textarea>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-3316" value="3316" aria-label="!Nohel garden (4)">
-                            <label for="frm-productFilter-brandConstraintForm-value-3316">Nohel garden (4)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-3316" value="3316" aria-label="!Nohel garden (3)">
+                            <label for="frm-productFilter-brandConstraintForm-value-3316">Nohel garden (3)</label>
                         </div>
 
 
                                                          <div class="form-row" style="display: none;">
                             <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-1540" value="1540" aria-label="!Nutrend (22)">
                             <label for="frm-productFilter-brandConstraintForm-value-1540">Nutrend (22)</label>
-                        </div>
-
-
-                                                         <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-2732" value="2732" aria-label="!OVO (4)">
-                            <label for="frm-productFilter-brandConstraintForm-value-2732">OVO (4)</label>
                         </div>
 
 
@@ -4247,8 +4309,8 @@ Hladká mouka</textarea>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-3371" value="3371" aria-label="!Price´s (3)">
-                            <label for="frm-productFilter-brandConstraintForm-value-3371">Price´s (3)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-3371" value="3371" aria-label="!Price´s (1)">
+                            <label for="frm-productFilter-brandConstraintForm-value-3371">Price´s (1)</label>
                         </div>
 
 
@@ -4313,8 +4375,8 @@ Hladká mouka</textarea>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-704" value="704" aria-label="!Sapler (20)">
-                            <label for="frm-productFilter-brandConstraintForm-value-704">Sapler (20)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-704" value="704" aria-label="!Sapler (21)">
+                            <label for="frm-productFilter-brandConstraintForm-value-704">Sapler (21)</label>
                         </div>
 
 
@@ -4331,14 +4393,8 @@ Hladká mouka</textarea>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-2546" value="2546" aria-label="!Scotch (1)">
-                            <label for="frm-productFilter-brandConstraintForm-value-2546">Scotch (1)</label>
-                        </div>
-
-
-                                                         <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-2814" value="2814" aria-label="!Semo (12)">
-                            <label for="frm-productFilter-brandConstraintForm-value-2814">Semo (12)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-2814" value="2814" aria-label="!Semo (9)">
+                            <label for="frm-productFilter-brandConstraintForm-value-2814">Semo (9)</label>
                         </div>
 
 
@@ -4360,9 +4416,9 @@ Hladká mouka</textarea>
                         </div>
 
 
-                            <div class="form-row">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-2519" value="2519" aria-label="!Sigma (47)">
-                            <label for="frm-productFilter-brandConstraintForm-value-2519">Sigma (47)</label>
+                                                         <div class="form-row" style="display: none;">
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-2519" value="2519" aria-label="!Sigma (43)">
+                            <label for="frm-productFilter-brandConstraintForm-value-2519">Sigma (43)</label>
                         </div>
 
 
@@ -4391,20 +4447,14 @@ Hladká mouka</textarea>
 
 
                             <div class="form-row">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-34" value="34" aria-label="!Spontex (61)">
-                            <label for="frm-productFilter-brandConstraintForm-value-34">Spontex (61)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-34" value="34" aria-label="!Spontex (62)">
+                            <label for="frm-productFilter-brandConstraintForm-value-34">Spontex (62)</label>
                         </div>
 
 
                                                          <div class="form-row" style="display: none;">
                             <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-2587" value="2587" aria-label="!Stabilo (1)">
                             <label for="frm-productFilter-brandConstraintForm-value-2587">Stabilo (1)</label>
-                        </div>
-
-
-                                                         <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-2525" value="2525" aria-label="!Star (1)">
-                            <label for="frm-productFilter-brandConstraintForm-value-2525">Star (1)</label>
                         </div>
 
 
@@ -4445,8 +4495,14 @@ Hladká mouka</textarea>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-3320" value="3320" aria-label="!Teakhaus (10)">
-                            <label for="frm-productFilter-brandConstraintForm-value-3320">Teakhaus (10)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-3320" value="3320" aria-label="!Teakhaus (9)">
+                            <label for="frm-productFilter-brandConstraintForm-value-3320">Teakhaus (9)</label>
+                        </div>
+
+
+                                                         <div class="form-row" style="display: none;">
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-3374" value="3374" aria-label="!Teddies (1)">
+                            <label for="frm-productFilter-brandConstraintForm-value-3374">Teddies (1)</label>
                         </div>
 
 
@@ -4477,12 +4533,6 @@ Hladká mouka</textarea>
                                                          <div class="form-row" style="display: none;">
                             <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-3550" value="3550" aria-label="!Thermoval (2)">
                             <label for="frm-productFilter-brandConstraintForm-value-3550">Thermoval (2)</label>
-                        </div>
-
-
-                                                         <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-2734" value="2734" aria-label="!Tip Line (1)">
-                            <label for="frm-productFilter-brandConstraintForm-value-2734">Tip Line (1)</label>
                         </div>
 
 
@@ -4583,6 +4633,12 @@ Hladká mouka</textarea>
 
 
                                                          <div class="form-row" style="display: none;">
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-3085" value="3085" aria-label="!Zdravá láhev (1)">
+                            <label for="frm-productFilter-brandConstraintForm-value-3085">Zdravá láhev (1)</label>
+                        </div>
+
+
+                                                         <div class="form-row" style="display: none;">
                             <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-2156" value="2156" aria-label="!apetit (9)">
                             <label for="frm-productFilter-brandConstraintForm-value-2156">apetit (9)</label>
                         </div>
@@ -4625,7 +4681,7 @@ Hladká mouka</textarea>
             var buttonsShowMoreClass = 'show-more-brands';
             var buttonsShowLessClass = 'show-less-brands';
             var filters = $('.filter-more-result');
-            var defaultFilterInputs = {"brand":[87,3084,2581,3087,670,34,1312,2813,3246,2519]};
+            var defaultFilterInputs = {"brand":[87,3084,2581,3087,670,34,1312,2813,3246,669]};
 
             function hideCheckboxes(rows, key) {
 
@@ -4726,18 +4782,31 @@ Hladká mouka</textarea>
 		</div>
 
 		<div class="region-products-popular">
-<a href="https://www.kosik.cz/hledat?q=PuncochyBellinda"><img src="https://cdn.kosik.cz/content/category-banner/png/default/1271.png" alt="whiskas"></a><br><br>
+<a href="https://www.kosik.cz/hledat?q=AlufixPeceni"><img src="https://cdn.kosik.cz/content/category-banner/png/default/1358.png" alt="whiskas"></a><br><br>
 
 		<div class="region region-carousel region-products no-aside product-widget">
 			<div class="home-product-widget region-inner region-products-inner slick-carousel" data-open="3" data-close="4">
 				<div class="block block-title">
 					<h3>Doporučujeme</h3>
 				</div>
+<script async>
+
+    var onProductModalDestroy = function() {
+
+    	var pageData = window.dataLayer[0];
+
+        pageData["event"] = "ga.pageview";
+        pageData["pagePath"] = window.location.pathname;
+        pageData["pageTitle"] = window.document.title;
+
+	    dataLayer.push(pageData);
+    };
+</script>
 <div class="block block-product-items product-items" data-ajax-append="product-item" id="snippet-productWidget-widgetCarousel-1-productListArea">
     <div id="product-append-50748" class="product-item">
         <div class="product-item-flags">
             <div class="flag-sale ">
-                <span class="percents">21<small>&#37;</small></span>
+                <span class="percents">29<small>&#37;</small></span>
             </div>
         </div>
         <div class="product-item-image">
@@ -4768,11 +4837,11 @@ Hladká mouka</textarea>
                 <span class="price-before-discount">
 					<span><strong class="price">1 890,00 Kč</strong></span>
 				</span>
-                <strong class="price">1 490,00 Kč</strong>
+                <strong class="price">1 349,00 Kč</strong>
 
             </p>
             <p class="product-item-unit">
-                    (<strong class="price">1 490,00 Kč</strong> / ks)
+                    (<strong class="price">1 349,00 Kč</strong> / ks)
             </p>
                         <div class="product-list-rating">
             </div>
@@ -4794,6 +4863,9 @@ Hladká mouka</textarea>
     </div>
     <div id="product-append-46673" class="product-item">
         <div class="product-item-flags">
+            <div class="flag-sale ">
+                <span class="percents">50<small>&#37;</small></span>
+            </div>
         </div>
         <div class="product-item-image">
                 <a data-href="/domacnost-a-zahrada?productWidget-widgetCarousel-1-id=46673&amp;do=productWidget-widgetCarousel-1-modal"
@@ -4819,14 +4891,15 @@ Hladká mouka</textarea>
                     Air Wick Svíčka Růžové květy středomoří 30g
                     
                 </a></h5>
-            <p class="product-item-price ">
+            <p class="product-item-price product-in-discount">
                 <span class="price-before-discount">
+					<span><strong class="price">49,90 Kč</strong></span>
 				</span>
-                <strong class="price">49,90 Kč</strong>
+                <strong class="price">24,90 Kč</strong>
 
             </p>
             <p class="product-item-unit">
-                    (<strong class="price">49,90 Kč</strong> / ks)
+                    (<strong class="price">24,90 Kč</strong> / ks)
             </p>
                         <div class="product-list-rating">
             </div>
@@ -4907,7 +4980,7 @@ Hladká mouka</textarea>
     <div id="product-append-50750" class="product-item">
         <div class="product-item-flags">
             <div class="flag-sale ">
-                <span class="percents">23<small>&#37;</small></span>
+                <span class="percents">30<small>&#37;</small></span>
             </div>
         </div>
         <div class="product-item-image">
@@ -4938,11 +5011,11 @@ Hladká mouka</textarea>
                 <span class="price-before-discount">
 					<span><strong class="price">1 290,00 Kč</strong></span>
 				</span>
-                <strong class="price">999,00 Kč</strong>
+                <strong class="price">899,00 Kč</strong>
 
             </p>
             <p class="product-item-unit">
-                    (<strong class="price">999,00 Kč</strong> / ks)
+                    (<strong class="price">899,00 Kč</strong> / ks)
             </p>
                         <div class="product-list-rating">
             </div>
@@ -5117,64 +5190,6 @@ Hladká mouka</textarea>
                 <input type="text" name="quantity" size="3" id="frm-productWidget-widgetCarousel-1-buy-50749-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
                 <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
             <input type="hidden" name="do" value="productWidget-widgetCarousel-1-buy-50749-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
-</form>
-
-        </div>
-</div>
-                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
-
-
-        </div>
-
-        
-    </div>
-    <div id="product-append-46676" class="product-item">
-        <div class="product-item-flags">
-            <div class="flag-sale ">
-                <span class="percents">39<small>&#37;</small></span>
-            </div>
-        </div>
-        <div class="product-item-image">
-                <a data-href="/domacnost-a-zahrada?productWidget-widgetCarousel-1-id=46676&amp;do=productWidget-widgetCarousel-1-modal"
-                   data-target="productWidget-widgetCarousel-1-productModal"
-                   data-product-id="46676"
-                   data-product-price="49"
-                   data-page-title="Air Wick Svíčka Vanilkový lusk 30g"
-                   data-page-path="/produkt/46676-air-wick-svicka-vanilkovy-lusk-30g"
-                   data-user-id=""
-                   aria-hidden="true"
-                   data-kosikmodal-onclose="onProductModalDestroy"
-                   onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/64189.jpg" alt="Air Wick Svíčka Vanilkový lusk 30g" class="loading-images loading-image">
-                </a>
-
-
-
-
-        </div>
-                <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Air Wick Svíčka Vanilkový lusk 30g" data-href="/domacnost-a-zahrada?productWidget-widgetCarousel-1-id=46676&amp;do=productWidget-widgetCarousel-1-modal" class="product-name modal-link"
-                   data-target="productWidget-widgetCarousel-1-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Air Wick Svíčka Vanilkový lusk 30g
-                    
-                </a></h5>
-            <p class="product-item-price product-in-discount">
-                <span class="price-before-discount">
-					<span><strong class="price">49,00 Kč</strong></span>
-				</span>
-                <strong class="price">29,90 Kč</strong>
-
-            </p>
-            <p class="product-item-unit">
-                    (<strong class="price">29,90 Kč</strong> / ks)
-            </p>
-                        <div class="product-list-rating">
-            </div>
-<div id="snippet-productWidget-widgetCarousel-1-buy-46676-quantity">        <div class="product-quantity-control">
-            <form action="/domacnost-a-zahrada" method="post" class="ajax" id="frm-productWidget-widgetCarousel-1-buy-46676-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productWidget-widgetCarousel-1-buy-46676-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
-                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productWidget-widgetCarousel-1-buy-46676-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
 </form>
 
         </div>
@@ -5391,64 +5406,6 @@ Hladká mouka</textarea>
                 <input type="text" name="quantity" size="3" id="frm-productWidget-widgetCarousel-1-buy-50973-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
                 <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
             <input type="hidden" name="do" value="productWidget-widgetCarousel-1-buy-50973-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
-</form>
-
-        </div>
-</div>
-                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
-
-
-        </div>
-
-        
-    </div>
-    <div id="product-append-46677" class="product-item">
-        <div class="product-item-flags">
-            <div class="flag-sale ">
-                <span class="percents">39<small>&#37;</small></span>
-            </div>
-        </div>
-        <div class="product-item-image">
-                <a data-href="/domacnost-a-zahrada?productWidget-widgetCarousel-1-id=46677&amp;do=productWidget-widgetCarousel-1-modal"
-                   data-target="productWidget-widgetCarousel-1-productModal"
-                   data-product-id="46677"
-                   data-product-price="49"
-                   data-page-title="Air Wick Svíčka Lesní plody 30g"
-                   data-page-path="/produkt/46677-air-wick-svicka-lesni-plody-30g"
-                   data-user-id=""
-                   aria-hidden="true"
-                   data-kosikmodal-onclose="onProductModalDestroy"
-                   onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/64190.jpg" alt="Air Wick Svíčka Lesní plody 30g" class="loading-images loading-image">
-                </a>
-
-
-
-
-        </div>
-                <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Air Wick Svíčka Lesní plody 30g" data-href="/domacnost-a-zahrada?productWidget-widgetCarousel-1-id=46677&amp;do=productWidget-widgetCarousel-1-modal" class="product-name modal-link"
-                   data-target="productWidget-widgetCarousel-1-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Air Wick Svíčka Lesní plody 30g
-                    
-                </a></h5>
-            <p class="product-item-price product-in-discount">
-                <span class="price-before-discount">
-					<span><strong class="price">49,00 Kč</strong></span>
-				</span>
-                <strong class="price">29,90 Kč</strong>
-
-            </p>
-            <p class="product-item-unit">
-                    (<strong class="price">29,90 Kč</strong> / ks)
-            </p>
-                        <div class="product-list-rating">
-            </div>
-<div id="snippet-productWidget-widgetCarousel-1-buy-46677-quantity">        <div class="product-quantity-control">
-            <form action="/domacnost-a-zahrada" method="post" class="ajax" id="frm-productWidget-widgetCarousel-1-buy-46677-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productWidget-widgetCarousel-1-buy-46677-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
-                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productWidget-widgetCarousel-1-buy-46677-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
 </form>
 
         </div>
@@ -5754,21 +5711,24 @@ Hladká mouka</textarea>
 
         
     </div>
-    <div id="product-append-12510" class="product-item">
+    <div id="product-append-12512" class="product-item">
         <div class="product-item-flags">
+            <div class="flag-sale ">
+                <span class="percents">27<small>&#37;</small></span>
+            </div>
         </div>
         <div class="product-item-image">
-                <a data-href="/domacnost-a-zahrada?productList-id=12510&amp;do=productList-modal"
+                <a data-href="/domacnost-a-zahrada?productList-id=12512&amp;do=productList-modal"
                    data-target="productList-productModal"
-                   data-product-id="12510"
-                   data-product-price="32.9"
-                   data-page-title="Alufix Papír na pečení Alufix 8m, 38cm v krabičce"
-                   data-page-path="/produkt/12510-alufix-papir-na-peceni-alufix-8m-38cm-v-krabicce"
+                   data-product-id="12512"
+                   data-product-price="33.9"
+                   data-page-title="Alufix Papír na pečení - formát 38x42cm, 20ks"
+                   data-page-path="/produkt/12512-alufix-papir-na-peceni-format-38x42cm-20ks"
                    data-user-id=""
                    aria-hidden="true"
                    data-kosikmodal-onclose="onProductModalDestroy"
                    onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/29794.jpg" alt="Alufix Papír na pečení Alufix 8m, 38cm v krabičce" class="loading-images loading-image">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/29795.jpg" alt="Alufix Papír na pečení - formát 38x42cm, 20ks" class="loading-images loading-image">
                 </a>
 
 
@@ -5776,27 +5736,28 @@ Hladká mouka</textarea>
 
         </div>
                 <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Alufix Papír na pečení Alufix 8m, 38cm v krabičce" data-href="/domacnost-a-zahrada?productList-id=12510&amp;do=productList-modal" class="product-name modal-link"
+                <h5><a href="javascript:void(0)" aria-label="Alufix Papír na pečení - formát 38x42cm, 20ks" data-href="/domacnost-a-zahrada?productList-id=12512&amp;do=productList-modal" class="product-name modal-link"
                    data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Alufix Papír na pečení Alufix 8m, 38cm v krabičce
+                    Alufix Papír na pečení - formát 38x42cm, 20ks
                     
                 </a></h5>
-            <p class="product-item-price ">
+            <p class="product-item-price product-in-discount">
                 <span class="price-before-discount">
+					<span><strong class="price">33,90 Kč</strong></span>
 				</span>
-                <strong class="price">32,90 Kč</strong>
+                <strong class="price">24,90 Kč</strong>
 
             </p>
             <p class="product-item-unit">
-                    (<strong class="price">32,90 Kč</strong> / ks)
+                    (<strong class="price">1,20 Kč</strong> / ks)
             </p>
                         <div class="product-list-rating">
             </div>
-<div id="snippet-productList-buy-12510-quantity">        <div class="product-quantity-control">
-            <form action="/domacnost-a-zahrada" method="post" class="ajax" id="frm-productList-buy-12510-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-12510-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+<div id="snippet-productList-buy-12512-quantity">        <div class="product-quantity-control">
+            <form action="/domacnost-a-zahrada" method="post" class="ajax" id="frm-productList-buy-12512-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-12512-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
                 <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-12510-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+            <input type="hidden" name="do" value="productList-buy-12512-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
 </form>
 
         </div>
@@ -5866,24 +5827,24 @@ Hladká mouka</textarea>
 
         
     </div>
-    <div id="product-append-12512" class="product-item">
+    <div id="product-append-12510" class="product-item">
         <div class="product-item-flags">
             <div class="flag-sale ">
-                <span class="percents">21<small>&#37;</small></span>
+                <span class="percents">27<small>&#37;</small></span>
             </div>
         </div>
         <div class="product-item-image">
-                <a data-href="/domacnost-a-zahrada?productList-id=12512&amp;do=productList-modal"
+                <a data-href="/domacnost-a-zahrada?productList-id=12510&amp;do=productList-modal"
                    data-target="productList-productModal"
-                   data-product-id="12512"
-                   data-product-price="33.9"
-                   data-page-title="Alufix Papír na pečení - formát 38x42cm, 20ks"
-                   data-page-path="/produkt/12512-alufix-papir-na-peceni-format-38x42cm-20ks"
+                   data-product-id="12510"
+                   data-product-price="32.9"
+                   data-page-title="Alufix Papír na pečení Alufix 8m, 38cm v krabičce"
+                   data-page-path="/produkt/12510-alufix-papir-na-peceni-alufix-8m-38cm-v-krabicce"
                    data-user-id=""
                    aria-hidden="true"
                    data-kosikmodal-onclose="onProductModalDestroy"
                    onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/29795.jpg" alt="Alufix Papír na pečení - formát 38x42cm, 20ks" class="loading-images loading-image">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/29794.jpg" alt="Alufix Papír na pečení Alufix 8m, 38cm v krabičce" class="loading-images loading-image">
                 </a>
 
 
@@ -5891,28 +5852,82 @@ Hladká mouka</textarea>
 
         </div>
                 <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Alufix Papír na pečení - formát 38x42cm, 20ks" data-href="/domacnost-a-zahrada?productList-id=12512&amp;do=productList-modal" class="product-name modal-link"
+                <h5><a href="javascript:void(0)" aria-label="Alufix Papír na pečení Alufix 8m, 38cm v krabičce" data-href="/domacnost-a-zahrada?productList-id=12510&amp;do=productList-modal" class="product-name modal-link"
                    data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Alufix Papír na pečení - formát 38x42cm, 20ks
+                    Alufix Papír na pečení Alufix 8m, 38cm v krabičce
                     
                 </a></h5>
             <p class="product-item-price product-in-discount">
                 <span class="price-before-discount">
-					<span><strong class="price">33,90 Kč</strong></span>
+					<span><strong class="price">32,90 Kč</strong></span>
 				</span>
-                <strong class="price">26,90 Kč</strong>
+                <strong class="price">23,90 Kč</strong>
 
             </p>
             <p class="product-item-unit">
-                    (<strong class="price">1,30 Kč</strong> / ks)
+                    (<strong class="price">23,90 Kč</strong> / ks)
             </p>
                         <div class="product-list-rating">
             </div>
-<div id="snippet-productList-buy-12512-quantity">        <div class="product-quantity-control">
-            <form action="/domacnost-a-zahrada" method="post" class="ajax" id="frm-productList-buy-12512-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-12512-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+<div id="snippet-productList-buy-12510-quantity">        <div class="product-quantity-control">
+            <form action="/domacnost-a-zahrada" method="post" class="ajax" id="frm-productList-buy-12510-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-12510-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
                 <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-12512-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+            <input type="hidden" name="do" value="productList-buy-12510-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+</form>
+
+        </div>
+</div>
+                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
+
+
+        </div>
+
+        
+    </div>
+    <div id="product-append-22674" class="product-item">
+        <div class="product-item-flags">
+        </div>
+        <div class="product-item-image">
+                <a data-href="/domacnost-a-zahrada?productList-id=22674&amp;do=productList-modal"
+                   data-target="productList-productModal"
+                   data-product-id="22674"
+                   data-product-price="18.9"
+                   data-page-title="Vánoční dárková taška papírová na láhev"
+                   data-page-path="/produkt/22674-vanocni-darkova-taska-papirova-na-lahev"
+                   data-user-id=""
+                   aria-hidden="true"
+                   data-kosikmodal-onclose="onProductModalDestroy"
+                   onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/39923.jpg" alt="Vánoční dárková taška papírová na láhev" class="loading-images loading-image">
+                </a>
+
+
+
+
+        </div>
+                <div class="product-item-info">
+                <h5><a href="javascript:void(0)" aria-label="Vánoční dárková taška papírová na láhev" data-href="/domacnost-a-zahrada?productList-id=22674&amp;do=productList-modal" class="product-name modal-link"
+                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    Vánoční dárková taška papírová na láhev
+                    
+                </a></h5>
+            <p class="product-item-price ">
+                <span class="price-before-discount">
+				</span>
+                <strong class="price">18,90 Kč</strong>
+
+            </p>
+            <p class="product-item-unit">
+                    (<strong class="price">18,90 Kč</strong> / ks)
+            </p>
+                        <div class="product-list-rating">
+            </div>
+<div id="snippet-productList-buy-22674-quantity">        <div class="product-quantity-control">
+            <form action="/domacnost-a-zahrada" method="post" class="ajax" id="frm-productList-buy-22674-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-22674-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
+            <input type="hidden" name="do" value="productList-buy-22674-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
 </form>
 
         </div>
@@ -5982,75 +5997,24 @@ Hladká mouka</textarea>
 
         
     </div>
-    <div id="product-append-12517" class="product-item">
+    <div id="product-append-48359" class="product-item">
         <div class="product-item-flags">
-        </div>
-        <div class="product-item-image">
-                <a data-href="/domacnost-a-zahrada?productList-id=12517&amp;do=productList-modal"
-                   data-target="productList-productModal"
-                   data-product-id="12517"
-                   data-product-price="34.9"
-                   data-page-title="Alufix Pytle na odpadky se zatahováním 60l 64x70cm, HDPE černé 10 kusů"
-                   data-page-path="/produkt/12517-alufix-pytle-na-odpadky-se-zatahovanim-60l-64x70cm-hdpe-cerne-10-kusu"
-                   data-user-id=""
-                   aria-hidden="true"
-                   data-kosikmodal-onclose="onProductModalDestroy"
-                   onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/29800.jpg" alt="Alufix Pytle na odpadky se zatahováním 60l 64x70cm, HDPE černé 10 kusů" class="loading-images loading-image">
-                </a>
-
-
-
-
-        </div>
-                <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Alufix Pytle na odpadky se zatahováním 60l 64x70cm, HDPE černé 10 kusů" data-href="/domacnost-a-zahrada?productList-id=12517&amp;do=productList-modal" class="product-name modal-link"
-                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Alufix Pytle na odpadky se zatahováním 60l 64x70cm, HDPE černé 10 kusů
-                    
-                </a></h5>
-            <p class="product-item-price ">
-                <span class="price-before-discount">
-				</span>
-                <strong class="price">34,90 Kč</strong>
-
-            </p>
-            <p class="product-item-unit">
-                    (<strong class="price">3,50 Kč</strong> / ks)
-            </p>
-                        <div class="product-list-rating">
+            <div class="flag-sale ">
+                <span class="percents">19<small>&#37;</small></span>
             </div>
-<div id="snippet-productList-buy-12517-quantity">        <div class="product-quantity-control">
-            <form action="/domacnost-a-zahrada" method="post" class="ajax" id="frm-productList-buy-12517-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-12517-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
-                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-12517-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
-</form>
-
-        </div>
-</div>
-                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
-
-
-        </div>
-
-        
-    </div>
-    <div id="product-append-43201" class="product-item">
-        <div class="product-item-flags">
         </div>
         <div class="product-item-image">
-                <a data-href="/domacnost-a-zahrada?productList-id=43201&amp;do=productList-modal"
+                <a data-href="/domacnost-a-zahrada?productList-id=48359&amp;do=productList-modal"
                    data-target="productList-productModal"
-                   data-product-id="43201"
-                   data-product-price="29.9"
-                   data-page-title="Alufix Potravinová fólie PVC 20m v krabičce s pilkou 1ks"
-                   data-page-path="/produkt/43201-alufix-potravinova-folie-pvc-20m-v-krabicce-s-pilkou-1ks"
+                   data-product-id="48359"
+                   data-product-price="36.9"
+                   data-page-title="Svíčka Ořech plovoucí 3ks"
+                   data-page-path="/produkt/48359-svicka-orech-plovouci-3ks"
                    data-user-id=""
                    aria-hidden="true"
                    data-kosikmodal-onclose="onProductModalDestroy"
                    onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/60918.jpg" alt="Alufix Potravinová fólie PVC 20m v krabičce s pilkou 1ks" class="loading-images loading-image">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/65896.jpg" alt="Svíčka Ořech plovoucí 3ks" class="loading-images loading-image">
                 </a>
 
 
@@ -6058,189 +6022,28 @@ Hladká mouka</textarea>
 
         </div>
                 <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Alufix Potravinová fólie PVC 20m v krabičce s pilkou 1ks" data-href="/domacnost-a-zahrada?productList-id=43201&amp;do=productList-modal" class="product-name modal-link"
+                <h5><a href="javascript:void(0)" aria-label="Svíčka Ořech plovoucí 3ks" data-href="/domacnost-a-zahrada?productList-id=48359&amp;do=productList-modal" class="product-name modal-link"
                    data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Alufix Potravinová fólie PVC 20m v krabičce s pilkou 1ks
-                    
+                    Svíčka Ořech plovoucí 3ks
+                    <br><span class="new-product">Novinka</span>
                 </a></h5>
-            <p class="product-item-price ">
+            <p class="product-item-price product-in-discount">
                 <span class="price-before-discount">
+					<span><strong class="price">36,90 Kč</strong></span>
 				</span>
                 <strong class="price">29,90 Kč</strong>
 
             </p>
             <p class="product-item-unit">
-                    (<strong class="price">29,90 Kč</strong> / ks)
+                    (<strong class="price">10,00 Kč</strong> / ks)
             </p>
                         <div class="product-list-rating">
             </div>
-<div id="snippet-productList-buy-43201-quantity">        <div class="product-quantity-control">
-            <form action="/domacnost-a-zahrada" method="post" class="ajax" id="frm-productList-buy-43201-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-43201-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+<div id="snippet-productList-buy-48359-quantity">        <div class="product-quantity-control">
+            <form action="/domacnost-a-zahrada" method="post" class="ajax" id="frm-productList-buy-48359-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-48359-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
                 <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-43201-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
-</form>
-
-        </div>
-</div>
-                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
-
-
-        </div>
-
-        
-    </div>
-    <div id="product-append-22674" class="product-item">
-        <div class="product-item-flags">
-        </div>
-        <div class="product-item-image">
-                <a data-href="/domacnost-a-zahrada?productList-id=22674&amp;do=productList-modal"
-                   data-target="productList-productModal"
-                   data-product-id="22674"
-                   data-product-price="18.9"
-                   data-page-title="Vánoční dárková taška papírová na láhev"
-                   data-page-path="/produkt/22674-vanocni-darkova-taska-papirova-na-lahev"
-                   data-user-id=""
-                   aria-hidden="true"
-                   data-kosikmodal-onclose="onProductModalDestroy"
-                   onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/39923.jpg" alt="Vánoční dárková taška papírová na láhev" class="loading-images loading-image">
-                </a>
-
-
-
-
-        </div>
-                <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Vánoční dárková taška papírová na láhev" data-href="/domacnost-a-zahrada?productList-id=22674&amp;do=productList-modal" class="product-name modal-link"
-                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Vánoční dárková taška papírová na láhev
-                    
-                </a></h5>
-            <p class="product-item-price ">
-                <span class="price-before-discount">
-				</span>
-                <strong class="price">18,90 Kč</strong>
-
-            </p>
-            <p class="product-item-unit">
-                    (<strong class="price">18,90 Kč</strong> / ks)
-            </p>
-                        <div class="product-list-rating">
-            </div>
-<div id="snippet-productList-buy-22674-quantity">        <div class="product-quantity-control">
-            <form action="/domacnost-a-zahrada" method="post" class="ajax" id="frm-productList-buy-22674-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-22674-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
-                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-22674-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
-</form>
-
-        </div>
-</div>
-                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
-
-
-        </div>
-
-        
-    </div>
-    <div id="product-append-49047" class="product-item">
-        <div class="product-item-flags">
-        </div>
-        <div class="product-item-image">
-                <a data-href="/domacnost-a-zahrada?productList-id=49047&amp;do=productList-modal"
-                   data-target="productList-productModal"
-                   data-product-id="49047"
-                   data-product-price="3.9"
-                   data-page-title="Rozetka na dárek  metalická mix 2,5cm"
-                   data-page-path="/produkt/49047-rozetka-na-darek-metalicka-mix-2-5cm"
-                   data-user-id=""
-                   aria-hidden="true"
-                   data-kosikmodal-onclose="onProductModalDestroy"
-                   onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/66603.jpg" alt="Rozetka na dárek  metalická mix 2,5cm" class="loading-images loading-image">
-                </a>
-
-
-
-
-        </div>
-                <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Rozetka na dárek  metalická mix 2,5cm" data-href="/domacnost-a-zahrada?productList-id=49047&amp;do=productList-modal" class="product-name modal-link"
-                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Rozetka na dárek  metalická mix 2,5cm
-                    
-                </a></h5>
-            <p class="product-item-price ">
-                <span class="price-before-discount">
-				</span>
-                <strong class="price">3,90 Kč</strong>
-
-            </p>
-            <p class="product-item-unit">
-                    (<strong class="price">3,90 Kč</strong> / ks)
-            </p>
-                        <div class="product-list-rating">
-            </div>
-<div id="snippet-productList-buy-49047-quantity">        <div class="product-quantity-control">
-            <form action="/domacnost-a-zahrada" method="post" class="ajax" id="frm-productList-buy-49047-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-49047-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
-                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-49047-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
-</form>
-
-        </div>
-</div>
-                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
-
-
-        </div>
-
-        
-    </div>
-    <div id="product-append-12513" class="product-item">
-        <div class="product-item-flags">
-        </div>
-        <div class="product-item-image">
-                <a data-href="/domacnost-a-zahrada?productList-id=12513&amp;do=productList-modal"
-                   data-target="productList-productModal"
-                   data-product-id="12513"
-                   data-product-price="24.9"
-                   data-page-title="Alufix Pytle na odpadky 35l, 30ks"
-                   data-page-path="/produkt/12513-alufix-pytle-na-odpadky-35l-30ks"
-                   data-user-id=""
-                   aria-hidden="true"
-                   data-kosikmodal-onclose="onProductModalDestroy"
-                   onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/29796.jpg" alt="Alufix Pytle na odpadky 35l, 30ks" class="loading-images loading-image">
-                </a>
-
-
-
-
-        </div>
-                <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Alufix Pytle na odpadky 35l, 30ks" data-href="/domacnost-a-zahrada?productList-id=12513&amp;do=productList-modal" class="product-name modal-link"
-                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Alufix Pytle na odpadky 35l, 30ks
-                    
-                </a></h5>
-            <p class="product-item-price ">
-                <span class="price-before-discount">
-				</span>
-                <strong class="price">24,90 Kč</strong>
-
-            </p>
-            <p class="product-item-unit">
-                    (<strong class="price">0,80 Kč</strong> / ks)
-            </p>
-                        <div class="product-list-rating">
-            </div>
-<div id="snippet-productList-buy-12513-quantity">        <div class="product-quantity-control">
-            <form action="/domacnost-a-zahrada" method="post" class="ajax" id="frm-productList-buy-12513-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-12513-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
-                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-12513-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+            <input type="hidden" name="do" value="productList-buy-48359-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
 </form>
 
         </div>
@@ -6306,21 +6109,21 @@ Hladká mouka</textarea>
 
         
     </div>
-    <div id="product-append-48359" class="product-item">
+    <div id="product-append-12517" class="product-item">
         <div class="product-item-flags">
         </div>
         <div class="product-item-image">
-                <a data-href="/domacnost-a-zahrada?productList-id=48359&amp;do=productList-modal"
+                <a data-href="/domacnost-a-zahrada?productList-id=12517&amp;do=productList-modal"
                    data-target="productList-productModal"
-                   data-product-id="48359"
-                   data-product-price="36.9"
-                   data-page-title="Svíčka Ořech plovoucí 3ks"
-                   data-page-path="/produkt/48359-svicka-orech-plovouci-3ks"
+                   data-product-id="12517"
+                   data-product-price="34.9"
+                   data-page-title="Alufix Pytle na odpadky se zatahováním 60l 64x70cm, HDPE černé 10 kusů"
+                   data-page-path="/produkt/12517-alufix-pytle-na-odpadky-se-zatahovanim-60l-64x70cm-hdpe-cerne-10-kusu"
                    data-user-id=""
                    aria-hidden="true"
                    data-kosikmodal-onclose="onProductModalDestroy"
                    onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/65896.jpg" alt="Svíčka Ořech plovoucí 3ks" class="loading-images loading-image">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/29800.jpg" alt="Alufix Pytle na odpadky se zatahováním 60l 64x70cm, HDPE černé 10 kusů" class="loading-images loading-image">
                 </a>
 
 
@@ -6328,359 +6131,27 @@ Hladká mouka</textarea>
 
         </div>
                 <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Svíčka Ořech plovoucí 3ks" data-href="/domacnost-a-zahrada?productList-id=48359&amp;do=productList-modal" class="product-name modal-link"
+                <h5><a href="javascript:void(0)" aria-label="Alufix Pytle na odpadky se zatahováním 60l 64x70cm, HDPE černé 10 kusů" data-href="/domacnost-a-zahrada?productList-id=12517&amp;do=productList-modal" class="product-name modal-link"
                    data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Svíčka Ořech plovoucí 3ks
-                    <br><span class="new-product">Novinka</span>
-                </a></h5>
-            <p class="product-item-price ">
-                <span class="price-before-discount">
-				</span>
-                <strong class="price">36,90 Kč</strong>
-
-            </p>
-            <p class="product-item-unit">
-                    (<strong class="price">12,30 Kč</strong> / ks)
-            </p>
-                        <div class="product-list-rating">
-            </div>
-<div id="snippet-productList-buy-48359-quantity">        <div class="product-quantity-control">
-            <form action="/domacnost-a-zahrada" method="post" class="ajax" id="frm-productList-buy-48359-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-48359-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
-                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-48359-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
-</form>
-
-        </div>
-</div>
-                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
-
-
-        </div>
-
-        
-    </div>
-    <div id="product-append-14535" class="product-item">
-        <div class="product-item-flags">
-            <div class="flag-sale ">
-                <span class="percents">13<small>&#37;</small></span>
-            </div>
-        </div>
-        <div class="product-item-image">
-                <a data-href="/domacnost-a-zahrada?productList-id=14535&amp;do=productList-modal"
-                   data-target="productList-productModal"
-                   data-product-id="14535"
-                   data-product-price="7.9"
-                   data-page-title="Stuha vázací luxusní 20mx5mm mix barev"
-                   data-page-path="/produkt/14535-stuha-vazaci-luxusni-20mx5mm-mix-barev"
-                   data-user-id=""
-                   aria-hidden="true"
-                   data-kosikmodal-onclose="onProductModalDestroy"
-                   onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/31804.jpg" alt="Stuha vázací luxusní 20mx5mm mix barev" class="loading-images loading-image">
-                </a>
-
-
-
-
-        </div>
-                <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Stuha vázací luxusní 20mx5mm mix barev" data-href="/domacnost-a-zahrada?productList-id=14535&amp;do=productList-modal" class="product-name modal-link"
-                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Stuha vázací luxusní 20mx5mm mix barev
-                    
-                </a></h5>
-            <p class="product-item-price product-in-discount">
-                <span class="price-before-discount">
-					<span><strong class="price">7,90 Kč</strong></span>
-				</span>
-                <strong class="price">6,90 Kč</strong>
-
-            </p>
-            <p class="product-item-unit">
-                    (<strong class="price">6,90 Kč</strong> / ks)
-            </p>
-                        <div class="product-list-rating">
-            </div>
-<div id="snippet-productList-buy-14535-quantity">        <div class="product-quantity-control">
-            <form action="/domacnost-a-zahrada" method="post" class="ajax" id="frm-productList-buy-14535-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-14535-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
-                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-14535-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
-</form>
-
-        </div>
-</div>
-                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
-
-
-        </div>
-
-        
-    </div>
-    <div id="product-append-4883" class="product-item">
-        <div class="product-item-flags">
-        </div>
-        <div class="product-item-image">
-                <a data-href="/domacnost-a-zahrada?productList-id=4883&amp;do=productList-modal"
-                   data-target="productList-productModal"
-                   data-product-id="4883"
-                   data-product-price="15.9"
-                   data-page-title="Balis Svačinové sáčky barevné 25x35cm 50ks"
-                   data-page-path="/produkt/4883-balis-svacinove-sacky-barevne-25x35cm-50ks"
-                   data-user-id=""
-                   aria-hidden="true"
-                   data-kosikmodal-onclose="onProductModalDestroy"
-                   onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/5233.jpg" alt="Balis Svačinové sáčky barevné 25x35cm 50ks" class="loading-images loading-image">
-                </a>
-
-
-
-
-        </div>
-                <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Balis Svačinové sáčky barevné 25x35cm 50ks" data-href="/domacnost-a-zahrada?productList-id=4883&amp;do=productList-modal" class="product-name modal-link"
-                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Balis Svačinové sáčky barevné 25x35cm 50ks
+                    Alufix Pytle na odpadky se zatahováním 60l 64x70cm, HDPE černé 10 kusů
                     
                 </a></h5>
             <p class="product-item-price ">
                 <span class="price-before-discount">
 				</span>
-                <strong class="price">15,90 Kč</strong>
+                <strong class="price">34,90 Kč</strong>
 
             </p>
             <p class="product-item-unit">
-                    (<strong class="price">0,30 Kč</strong> / ks)
+                    (<strong class="price">3,50 Kč</strong> / ks)
             </p>
                         <div class="product-list-rating">
             </div>
-<div id="snippet-productList-buy-4883-quantity">        <div class="product-quantity-control">
-            <form action="/domacnost-a-zahrada" method="post" class="ajax" id="frm-productList-buy-4883-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-4883-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+<div id="snippet-productList-buy-12517-quantity">        <div class="product-quantity-control">
+            <form action="/domacnost-a-zahrada" method="post" class="ajax" id="frm-productList-buy-12517-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-12517-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
                 <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-4883-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
-</form>
-
-        </div>
-</div>
-                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
-
-
-        </div>
-
-        
-    </div>
-    <div id="product-append-22702" class="product-item">
-        <div class="product-item-flags">
-        </div>
-        <div class="product-item-image">
-                <a data-href="/domacnost-a-zahrada?productList-id=22702&amp;do=productList-modal"
-                   data-target="productList-productModal"
-                   data-product-id="22702"
-                   data-product-price="11.9"
-                   data-page-title="Vánoční františek skořice - jablko 3ks"
-                   data-page-path="/produkt/22702-vanocni-frantisek-skorice-jablko-3ks"
-                   data-user-id=""
-                   aria-hidden="true"
-                   data-kosikmodal-onclose="onProductModalDestroy"
-                   onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/39951.jpg" alt="Vánoční františek skořice - jablko 3ks" class="loading-images loading-image">
-                </a>
-
-
-
-
-        </div>
-                <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Vánoční františek skořice - jablko 3ks" data-href="/domacnost-a-zahrada?productList-id=22702&amp;do=productList-modal" class="product-name modal-link"
-                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Vánoční františek skořice - jablko 3ks
-                    
-                </a></h5>
-            <p class="product-item-price ">
-                <span class="price-before-discount">
-				</span>
-                <strong class="price">11,90 Kč</strong>
-
-            </p>
-            <p class="product-item-unit">
-                    (<strong class="price">4,00 Kč</strong> / ks)
-            </p>
-                        <div class="product-list-rating">
-            </div>
-<div id="snippet-productList-buy-22702-quantity">        <div class="product-quantity-control">
-            <form action="/domacnost-a-zahrada" method="post" class="ajax" id="frm-productList-buy-22702-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-22702-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
-                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-22702-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
-</form>
-
-        </div>
-</div>
-                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
-
-
-        </div>
-
-        
-    </div>
-    <div id="product-append-22704" class="product-item">
-        <div class="product-item-flags">
-            <div class="flag-sale ">
-                <span class="percents">6<small>&#37;</small></span>
-            </div>
-        </div>
-        <div class="product-item-image">
-                <a data-href="/domacnost-a-zahrada?productList-id=22704&amp;do=productList-modal"
-                   data-target="productList-productModal"
-                   data-product-id="22704"
-                   data-product-price="17.9"
-                   data-page-title="Prskavky 17cm  s vůní vanilky, 10ks"
-                   data-page-path="/produkt/22704-prskavky-17cm-s-vuni-vanilky-10ks"
-                   data-user-id=""
-                   aria-hidden="true"
-                   data-kosikmodal-onclose="onProductModalDestroy"
-                   onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/39953.jpg" alt="Prskavky 17cm  s vůní vanilky, 10ks" class="loading-images loading-image">
-                </a>
-
-
-
-
-        </div>
-                <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Prskavky 17cm  s vůní vanilky, 10ks" data-href="/domacnost-a-zahrada?productList-id=22704&amp;do=productList-modal" class="product-name modal-link"
-                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Prskavky 17cm  s vůní vanilky, 10ks
-                    
-                </a></h5>
-            <p class="product-item-price product-in-discount">
-                <span class="price-before-discount">
-					<span><strong class="price">17,90 Kč</strong></span>
-				</span>
-                <strong class="price">16,90 Kč</strong>
-
-            </p>
-            <p class="product-item-unit">
-                    (<strong class="price">16,90 Kč</strong> / ks)
-            </p>
-                        <div class="product-list-rating">
-            </div>
-<div id="snippet-productList-buy-22704-quantity">        <div class="product-quantity-control">
-            <form action="/domacnost-a-zahrada" method="post" class="ajax" id="frm-productList-buy-22704-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-22704-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
-                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-22704-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
-</form>
-
-        </div>
-</div>
-                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
-
-
-        </div>
-
-        
-    </div>
-    <div id="product-append-22677" class="product-item">
-        <div class="product-item-flags">
-        </div>
-        <div class="product-item-image">
-                <a data-href="/domacnost-a-zahrada?productList-id=22677&amp;do=productList-modal"
-                   data-target="productList-productModal"
-                   data-product-id="22677"
-                   data-product-price="14.9"
-                   data-page-title="Vánoční dárková taška papírová M (18x21x8,5cm)"
-                   data-page-path="/produkt/22677-vanocni-darkova-taska-papirova-m-18x21x8-5cm"
-                   data-user-id=""
-                   aria-hidden="true"
-                   data-kosikmodal-onclose="onProductModalDestroy"
-                   onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/39926.jpg" alt="Vánoční dárková taška papírová M (18x21x8,5cm)" class="loading-images loading-image">
-                </a>
-
-
-
-
-        </div>
-                <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Vánoční dárková taška papírová M (18x21x8,5cm)" data-href="/domacnost-a-zahrada?productList-id=22677&amp;do=productList-modal" class="product-name modal-link"
-                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Vánoční dárková taška papírová M (18x21x8,5cm)
-                    
-                </a></h5>
-            <p class="product-item-price ">
-                <span class="price-before-discount">
-				</span>
-                <strong class="price">14,90 Kč</strong>
-
-            </p>
-            <p class="product-item-unit">
-                    (<strong class="price">14,90 Kč</strong> / ks)
-            </p>
-                        <div class="product-list-rating">
-            </div>
-<div id="snippet-productList-buy-22677-quantity">        <div class="product-quantity-control">
-            <form action="/domacnost-a-zahrada" method="post" class="ajax" id="frm-productList-buy-22677-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-22677-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
-                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-22677-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
-</form>
-
-        </div>
-</div>
-                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
-
-
-        </div>
-
-        
-    </div>
-    <div id="product-append-22700" class="product-item">
-        <div class="product-item-flags">
-        </div>
-        <div class="product-item-image">
-                <a data-href="/domacnost-a-zahrada?productList-id=22700&amp;do=productList-modal"
-                   data-target="productList-productModal"
-                   data-product-id="22700"
-                   data-product-price="11.9"
-                   data-page-title="Vonné vánoční  františky černé (3ks/sáč)"
-                   data-page-path="/produkt/22700-vonne-vanocni-frantisky-cerne-3ks-sac"
-                   data-user-id=""
-                   aria-hidden="true"
-                   data-kosikmodal-onclose="onProductModalDestroy"
-                   onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/39949.jpg" alt="Vonné vánoční  františky černé (3ks/sáč)" class="loading-images loading-image">
-                </a>
-
-
-
-
-        </div>
-                <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Vonné vánoční  františky černé (3ks/sáč)" data-href="/domacnost-a-zahrada?productList-id=22700&amp;do=productList-modal" class="product-name modal-link"
-                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Vonné vánoční  františky černé (3ks/sáč)
-                    
-                </a></h5>
-            <p class="product-item-price ">
-                <span class="price-before-discount">
-				</span>
-                <strong class="price">11,90 Kč</strong>
-
-            </p>
-            <p class="product-item-unit">
-                    (<strong class="price">4,00 Kč</strong> / ks)
-            </p>
-                        <div class="product-list-rating">
-            </div>
-<div id="snippet-productList-buy-22700-quantity">        <div class="product-quantity-control">
-            <form action="/domacnost-a-zahrada" method="post" class="ajax" id="frm-productList-buy-22700-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-22700-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
-                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-22700-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+            <input type="hidden" name="do" value="productList-buy-12517-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
 </form>
 
         </div>
@@ -6746,75 +6217,24 @@ Hladká mouka</textarea>
 
         
     </div>
-    <div id="product-append-22705" class="product-item">
+    <div id="product-append-43201" class="product-item">
         <div class="product-item-flags">
-        </div>
-        <div class="product-item-image">
-                <a data-href="/domacnost-a-zahrada?productList-id=22705&amp;do=productList-modal"
-                   data-target="productList-productModal"
-                   data-product-id="22705"
-                   data-product-price="26.9"
-                   data-page-title="Prskavky 28cm,10ks"
-                   data-page-path="/produkt/22705-prskavky-28cm-10ks"
-                   data-user-id=""
-                   aria-hidden="true"
-                   data-kosikmodal-onclose="onProductModalDestroy"
-                   onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/39954.jpg" alt="Prskavky 28cm,10ks" class="loading-images loading-image">
-                </a>
-
-
-
-
-        </div>
-                <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Prskavky 28cm,10ks" data-href="/domacnost-a-zahrada?productList-id=22705&amp;do=productList-modal" class="product-name modal-link"
-                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Prskavky 28cm,10ks
-                    
-                </a></h5>
-            <p class="product-item-price ">
-                <span class="price-before-discount">
-				</span>
-                <strong class="price">26,90 Kč</strong>
-
-            </p>
-            <p class="product-item-unit">
-                    (<strong class="price">26,90 Kč</strong> / ks)
-            </p>
-                        <div class="product-list-rating">
+            <div class="flag-sale ">
+                <span class="percents">27<small>&#37;</small></span>
             </div>
-<div id="snippet-productList-buy-22705-quantity">        <div class="product-quantity-control">
-            <form action="/domacnost-a-zahrada" method="post" class="ajax" id="frm-productList-buy-22705-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-22705-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
-                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-22705-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
-</form>
-
-        </div>
-</div>
-                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
-
-
-        </div>
-
-        
-    </div>
-    <div id="product-append-49594" class="product-item">
-        <div class="product-item-flags">
         </div>
         <div class="product-item-image">
-                <a data-href="/domacnost-a-zahrada?productList-id=49594&amp;do=productList-modal"
+                <a data-href="/domacnost-a-zahrada?productList-id=43201&amp;do=productList-modal"
                    data-target="productList-productModal"
-                   data-product-id="49594"
+                   data-product-id="43201"
                    data-product-price="29.9"
-                   data-page-title="Fasana vánoční ubrousky 20ks"
-                   data-page-path="/produkt/49594-fasana-vanocni-ubrousky-20ks"
+                   data-page-title="Alufix Potravinová fólie PVC 20m v krabičce s pilkou 1ks"
+                   data-page-path="/produkt/43201-alufix-potravinova-folie-pvc-20m-v-krabicce-s-pilkou-1ks"
                    data-user-id=""
                    aria-hidden="true"
                    data-kosikmodal-onclose="onProductModalDestroy"
                    onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/67162.jpg" alt="Fasana vánoční ubrousky 20ks" class="loading-images loading-image">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/60918.jpg" alt="Alufix Potravinová fólie PVC 20m v krabičce s pilkou 1ks" class="loading-images loading-image">
                 </a>
 
 
@@ -6822,27 +6242,28 @@ Hladká mouka</textarea>
 
         </div>
                 <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Fasana vánoční ubrousky 20ks" data-href="/domacnost-a-zahrada?productList-id=49594&amp;do=productList-modal" class="product-name modal-link"
+                <h5><a href="javascript:void(0)" aria-label="Alufix Potravinová fólie PVC 20m v krabičce s pilkou 1ks" data-href="/domacnost-a-zahrada?productList-id=43201&amp;do=productList-modal" class="product-name modal-link"
                    data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Fasana vánoční ubrousky 20ks
-                    <br><span class="new-product">Novinka</span>
+                    Alufix Potravinová fólie PVC 20m v krabičce s pilkou 1ks
+                    
                 </a></h5>
-            <p class="product-item-price ">
+            <p class="product-item-price product-in-discount">
                 <span class="price-before-discount">
+					<span><strong class="price">29,90 Kč</strong></span>
 				</span>
-                <strong class="price">29,90 Kč</strong>
+                <strong class="price">21,90 Kč</strong>
 
             </p>
             <p class="product-item-unit">
-                    (<strong class="price">1,50 Kč</strong> / ks)
+                    (<strong class="price">21,90 Kč</strong> / ks)
             </p>
                         <div class="product-list-rating">
             </div>
-<div id="snippet-productList-buy-49594-quantity">        <div class="product-quantity-control">
-            <form action="/domacnost-a-zahrada" method="post" class="ajax" id="frm-productList-buy-49594-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-49594-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+<div id="snippet-productList-buy-43201-quantity">        <div class="product-quantity-control">
+            <form action="/domacnost-a-zahrada" method="post" class="ajax" id="frm-productList-buy-43201-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-43201-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
                 <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-49594-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+            <input type="hidden" name="do" value="productList-buy-43201-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
 </form>
 
         </div>
@@ -6854,21 +6275,21 @@ Hladká mouka</textarea>
 
         
     </div>
-    <div id="product-append-43200" class="product-item">
+    <div id="product-append-12513" class="product-item">
         <div class="product-item-flags">
         </div>
         <div class="product-item-image">
-                <a data-href="/domacnost-a-zahrada?productList-id=43200&amp;do=productList-modal"
+                <a data-href="/domacnost-a-zahrada?productList-id=12513&amp;do=productList-modal"
                    data-target="productList-productModal"
-                   data-product-id="43200"
-                   data-product-price="49.9"
-                   data-page-title="Alufix Alobal 20m, 29cm"
-                   data-page-path="/produkt/43200-alufix-alobal-20m-29cm"
+                   data-product-id="12513"
+                   data-product-price="24.9"
+                   data-page-title="Alufix Pytle na odpadky 35l, 30ks"
+                   data-page-path="/produkt/12513-alufix-pytle-na-odpadky-35l-30ks"
                    data-user-id=""
                    aria-hidden="true"
                    data-kosikmodal-onclose="onProductModalDestroy"
                    onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/60917.jpg" alt="Alufix Alobal 20m, 29cm" class="loading-images loading-image">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/29796.jpg" alt="Alufix Pytle na odpadky 35l, 30ks" class="loading-images loading-image">
                 </a>
 
 
@@ -6876,27 +6297,351 @@ Hladká mouka</textarea>
 
         </div>
                 <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Alufix Alobal 20m, 29cm" data-href="/domacnost-a-zahrada?productList-id=43200&amp;do=productList-modal" class="product-name modal-link"
+                <h5><a href="javascript:void(0)" aria-label="Alufix Pytle na odpadky 35l, 30ks" data-href="/domacnost-a-zahrada?productList-id=12513&amp;do=productList-modal" class="product-name modal-link"
                    data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Alufix Alobal 20m, 29cm
+                    Alufix Pytle na odpadky 35l, 30ks
                     
                 </a></h5>
             <p class="product-item-price ">
                 <span class="price-before-discount">
 				</span>
-                <strong class="price">49,90 Kč</strong>
+                <strong class="price">24,90 Kč</strong>
 
             </p>
             <p class="product-item-unit">
-                    (<strong class="price">49,90 Kč</strong> / ks)
+                    (<strong class="price">0,80 Kč</strong> / ks)
             </p>
                         <div class="product-list-rating">
             </div>
-<div id="snippet-productList-buy-43200-quantity">        <div class="product-quantity-control">
-            <form action="/domacnost-a-zahrada" method="post" class="ajax" id="frm-productList-buy-43200-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-43200-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+<div id="snippet-productList-buy-12513-quantity">        <div class="product-quantity-control">
+            <form action="/domacnost-a-zahrada" method="post" class="ajax" id="frm-productList-buy-12513-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-12513-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
                 <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-43200-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+            <input type="hidden" name="do" value="productList-buy-12513-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+</form>
+
+        </div>
+</div>
+                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
+
+
+        </div>
+
+        
+    </div>
+    <div id="product-append-22677" class="product-item">
+        <div class="product-item-flags">
+        </div>
+        <div class="product-item-image">
+                <a data-href="/domacnost-a-zahrada?productList-id=22677&amp;do=productList-modal"
+                   data-target="productList-productModal"
+                   data-product-id="22677"
+                   data-product-price="14.9"
+                   data-page-title="Vánoční dárková taška papírová M (18x21x8,5cm)"
+                   data-page-path="/produkt/22677-vanocni-darkova-taska-papirova-m-18x21x8-5cm"
+                   data-user-id=""
+                   aria-hidden="true"
+                   data-kosikmodal-onclose="onProductModalDestroy"
+                   onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/39926.jpg" alt="Vánoční dárková taška papírová M (18x21x8,5cm)" class="loading-images loading-image">
+                </a>
+
+
+
+
+        </div>
+                <div class="product-item-info">
+                <h5><a href="javascript:void(0)" aria-label="Vánoční dárková taška papírová M (18x21x8,5cm)" data-href="/domacnost-a-zahrada?productList-id=22677&amp;do=productList-modal" class="product-name modal-link"
+                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    Vánoční dárková taška papírová M (18x21x8,5cm)
+                    
+                </a></h5>
+            <p class="product-item-price ">
+                <span class="price-before-discount">
+				</span>
+                <strong class="price">14,90 Kč</strong>
+
+            </p>
+            <p class="product-item-unit">
+                    (<strong class="price">14,90 Kč</strong> / ks)
+            </p>
+                        <div class="product-list-rating">
+            </div>
+<div id="snippet-productList-buy-22677-quantity">        <div class="product-quantity-control">
+            <form action="/domacnost-a-zahrada" method="post" class="ajax" id="frm-productList-buy-22677-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-22677-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
+            <input type="hidden" name="do" value="productList-buy-22677-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+</form>
+
+        </div>
+</div>
+                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
+
+
+        </div>
+
+        
+    </div>
+    <div id="product-append-4883" class="product-item">
+        <div class="product-item-flags">
+        </div>
+        <div class="product-item-image">
+                <a data-href="/domacnost-a-zahrada?productList-id=4883&amp;do=productList-modal"
+                   data-target="productList-productModal"
+                   data-product-id="4883"
+                   data-product-price="15.9"
+                   data-page-title="Balis Svačinové sáčky barevné 25x35cm 50ks"
+                   data-page-path="/produkt/4883-balis-svacinove-sacky-barevne-25x35cm-50ks"
+                   data-user-id=""
+                   aria-hidden="true"
+                   data-kosikmodal-onclose="onProductModalDestroy"
+                   onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/5233.jpg" alt="Balis Svačinové sáčky barevné 25x35cm 50ks" class="loading-images loading-image">
+                </a>
+
+
+
+
+        </div>
+                <div class="product-item-info">
+                <h5><a href="javascript:void(0)" aria-label="Balis Svačinové sáčky barevné 25x35cm 50ks" data-href="/domacnost-a-zahrada?productList-id=4883&amp;do=productList-modal" class="product-name modal-link"
+                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    Balis Svačinové sáčky barevné 25x35cm 50ks
+                    
+                </a></h5>
+            <p class="product-item-price ">
+                <span class="price-before-discount">
+				</span>
+                <strong class="price">15,90 Kč</strong>
+
+            </p>
+            <p class="product-item-unit">
+                    (<strong class="price">0,30 Kč</strong> / ks)
+            </p>
+                        <div class="product-list-rating">
+            </div>
+<div id="snippet-productList-buy-4883-quantity">        <div class="product-quantity-control">
+            <form action="/domacnost-a-zahrada" method="post" class="ajax" id="frm-productList-buy-4883-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-4883-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
+            <input type="hidden" name="do" value="productList-buy-4883-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+</form>
+
+        </div>
+</div>
+                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
+
+
+        </div>
+
+        
+    </div>
+    <div id="product-append-22676" class="product-item">
+        <div class="product-item-flags">
+        </div>
+        <div class="product-item-image">
+                <a data-href="/domacnost-a-zahrada?productList-id=22676&amp;do=productList-modal"
+                   data-target="productList-productModal"
+                   data-product-id="22676"
+                   data-product-price="12.9"
+                   data-page-title="Vánoční dárková taška papírová S (11x14x6,5cm)"
+                   data-page-path="/produkt/22676-vanocni-darkova-taska-papirova-s-11x14x6-5cm"
+                   data-user-id=""
+                   aria-hidden="true"
+                   data-kosikmodal-onclose="onProductModalDestroy"
+                   onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/39925.jpg" alt="Vánoční dárková taška papírová S (11x14x6,5cm)" class="loading-images loading-image">
+                </a>
+
+
+
+
+        </div>
+                <div class="product-item-info">
+                <h5><a href="javascript:void(0)" aria-label="Vánoční dárková taška papírová S (11x14x6,5cm)" data-href="/domacnost-a-zahrada?productList-id=22676&amp;do=productList-modal" class="product-name modal-link"
+                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    Vánoční dárková taška papírová S (11x14x6,5cm)
+                    
+                </a></h5>
+            <p class="product-item-price ">
+                <span class="price-before-discount">
+				</span>
+                <strong class="price">12,90 Kč</strong>
+
+            </p>
+            <p class="product-item-unit">
+                    (<strong class="price">12,90 Kč</strong> / ks)
+            </p>
+                        <div class="product-list-rating">
+            </div>
+<div id="snippet-productList-buy-22676-quantity">        <div class="product-quantity-control">
+            <form action="/domacnost-a-zahrada" method="post" class="ajax" id="frm-productList-buy-22676-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-22676-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
+            <input type="hidden" name="do" value="productList-buy-22676-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+</form>
+
+        </div>
+</div>
+                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
+
+
+        </div>
+
+        
+    </div>
+    <div id="product-append-22700" class="product-item">
+        <div class="product-item-flags">
+        </div>
+        <div class="product-item-image">
+                <a data-href="/domacnost-a-zahrada?productList-id=22700&amp;do=productList-modal"
+                   data-target="productList-productModal"
+                   data-product-id="22700"
+                   data-product-price="11.9"
+                   data-page-title="Vonné vánoční  františky černé (3ks/sáč)"
+                   data-page-path="/produkt/22700-vonne-vanocni-frantisky-cerne-3ks-sac"
+                   data-user-id=""
+                   aria-hidden="true"
+                   data-kosikmodal-onclose="onProductModalDestroy"
+                   onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/39949.jpg" alt="Vonné vánoční  františky černé (3ks/sáč)" class="loading-images loading-image">
+                </a>
+
+
+
+
+        </div>
+                <div class="product-item-info">
+                <h5><a href="javascript:void(0)" aria-label="Vonné vánoční  františky černé (3ks/sáč)" data-href="/domacnost-a-zahrada?productList-id=22700&amp;do=productList-modal" class="product-name modal-link"
+                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    Vonné vánoční  františky černé (3ks/sáč)
+                    
+                </a></h5>
+            <p class="product-item-price ">
+                <span class="price-before-discount">
+				</span>
+                <strong class="price">11,90 Kč</strong>
+
+            </p>
+            <p class="product-item-unit">
+                    (<strong class="price">4,00 Kč</strong> / ks)
+            </p>
+                        <div class="product-list-rating">
+            </div>
+<div id="snippet-productList-buy-22700-quantity">        <div class="product-quantity-control">
+            <form action="/domacnost-a-zahrada" method="post" class="ajax" id="frm-productList-buy-22700-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-22700-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
+            <input type="hidden" name="do" value="productList-buy-22700-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+</form>
+
+        </div>
+</div>
+                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
+
+
+        </div>
+
+        
+    </div>
+    <div id="product-append-14533" class="product-item">
+        <div class="product-item-flags">
+        </div>
+        <div class="product-item-image">
+                <a data-href="/domacnost-a-zahrada?productList-id=14533&amp;do=productList-modal"
+                   data-target="productList-productModal"
+                   data-product-id="14533"
+                   data-product-price="5.9"
+                   data-page-title="Stuha vázací 20m x 5mm"
+                   data-page-path="/produkt/14533-stuha-vazaci-20m-x-5mm"
+                   data-user-id=""
+                   aria-hidden="true"
+                   data-kosikmodal-onclose="onProductModalDestroy"
+                   onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/31802.jpg" alt="Stuha vázací 20m x 5mm" class="loading-images loading-image">
+                </a>
+
+
+
+
+        </div>
+                <div class="product-item-info">
+                <h5><a href="javascript:void(0)" aria-label="Stuha vázací 20m x 5mm" data-href="/domacnost-a-zahrada?productList-id=14533&amp;do=productList-modal" class="product-name modal-link"
+                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    Stuha vázací 20m x 5mm
+                    
+                </a></h5>
+            <p class="product-item-price ">
+                <span class="price-before-discount">
+				</span>
+                <strong class="price">5,90 Kč</strong>
+
+            </p>
+            <p class="product-item-unit">
+                    (<strong class="price">5,90 Kč</strong> / ks)
+            </p>
+                        <div class="product-list-rating">
+            </div>
+<div id="snippet-productList-buy-14533-quantity">        <div class="product-quantity-control">
+            <form action="/domacnost-a-zahrada" method="post" class="ajax" id="frm-productList-buy-14533-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-14533-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
+            <input type="hidden" name="do" value="productList-buy-14533-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+</form>
+
+        </div>
+</div>
+                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
+
+
+        </div>
+
+        
+    </div>
+    <div id="product-append-4795" class="product-item">
+        <div class="product-item-flags">
+        </div>
+        <div class="product-item-image">
+                <a data-href="/domacnost-a-zahrada?productList-id=4795&amp;do=productList-modal"
+                   data-target="productList-productModal"
+                   data-product-id="4795"
+                   data-product-price="15.9"
+                   data-page-title="Cleanex Trade Houba na nádobí CLASSIC 10ks"
+                   data-page-path="/produkt/4795-cleanex-trade-houba-na-nadobi-classic-10ks"
+                   data-user-id=""
+                   aria-hidden="true"
+                   data-kosikmodal-onclose="onProductModalDestroy"
+                   onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/5120.jpg" alt="Cleanex Trade Houba na nádobí CLASSIC 10ks" class="loading-images loading-image">
+                </a>
+
+
+
+
+        </div>
+                <div class="product-item-info">
+                <h5><a href="javascript:void(0)" aria-label="Cleanex Trade Houba na nádobí CLASSIC 10ks" data-href="/domacnost-a-zahrada?productList-id=4795&amp;do=productList-modal" class="product-name modal-link"
+                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    Cleanex Trade Houba na nádobí CLASSIC 10ks
+                    
+                </a></h5>
+            <p class="product-item-price ">
+                <span class="price-before-discount">
+				</span>
+                <strong class="price">15,90 Kč</strong>
+
+            </p>
+            <p class="product-item-unit">
+                    (<strong class="price">1,60 Kč</strong> / ks)
+            </p>
+                        <div class="product-list-rating">
+            </div>
+<div id="snippet-productList-buy-4795-quantity">        <div class="product-quantity-control">
+            <form action="/domacnost-a-zahrada" method="post" class="ajax" id="frm-productList-buy-4795-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-4795-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
+            <input type="hidden" name="do" value="productList-buy-4795-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
 </form>
 
         </div>
@@ -6962,24 +6707,24 @@ Hladká mouka</textarea>
 
         
     </div>
-    <div id="product-append-46676" class="product-item">
+    <div id="product-append-22666" class="product-item">
         <div class="product-item-flags">
             <div class="flag-sale ">
-                <span class="percents">39<small>&#37;</small></span>
+                <span class="percents">33<small>&#37;</small></span>
             </div>
         </div>
         <div class="product-item-image">
-                <a data-href="/domacnost-a-zahrada?productList-id=46676&amp;do=productList-modal"
+                <a data-href="/domacnost-a-zahrada?productList-id=22666&amp;do=productList-modal"
                    data-target="productList-productModal"
-                   data-product-id="46676"
-                   data-product-price="49"
-                   data-page-title="Air Wick Svíčka Vanilkový lusk 30g"
-                   data-page-path="/produkt/46676-air-wick-svicka-vanilkovy-lusk-30g"
+                   data-product-id="22666"
+                   data-product-price="29.9"
+                   data-page-title="Big Soft vánoční ubrousky, 20ks"
+                   data-page-path="/produkt/22666-big-soft-vanocni-ubrousky-20ks"
                    data-user-id=""
                    aria-hidden="true"
                    data-kosikmodal-onclose="onProductModalDestroy"
                    onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/64189.jpg" alt="Air Wick Svíčka Vanilkový lusk 30g" class="loading-images loading-image">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/39915.jpg" alt="Big Soft vánoční ubrousky, 20ks" class="loading-images loading-image">
                 </a>
 
 
@@ -6987,14 +6732,184 @@ Hladká mouka</textarea>
 
         </div>
                 <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Air Wick Svíčka Vanilkový lusk 30g" data-href="/domacnost-a-zahrada?productList-id=46676&amp;do=productList-modal" class="product-name modal-link"
+                <h5><a href="javascript:void(0)" aria-label="Big Soft vánoční ubrousky, 20ks" data-href="/domacnost-a-zahrada?productList-id=22666&amp;do=productList-modal" class="product-name modal-link"
                    data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Air Wick Svíčka Vanilkový lusk 30g
+                    Big Soft vánoční ubrousky, 20ks
                     
                 </a></h5>
             <p class="product-item-price product-in-discount">
                 <span class="price-before-discount">
-					<span><strong class="price">49,00 Kč</strong></span>
+					<span><strong class="price">29,90 Kč</strong></span>
+				</span>
+                <strong class="price">19,90 Kč</strong>
+
+            </p>
+            <p class="product-item-unit">
+                    (<strong class="price">19,90 Kč</strong> / ks)
+            </p>
+                        <div class="product-list-rating">
+            </div>
+<div id="snippet-productList-buy-22666-quantity">        <div class="product-quantity-control">
+            <form action="/domacnost-a-zahrada" method="post" class="ajax" id="frm-productList-buy-22666-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-22666-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
+            <input type="hidden" name="do" value="productList-buy-22666-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+</form>
+
+        </div>
+</div>
+                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
+
+
+        </div>
+
+        
+    </div>
+    <div id="product-append-43200" class="product-item">
+        <div class="product-item-flags">
+            <div class="flag-sale ">
+                <span class="percents">30<small>&#37;</small></span>
+            </div>
+        </div>
+        <div class="product-item-image">
+                <a data-href="/domacnost-a-zahrada?productList-id=43200&amp;do=productList-modal"
+                   data-target="productList-productModal"
+                   data-product-id="43200"
+                   data-product-price="49.9"
+                   data-page-title="Alufix Alobal 20m, 29cm"
+                   data-page-path="/produkt/43200-alufix-alobal-20m-29cm"
+                   data-user-id=""
+                   aria-hidden="true"
+                   data-kosikmodal-onclose="onProductModalDestroy"
+                   onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/60917.jpg" alt="Alufix Alobal 20m, 29cm" class="loading-images loading-image">
+                </a>
+
+
+
+
+        </div>
+                <div class="product-item-info">
+                <h5><a href="javascript:void(0)" aria-label="Alufix Alobal 20m, 29cm" data-href="/domacnost-a-zahrada?productList-id=43200&amp;do=productList-modal" class="product-name modal-link"
+                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    Alufix Alobal 20m, 29cm
+                    
+                </a></h5>
+            <p class="product-item-price product-in-discount">
+                <span class="price-before-discount">
+					<span><strong class="price">49,90 Kč</strong></span>
+				</span>
+                <strong class="price">34,90 Kč</strong>
+
+            </p>
+            <p class="product-item-unit">
+                    (<strong class="price">34,90 Kč</strong> / ks)
+            </p>
+                        <div class="product-list-rating">
+            </div>
+<div id="snippet-productList-buy-43200-quantity">        <div class="product-quantity-control">
+            <form action="/domacnost-a-zahrada" method="post" class="ajax" id="frm-productList-buy-43200-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-43200-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
+            <input type="hidden" name="do" value="productList-buy-43200-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+</form>
+
+        </div>
+</div>
+                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
+
+
+        </div>
+
+        
+    </div>
+    <div id="product-append-49029" class="product-item">
+        <div class="product-item-flags">
+        </div>
+        <div class="product-item-image">
+                <a data-href="/domacnost-a-zahrada?productList-id=49029&amp;do=productList-modal"
+                   data-target="productList-productModal"
+                   data-product-id="49029"
+                   data-product-price="29.9"
+                   data-page-title="Vánoční balicí papír dětský 2ks 70x100cm"
+                   data-page-path="/produkt/49029-vanocni-balici-papir-detsky-2ks-70x100cm"
+                   data-user-id=""
+                   aria-hidden="true"
+                   data-kosikmodal-onclose="onProductModalDestroy"
+                   onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/66583.jpg" alt="Vánoční balicí papír dětský 2ks 70x100cm" class="loading-images loading-image">
+                </a>
+
+
+
+
+        </div>
+                <div class="product-item-info">
+                <h5><a href="javascript:void(0)" aria-label="Vánoční balicí papír dětský 2ks 70x100cm" data-href="/domacnost-a-zahrada?productList-id=49029&amp;do=productList-modal" class="product-name modal-link"
+                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    Vánoční balicí papír dětský 2ks 70x100cm
+                    
+                </a></h5>
+            <p class="product-item-price ">
+                <span class="price-before-discount">
+				</span>
+                <strong class="price">29,90 Kč</strong>
+
+            </p>
+            <p class="product-item-unit">
+                    (<strong class="price">15,00 Kč</strong> / ks)
+            </p>
+                        <div class="product-list-rating">
+            </div>
+<div id="snippet-productList-buy-49029-quantity">        <div class="product-quantity-control">
+            <form action="/domacnost-a-zahrada" method="post" class="ajax" id="frm-productList-buy-49029-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-49029-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
+            <input type="hidden" name="do" value="productList-buy-49029-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+</form>
+
+        </div>
+</div>
+                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
+
+
+        </div>
+
+        
+    </div>
+    <div id="product-append-49038" class="product-item">
+        <div class="product-item-flags">
+            <div class="flag-sale ">
+                <span class="percents">25<small>&#37;</small></span>
+            </div>
+        </div>
+        <div class="product-item-image">
+                <a data-href="/domacnost-a-zahrada?productList-id=49038&amp;do=productList-modal"
+                   data-target="productList-productModal"
+                   data-product-id="49038"
+                   data-product-price="39.9"
+                   data-page-title="Vánoční řetěz zlatý 7,5cmx2m"
+                   data-page-path="/produkt/49038-vanocni-retez-zlaty-7-5cmx2m"
+                   data-user-id=""
+                   aria-hidden="true"
+                   data-kosikmodal-onclose="onProductModalDestroy"
+                   onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/66592.jpg" alt="Vánoční řetěz zlatý 7,5cmx2m" class="loading-images loading-image">
+                </a>
+
+
+
+
+        </div>
+                <div class="product-item-info">
+                <h5><a href="javascript:void(0)" aria-label="Vánoční řetěz zlatý 7,5cmx2m" data-href="/domacnost-a-zahrada?productList-id=49038&amp;do=productList-modal" class="product-name modal-link"
+                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    Vánoční řetěz zlatý 7,5cmx2m
+                    
+                </a></h5>
+            <p class="product-item-price product-in-discount">
+                <span class="price-before-discount">
+					<span><strong class="price">39,90 Kč</strong></span>
 				</span>
                 <strong class="price">29,90 Kč</strong>
 
@@ -7004,11 +6919,65 @@ Hladká mouka</textarea>
             </p>
                         <div class="product-list-rating">
             </div>
-<div id="snippet-productList-buy-46676-quantity">        <div class="product-quantity-control">
-            <form action="/domacnost-a-zahrada" method="post" class="ajax" id="frm-productList-buy-46676-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-46676-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+<div id="snippet-productList-buy-49038-quantity">        <div class="product-quantity-control">
+            <form action="/domacnost-a-zahrada" method="post" class="ajax" id="frm-productList-buy-49038-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-49038-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
                 <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-46676-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+            <input type="hidden" name="do" value="productList-buy-49038-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+</form>
+
+        </div>
+</div>
+                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
+
+
+        </div>
+
+        
+    </div>
+    <div id="product-append-7003" class="product-item">
+        <div class="product-item-flags">
+        </div>
+        <div class="product-item-image">
+                <a data-href="/domacnost-a-zahrada?productList-id=7003&amp;do=productList-modal"
+                   data-target="productList-productModal"
+                   data-product-id="7003"
+                   data-product-price="49.9"
+                   data-page-title="Fino Odpadkové pytle 60l, 20ks"
+                   data-page-path="/produkt/7003-fino-odpadkove-pytle-60l-20ks"
+                   data-user-id=""
+                   aria-hidden="true"
+                   data-kosikmodal-onclose="onProductModalDestroy"
+                   onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/9682.jpg" alt="Fino Odpadkové pytle 60l, 20ks" class="loading-images loading-image">
+                </a>
+
+
+
+
+        </div>
+                <div class="product-item-info">
+                <h5><a href="javascript:void(0)" aria-label="Fino Odpadkové pytle 60l, 20ks" data-href="/domacnost-a-zahrada?productList-id=7003&amp;do=productList-modal" class="product-name modal-link"
+                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    Fino Odpadkové pytle 60l, 20ks
+                    
+                </a></h5>
+            <p class="product-item-price ">
+                <span class="price-before-discount">
+				</span>
+                <strong class="price">49,90 Kč</strong>
+
+            </p>
+            <p class="product-item-unit">
+                    (<strong class="price">2,50 Kč</strong> / ks)
+            </p>
+                        <div class="product-list-rating">
+            </div>
+<div id="snippet-productList-buy-7003-quantity">        <div class="product-quantity-control">
+            <form action="/domacnost-a-zahrada" method="post" class="ajax" id="frm-productList-buy-7003-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-7003-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
+            <input type="hidden" name="do" value="productList-buy-7003-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
 </form>
 
         </div>

@@ -11,7 +11,7 @@
         <link rel="apple-touch-icon" href="/css/images/logo.png">
         <link rel="stylesheet" type="text/css" href="/css/slim.min.css">
 
-<link rel="stylesheet" type="text/css" href="/webtemp/cssloader-6fe495a87813.css?1513005734">
+<link rel="stylesheet" type="text/css" href="/webtemp/cssloader-6fe495a87813.css?1513350274">
 <script type="text/javascript" src="/webtemp/jsloader-e4f5f7728c43.js?1511346204"></script>
 <script type="text/javascript">
     function currentPageDataPush() {
@@ -217,7 +217,10 @@ Hladká mouka</textarea>
                     <img src="/svg/recipes.svg" aria-hidden="true" alt="recepty">
                     <span class="item-name-desktop">Recepty</span>
                 </a></li>
-
+            <li><a href="https://blog.kosik.cz" data-href="true" target="_blank">
+                    <img src="/svg/blog.svg" aria-hidden="true" alt="blog">
+                    <span class="item-name-desktop">Blog</span>
+                </a></li>
             <li><a href="/delikatesy">
                     <img src="/svg/deli.svg" aria-hidden="true" alt="delikatesy">
                     <span class="item-name-desktop">Delikatesy</span>
@@ -229,6 +232,10 @@ Hladká mouka</textarea>
             <li><a class="christmas-link" href="/#christmas-inspiration">
                     <img src="/svg/vanoce.svg" aria-hidden="true" alt="Vánoce">
                     <span class="item-name-desktop">Vánoce</span>
+                </a></li>
+            <li><a href="/poctive-piti">
+                    <img src="/svg/honest-drinks.svg" aria-hidden="true" alt="poctivé pití">
+                    <span class="item-name-desktop">Poctivé pití</span>
                 </a></li>
         </ul>
     </div>
@@ -294,6 +301,13 @@ Hladká mouka</textarea>
                     </a>
                 </div>
 
+               <div class="ico-text-group">
+                    <a class="ico-text-group-link" href="https://blog.kosik.cz" data-href="true" target="_blank">
+                        <span class="item-name">Blog</span>
+                        <img src="/svg/blog.svg" aria-hidden="true" alt="blog">
+                    </a>
+                </div>
+
                 <div class="ico-text-group">
                     <a class="ico-text-group-link" href="/delikatesy" data-href="true">
                         <span class="item-name">Delikatesy</span>
@@ -312,6 +326,13 @@ Hladká mouka</textarea>
                     <a class="ico-text-group-link christmas-link" href="/#christmas-inspiration" data-href="true" >
                         <span class="item-name">Vánoce</span>
                         <img src="/svg/vanoce.svg" aria-hidden="true" alt="Vánoce">
+                    </a>
+                </div>
+
+                <div class="ico-text-group">
+                    <a class="ico-text-group-link" href="/poctive-piti" data-href="true" >
+                        <span class="item-name">Poctivé pití</span>
+                        <img src="/svg/honest-drinks.svg" aria-hidden="true" alt="Poctivé pití">
                     </a>
                 </div>
             </div>
@@ -876,6 +897,14 @@ Hladká mouka</textarea>
                                                 <a href="/maso-a-ryby/susene-maso/veprove">
                                                     Vepřové,
                                                 </a>
+
+                                                <a href="/maso-a-ryby/susene-maso/drubezi">
+                                                    Drůbeží,
+                                                </a>
+
+                                                <a href="/maso-a-ryby/susene-maso/ostatni">
+                                                    Ostatní,
+                                                </a>
                                         <a href="/maso-a-ryby/susene-maso">...</a>
                                     </div>
                                 </div>
@@ -1298,6 +1327,7 @@ Hladká mouka</textarea>
                                                 </a>
 
 
+
                                         <a href="/uzeniny-a-lahudky/lahudky">...</a>
                                     </div>
                                 </div>
@@ -1539,6 +1569,40 @@ Hladká mouka</textarea>
                             <div class="category-product-list">
 
                                                                 <div class="product-type">
+                                    <a href="/napoje/poctive-piti" class="product-type-image">
+                                        <img data-src="https://cdn.kosik.cz/content/category/svg/menu/1929.svg" alt="Poctivé pití">
+                                    </a>
+                                    <h3>
+                                        <a class="children" href="/napoje/poctive-piti">
+                                            Poctivé pití
+                                        </a>
+                                    </h3>
+
+                                                                        <div class="categories-container">
+
+                                                <a href="/napoje/poctive-piti/pivo-a-cider">
+                                                    Pivo a cider,
+                                                </a>
+
+                                                <a href="/napoje/poctive-piti/limonady">
+                                                    Limonády,
+                                                </a>
+
+                                                <a href="/napoje/poctive-piti/sirupy">
+                                                    Sirupy,
+                                                </a>
+
+                                                <a href="/napoje/poctive-piti/mosty">
+                                                    Mošty,
+                                                </a>
+
+                                                <a href="/napoje/poctive-piti/darkova-baleni">
+                                                    Dárková balení,
+                                                </a>
+                                        <a href="/napoje/poctive-piti">...</a>
+                                    </div>
+                                </div>
+                                <div class="product-type">
                                     <a href="/napoje/mineralni-a-pramenite" class="product-type-image">
                                         <img data-src="https://cdn.kosik.cz/content/category/svg/menu/1180.svg" alt="Minerální a pramenité">
                                     </a>
@@ -3336,6 +3400,10 @@ Hladká mouka</textarea>
                                                 <a href="/drogerie/pece-o-zdravi/masazni-emulze">
                                                     Masážní emulze,
                                                 </a>
+
+                                                <a href="/drogerie/pece-o-zdravi/pece-o-telo-a-vlasy">
+                                                    Péče o tělo a vlasy,
+                                                </a>
                                         <a href="/drogerie/pece-o-zdravi">...</a>
                                     </div>
                                 </div>
@@ -3852,6 +3920,9 @@ Hladká mouka</textarea>
 					<li>
 						<a href="/drogerie/pece-o-zdravi/masazni-emulze">Masážní emulze</a>
 					</li>
+					<li>
+						<a href="/drogerie/pece-o-zdravi/pece-o-telo-a-vlasy">Péče o tělo a vlasy</a>
+					</li>
 				</ul>
 			</li>
 		</ul>
@@ -3867,7 +3938,7 @@ Hladká mouka</textarea>
         </div>
     </div>
     <div class="count" id="snippet-productFilter-countArea">
-        <p>3135 produktů nalezeno</p>
+        <p>3062 produktů nalezeno</p>
     </div>
 
         <h3 aria-label="Filtr Podle ceny">Podle ceny</h3>
@@ -3909,8 +3980,8 @@ Hladká mouka</textarea>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-1567" value="1567" aria-label="!Adidas (25)">
-                            <label for="frm-productFilter-brandConstraintForm-value-1567">Adidas (25)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-1567" value="1567" aria-label="!Adidas (24)">
+                            <label for="frm-productFilter-brandConstraintForm-value-1567">Adidas (24)</label>
                         </div>
 
 
@@ -3933,8 +4004,8 @@ Hladká mouka</textarea>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-80" value="80" aria-label="!Always (28)">
-                            <label for="frm-productFilter-brandConstraintForm-value-80">Always (28)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-80" value="80" aria-label="!Always (27)">
+                            <label for="frm-productFilter-brandConstraintForm-value-80">Always (27)</label>
                         </div>
 
 
@@ -3951,8 +4022,8 @@ Hladká mouka</textarea>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-1572" value="1572" aria-label="!Aquafresh (15)">
-                            <label for="frm-productFilter-brandConstraintForm-value-1572">Aquafresh (15)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-1572" value="1572" aria-label="!Aquafresh (13)">
+                            <label for="frm-productFilter-brandConstraintForm-value-1572">Aquafresh (13)</label>
                         </div>
 
 
@@ -3963,8 +4034,8 @@ Hladká mouka</textarea>
 
 
                             <div class="form-row">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-52" value="52" aria-label="!Astrid (75)">
-                            <label for="frm-productFilter-brandConstraintForm-value-52">Astrid (75)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-52" value="52" aria-label="!Astrid (74)">
+                            <label for="frm-productFilter-brandConstraintForm-value-52">Astrid (74)</label>
                         </div>
 
 
@@ -3987,14 +4058,14 @@ Hladká mouka</textarea>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-69" value="69" aria-label="!Axe (37)">
-                            <label for="frm-productFilter-brandConstraintForm-value-69">Axe (37)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-69" value="69" aria-label="!Axe (33)">
+                            <label for="frm-productFilter-brandConstraintForm-value-69">Axe (33)</label>
                         </div>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-1568" value="1568" aria-label="!B.U. (11)">
-                            <label for="frm-productFilter-brandConstraintForm-value-1568">B.U. (11)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-1568" value="1568" aria-label="!B.U. (9)">
+                            <label for="frm-productFilter-brandConstraintForm-value-1568">B.U. (9)</label>
                         </div>
 
 
@@ -4029,8 +4100,8 @@ Hladká mouka</textarea>
 
 
                             <div class="form-row">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-87" value="87" aria-label="!Bez značky (82)">
-                            <label for="frm-productFilter-brandConstraintForm-value-87">Bez značky (82)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-87" value="87" aria-label="!Bez značky (76)">
+                            <label for="frm-productFilter-brandConstraintForm-value-87">Bez značky (76)</label>
                         </div>
 
 
@@ -4041,8 +4112,8 @@ Hladká mouka</textarea>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-3356" value="3356" aria-label="!Biofficina Toscana (18)">
-                            <label for="frm-productFilter-brandConstraintForm-value-3356">Biofficina Toscana (18)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-3356" value="3356" aria-label="!Biofficina Toscana (17)">
+                            <label for="frm-productFilter-brandConstraintForm-value-3356">Biofficina Toscana (17)</label>
                         </div>
 
 
@@ -4095,8 +4166,8 @@ Hladká mouka</textarea>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-40" value="40" aria-label="!Bref (36)">
-                            <label for="frm-productFilter-brandConstraintForm-value-40">Bref (36)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-40" value="40" aria-label="!Bref (35)">
+                            <label for="frm-productFilter-brandConstraintForm-value-40">Bref (35)</label>
                         </div>
 
 
@@ -4119,8 +4190,8 @@ Hladká mouka</textarea>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-743" value="743" aria-label="!Calgon (6)">
-                            <label for="frm-productFilter-brandConstraintForm-value-743">Calgon (6)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-743" value="743" aria-label="!Calgon (5)">
+                            <label for="frm-productFilter-brandConstraintForm-value-743">Calgon (5)</label>
                         </div>
 
 
@@ -4191,8 +4262,8 @@ Hladká mouka</textarea>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-70" value="70" aria-label="!Colgate (19)">
-                            <label for="frm-productFilter-brandConstraintForm-value-70">Colgate (19)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-70" value="70" aria-label="!Colgate (18)">
+                            <label for="frm-productFilter-brandConstraintForm-value-70">Colgate (18)</label>
                         </div>
 
 
@@ -4203,14 +4274,14 @@ Hladká mouka</textarea>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-1480" value="1480" aria-label="!Curaprox (11)">
-                            <label for="frm-productFilter-brandConstraintForm-value-1480">Curaprox (11)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-1480" value="1480" aria-label="!Curaprox (9)">
+                            <label for="frm-productFilter-brandConstraintForm-value-1480">Curaprox (9)</label>
                         </div>
 
 
                             <div class="form-row">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-1939" value="1939" aria-label="!Dermacol (69)">
-                            <label for="frm-productFilter-brandConstraintForm-value-1939">Dermacol (69)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-1939" value="1939" aria-label="!Dermacol (66)">
+                            <label for="frm-productFilter-brandConstraintForm-value-1939">Dermacol (66)</label>
                         </div>
 
 
@@ -4239,8 +4310,8 @@ Hladká mouka</textarea>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-3335" value="3335" aria-label="!Diplomat (9)">
-                            <label for="frm-productFilter-brandConstraintForm-value-3335">Diplomat (9)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-3335" value="3335" aria-label="!Diplomat (8)">
+                            <label for="frm-productFilter-brandConstraintForm-value-3335">Diplomat (8)</label>
                         </div>
 
 
@@ -4263,14 +4334,14 @@ Hladká mouka</textarea>
 
 
                             <div class="form-row">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-53" value="53" aria-label="!Dove (109)">
-                            <label for="frm-productFilter-brandConstraintForm-value-53">Dove (109)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-53" value="53" aria-label="!Dove (106)">
+                            <label for="frm-productFilter-brandConstraintForm-value-53">Dove (106)</label>
                         </div>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-1959" value="1959" aria-label="!Dove Men+Care (2)">
-                            <label for="frm-productFilter-brandConstraintForm-value-1959">Dove Men+Care (2)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-1959" value="1959" aria-label="!Dove Men+Care (1)">
+                            <label for="frm-productFilter-brandConstraintForm-value-1959">Dove Men+Care (1)</label>
                         </div>
 
 
@@ -4287,8 +4358,8 @@ Hladká mouka</textarea>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-84" value="84" aria-label="!Durex (30)">
-                            <label for="frm-productFilter-brandConstraintForm-value-84">Durex (30)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-84" value="84" aria-label="!Durex (29)">
+                            <label for="frm-productFilter-brandConstraintForm-value-84">Durex (29)</label>
                         </div>
 
 
@@ -4347,14 +4418,14 @@ Hladká mouka</textarea>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-3249" value="3249" aria-label="!Excel (4)">
-                            <label for="frm-productFilter-brandConstraintForm-value-3249">Excel (4)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-3249" value="3249" aria-label="!Excel (3)">
+                            <label for="frm-productFilter-brandConstraintForm-value-3249">Excel (3)</label>
                         </div>
 
 
                             <div class="form-row">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-66" value="66" aria-label="!Fa (79)">
-                            <label for="frm-productFilter-brandConstraintForm-value-66">Fa (79)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-66" value="66" aria-label="!Fa (75)">
+                            <label for="frm-productFilter-brandConstraintForm-value-66">Fa (75)</label>
                         </div>
 
 
@@ -4383,8 +4454,8 @@ Hladká mouka</textarea>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-32" value="32" aria-label="!Finish (23)">
-                            <label for="frm-productFilter-brandConstraintForm-value-32">Finish (23)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-32" value="32" aria-label="!Finish (28)">
+                            <label for="frm-productFilter-brandConstraintForm-value-32">Finish (28)</label>
                         </div>
 
 
@@ -4407,8 +4478,8 @@ Hladká mouka</textarea>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-3447" value="3447" aria-label="!Freeman (2)">
-                            <label for="frm-productFilter-brandConstraintForm-value-3447">Freeman (2)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-3447" value="3447" aria-label="!Freeman (3)">
+                            <label for="frm-productFilter-brandConstraintForm-value-3447">Freeman (3)</label>
                         </div>
 
 
@@ -4419,26 +4490,26 @@ Hladká mouka</textarea>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-661" value="661" aria-label="!G&amp;G (40)">
-                            <label for="frm-productFilter-brandConstraintForm-value-661">G&amp;G (40)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-661" value="661" aria-label="!G&amp;G (44)">
+                            <label for="frm-productFilter-brandConstraintForm-value-661">G&amp;G (44)</label>
                         </div>
 
 
                             <div class="form-row">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-59" value="59" aria-label="!Garnier (94)">
-                            <label for="frm-productFilter-brandConstraintForm-value-59">Garnier (94)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-59" value="59" aria-label="!Garnier (95)">
+                            <label for="frm-productFilter-brandConstraintForm-value-59">Garnier (95)</label>
                         </div>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-1974" value="1974" aria-label="!Gillete (20)">
-                            <label for="frm-productFilter-brandConstraintForm-value-1974">Gillete (20)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-1974" value="1974" aria-label="!Gillete (19)">
+                            <label for="frm-productFilter-brandConstraintForm-value-1974">Gillete (19)</label>
                         </div>
 
 
                             <div class="form-row">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-79" value="79" aria-label="!Gillette (87)">
-                            <label for="frm-productFilter-brandConstraintForm-value-79">Gillette (87)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-79" value="79" aria-label="!Gillette (86)">
+                            <label for="frm-productFilter-brandConstraintForm-value-79">Gillette (86)</label>
                         </div>
 
 
@@ -4497,8 +4568,8 @@ Hladká mouka</textarea>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-1476" value="1476" aria-label="!Harmony (10)">
-                            <label for="frm-productFilter-brandConstraintForm-value-1476">Harmony (10)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-1476" value="1476" aria-label="!Harmony (2)">
+                            <label for="frm-productFilter-brandConstraintForm-value-1476">Harmony (2)</label>
                         </div>
 
 
@@ -4545,12 +4616,6 @@ Hladká mouka</textarea>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-2728" value="2728" aria-label="!Johnson &amp; Johnson (1)">
-                            <label for="frm-productFilter-brandConstraintForm-value-2728">Johnson &amp; Johnson (1)</label>
-                        </div>
-
-
-                                                         <div class="form-row" style="display: none;">
                             <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-738" value="738" aria-label="!Jumbo (3)">
                             <label for="frm-productFilter-brandConstraintForm-value-738">Jumbo (3)</label>
                         </div>
@@ -4559,12 +4624,6 @@ Hladká mouka</textarea>
                                                          <div class="form-row" style="display: none;">
                             <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-2856" value="2856" aria-label="!K2r (4)">
                             <label for="frm-productFilter-brandConstraintForm-value-2856">K2r (4)</label>
-                        </div>
-
-
-                                                         <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-685" value="685" aria-label="!Kalyp (1)">
-                            <label for="frm-productFilter-brandConstraintForm-value-685">Kalyp (1)</label>
                         </div>
 
 
@@ -4653,8 +4712,8 @@ Hladká mouka</textarea>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-3331" value="3331" aria-label="!Le Petit Olivier (16)">
-                            <label for="frm-productFilter-brandConstraintForm-value-3331">Le Petit Olivier (16)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-3331" value="3331" aria-label="!Le Petit Olivier (12)">
+                            <label for="frm-productFilter-brandConstraintForm-value-3331">Le Petit Olivier (12)</label>
                         </div>
 
 
@@ -4671,14 +4730,14 @@ Hladká mouka</textarea>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-51" value="51" aria-label="!Linteo (35)">
-                            <label for="frm-productFilter-brandConstraintForm-value-51">Linteo (35)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-51" value="51" aria-label="!Linteo (34)">
+                            <label for="frm-productFilter-brandConstraintForm-value-51">Linteo (34)</label>
                         </div>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-76" value="76" aria-label="!Listerine (23)">
-                            <label for="frm-productFilter-brandConstraintForm-value-76">Listerine (23)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-76" value="76" aria-label="!Listerine (22)">
+                            <label for="frm-productFilter-brandConstraintForm-value-76">Listerine (22)</label>
                         </div>
 
 
@@ -4749,8 +4808,8 @@ Hladká mouka</textarea>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-3361" value="3361" aria-label="!Mixa (8)">
-                            <label for="frm-productFilter-brandConstraintForm-value-3361">Mixa (8)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-3361" value="3361" aria-label="!Mixa (7)">
+                            <label for="frm-productFilter-brandConstraintForm-value-3361">Mixa (7)</label>
                         </div>
 
 
@@ -4809,8 +4868,8 @@ Hladká mouka</textarea>
 
 
                             <div class="form-row">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-55" value="55" aria-label="!Nivea (194)">
-                            <label for="frm-productFilter-brandConstraintForm-value-55">Nivea (194)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-55" value="55" aria-label="!Nivea (184)">
+                            <label for="frm-productFilter-brandConstraintForm-value-55">Nivea (184)</label>
                         </div>
 
 
@@ -4845,14 +4904,14 @@ Hladká mouka</textarea>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-1337" value="1337" aria-label="!Old Spice (23)">
-                            <label for="frm-productFilter-brandConstraintForm-value-1337">Old Spice (23)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-1337" value="1337" aria-label="!Old Spice (20)">
+                            <label for="frm-productFilter-brandConstraintForm-value-1337">Old Spice (20)</label>
                         </div>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-2461" value="2461" aria-label="!Omino Binaco (4)">
-                            <label for="frm-productFilter-brandConstraintForm-value-2461">Omino Binaco (4)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-2461" value="2461" aria-label="!Omino Binaco (5)">
+                            <label for="frm-productFilter-brandConstraintForm-value-2461">Omino Binaco (5)</label>
                         </div>
 
 
@@ -4875,8 +4934,8 @@ Hladká mouka</textarea>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-3377" value="3377" aria-label="!Palette (19)">
-                            <label for="frm-productFilter-brandConstraintForm-value-3377">Palette (19)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-3377" value="3377" aria-label="!Palette (18)">
+                            <label for="frm-productFilter-brandConstraintForm-value-3377">Palette (18)</label>
                         </div>
 
 
@@ -4887,8 +4946,8 @@ Hladká mouka</textarea>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-689" value="689" aria-label="!Palmolive (42)">
-                            <label for="frm-productFilter-brandConstraintForm-value-689">Palmolive (42)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-689" value="689" aria-label="!Palmolive (41)">
+                            <label for="frm-productFilter-brandConstraintForm-value-689">Palmolive (41)</label>
                         </div>
 
 
@@ -4899,8 +4958,8 @@ Hladká mouka</textarea>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-72" value="72" aria-label="!Parodontax (5)">
-                            <label for="frm-productFilter-brandConstraintForm-value-72">Parodontax (5)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-72" value="72" aria-label="!Parodontax (4)">
+                            <label for="frm-productFilter-brandConstraintForm-value-72">Parodontax (4)</label>
                         </div>
 
 
@@ -4917,8 +4976,8 @@ Hladká mouka</textarea>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-24" value="24" aria-label="!Persil (41)">
-                            <label for="frm-productFilter-brandConstraintForm-value-24">Persil (41)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-24" value="24" aria-label="!Persil (40)">
+                            <label for="frm-productFilter-brandConstraintForm-value-24">Persil (40)</label>
                         </div>
 
 
@@ -4953,8 +5012,8 @@ Hladká mouka</textarea>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-45" value="45" aria-label="!Pronto (9)">
-                            <label for="frm-productFilter-brandConstraintForm-value-45">Pronto (9)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-45" value="45" aria-label="!Pronto (8)">
+                            <label for="frm-productFilter-brandConstraintForm-value-45">Pronto (8)</label>
                         </div>
 
 
@@ -5025,8 +5084,8 @@ Hladká mouka</textarea>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-3378" value="3378" aria-label="!Regina (6)">
-                            <label for="frm-productFilter-brandConstraintForm-value-3378">Regina (6)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-3378" value="3378" aria-label="!Regina (5)">
+                            <label for="frm-productFilter-brandConstraintForm-value-3378">Regina (5)</label>
                         </div>
 
 
@@ -5079,8 +5138,8 @@ Hladká mouka</textarea>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-3359" value="3359" aria-label="!STR8 (29)">
-                            <label for="frm-productFilter-brandConstraintForm-value-3359">STR8 (29)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-3359" value="3359" aria-label="!STR8 (26)">
+                            <label for="frm-productFilter-brandConstraintForm-value-3359">STR8 (26)</label>
                         </div>
 
 
@@ -5139,8 +5198,8 @@ Hladká mouka</textarea>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-1478" value="1478" aria-label="!Sensodyne (13)">
-                            <label for="frm-productFilter-brandConstraintForm-value-1478">Sensodyne (13)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-1478" value="1478" aria-label="!Sensodyne (12)">
+                            <label for="frm-productFilter-brandConstraintForm-value-1478">Sensodyne (12)</label>
                         </div>
 
 
@@ -5169,8 +5228,8 @@ Hladká mouka</textarea>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-33" value="33" aria-label="!Somat (23)">
-                            <label for="frm-productFilter-brandConstraintForm-value-33">Somat (23)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-33" value="33" aria-label="!Somat (27)">
+                            <label for="frm-productFilter-brandConstraintForm-value-33">Somat (27)</label>
                         </div>
 
 
@@ -5205,8 +5264,8 @@ Hladká mouka</textarea>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-2772" value="2772" aria-label="!Sunlight (9)">
-                            <label for="frm-productFilter-brandConstraintForm-value-2772">Sunlight (9)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-2772" value="2772" aria-label="!Sunlight (10)">
+                            <label for="frm-productFilter-brandConstraintForm-value-2772">Sunlight (10)</label>
                         </div>
 
 
@@ -5235,8 +5294,8 @@ Hladká mouka</textarea>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-2270" value="2270" aria-label="!Taft (29)">
-                            <label for="frm-productFilter-brandConstraintForm-value-2270">Taft (29)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-2270" value="2270" aria-label="!Taft (27)">
+                            <label for="frm-productFilter-brandConstraintForm-value-2270">Taft (27)</label>
                         </div>
 
 
@@ -5247,8 +5306,8 @@ Hladká mouka</textarea>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-49" value="49" aria-label="!Tento (40)">
-                            <label for="frm-productFilter-brandConstraintForm-value-49">Tento (40)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-49" value="49" aria-label="!Tento (39)">
+                            <label for="frm-productFilter-brandConstraintForm-value-49">Tento (39)</label>
                         </div>
 
 
@@ -5259,8 +5318,8 @@ Hladká mouka</textarea>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-3337" value="3337" aria-label="!The Somerset Toiletry (6)">
-                            <label for="frm-productFilter-brandConstraintForm-value-3337">The Somerset Toiletry (6)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-3337" value="3337" aria-label="!The Somerset Toiletry (3)">
+                            <label for="frm-productFilter-brandConstraintForm-value-3337">The Somerset Toiletry (3)</label>
                         </div>
 
 
@@ -5295,8 +5354,8 @@ Hladká mouka</textarea>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-3087" value="3087" aria-label="!Toro (5)">
-                            <label for="frm-productFilter-brandConstraintForm-value-3087">Toro (5)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-3087" value="3087" aria-label="!Toro (4)">
+                            <label for="frm-productFilter-brandConstraintForm-value-3087">Toro (4)</label>
                         </div>
 
 
@@ -5313,8 +5372,8 @@ Hladká mouka</textarea>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-75" value="75" aria-label="!Vademecum (16)">
-                            <label for="frm-productFilter-brandConstraintForm-value-75">Vademecum (16)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-75" value="75" aria-label="!Vademecum (15)">
+                            <label for="frm-productFilter-brandConstraintForm-value-75">Vademecum (15)</label>
                         </div>
 
 
@@ -5361,20 +5420,14 @@ Hladká mouka</textarea>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-3491" value="3491" aria-label="!Weleda (34)">
-                            <label for="frm-productFilter-brandConstraintForm-value-3491">Weleda (34)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-3491" value="3491" aria-label="!Weleda (32)">
+                            <label for="frm-productFilter-brandConstraintForm-value-3491">Weleda (32)</label>
                         </div>
 
 
                                                          <div class="form-row" style="display: none;">
                             <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-65" value="65" aria-label="!Wella (4)">
                             <label for="frm-productFilter-brandConstraintForm-value-65">Wella (4)</label>
-                        </div>
-
-
-                                                         <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-1482" value="1482" aria-label="!Wilkinson (1)">
-                            <label for="frm-productFilter-brandConstraintForm-value-1482">Wilkinson (1)</label>
                         </div>
 
 
@@ -5534,14 +5587,85 @@ Hladká mouka</textarea>
 		</div>
 
 		<div class="region-products-popular">
-<a href="https://www.kosik.cz/hledat?q=AkceCoccolino"><img src="https://cdn.kosik.cz/content/category-banner/png/default/1259.png" alt="whiskas"></a><br><br>
+<a href="https://www.kosik.cz/hledat?q=somatakce"><img src="https://cdn.kosik.cz/content/category-banner/png/default/1347.png" alt="whiskas"></a><br><br>
 
 		<div class="region region-carousel region-products no-aside product-widget">
 			<div class="home-product-widget region-inner region-products-inner slick-carousel" data-open="3" data-close="4">
 				<div class="block block-title">
 					<h3>Doporučujeme</h3>
 				</div>
+<script async>
+
+    var onProductModalDestroy = function() {
+
+    	var pageData = window.dataLayer[0];
+
+        pageData["event"] = "ga.pageview";
+        pageData["pagePath"] = window.location.pathname;
+        pageData["pageTitle"] = window.document.title;
+
+	    dataLayer.push(pageData);
+    };
+</script>
 <div class="block block-product-items product-items" data-ajax-append="product-item" id="snippet-productWidget-widgetCarousel-1-productListArea">
+    <div id="product-append-35015" class="product-item">
+        <div class="product-item-flags">
+            <div class="flag-sale ">
+                <span class="percents">30<small>&#37;</small></span>
+            </div>
+        </div>
+        <div class="product-item-image">
+                <a data-href="/drogerie?productWidget-widgetCarousel-1-id=35015&amp;do=productWidget-widgetCarousel-1-modal"
+                   data-target="productWidget-widgetCarousel-1-productModal"
+                   data-product-id="35015"
+                   data-product-price="299.9"
+                   data-page-title="Ariel Touch of Lenor Gelové kapsle 28ks"
+                   data-page-path="/produkt/35015-ariel-touch-of-lenor-gelove-kapsle-28ks"
+                   data-user-id=""
+                   aria-hidden="true"
+                   data-kosikmodal-onclose="onProductModalDestroy"
+                   onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/52502.jpg" alt="Ariel Touch of Lenor Gelové kapsle 28ks" class="loading-images loading-image">
+                </a>
+
+
+
+
+        </div>
+                <div class="product-item-info">
+                <h5><a href="javascript:void(0)" aria-label="Ariel Touch of Lenor Gelové kapsle 28ks" data-href="/drogerie?productWidget-widgetCarousel-1-id=35015&amp;do=productWidget-widgetCarousel-1-modal" class="product-name modal-link"
+                   data-target="productWidget-widgetCarousel-1-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    Ariel Touch of Lenor Gelové kapsle 28ks
+                    
+                </a></h5>
+            <p class="product-item-price product-in-discount">
+                <span class="price-before-discount">
+					<span><strong class="price">299,90 Kč</strong></span>
+				</span>
+                <strong class="price">209,90 Kč</strong>
+
+            </p>
+            <p class="product-item-unit">
+                    (<strong class="price">7,50 Kč</strong> / dávka)
+            </p>
+                        <div class="product-list-rating">
+            </div>
+<div id="snippet-productWidget-widgetCarousel-1-buy-35015-quantity">        <div class="product-quantity-control">
+            <form action="/drogerie" method="post" class="ajax" id="frm-productWidget-widgetCarousel-1-buy-35015-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productWidget-widgetCarousel-1-buy-35015-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
+            <input type="hidden" name="do" value="productWidget-widgetCarousel-1-buy-35015-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+</form>
+
+        </div>
+</div>
+                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
+
+
+        </div>
+
+        
+    </div>
     <div id="product-append-49296" class="product-item">
         <div class="product-item-flags">
             <div class="flag-sale ">
@@ -5658,68 +5782,10 @@ Hladká mouka</textarea>
 
         
     </div>
-    <div id="product-append-39119" class="product-item">
-        <div class="product-item-flags">
-            <div class="flag-sale ">
-                <span class="percents">30<small>&#37;</small></span>
-            </div>
-        </div>
-        <div class="product-item-image">
-                <a data-href="/drogerie?productWidget-widgetCarousel-1-id=39119&amp;do=productWidget-widgetCarousel-1-modal"
-                   data-target="productWidget-widgetCarousel-1-productModal"
-                   data-product-id="39119"
-                   data-product-price="114.9"
-                   data-page-title="Gliss Kur Ultimate Repair regenerační expres balzám 200ml"
-                   data-page-path="/produkt/39119-gliss-kur-ultimate-repair-regeneracni-expres-balzam-200ml"
-                   data-user-id=""
-                   aria-hidden="true"
-                   data-kosikmodal-onclose="onProductModalDestroy"
-                   onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/56836.jpg" alt="Gliss Kur Ultimate Repair regenerační expres balzám 200ml" class="loading-images loading-image">
-                </a>
-
-
-
-
-        </div>
-                <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Gliss Kur Ultimate Repair regenerační expres balzám 200ml" data-href="/drogerie?productWidget-widgetCarousel-1-id=39119&amp;do=productWidget-widgetCarousel-1-modal" class="product-name modal-link"
-                   data-target="productWidget-widgetCarousel-1-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Gliss Kur Ultimate Repair regenerační expres balzám 200ml
-                    
-                </a></h5>
-            <p class="product-item-price product-in-discount">
-                <span class="price-before-discount">
-					<span><strong class="price">114,90 Kč</strong></span>
-				</span>
-                <strong class="price">79,90 Kč</strong>
-
-            </p>
-            <p class="product-item-unit">
-                    (<strong class="price">0,40 Kč</strong> / ml)
-            </p>
-                        <div class="product-list-rating">
-            </div>
-<div id="snippet-productWidget-widgetCarousel-1-buy-39119-quantity">        <div class="product-quantity-control">
-            <form action="/drogerie" method="post" class="ajax" id="frm-productWidget-widgetCarousel-1-buy-39119-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productWidget-widgetCarousel-1-buy-39119-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
-                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productWidget-widgetCarousel-1-buy-39119-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
-</form>
-
-        </div>
-</div>
-                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
-
-
-        </div>
-
-        
-    </div>
     <div id="product-append-49295" class="product-item">
         <div class="product-item-flags">
             <div class="flag-sale ">
-                <span class="percents">18<small>&#37;</small></span>
+                <span class="percents">22<small>&#37;</small></span>
             </div>
         </div>
         <div class="product-item-image">
@@ -5750,11 +5816,11 @@ Hladká mouka</textarea>
                 <span class="price-before-discount">
 					<span><strong class="price">599,00 Kč</strong></span>
 				</span>
-                <strong class="price">489,90 Kč</strong>
+                <strong class="price">469,00 Kč</strong>
 
             </p>
             <p class="product-item-unit">
-                    (<strong class="price">489,90 Kč</strong> / ks)
+                    (<strong class="price">469,00 Kč</strong> / ks)
             </p>
                         <div class="product-list-rating">
             </div>
@@ -5890,11 +5956,66 @@ Hladká mouka</textarea>
 
         
     </div>
-    <div id="product-append-39114" class="product-item">
+    <div id="product-append-39119" class="product-item">
         <div class="product-item-flags">
             <div class="flag-sale ">
-                <span class="percents">26<small>&#37;</small></span>
+                <span class="percents">30<small>&#37;</small></span>
             </div>
+        </div>
+        <div class="product-item-image">
+                <a data-href="/drogerie?productWidget-widgetCarousel-1-id=39119&amp;do=productWidget-widgetCarousel-1-modal"
+                   data-target="productWidget-widgetCarousel-1-productModal"
+                   data-product-id="39119"
+                   data-product-price="114.9"
+                   data-page-title="Gliss Kur Ultimate Repair regenerační expres balzám 200ml"
+                   data-page-path="/produkt/39119-gliss-kur-ultimate-repair-regeneracni-expres-balzam-200ml"
+                   data-user-id=""
+                   aria-hidden="true"
+                   data-kosikmodal-onclose="onProductModalDestroy"
+                   onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/56836.jpg" alt="Gliss Kur Ultimate Repair regenerační expres balzám 200ml" class="loading-images loading-image">
+                </a>
+
+
+
+
+        </div>
+                <div class="product-item-info">
+                <h5><a href="javascript:void(0)" aria-label="Gliss Kur Ultimate Repair regenerační expres balzám 200ml" data-href="/drogerie?productWidget-widgetCarousel-1-id=39119&amp;do=productWidget-widgetCarousel-1-modal" class="product-name modal-link"
+                   data-target="productWidget-widgetCarousel-1-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    Gliss Kur Ultimate Repair regenerační expres balzám 200ml
+                    
+                </a></h5>
+            <p class="product-item-price product-in-discount">
+                <span class="price-before-discount">
+					<span><strong class="price">114,90 Kč</strong></span>
+				</span>
+                <strong class="price">79,90 Kč</strong>
+
+            </p>
+            <p class="product-item-unit">
+                    (<strong class="price">0,40 Kč</strong> / ml)
+            </p>
+                        <div class="product-list-rating">
+            </div>
+<div id="snippet-productWidget-widgetCarousel-1-buy-39119-quantity">        <div class="product-quantity-control">
+            <form action="/drogerie" method="post" class="ajax" id="frm-productWidget-widgetCarousel-1-buy-39119-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productWidget-widgetCarousel-1-buy-39119-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
+            <input type="hidden" name="do" value="productWidget-widgetCarousel-1-buy-39119-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+</form>
+
+        </div>
+</div>
+                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
+
+
+        </div>
+
+        
+    </div>
+    <div id="product-append-39114" class="product-item">
+        <div class="product-item-flags">
         </div>
         <div class="product-item-image">
                 <a data-href="/drogerie?productWidget-widgetCarousel-1-id=39114&amp;do=productWidget-widgetCarousel-1-modal"
@@ -5920,15 +6041,14 @@ Hladká mouka</textarea>
                     Gliss Kur Million Gloss šampon 250 ml
                     
                 </a></h5>
-            <p class="product-item-price product-in-discount">
+            <p class="product-item-price ">
                 <span class="price-before-discount">
-					<span><strong class="price">79,90 Kč</strong></span>
 				</span>
-                <strong class="price">58,90 Kč</strong>
+                <strong class="price">79,90 Kč</strong>
 
             </p>
             <p class="product-item-unit">
-                    (<strong class="price">0,20 Kč</strong> / ml)
+                    (<strong class="price">0,30 Kč</strong> / ml)
             </p>
                         <div class="product-list-rating">
             </div>
@@ -6159,6 +6279,20 @@ Hladká mouka</textarea>
 		</label>
 	</div>
 	<div class="afinity-group" tabindex="0">
+		<label for="farm">
+			<input type="checkbox" id="farm" value="farm" name="farm" onchange='$(this).closest("form").submit();'>
+			<div class="group-icon"><span class="icon-afinity-Farm"></span></div>
+			<span class="group-name">Farmářské</span>
+		</label>
+	</div>
+	<div class="afinity-group" tabindex="0">
+		<label for="noPalmOil">
+			<input type="checkbox" id="noPalmOil" value="noPalmOil" name="noPalmOil" onchange='$(this).closest("form").submit();'>
+			<div class="group-icon strike-through"><span class="icon-afinity-Palm-oil"></span></div>
+			<span class="group-name">Bez palmového tuku</span>
+		</label>
+	</div>
+	<div class="afinity-group" tabindex="0">
 		<label for="vegan">
 			<input type="checkbox" id="vegan" value="vegan" name="vegan" onchange='$(this).closest("form").submit();'>
 			<div class="group-icon strike-through"><span class="icon-afinity-Egg"></span></div>
@@ -6228,64 +6362,6 @@ Hladká mouka</textarea>
     };
 </script>
 <div class="block block-product-items product-items" data-ajax-append="product-item" id="snippet-productList-productListArea">
-    <div id="product-append-28337" class="product-item">
-        <div class="product-item-flags">
-            <div class="flag-sale ">
-                <span class="percents">41<small>&#37;</small></span>
-            </div>
-        </div>
-        <div class="product-item-image">
-                <a data-href="/drogerie?productList-id=28337&amp;do=productList-modal"
-                   data-target="productList-productModal"
-                   data-product-id="28337"
-                   data-product-price="84.9"
-                   data-page-title="Toaletní papír Tento sensitive pantenol 3vrstvý 8rolí"
-                   data-page-path="/produkt/28337-toaletni-papir-tento-sensitive-pantenol-3vrstvy-8roli"
-                   data-user-id=""
-                   aria-hidden="true"
-                   data-kosikmodal-onclose="onProductModalDestroy"
-                   onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/45675.jpg" alt="Toaletní papír Tento sensitive pantenol 3vrstvý 8rolí" class="loading-images loading-image">
-                </a>
-
-
-
-
-        </div>
-                <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Toaletní papír Tento sensitive pantenol 3vrstvý 8rolí" data-href="/drogerie?productList-id=28337&amp;do=productList-modal" class="product-name modal-link"
-                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Toaletní papír Tento sensitive pantenol 3vrstvý 8rolí
-                    
-                </a></h5>
-            <p class="product-item-price product-in-discount">
-                <span class="price-before-discount">
-					<span><strong class="price">84,90 Kč</strong></span>
-				</span>
-                <strong class="price">49,90 Kč</strong>
-
-            </p>
-            <p class="product-item-unit">
-                    (<strong class="price">6,20 Kč</strong> / ks)
-            </p>
-                        <div class="product-list-rating">
-            </div>
-<div id="snippet-productList-buy-28337-quantity">        <div class="product-quantity-control">
-            <form action="/drogerie" method="post" class="ajax" id="frm-productList-buy-28337-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-28337-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
-                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-28337-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
-</form>
-
-        </div>
-</div>
-                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
-
-
-        </div>
-
-        
-    </div>
     <div id="product-append-11535" class="product-item">
         <div class="product-item-flags">
         </div>
@@ -6330,60 +6406,6 @@ Hladká mouka</textarea>
                 <input type="text" name="quantity" size="3" id="frm-productList-buy-11535-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
                 <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
             <input type="hidden" name="do" value="productList-buy-11535-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
-</form>
-
-        </div>
-</div>
-                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
-
-
-        </div>
-
-        
-    </div>
-    <div id="product-append-13386" class="product-item">
-        <div class="product-item-flags">
-        </div>
-        <div class="product-item-image">
-                <a data-href="/drogerie?productList-id=13386&amp;do=productList-modal"
-                   data-target="productList-productModal"
-                   data-product-id="13386"
-                   data-product-price="79.9"
-                   data-page-title="Tento Winter toaletní papír 3 vrstvy, 8 rolí"
-                   data-page-path="/produkt/13386-tento-winter-toaletni-papir-3-vrstvy-8-roli"
-                   data-user-id=""
-                   aria-hidden="true"
-                   data-kosikmodal-onclose="onProductModalDestroy"
-                   onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/30558.jpg" alt="Tento Winter toaletní papír 3 vrstvy, 8 rolí" class="loading-images loading-image">
-                </a>
-
-
-
-
-        </div>
-                <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Tento Winter toaletní papír 3 vrstvy, 8 rolí" data-href="/drogerie?productList-id=13386&amp;do=productList-modal" class="product-name modal-link"
-                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Tento Winter toaletní papír 3 vrstvy, 8 rolí
-                    
-                </a></h5>
-            <p class="product-item-price ">
-                <span class="price-before-discount">
-				</span>
-                <strong class="price">79,90 Kč</strong>
-
-            </p>
-            <p class="product-item-unit">
-                    (<strong class="price">10,00 Kč</strong> / ks)
-            </p>
-                        <div class="product-list-rating">
-            </div>
-<div id="snippet-productList-buy-13386-quantity">        <div class="product-quantity-control">
-            <form action="/drogerie" method="post" class="ajax" id="frm-productList-buy-13386-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-13386-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
-                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-13386-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
 </form>
 
         </div>
@@ -6503,6 +6525,114 @@ Hladká mouka</textarea>
 
         
     </div>
+    <div id="product-append-13386" class="product-item">
+        <div class="product-item-flags">
+        </div>
+        <div class="product-item-image">
+                <a data-href="/drogerie?productList-id=13386&amp;do=productList-modal"
+                   data-target="productList-productModal"
+                   data-product-id="13386"
+                   data-product-price="79.9"
+                   data-page-title="Tento Winter toaletní papír 3 vrstvy, 8 rolí"
+                   data-page-path="/produkt/13386-tento-winter-toaletni-papir-3-vrstvy-8-roli"
+                   data-user-id=""
+                   aria-hidden="true"
+                   data-kosikmodal-onclose="onProductModalDestroy"
+                   onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/30558.jpg" alt="Tento Winter toaletní papír 3 vrstvy, 8 rolí" class="loading-images loading-image">
+                </a>
+
+
+
+
+        </div>
+                <div class="product-item-info">
+                <h5><a href="javascript:void(0)" aria-label="Tento Winter toaletní papír 3 vrstvy, 8 rolí" data-href="/drogerie?productList-id=13386&amp;do=productList-modal" class="product-name modal-link"
+                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    Tento Winter toaletní papír 3 vrstvy, 8 rolí
+                    
+                </a></h5>
+            <p class="product-item-price ">
+                <span class="price-before-discount">
+				</span>
+                <strong class="price">79,90 Kč</strong>
+
+            </p>
+            <p class="product-item-unit">
+                    (<strong class="price">10,00 Kč</strong> / ks)
+            </p>
+                        <div class="product-list-rating">
+            </div>
+<div id="snippet-productList-buy-13386-quantity">        <div class="product-quantity-control">
+            <form action="/drogerie" method="post" class="ajax" id="frm-productList-buy-13386-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-13386-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
+            <input type="hidden" name="do" value="productList-buy-13386-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+</form>
+
+        </div>
+</div>
+                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
+
+
+        </div>
+
+        
+    </div>
+    <div id="product-append-10533" class="product-item">
+        <div class="product-item-flags">
+        </div>
+        <div class="product-item-image">
+                <a data-href="/drogerie?productList-id=10533&amp;do=productList-modal"
+                   data-target="productList-productModal"
+                   data-product-id="10533"
+                   data-product-price="22.9"
+                   data-page-title="Linteo Classic kuchyňské utěrky 2 vrstvé 2ks"
+                   data-page-path="/produkt/10533-linteo-classic-kuchynske-uterky-2-vrstve-2ks"
+                   data-user-id=""
+                   aria-hidden="true"
+                   data-kosikmodal-onclose="onProductModalDestroy"
+                   onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/28240.jpg" alt="Linteo Classic kuchyňské utěrky 2 vrstvé 2ks" class="loading-images loading-image">
+                </a>
+
+
+
+
+        </div>
+                <div class="product-item-info">
+                <h5><a href="javascript:void(0)" aria-label="Linteo Classic kuchyňské utěrky 2 vrstvé 2ks" data-href="/drogerie?productList-id=10533&amp;do=productList-modal" class="product-name modal-link"
+                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    Linteo Classic kuchyňské utěrky 2 vrstvé 2ks
+                    
+                </a></h5>
+            <p class="product-item-price ">
+                <span class="price-before-discount">
+				</span>
+                <strong class="price">22,90 Kč</strong>
+
+            </p>
+            <p class="product-item-unit">
+                    (<strong class="price">11,50 Kč</strong> / ks)
+            </p>
+                        <div class="product-list-rating">
+            </div>
+<div id="snippet-productList-buy-10533-quantity">        <div class="product-quantity-control">
+            <form action="/drogerie" method="post" class="ajax" id="frm-productList-buy-10533-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-10533-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
+            <input type="hidden" name="do" value="productList-buy-10533-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+</form>
+
+        </div>
+</div>
+                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
+
+
+        </div>
+
+        
+    </div>
     <div id="product-append-10538" class="product-item">
         <div class="product-item-flags">
         </div>
@@ -6611,21 +6741,21 @@ Hladká mouka</textarea>
 
         
     </div>
-    <div id="product-append-10533" class="product-item">
+    <div id="product-append-6996" class="product-item">
         <div class="product-item-flags">
         </div>
         <div class="product-item-image">
-                <a data-href="/drogerie?productList-id=10533&amp;do=productList-modal"
+                <a data-href="/drogerie?productList-id=6996&amp;do=productList-modal"
                    data-target="productList-productModal"
-                   data-product-id="10533"
-                   data-product-price="22.9"
-                   data-page-title="Linteo Classic kuchyňské utěrky 2 vrstvé 2ks"
-                   data-page-path="/produkt/10533-linteo-classic-kuchynske-uterky-2-vrstve-2ks"
+                   data-product-id="6996"
+                   data-product-price="29.9"
+                   data-page-title="Tento Super Aqua Papírové utěrky 2ks"
+                   data-page-path="/produkt/6996-tento-super-aqua-papirove-uterky-2ks"
                    data-user-id=""
                    aria-hidden="true"
                    data-kosikmodal-onclose="onProductModalDestroy"
                    onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/28240.jpg" alt="Linteo Classic kuchyňské utěrky 2 vrstvé 2ks" class="loading-images loading-image">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/9637.jpg" alt="Tento Super Aqua Papírové utěrky 2ks" class="loading-images loading-image">
                 </a>
 
 
@@ -6633,27 +6763,27 @@ Hladká mouka</textarea>
 
         </div>
                 <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Linteo Classic kuchyňské utěrky 2 vrstvé 2ks" data-href="/drogerie?productList-id=10533&amp;do=productList-modal" class="product-name modal-link"
+                <h5><a href="javascript:void(0)" aria-label="Tento Super Aqua Papírové utěrky 2ks" data-href="/drogerie?productList-id=6996&amp;do=productList-modal" class="product-name modal-link"
                    data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Linteo Classic kuchyňské utěrky 2 vrstvé 2ks
+                    Tento Super Aqua Papírové utěrky 2ks
                     
                 </a></h5>
             <p class="product-item-price ">
                 <span class="price-before-discount">
 				</span>
-                <strong class="price">22,90 Kč</strong>
+                <strong class="price">29,90 Kč</strong>
 
             </p>
             <p class="product-item-unit">
-                    (<strong class="price">11,50 Kč</strong> / ks)
+                    (<strong class="price">15,00 Kč</strong> / ks)
             </p>
                         <div class="product-list-rating">
             </div>
-<div id="snippet-productList-buy-10533-quantity">        <div class="product-quantity-control">
-            <form action="/drogerie" method="post" class="ajax" id="frm-productList-buy-10533-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-10533-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+<div id="snippet-productList-buy-6996-quantity">        <div class="product-quantity-control">
+            <form action="/drogerie" method="post" class="ajax" id="frm-productList-buy-6996-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-6996-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
                 <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-10533-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+            <input type="hidden" name="do" value="productList-buy-6996-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
 </form>
 
         </div>
@@ -6723,21 +6853,21 @@ Hladká mouka</textarea>
 
         
     </div>
-    <div id="product-append-6996" class="product-item">
+    <div id="product-append-11534" class="product-item">
         <div class="product-item-flags">
         </div>
         <div class="product-item-image">
-                <a data-href="/drogerie?productList-id=6996&amp;do=productList-modal"
+                <a data-href="/drogerie?productList-id=11534&amp;do=productList-modal"
                    data-target="productList-productModal"
-                   data-product-id="6996"
+                   data-product-id="11534"
                    data-product-price="29.9"
-                   data-page-title="Tento Super Aqua Papírové utěrky 2ks"
-                   data-page-path="/produkt/6996-tento-super-aqua-papirove-uterky-2ks"
+                   data-page-title="Tento papírové kapesníky 3 vrstvé 60 ks"
+                   data-page-path="/produkt/11534-tento-papirove-kapesniky-3-vrstve-60-ks"
                    data-user-id=""
                    aria-hidden="true"
                    data-kosikmodal-onclose="onProductModalDestroy"
                    onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/9637.jpg" alt="Tento Super Aqua Papírové utěrky 2ks" class="loading-images loading-image">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/29034.jpg" alt="Tento papírové kapesníky 3 vrstvé 60 ks" class="loading-images loading-image">
                 </a>
 
 
@@ -6745,9 +6875,9 @@ Hladká mouka</textarea>
 
         </div>
                 <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Tento Super Aqua Papírové utěrky 2ks" data-href="/drogerie?productList-id=6996&amp;do=productList-modal" class="product-name modal-link"
+                <h5><a href="javascript:void(0)" aria-label="Tento papírové kapesníky 3 vrstvé 60 ks" data-href="/drogerie?productList-id=11534&amp;do=productList-modal" class="product-name modal-link"
                    data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Tento Super Aqua Papírové utěrky 2ks
+                    Tento papírové kapesníky 3 vrstvé 60 ks
                     
                 </a></h5>
             <p class="product-item-price ">
@@ -6757,186 +6887,15 @@ Hladká mouka</textarea>
 
             </p>
             <p class="product-item-unit">
-                    (<strong class="price">15,00 Kč</strong> / ks)
+                    (<strong class="price">0,50 Kč</strong> / ks)
             </p>
                         <div class="product-list-rating">
             </div>
-<div id="snippet-productList-buy-6996-quantity">        <div class="product-quantity-control">
-            <form action="/drogerie" method="post" class="ajax" id="frm-productList-buy-6996-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-6996-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+<div id="snippet-productList-buy-11534-quantity">        <div class="product-quantity-control">
+            <form action="/drogerie" method="post" class="ajax" id="frm-productList-buy-11534-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-11534-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
                 <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-6996-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
-</form>
-
-        </div>
-</div>
-                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
-
-
-        </div>
-
-        
-    </div>
-    <div id="product-append-42099" class="product-item">
-        <div class="product-item-flags">
-            <div class="flag-sale ">
-                <span class="percents">20<small>&#37;</small></span>
-            </div>
-        </div>
-        <div class="product-item-image">
-                <a data-href="/drogerie?productList-id=42099&amp;do=productList-modal"
-                   data-target="productList-productModal"
-                   data-product-id="42099"
-                   data-product-price="14.9"
-                   data-page-title="Tento Eco Toaletní papír 1 role"
-                   data-page-path="/produkt/42099-tento-eco-toaletni-papir-1-role"
-                   data-user-id=""
-                   aria-hidden="true"
-                   data-kosikmodal-onclose="onProductModalDestroy"
-                   onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/59816.jpg" alt="Tento Eco Toaletní papír 1 role" class="loading-images loading-image">
-                </a>
-
-
-
-
-        </div>
-                <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Tento Eco Toaletní papír 1 role" data-href="/drogerie?productList-id=42099&amp;do=productList-modal" class="product-name modal-link"
-                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Tento Eco Toaletní papír 1 role
-                    
-                </a></h5>
-            <p class="product-item-price product-in-discount">
-                <span class="price-before-discount">
-					<span><strong class="price">14,90 Kč</strong></span>
-				</span>
-                <strong class="price">11,90 Kč</strong>
-
-            </p>
-            <p class="product-item-unit">
-                    (<strong class="price">11,90 Kč</strong> / ks)
-            </p>
-                        <div class="product-list-rating">
-            </div>
-<div id="snippet-productList-buy-42099-quantity">        <div class="product-quantity-control">
-            <form action="/drogerie" method="post" class="ajax" id="frm-productList-buy-42099-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-42099-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
-                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-42099-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
-</form>
-
-        </div>
-</div>
-                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
-
-
-        </div>
-
-        
-    </div>
-    <div id="product-append-4781" class="product-item">
-        <div class="product-item-flags">
-        </div>
-        <div class="product-item-image">
-                <a data-href="/drogerie?productList-id=4781&amp;do=productList-modal"
-                   data-target="productList-productModal"
-                   data-product-id="4781"
-                   data-product-price="44.9"
-                   data-page-title="G&amp;G Kapesníčky box 4 vrstvy 100ks"
-                   data-page-path="/produkt/4781-g-g-kapesnicky-box-4-vrstvy-100ks"
-                   data-user-id=""
-                   aria-hidden="true"
-                   data-kosikmodal-onclose="onProductModalDestroy"
-                   onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/5104.jpg" alt="G&amp;G Kapesníčky box 4 vrstvy 100ks" class="loading-images loading-image">
-                </a>
-
-
-
-
-        </div>
-                <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="G&amp;G Kapesníčky box 4 vrstvy 100ks" data-href="/drogerie?productList-id=4781&amp;do=productList-modal" class="product-name modal-link"
-                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    G&amp;G Kapesníčky box 4 vrstvy 100ks
-                    
-                </a></h5>
-            <p class="product-item-price ">
-                <span class="price-before-discount">
-				</span>
-                <strong class="price">44,90 Kč</strong>
-
-            </p>
-            <p class="product-item-unit">
-                    (<strong class="price">0,40 Kč</strong> / ks)
-            </p>
-                        <div class="product-list-rating">
-                <span><ul class="rating"><li class="rating-children rating-1 up" data-rating="1"><i class="fa fa-star"></i></li><li class="rating-children rating-2 up" data-rating="2"><i class="fa fa-star"></i></li><li class="rating-children rating-3 up" data-rating="3"><i class="fa fa-star"></i></li><li class="rating-children rating-4 up" data-rating="4"><i class="fa fa-star"></i></li><li class="rating-children rating-5 down" data-rating="5"><i class="fa fa-star"></i></li></ul></span>
-            </div>
-<div id="snippet-productList-buy-4781-quantity">        <div class="product-quantity-control">
-            <form action="/drogerie" method="post" class="ajax" id="frm-productList-buy-4781-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-4781-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
-                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-4781-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
-</form>
-
-        </div>
-</div>
-                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
-
-
-        </div>
-
-        
-    </div>
-    <div id="product-append-6976" class="product-item">
-        <div class="product-item-flags">
-            <div class="flag-sale ">
-                <span class="percents">33<small>&#37;</small></span>
-            </div>
-        </div>
-        <div class="product-item-image">
-                <a data-href="/drogerie?productList-id=6976&amp;do=productList-modal"
-                   data-target="productList-productModal"
-                   data-product-id="6976"
-                   data-product-price="29.9"
-                   data-page-title="Harmony Prima Soft Papírové kapesníky 3 vrstvé, 10x10 ks"
-                   data-page-path="/produkt/6976-harmony-prima-soft-papirove-kapesniky-3-vrstve-10x10-ks"
-                   data-user-id=""
-                   aria-hidden="true"
-                   data-kosikmodal-onclose="onProductModalDestroy"
-                   onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/9587.jpg" alt="Harmony Prima Soft Papírové kapesníky 3 vrstvé, 10x10 ks" class="loading-images loading-image">
-                </a>
-
-
-
-
-        </div>
-                <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Harmony Prima Soft Papírové kapesníky 3 vrstvé, 10x10 ks" data-href="/drogerie?productList-id=6976&amp;do=productList-modal" class="product-name modal-link"
-                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Harmony Prima Soft Papírové kapesníky 3 vrstvé, 10x10 ks
-                    
-                </a></h5>
-            <p class="product-item-price product-in-discount">
-                <span class="price-before-discount">
-					<span><strong class="price">29,90 Kč</strong></span>
-				</span>
-                <strong class="price">19,90 Kč</strong>
-
-            </p>
-            <p class="product-item-unit">
-                    (<strong class="price">2,00 Kč</strong> / ks)
-            </p>
-                        <div class="product-list-rating">
-            </div>
-<div id="snippet-productList-buy-6976-quantity">        <div class="product-quantity-control">
-            <form action="/drogerie" method="post" class="ajax" id="frm-productList-buy-6976-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-6976-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
-                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-6976-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+            <input type="hidden" name="do" value="productList-buy-11534-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
 </form>
 
         </div>
@@ -7007,60 +6966,6 @@ Hladká mouka</textarea>
 
         
     </div>
-    <div id="product-append-11534" class="product-item">
-        <div class="product-item-flags">
-        </div>
-        <div class="product-item-image">
-                <a data-href="/drogerie?productList-id=11534&amp;do=productList-modal"
-                   data-target="productList-productModal"
-                   data-product-id="11534"
-                   data-product-price="29.9"
-                   data-page-title="Tento papírové kapesníky 3 vrstvé 60 ks"
-                   data-page-path="/produkt/11534-tento-papirove-kapesniky-3-vrstve-60-ks"
-                   data-user-id=""
-                   aria-hidden="true"
-                   data-kosikmodal-onclose="onProductModalDestroy"
-                   onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/29034.jpg" alt="Tento papírové kapesníky 3 vrstvé 60 ks" class="loading-images loading-image">
-                </a>
-
-
-
-
-        </div>
-                <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Tento papírové kapesníky 3 vrstvé 60 ks" data-href="/drogerie?productList-id=11534&amp;do=productList-modal" class="product-name modal-link"
-                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Tento papírové kapesníky 3 vrstvé 60 ks
-                    
-                </a></h5>
-            <p class="product-item-price ">
-                <span class="price-before-discount">
-				</span>
-                <strong class="price">29,90 Kč</strong>
-
-            </p>
-            <p class="product-item-unit">
-                    (<strong class="price">0,50 Kč</strong> / ks)
-            </p>
-                        <div class="product-list-rating">
-            </div>
-<div id="snippet-productList-buy-11534-quantity">        <div class="product-quantity-control">
-            <form action="/drogerie" method="post" class="ajax" id="frm-productList-buy-11534-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-11534-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
-                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-11534-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
-</form>
-
-        </div>
-</div>
-                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
-
-
-        </div>
-
-        
-    </div>
     <div id="product-append-4330" class="product-item">
         <div class="product-item-flags">
         </div>
@@ -7115,21 +7020,24 @@ Hladká mouka</textarea>
 
         
     </div>
-    <div id="product-append-11525" class="product-item">
+    <div id="product-append-37379" class="product-item">
         <div class="product-item-flags">
+            <div class="flag-sale ">
+                <span class="percents">53<small>&#37;</small></span>
+            </div>
         </div>
         <div class="product-item-image">
-                <a data-href="/drogerie?productList-id=11525&amp;do=productList-modal"
+                <a data-href="/drogerie?productList-id=37379&amp;do=productList-modal"
                    data-target="productList-productModal"
-                   data-product-id="11525"
-                   data-product-price="79.9"
-                   data-page-title="Tento Fresh Aroma lavender dvouvrstvý toaletní papír 8 rolí"
-                   data-page-path="/produkt/11525-tento-fresh-aroma-lavender-dvouvrstvy-toaletni-papir-8-roli"
+                   data-product-id="37379"
+                   data-product-price="749"
+                   data-page-title="Finish All in 1 Max tablety do myčky nádobí 5 x 24 ks =120ks"
+                   data-page-path="/produkt/37379-finish-all-in-1-max-tablety-do-mycky-nadobi-5-x-24-ks-120ks"
                    data-user-id=""
                    aria-hidden="true"
                    data-kosikmodal-onclose="onProductModalDestroy"
                    onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/29029.jpg" alt="Tento Fresh Aroma lavender dvouvrstvý toaletní papír 8 rolí" class="loading-images loading-image">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/55013.jpg" alt="Finish All in 1 Max tablety do myčky nádobí 5 x 24 ks =120ks" class="loading-images loading-image">
                 </a>
 
 
@@ -7137,27 +7045,28 @@ Hladká mouka</textarea>
 
         </div>
                 <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Tento Fresh Aroma lavender dvouvrstvý toaletní papír 8 rolí" data-href="/drogerie?productList-id=11525&amp;do=productList-modal" class="product-name modal-link"
+                <h5><a href="javascript:void(0)" aria-label="Finish All in 1 Max tablety do myčky nádobí 5 x 24 ks =120ks" data-href="/drogerie?productList-id=37379&amp;do=productList-modal" class="product-name modal-link"
                    data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Tento Fresh Aroma lavender dvouvrstvý toaletní papír 8 rolí
+                    Finish All in 1 Max tablety do myčky nádobí 5 x 24 ks =120ks
                     
                 </a></h5>
-            <p class="product-item-price ">
+            <p class="product-item-price product-in-discount">
                 <span class="price-before-discount">
+					<span><strong class="price">749,00 Kč</strong></span>
 				</span>
-                <strong class="price">79,90 Kč</strong>
+                <strong class="price">349,90 Kč</strong>
 
             </p>
             <p class="product-item-unit">
-                    (<strong class="price">10,00 Kč</strong> / ks)
+                    (<strong class="price">2,90 Kč</strong> / ks)
             </p>
                         <div class="product-list-rating">
             </div>
-<div id="snippet-productList-buy-11525-quantity">        <div class="product-quantity-control">
-            <form action="/drogerie" method="post" class="ajax" id="frm-productList-buy-11525-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-11525-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+<div id="snippet-productList-buy-37379-quantity">        <div class="product-quantity-control">
+            <form action="/drogerie" method="post" class="ajax" id="frm-productList-buy-37379-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-37379-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
                 <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-11525-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+            <input type="hidden" name="do" value="productList-buy-37379-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
 </form>
 
         </div>
@@ -7223,60 +7132,6 @@ Hladká mouka</textarea>
 
         
     </div>
-    <div id="product-append-20013" class="product-item">
-        <div class="product-item-flags">
-        </div>
-        <div class="product-item-image">
-                <a data-href="/drogerie?productList-id=20013&amp;do=productList-modal"
-                   data-target="productList-productModal"
-                   data-product-id="20013"
-                   data-product-price="11.9"
-                   data-page-title="Linteo Economy 2 vrsty toaletní papír 1000 útržků"
-                   data-page-path="/produkt/20013-linteo-economy-2-vrsty-toaletni-papir-1000-utrzku"
-                   data-user-id=""
-                   aria-hidden="true"
-                   data-kosikmodal-onclose="onProductModalDestroy"
-                   onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/37265.jpg" alt="Linteo Economy 2 vrsty toaletní papír 1000 útržků" class="loading-images loading-image">
-                </a>
-
-
-
-
-        </div>
-                <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Linteo Economy 2 vrsty toaletní papír 1000 útržků" data-href="/drogerie?productList-id=20013&amp;do=productList-modal" class="product-name modal-link"
-                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Linteo Economy 2 vrsty toaletní papír 1000 útržků
-                    
-                </a></h5>
-            <p class="product-item-price ">
-                <span class="price-before-discount">
-				</span>
-                <strong class="price">11,90 Kč</strong>
-
-            </p>
-            <p class="product-item-unit">
-                    (<strong class="price">11,90 Kč</strong> / ks)
-            </p>
-                        <div class="product-list-rating">
-            </div>
-<div id="snippet-productList-buy-20013-quantity">        <div class="product-quantity-control">
-            <form action="/drogerie" method="post" class="ajax" id="frm-productList-buy-20013-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-20013-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
-                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-20013-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
-</form>
-
-        </div>
-</div>
-                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
-
-
-        </div>
-
-        
-    </div>
     <div id="product-append-10539" class="product-item">
         <div class="product-item-flags">
         </div>
@@ -7320,6 +7175,60 @@ Hladká mouka</textarea>
                 <input type="text" name="quantity" size="3" id="frm-productList-buy-10539-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
                 <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
             <input type="hidden" name="do" value="productList-buy-10539-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+</form>
+
+        </div>
+</div>
+                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
+
+
+        </div>
+
+        
+    </div>
+    <div id="product-append-40721" class="product-item">
+        <div class="product-item-flags">
+        </div>
+        <div class="product-item-image">
+                <a data-href="/drogerie?productList-id=40721&amp;do=productList-modal"
+                   data-target="productList-productModal"
+                   data-product-id="40721"
+                   data-product-price="54.9"
+                   data-page-title="Linteo Kuchyňské utěrky Classic 2vrstvé 1ks"
+                   data-page-path="/produkt/40721-linteo-kuchynske-uterky-classic-2vrstve-1ks"
+                   data-user-id=""
+                   aria-hidden="true"
+                   data-kosikmodal-onclose="onProductModalDestroy"
+                   onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/58438.jpg" alt="Linteo Kuchyňské utěrky Classic 2vrstvé 1ks" class="loading-images loading-image">
+                </a>
+
+
+
+
+        </div>
+                <div class="product-item-info">
+                <h5><a href="javascript:void(0)" aria-label="Linteo Kuchyňské utěrky Classic 2vrstvé 1ks" data-href="/drogerie?productList-id=40721&amp;do=productList-modal" class="product-name modal-link"
+                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    Linteo Kuchyňské utěrky Classic 2vrstvé 1ks
+                    
+                </a></h5>
+            <p class="product-item-price ">
+                <span class="price-before-discount">
+				</span>
+                <strong class="price">54,90 Kč</strong>
+
+            </p>
+            <p class="product-item-unit">
+                    (<strong class="price">54,90 Kč</strong> / ks)
+            </p>
+                        <div class="product-list-rating">
+            </div>
+<div id="snippet-productList-buy-40721-quantity">        <div class="product-quantity-control">
+            <form action="/drogerie" method="post" class="ajax" id="frm-productList-buy-40721-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-40721-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
+            <input type="hidden" name="do" value="productList-buy-40721-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
 </form>
 
         </div>
@@ -7389,24 +7298,21 @@ Hladká mouka</textarea>
 
         
     </div>
-    <div id="product-append-37379" class="product-item">
+    <div id="product-append-7072" class="product-item">
         <div class="product-item-flags">
-            <div class="flag-sale ">
-                <span class="percents">60<small>&#37;</small></span>
-            </div>
         </div>
         <div class="product-item-image">
-                <a data-href="/drogerie?productList-id=37379&amp;do=productList-modal"
+                <a data-href="/drogerie?productList-id=7072&amp;do=productList-modal"
                    data-target="productList-productModal"
-                   data-product-id="37379"
-                   data-product-price="749"
-                   data-page-title="Finish All in 1 Max tablety do myčky nádobí 5 x 24 ks =120ks"
-                   data-page-path="/produkt/37379-finish-all-in-1-max-tablety-do-mycky-nadobi-5-x-24-ks-120ks"
+                   data-product-id="7072"
+                   data-product-price="15.9"
+                   data-page-title="Linteo Satin Vatové tyčinky 200 ks"
+                   data-page-path="/produkt/7072-linteo-satin-vatove-tycinky-200-ks"
                    data-user-id=""
                    aria-hidden="true"
                    data-kosikmodal-onclose="onProductModalDestroy"
                    onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/55013.jpg" alt="Finish All in 1 Max tablety do myčky nádobí 5 x 24 ks =120ks" class="loading-images loading-image">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/10039.jpg" alt="Linteo Satin Vatové tyčinky 200 ks" class="loading-images loading-image">
                 </a>
 
 
@@ -7414,82 +7320,27 @@ Hladká mouka</textarea>
 
         </div>
                 <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Finish All in 1 Max tablety do myčky nádobí 5 x 24 ks =120ks" data-href="/drogerie?productList-id=37379&amp;do=productList-modal" class="product-name modal-link"
+                <h5><a href="javascript:void(0)" aria-label="Linteo Satin Vatové tyčinky 200 ks" data-href="/drogerie?productList-id=7072&amp;do=productList-modal" class="product-name modal-link"
                    data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Finish All in 1 Max tablety do myčky nádobí 5 x 24 ks =120ks
-                    
-                </a></h5>
-            <p class="product-item-price product-in-discount">
-                <span class="price-before-discount">
-					<span><strong class="price">749,00 Kč</strong></span>
-				</span>
-                <strong class="price">299,90 Kč</strong>
-
-            </p>
-            <p class="product-item-unit">
-                    (<strong class="price">2,50 Kč</strong> / ks)
-            </p>
-                        <div class="product-list-rating">
-            </div>
-<div id="snippet-productList-buy-37379-quantity">        <div class="product-quantity-control">
-            <form action="/drogerie" method="post" class="ajax" id="frm-productList-buy-37379-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-37379-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
-                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-37379-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
-</form>
-
-        </div>
-</div>
-                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
-
-
-        </div>
-
-        
-    </div>
-    <div id="product-append-19950" class="product-item">
-        <div class="product-item-flags">
-        </div>
-        <div class="product-item-image">
-                <a data-href="/drogerie?productList-id=19950&amp;do=productList-modal"
-                   data-target="productList-productModal"
-                   data-product-id="19950"
-                   data-product-price="34.9"
-                   data-page-title="Jar Citrón prostředek na nádobí 450ml"
-                   data-page-path="/produkt/19950-jar-citron-prostredek-na-nadobi-450ml"
-                   data-user-id=""
-                   aria-hidden="true"
-                   data-kosikmodal-onclose="onProductModalDestroy"
-                   onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/37202.jpg" alt="Jar Citrón prostředek na nádobí 450ml" class="loading-images loading-image">
-                </a>
-
-
-
-
-        </div>
-                <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Jar Citrón prostředek na nádobí 450ml" data-href="/drogerie?productList-id=19950&amp;do=productList-modal" class="product-name modal-link"
-                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Jar Citrón prostředek na nádobí 450ml
+                    Linteo Satin Vatové tyčinky 200 ks
                     
                 </a></h5>
             <p class="product-item-price ">
                 <span class="price-before-discount">
 				</span>
-                <strong class="price">34,90 Kč</strong>
+                <strong class="price">15,90 Kč</strong>
 
             </p>
             <p class="product-item-unit">
-                    (<strong class="price">77,60 Kč</strong> / l)
+                    (<strong class="price">0,10 Kč</strong> / ks)
             </p>
                         <div class="product-list-rating">
             </div>
-<div id="snippet-productList-buy-19950-quantity">        <div class="product-quantity-control">
-            <form action="/drogerie" method="post" class="ajax" id="frm-productList-buy-19950-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-19950-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+<div id="snippet-productList-buy-7072-quantity">        <div class="product-quantity-control">
+            <form action="/drogerie" method="post" class="ajax" id="frm-productList-buy-7072-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-7072-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
                 <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-19950-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+            <input type="hidden" name="do" value="productList-buy-7072-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
 </form>
 
         </div>
@@ -7544,6 +7395,280 @@ Hladká mouka</textarea>
                 <input type="text" name="quantity" size="3" id="frm-productList-buy-244-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
                 <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
             <input type="hidden" name="do" value="productList-buy-244-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+</form>
+
+        </div>
+</div>
+                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
+
+
+        </div>
+
+        
+    </div>
+    <div id="product-append-4751" class="product-item">
+        <div class="product-item-flags">
+        </div>
+        <div class="product-item-image">
+                <a data-href="/drogerie?productList-id=4751&amp;do=productList-modal"
+                   data-target="productList-productModal"
+                   data-product-id="4751"
+                   data-product-price="18.9"
+                   data-page-title="Söke Utěrky houbové 3ks"
+                   data-page-path="/produkt/4751-soke-uterky-houbove-3ks"
+                   data-user-id=""
+                   aria-hidden="true"
+                   data-kosikmodal-onclose="onProductModalDestroy"
+                   onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/5071.jpg" alt="Söke Utěrky houbové 3ks" class="loading-images loading-image">
+                </a>
+
+
+
+
+        </div>
+                <div class="product-item-info">
+                <h5><a href="javascript:void(0)" aria-label="Söke Utěrky houbové 3ks" data-href="/drogerie?productList-id=4751&amp;do=productList-modal" class="product-name modal-link"
+                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    Söke Utěrky houbové 3ks
+                    
+                </a></h5>
+            <p class="product-item-price ">
+                <span class="price-before-discount">
+				</span>
+                <strong class="price">18,90 Kč</strong>
+
+            </p>
+            <p class="product-item-unit">
+                    (<strong class="price">6,30 Kč</strong> / ks)
+            </p>
+                        <div class="product-list-rating">
+            </div>
+<div id="snippet-productList-buy-4751-quantity">        <div class="product-quantity-control">
+            <form action="/drogerie" method="post" class="ajax" id="frm-productList-buy-4751-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-4751-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
+            <input type="hidden" name="do" value="productList-buy-4751-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+</form>
+
+        </div>
+</div>
+                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
+
+
+        </div>
+
+        
+    </div>
+    <div id="product-append-17467" class="product-item">
+        <div class="product-item-flags">
+        </div>
+        <div class="product-item-image">
+                <a data-href="/drogerie?productList-id=17467&amp;do=productList-modal"
+                   data-target="productList-productModal"
+                   data-product-id="17467"
+                   data-product-price="39.9"
+                   data-page-title="Savo WC Oceán 0.75l"
+                   data-page-path="/produkt/17467-savo-wc-ocean-0-75l"
+                   data-user-id=""
+                   aria-hidden="true"
+                   data-kosikmodal-onclose="onProductModalDestroy"
+                   onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/34744.jpg" alt="Savo WC Oceán 0.75l" class="loading-images loading-image">
+                </a>
+
+
+
+
+        </div>
+                <div class="product-item-info">
+                <h5><a href="javascript:void(0)" aria-label="Savo WC Oceán 0.75l" data-href="/drogerie?productList-id=17467&amp;do=productList-modal" class="product-name modal-link"
+                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    Savo WC Oceán 0.75l
+                    
+                </a></h5>
+            <p class="product-item-price ">
+                <span class="price-before-discount">
+				</span>
+                <strong class="price">39,90 Kč</strong>
+
+            </p>
+            <p class="product-item-unit">
+                    (<strong class="price">53,20 Kč</strong> / l)
+            </p>
+                        <div class="product-list-rating">
+            </div>
+<div id="snippet-productList-buy-17467-quantity">        <div class="product-quantity-control">
+            <form action="/drogerie" method="post" class="ajax" id="frm-productList-buy-17467-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-17467-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
+            <input type="hidden" name="do" value="productList-buy-17467-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+</form>
+
+        </div>
+</div>
+                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
+
+
+        </div>
+
+        
+    </div>
+    <div id="product-append-19973" class="product-item">
+        <div class="product-item-flags">
+        </div>
+        <div class="product-item-image">
+                <a data-href="/drogerie?productList-id=19973&amp;do=productList-modal"
+                   data-target="productList-productModal"
+                   data-product-id="19973"
+                   data-product-price="59.9"
+                   data-page-title="Jar citrón 900ml"
+                   data-page-path="/produkt/19973-jar-citron-900ml"
+                   data-user-id=""
+                   aria-hidden="true"
+                   data-kosikmodal-onclose="onProductModalDestroy"
+                   onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/37225.jpg" alt="Jar citrón 900ml" class="loading-images loading-image">
+                </a>
+
+
+
+
+        </div>
+                <div class="product-item-info">
+                <h5><a href="javascript:void(0)" aria-label="Jar citrón 900ml" data-href="/drogerie?productList-id=19973&amp;do=productList-modal" class="product-name modal-link"
+                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    Jar citrón 900ml
+                    
+                </a></h5>
+            <p class="product-item-price ">
+                <span class="price-before-discount">
+				</span>
+                <strong class="price">59,90 Kč</strong>
+
+            </p>
+            <p class="product-item-unit">
+                    (<strong class="price">66,60 Kč</strong> / l)
+            </p>
+                        <div class="product-list-rating">
+            </div>
+<div id="snippet-productList-buy-19973-quantity">        <div class="product-quantity-control">
+            <form action="/drogerie" method="post" class="ajax" id="frm-productList-buy-19973-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-19973-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
+            <input type="hidden" name="do" value="productList-buy-19973-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+</form>
+
+        </div>
+</div>
+                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
+
+
+        </div>
+
+        
+    </div>
+    <div id="product-append-10405" class="product-item">
+        <div class="product-item-flags">
+            <div class="flag-sale ">
+                <span class="percents">49<small>&#37;</small></span>
+            </div>
+        </div>
+        <div class="product-item-image">
+                <a data-href="/drogerie?productList-id=10405&amp;do=productList-modal"
+                   data-target="productList-productModal"
+                   data-product-id="10405"
+                   data-product-price="349.9"
+                   data-page-title="Woolite Complete tekutý prací prostředek 75 praní 4,5l"
+                   data-page-path="/produkt/10405-woolite-complete-tekuty-praci-prostredek-75-prani-4-5l"
+                   data-user-id=""
+                   aria-hidden="true"
+                   data-kosikmodal-onclose="onProductModalDestroy"
+                   onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/28151.jpg" alt="Woolite Complete tekutý prací prostředek 75 praní 4,5l" class="loading-images loading-image">
+                </a>
+
+
+
+
+        </div>
+                <div class="product-item-info">
+                <h5><a href="javascript:void(0)" aria-label="Woolite Complete tekutý prací prostředek 75 praní 4,5l" data-href="/drogerie?productList-id=10405&amp;do=productList-modal" class="product-name modal-link"
+                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    Woolite Complete tekutý prací prostředek 75 praní 4,5l
+                    
+                </a></h5>
+            <p class="product-item-price product-in-discount">
+                <span class="price-before-discount">
+					<span><strong class="price">349,90 Kč</strong></span>
+				</span>
+                <strong class="price">179,90 Kč</strong>
+
+            </p>
+            <p class="product-item-unit">
+                    (<strong class="price">2,40 Kč</strong> / dávka)
+            </p>
+                        <div class="product-list-rating">
+            </div>
+<div id="snippet-productList-buy-10405-quantity">        <div class="product-quantity-control">
+            <form action="/drogerie" method="post" class="ajax" id="frm-productList-buy-10405-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-10405-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
+            <input type="hidden" name="do" value="productList-buy-10405-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+</form>
+
+        </div>
+</div>
+                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
+
+
+        </div>
+
+        
+    </div>
+    <div id="product-append-40726" class="product-item">
+        <div class="product-item-flags">
+        </div>
+        <div class="product-item-image">
+                <a data-href="/drogerie?productList-id=40726&amp;do=productList-modal"
+                   data-target="productList-productModal"
+                   data-product-id="40726"
+                   data-product-price="29.9"
+                   data-page-title="Linteo Vlhčené ubrousky univerzální 40ks"
+                   data-page-path="/produkt/40726-linteo-vlhcene-ubrousky-univerzalni-40ks"
+                   data-user-id=""
+                   aria-hidden="true"
+                   data-kosikmodal-onclose="onProductModalDestroy"
+                   onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/58443.jpg" alt="Linteo Vlhčené ubrousky univerzální 40ks" class="loading-images loading-image">
+                </a>
+
+
+
+
+        </div>
+                <div class="product-item-info">
+                <h5><a href="javascript:void(0)" aria-label="Linteo Vlhčené ubrousky univerzální 40ks" data-href="/drogerie?productList-id=40726&amp;do=productList-modal" class="product-name modal-link"
+                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    Linteo Vlhčené ubrousky univerzální 40ks
+                    
+                </a></h5>
+            <p class="product-item-price ">
+                <span class="price-before-discount">
+				</span>
+                <strong class="price">29,90 Kč</strong>
+
+            </p>
+            <p class="product-item-unit">
+                    (<strong class="price">0,70 Kč</strong> / ks)
+            </p>
+                        <div class="product-list-rating">
+            </div>
+<div id="snippet-productList-buy-40726-quantity">        <div class="product-quantity-control">
+            <form action="/drogerie" method="post" class="ajax" id="frm-productList-buy-40726-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-40726-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
+            <input type="hidden" name="do" value="productList-buy-40726-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
 </form>
 
         </div>
