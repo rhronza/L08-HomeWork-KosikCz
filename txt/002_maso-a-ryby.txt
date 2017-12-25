@@ -11,7 +11,7 @@
         <link rel="apple-touch-icon" href="/css/images/logo.png">
         <link rel="stylesheet" type="text/css" href="/css/slim.min.css">
 
-<link rel="stylesheet" type="text/css" href="/webtemp/cssloader-6fe495a87813.css?1513350274">
+<link rel="stylesheet" type="text/css" href="/webtemp/cssloader-6fe495a87813.css?1513959590">
 <script type="text/javascript" src="/webtemp/jsloader-e4f5f7728c43.js?1511346204"></script>
 <script type="text/javascript">
     function currentPageDataPush() {
@@ -3902,13 +3902,13 @@ Hladká mouka</textarea>
         </div>
     </div>
     <div class="count" id="snippet-productFilter-countArea">
-        <p>186 produktů nalezeno</p>
+        <p>202 produktů nalezeno</p>
     </div>
 
         <h3 aria-label="Filtr Podle ceny">Podle ceny</h3>
         <div id="snippet-productFilter-priceFinalVatConstraintFormArea">
         <form action="/maso-a-ryby" method="post" class="ajax filter-constraint filter-range" id="frm-productFilter-priceFinalVatConstraintForm">
-                                <div id="slider-value" class="slider"><input type="text" name="value[min]" style="display:none" id="value-min" value="10"><input type="text" name="value[max]" style="display:none" id="value-max" value="1600"><div data-suffix="Kč" data-minimum="10" data-maximum="1600" data-value-min="10" data-value-max="1600" data-step="10" class="range-wrapper"><div id="range-input"></div></div><span id="value-label-minValue"></span><span id="value-label-maxValue" style="float:right"></span></div>
+                                <div id="slider-value" class="slider"><input type="text" name="value[min]" style="display:none" id="value-min" value="10"><input type="text" name="value[max]" style="display:none" id="value-max" value="1700"><div data-suffix="Kč" data-minimum="10" data-maximum="1700" data-value-min="10" data-value-max="1700" data-step="10" class="range-wrapper"><div id="range-input"></div></div><span id="value-label-minValue"></span><span id="value-label-maxValue" style="float:right"></span></div>
                                 <input type="hidden" name="do" value="productFilter-priceFinalVatConstraintForm-submit">
         <!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
 </form>
@@ -3938,14 +3938,14 @@ Hladká mouka</textarea>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-87" value="87" aria-label="!Bez značky (3)">
-                            <label for="frm-productFilter-brandConstraintForm-value-87">Bez značky (3)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-87" value="87" aria-label="!Bez značky (4)">
+                            <label for="frm-productFilter-brandConstraintForm-value-87">Bez značky (4)</label>
                         </div>
 
 
                             <div class="form-row">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-2288" value="2288" aria-label="!Bidvest (10)">
-                            <label for="frm-productFilter-brandConstraintForm-value-2288">Bidvest (10)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-2288" value="2288" aria-label="!Bidvest (12)">
+                            <label for="frm-productFilter-brandConstraintForm-value-2288">Bidvest (12)</label>
                         </div>
 
 
@@ -3968,8 +3968,8 @@ Hladká mouka</textarea>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-3521" value="3521" aria-label="!FITaFER (2)">
-                            <label for="frm-productFilter-brandConstraintForm-value-3521">FITaFER (2)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-3521" value="3521" aria-label="!FITaFER (3)">
+                            <label for="frm-productFilter-brandConstraintForm-value-3521">FITaFER (3)</label>
                         </div>
 
 
@@ -3982,6 +3982,12 @@ Hladká mouka</textarea>
                                                          <div class="form-row" style="display: none;">
                             <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-2704" value="2704" aria-label="!Fjord Bohemia (3)">
                             <label for="frm-productFilter-brandConstraintForm-value-2704">Fjord Bohemia (3)</label>
+                        </div>
+
+
+                                                         <div class="form-row" style="display: none;">
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-661" value="661" aria-label="!G&amp;G (1)">
+                            <label for="frm-productFilter-brandConstraintForm-value-661">G&amp;G (1)</label>
                         </div>
 
 
@@ -4016,14 +4022,14 @@ Hladká mouka</textarea>
 
 
                             <div class="form-row">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-2930" value="2930" aria-label="!Maso Brejcha (32)">
-                            <label for="frm-productFilter-brandConstraintForm-value-2930">Maso Brejcha (32)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-2930" value="2930" aria-label="!Maso Brejcha (35)">
+                            <label for="frm-productFilter-brandConstraintForm-value-2930">Maso Brejcha (35)</label>
                         </div>
 
 
-                                                         <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-2274" value="2274" aria-label="!Maso Domu OCG (6)">
-                            <label for="frm-productFilter-brandConstraintForm-value-2274">Maso Domu OCG (6)</label>
+                            <div class="form-row">
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-2274" value="2274" aria-label="!Maso Domu OCG (9)">
+                            <label for="frm-productFilter-brandConstraintForm-value-2274">Maso Domu OCG (9)</label>
                         </div>
 
 
@@ -4034,8 +4040,20 @@ Hladká mouka</textarea>
 
 
                                                          <div class="form-row" style="display: none;">
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-2030" value="2030" aria-label="!Moje Maso (3)">
+                            <label for="frm-productFilter-brandConstraintForm-value-2030">Moje Maso (3)</label>
+                        </div>
+
+
+                                                         <div class="form-row" style="display: none;">
                             <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-1529" value="1529" aria-label="!Nowaco (4)">
                             <label for="frm-productFilter-brandConstraintForm-value-1529">Nowaco (4)</label>
+                        </div>
+
+
+                                                         <div class="form-row" style="display: none;">
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-2032" value="2032" aria-label="!P'tit Duc de Savel (1)">
+                            <label for="frm-productFilter-brandConstraintForm-value-2032">P'tit Duc de Savel (1)</label>
                         </div>
 
 
@@ -4046,8 +4064,8 @@ Hladká mouka</textarea>
 
 
                                                          <div class="form-row" style="display: none;">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-825" value="825" aria-label="!Prantl (3)">
-                            <label for="frm-productFilter-brandConstraintForm-value-825">Prantl (3)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-825" value="825" aria-label="!Prantl (2)">
+                            <label for="frm-productFilter-brandConstraintForm-value-825">Prantl (2)</label>
                         </div>
 
 
@@ -4063,21 +4081,27 @@ Hladká mouka</textarea>
                         </div>
 
 
-                            <div class="form-row">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-2119" value="2119" aria-label="!Raciola (7)">
-                            <label for="frm-productFilter-brandConstraintForm-value-2119">Raciola (7)</label>
+                                                         <div class="form-row" style="display: none;">
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-2119" value="2119" aria-label="!Raciola (6)">
+                            <label for="frm-productFilter-brandConstraintForm-value-2119">Raciola (6)</label>
                         </div>
 
 
                             <div class="form-row">
-                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-796" value="796" aria-label="!Rybářství Chlumec (12)">
-                            <label for="frm-productFilter-brandConstraintForm-value-796">Rybářství Chlumec (12)</label>
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-796" value="796" aria-label="!Rybářství Chlumec (10)">
+                            <label for="frm-productFilter-brandConstraintForm-value-796">Rybářství Chlumec (10)</label>
                         </div>
 
 
                                                          <div class="form-row" style="display: none;">
                             <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-3207" value="3207" aria-label="!Selský grunt (2)">
                             <label for="frm-productFilter-brandConstraintForm-value-3207">Selský grunt (2)</label>
+                        </div>
+
+
+                                                         <div class="form-row" style="display: none;">
+                            <input type="checkbox" name="value[]" onchange=" $('.filter-ajax-waiting').addClass('show');$(this).closest('form').submit();" id="frm-productFilter-brandConstraintForm-value-3558" value="3558" aria-label="!Silák (5)">
+                            <label for="frm-productFilter-brandConstraintForm-value-3558">Silák (5)</label>
                         </div>
 
 
@@ -4142,7 +4166,7 @@ Hladká mouka</textarea>
             var buttonsShowMoreClass = 'show-more-brands';
             var buttonsShowLessClass = 'show-less-brands';
             var filters = $('.filter-more-result');
-            var defaultFilterInputs = {"brand":[2930,608,2452,792,796,2288,3071,3171,2119,156]};
+            var defaultFilterInputs = {"brand":[2930,2452,792,608,2288,796,2274,3071,3171,156]};
 
             function hideCheckboxes(rows, key) {
 
@@ -4310,6 +4334,61 @@ Hladká mouka</textarea>
                 <input type="text" name="quantity" size="3" id="frm-productWidget-widgetCarousel-1-buy-50533-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
                 <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
             <input type="hidden" name="do" value="productWidget-widgetCarousel-1-buy-50533-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+</form>
+
+        </div>
+</div>
+                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
+
+
+        </div>
+
+        
+    </div>
+    <div id="product-append-32267" class="product-item">
+        <div class="product-item-flags">
+        </div>
+        <div class="product-item-image">
+                <a data-href="/maso-a-ryby?productWidget-widgetCarousel-1-id=32267&amp;do=productWidget-widgetCarousel-1-modal"
+                   data-target="productWidget-widgetCarousel-1-productModal"
+                   data-product-id="32267"
+                   data-product-price="89.94"
+                   data-page-title="Maso Brejcha Vepřový bok bez kosti s kůží (cca 600g)"
+                   data-page-path="/produkt/32267-maso-brejcha-veprovy-bok-bez-kosti-s-kuzi-cca-600g"
+                   data-user-id=""
+                   aria-hidden="true"
+                   data-kosikmodal-onclose="onProductModalDestroy"
+                   onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/49745.jpg" alt="Maso Brejcha Vepřový bok bez kosti s kůží (cca 600g)" class="loading-images loading-image">
+                </a>
+
+
+
+
+        </div>
+                <div class="product-item-info">
+                <h5><a href="javascript:void(0)" aria-label="Maso Brejcha Vepřový bok bez kosti s kůží (cca 600g)" data-href="/maso-a-ryby?productWidget-widgetCarousel-1-id=32267&amp;do=productWidget-widgetCarousel-1-modal" class="product-name modal-link"
+                   data-target="productWidget-widgetCarousel-1-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    Maso Brejcha Vepřový bok bez kosti s kůží (cca 600g)
+                    
+                </a></h5>
+            <p class="product-item-price ">
+                <span class="price-before-discount">
+				</span>
+                <small class="circa-prefix">cca </small>
+                <strong class="price">89,90 Kč</strong>
+
+            </p>
+            <p class="product-item-unit">
+                    (<strong class="price">149,90 Kč</strong> / kg)
+            </p>
+                        <div class="product-list-rating">
+            </div>
+<div id="snippet-productWidget-widgetCarousel-1-buy-32267-quantity">        <div class="product-quantity-control">
+            <form action="/maso-a-ryby" method="post" class="ajax" id="frm-productWidget-widgetCarousel-1-buy-32267-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productWidget-widgetCarousel-1-buy-32267-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
+            <input type="hidden" name="do" value="productWidget-widgetCarousel-1-buy-32267-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
 </form>
 
         </div>
@@ -4768,6 +4847,116 @@ Hladká mouka</textarea>
 
         
     </div>
+    <div id="product-append-32273" class="product-item">
+        <div class="product-item-flags">
+        </div>
+        <div class="product-item-image">
+                <a data-href="/maso-a-ryby?productWidget-widgetCarousel-1-id=32273&amp;do=productWidget-widgetCarousel-1-modal"
+                   data-target="productWidget-widgetCarousel-1-productModal"
+                   data-product-id="32273"
+                   data-product-price="155.4"
+                   data-page-title="Maso Brejcha Hovězí přední - krk z mladého býčka (cca 600g)"
+                   data-page-path="/produkt/32273-maso-brejcha-hovezi-predni-krk-z-mladeho-bycka-cca-600g"
+                   data-user-id=""
+                   aria-hidden="true"
+                   data-kosikmodal-onclose="onProductModalDestroy"
+                   onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/49751.jpg" alt="Maso Brejcha Hovězí přední - krk z mladého býčka (cca 600g)" class="loading-images loading-image">
+                </a>
+
+
+
+
+        </div>
+                <div class="product-item-info">
+                <h5><a href="javascript:void(0)" aria-label="Maso Brejcha Hovězí přední - krk z mladého býčka (cca 600g)" data-href="/maso-a-ryby?productWidget-widgetCarousel-1-id=32273&amp;do=productWidget-widgetCarousel-1-modal" class="product-name modal-link"
+                   data-target="productWidget-widgetCarousel-1-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    Maso Brejcha Hovězí přední - krk z mladého býčka (cca 600g)
+                    
+                </a></h5>
+            <p class="product-item-price ">
+                <span class="price-before-discount">
+				</span>
+                <small class="circa-prefix">cca </small>
+                <strong class="price">155,40 Kč</strong>
+
+            </p>
+            <p class="product-item-unit">
+                    (<strong class="price">259,00 Kč</strong> / kg)
+            </p>
+                        <div class="product-list-rating">
+            </div>
+<div id="snippet-productWidget-widgetCarousel-1-buy-32273-quantity">        <div class="product-quantity-control">
+            <form action="/maso-a-ryby" method="post" class="ajax" id="frm-productWidget-widgetCarousel-1-buy-32273-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productWidget-widgetCarousel-1-buy-32273-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
+            <input type="hidden" name="do" value="productWidget-widgetCarousel-1-buy-32273-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+</form>
+
+        </div>
+</div>
+                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
+
+
+        </div>
+
+        
+    </div>
+    <div id="product-append-25765" class="product-item">
+        <div class="product-item-flags">
+        </div>
+        <div class="product-item-image">
+                <a data-href="/maso-a-ryby?productWidget-widgetCarousel-1-id=25765&amp;do=productWidget-widgetCarousel-1-modal"
+                   data-target="productWidget-widgetCarousel-1-productModal"
+                   data-product-id="25765"
+                   data-product-price="84.75"
+                   data-page-title="Tilápie filet skin (cca 250g)"
+                   data-page-path="/produkt/25765-tilapie-filet-skin-cca-250g"
+                   data-user-id=""
+                   aria-hidden="true"
+                   data-kosikmodal-onclose="onProductModalDestroy"
+                   onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/43046.jpg" alt="Tilápie filet skin (cca 250g)" class="loading-images loading-image">
+                </a>
+
+
+
+
+        </div>
+                <div class="product-item-info">
+                <h5><a href="javascript:void(0)" aria-label="Tilápie filet skin (cca 250g)" data-href="/maso-a-ryby?productWidget-widgetCarousel-1-id=25765&amp;do=productWidget-widgetCarousel-1-modal" class="product-name modal-link"
+                   data-target="productWidget-widgetCarousel-1-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    Tilápie filet skin (cca 250g)
+                    
+                </a></h5>
+            <p class="product-item-price ">
+                <span class="price-before-discount">
+				</span>
+                <small class="circa-prefix">cca </small>
+                <strong class="price">84,80 Kč</strong>
+
+            </p>
+            <p class="product-item-unit">
+                    (<strong class="price">339,00 Kč</strong> / kg)
+            </p>
+                        <div class="product-list-rating">
+            </div>
+<div id="snippet-productWidget-widgetCarousel-1-buy-25765-quantity">        <div class="product-quantity-control">
+            <form action="/maso-a-ryby" method="post" class="ajax" id="frm-productWidget-widgetCarousel-1-buy-25765-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productWidget-widgetCarousel-1-buy-25765-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
+            <input type="hidden" name="do" value="productWidget-widgetCarousel-1-buy-25765-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+</form>
+
+        </div>
+</div>
+                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
+
+
+        </div>
+
+        
+    </div>
     <div id="product-append-29869" class="product-item">
         <div class="product-item-flags">
             <div class="flag-sale ">
@@ -5126,6 +5315,66 @@ Hladká mouka</textarea>
 
         
     </div>
+    <div id="product-append-36561" class="product-item">
+        <div class="product-item-flags">
+            <div class="flag-sale ">
+                <span class="percents">20<small>&#37;</small></span>
+            </div>
+        </div>
+        <div class="product-item-image">
+                <a data-href="/maso-a-ryby?productList-id=36561&amp;do=productList-modal"
+                   data-target="productList-productModal"
+                   data-product-id="36561"
+                   data-product-price="99.8"
+                   data-page-title="Losos filet s kůží (cca 200g)"
+                   data-page-path="/produkt/36561-losos-filet-s-kuzi-cca-200g"
+                   data-user-id=""
+                   aria-hidden="true"
+                   data-kosikmodal-onclose="onProductModalDestroy"
+                   onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/54155.jpg" alt="Losos filet s kůží (cca 200g)" class="loading-images loading-image">
+                </a>
+
+
+
+
+        </div>
+                <div class="product-item-info">
+                <h5><a href="javascript:void(0)" aria-label="Losos filet s kůží (cca 200g)" data-href="/maso-a-ryby?productList-id=36561&amp;do=productList-modal" class="product-name modal-link"
+                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    Losos filet s kůží (cca 200g)
+                    
+                </a></h5>
+            <p class="product-item-price product-in-discount">
+                <span class="price-before-discount">
+					<span><strong class="price">99,80 Kč</strong></span>
+				</span>
+                <small class="circa-prefix">cca </small>
+                <strong class="price">79,80 Kč</strong>
+
+            </p>
+            <p class="product-item-unit">
+                    (<strong class="price">399,00 Kč</strong> / kg)
+            </p>
+                        <div class="product-list-rating">
+                <span><ul class="rating"><li class="rating-children rating-1 up" data-rating="1"><i class="fa fa-star"></i></li><li class="rating-children rating-2 up" data-rating="2"><i class="fa fa-star"></i></li><li class="rating-children rating-3 up" data-rating="3"><i class="fa fa-star"></i></li><li class="rating-children rating-4 up" data-rating="4"><i class="fa fa-star"></i></li><li class="rating-children rating-5 up" data-rating="5"><i class="fa fa-star"></i></li></ul></span>
+            </div>
+<div id="snippet-productList-buy-36561-quantity">        <div class="product-quantity-control">
+            <form action="/maso-a-ryby" method="post" class="ajax" id="frm-productList-buy-36561-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-36561-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
+            <input type="hidden" name="do" value="productList-buy-36561-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+</form>
+
+        </div>
+</div>
+                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
+
+
+        </div>
+
+        
+    </div>
     <div id="product-append-50533" class="product-item">
         <div class="product-item-flags">
             <div class="flag-sale ">
@@ -5233,61 +5482,6 @@ Hladká mouka</textarea>
                 <input type="text" name="quantity" size="3" id="frm-productList-buy-29869-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
                 <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
             <input type="hidden" name="do" value="productList-buy-29869-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
-</form>
-
-        </div>
-</div>
-                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
-
-
-        </div>
-
-        
-    </div>
-    <div id="product-append-24123" class="product-item">
-        <div class="product-item-flags">
-        </div>
-        <div class="product-item-image">
-                <a data-href="/maso-a-ryby?productList-id=24123&amp;do=productList-modal"
-                   data-target="productList-productModal"
-                   data-product-id="24123"
-                   data-product-price="37.45"
-                   data-page-title="Raciola Kuřecí stehna spodní čerstvá (cca 500g)"
-                   data-page-path="/produkt/24123-raciola-kureci-stehna-spodni-cerstva-cca-500g"
-                   data-user-id=""
-                   aria-hidden="true"
-                   data-kosikmodal-onclose="onProductModalDestroy"
-                   onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/41645.jpg" alt="Raciola Kuřecí stehna spodní čerstvá (cca 500g)" class="loading-images loading-image">
-                </a>
-
-
-
-
-        </div>
-                <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Raciola Kuřecí stehna spodní čerstvá (cca 500g)" data-href="/maso-a-ryby?productList-id=24123&amp;do=productList-modal" class="product-name modal-link"
-                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Raciola Kuřecí stehna spodní čerstvá (cca 500g)
-                    
-                </a></h5>
-            <p class="product-item-price ">
-                <span class="price-before-discount">
-				</span>
-                <small class="circa-prefix">cca </small>
-                <strong class="price">37,50 Kč</strong>
-
-            </p>
-            <p class="product-item-unit">
-                    (<strong class="price">74,90 Kč</strong> / kg)
-            </p>
-                        <div class="product-list-rating">
-            </div>
-<div id="snippet-productList-buy-24123-quantity">        <div class="product-quantity-control">
-            <form action="/maso-a-ryby" method="post" class="ajax" id="frm-productList-buy-24123-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-24123-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
-                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-24123-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
 </form>
 
         </div>
@@ -5465,6 +5659,61 @@ Hladká mouka</textarea>
 
         
     </div>
+    <div id="product-append-24399" class="product-item">
+        <div class="product-item-flags">
+        </div>
+        <div class="product-item-image">
+                <a data-href="/maso-a-ryby?productList-id=24399&amp;do=productList-modal"
+                   data-target="productList-productModal"
+                   data-product-id="24399"
+                   data-product-price="44.45"
+                   data-page-title="Raciola Kuřecí stehna čerstvá (cca 500g)"
+                   data-page-path="/produkt/24399-raciola-kureci-stehna-cerstva-cca-500g"
+                   data-user-id=""
+                   aria-hidden="true"
+                   data-kosikmodal-onclose="onProductModalDestroy"
+                   onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/41644.jpg" alt="Raciola Kuřecí stehna čerstvá (cca 500g)" class="loading-images loading-image">
+                </a>
+
+
+
+
+        </div>
+                <div class="product-item-info">
+                <h5><a href="javascript:void(0)" aria-label="Raciola Kuřecí stehna čerstvá (cca 500g)" data-href="/maso-a-ryby?productList-id=24399&amp;do=productList-modal" class="product-name modal-link"
+                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    Raciola Kuřecí stehna čerstvá (cca 500g)
+                    
+                </a></h5>
+            <p class="product-item-price ">
+                <span class="price-before-discount">
+				</span>
+                <small class="circa-prefix">cca </small>
+                <strong class="price">44,50 Kč</strong>
+
+            </p>
+            <p class="product-item-unit">
+                    (<strong class="price">88,90 Kč</strong> / kg)
+            </p>
+                        <div class="product-list-rating">
+            </div>
+<div id="snippet-productList-buy-24399-quantity">        <div class="product-quantity-control">
+            <form action="/maso-a-ryby" method="post" class="ajax" id="frm-productList-buy-24399-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-24399-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
+            <input type="hidden" name="do" value="productList-buy-24399-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+</form>
+
+        </div>
+</div>
+                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
+
+
+        </div>
+
+        
+    </div>
     <div id="product-append-32280" class="product-item">
         <div class="product-item-flags">
         </div>
@@ -5509,6 +5758,60 @@ Hladká mouka</textarea>
                 <input type="text" name="quantity" size="3" id="frm-productList-buy-32280-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
                 <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
             <input type="hidden" name="do" value="productList-buy-32280-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+</form>
+
+        </div>
+</div>
+                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
+
+
+        </div>
+
+        
+    </div>
+    <div id="product-append-34852" class="product-item">
+        <div class="product-item-flags">
+        </div>
+        <div class="product-item-image">
+                <a data-href="/maso-a-ryby?productList-id=34852&amp;do=productList-modal"
+                   data-target="productList-productModal"
+                   data-product-id="34852"
+                   data-product-price="89.9"
+                   data-page-title="Papei Losos Norský uzený salátový 200g"
+                   data-page-path="/produkt/34852-papei-losos-norsky-uzeny-salatovy-200g"
+                   data-user-id=""
+                   aria-hidden="true"
+                   data-kosikmodal-onclose="onProductModalDestroy"
+                   onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/52333.jpg" alt="Papei Losos Norský uzený salátový 200g" class="loading-images loading-image">
+                </a>
+
+
+
+
+        </div>
+                <div class="product-item-info">
+                <h5><a href="javascript:void(0)" aria-label="Papei Losos Norský uzený salátový 200g" data-href="/maso-a-ryby?productList-id=34852&amp;do=productList-modal" class="product-name modal-link"
+                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    Papei Losos Norský uzený salátový 200g
+                    
+                </a></h5>
+            <p class="product-item-price ">
+                <span class="price-before-discount">
+				</span>
+                <strong class="price">89,90 Kč</strong>
+
+            </p>
+            <p class="product-item-unit">
+                    (<strong class="price">449,50 Kč</strong> / kg)
+            </p>
+                        <div class="product-list-rating">
+            </div>
+<div id="snippet-productList-buy-34852-quantity">        <div class="product-quantity-control">
+            <form action="/maso-a-ryby" method="post" class="ajax" id="frm-productList-buy-34852-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-34852-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
+            <input type="hidden" name="do" value="productList-buy-34852-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
 </form>
 
         </div>
@@ -5575,24 +5878,21 @@ Hladká mouka</textarea>
 
         
     </div>
-    <div id="product-append-43199" class="product-item">
+    <div id="product-append-42311" class="product-item">
         <div class="product-item-flags">
-            <div class="flag-sale ">
-                <span class="percents">10<small>&#37;</small></span>
-            </div>
         </div>
         <div class="product-item-image">
-                <a data-href="/maso-a-ryby?productList-id=43199&amp;do=productList-modal"
+                <a data-href="/maso-a-ryby?productList-id=42311&amp;do=productList-modal"
                    data-target="productList-productModal"
-                   data-product-id="43199"
-                   data-product-price="999"
-                   data-page-title="Tello Paleta Serrano - dárkové balení 4,2kg"
-                   data-page-path="/produkt/43199-tello-paleta-serrano-darkove-baleni-4-2kg"
+                   data-product-id="42311"
+                   data-product-price="59"
+                   data-page-title="Kostelecké Uzeniny Vinná klobása (cca 500g)"
+                   data-page-path="/produkt/42311-kostelecke-uzeniny-vinna-klobasa-cca-500g"
                    data-user-id=""
                    aria-hidden="true"
                    data-kosikmodal-onclose="onProductModalDestroy"
                    onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/60916.jpg" alt="Tello Paleta Serrano - dárkové balení 4,2kg" class="loading-images loading-image">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/60028.jpg" alt="Kostelecké Uzeniny Vinná klobása (cca 500g)" class="loading-images loading-image">
                 </a>
 
 
@@ -5600,138 +5900,28 @@ Hladká mouka</textarea>
 
         </div>
                 <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Tello Paleta Serrano - dárkové balení 4,2kg" data-href="/maso-a-ryby?productList-id=43199&amp;do=productList-modal" class="product-name modal-link"
+                <h5><a href="javascript:void(0)" aria-label="Kostelecké Uzeniny Vinná klobása (cca 500g)" data-href="/maso-a-ryby?productList-id=42311&amp;do=productList-modal" class="product-name modal-link"
                    data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Tello Paleta Serrano - dárkové balení 4,2kg
-                    
-                </a></h5>
-            <p class="product-item-price product-in-discount">
-                <span class="price-before-discount">
-					<span><strong class="price">999,00 Kč</strong></span>
-				</span>
-                <strong class="price">899,00 Kč</strong>
-
-            </p>
-            <p class="product-item-unit">
-                    (<strong class="price">214,00 Kč</strong> / Kg)
-            </p>
-                        <div class="product-list-rating">
-            </div>
-<div id="snippet-productList-buy-43199-quantity">        <div class="product-quantity-control">
-            <form action="/maso-a-ryby" method="post" class="ajax" id="frm-productList-buy-43199-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-43199-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
-                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-43199-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
-</form>
-
-        </div>
-</div>
-                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
-
-
-        </div>
-
-        
-    </div>
-    <div id="product-append-43372" class="product-item">
-        <div class="product-item-flags">
-        </div>
-        <div class="product-item-image">
-                <a data-href="/maso-a-ryby?productList-id=43372&amp;do=productList-modal"
-                   data-target="productList-productModal"
-                   data-product-id="43372"
-                   data-product-price="173.63"
-                   data-page-title="Masna Rosovice Hovězí zadní plec (cca 970g)"
-                   data-page-path="/produkt/43372-masna-rosovice-hovezi-zadni-plec-cca-970g"
-                   data-user-id=""
-                   aria-hidden="true"
-                   data-kosikmodal-onclose="onProductModalDestroy"
-                   onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/61089.jpg" alt="Masna Rosovice Hovězí zadní plec (cca 970g)" class="loading-images loading-image">
-                </a>
-
-
-
-
-        </div>
-                <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Masna Rosovice Hovězí zadní plec (cca 970g)" data-href="/maso-a-ryby?productList-id=43372&amp;do=productList-modal" class="product-name modal-link"
-                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Masna Rosovice Hovězí zadní plec (cca 970g)
+                    Kostelecké Uzeniny Vinná klobása (cca 500g)
                     
                 </a></h5>
             <p class="product-item-price ">
                 <span class="price-before-discount">
 				</span>
                 <small class="circa-prefix">cca </small>
-                <strong class="price">173,60 Kč</strong>
+                <strong class="price">59,00 Kč</strong>
 
             </p>
             <p class="product-item-unit">
-                    (<strong class="price">179,00 Kč</strong> / kg)
+                    (<strong class="price">118,00 Kč</strong> / kg)
             </p>
                         <div class="product-list-rating">
             </div>
-<div id="snippet-productList-buy-43372-quantity">        <div class="product-quantity-control">
-            <form action="/maso-a-ryby" method="post" class="ajax" id="frm-productList-buy-43372-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-43372-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+<div id="snippet-productList-buy-42311-quantity">        <div class="product-quantity-control">
+            <form action="/maso-a-ryby" method="post" class="ajax" id="frm-productList-buy-42311-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-42311-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
                 <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-43372-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
-</form>
-
-        </div>
-</div>
-                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
-
-
-        </div>
-
-        
-    </div>
-    <div id="product-append-24397" class="product-item">
-        <div class="product-item-flags">
-        </div>
-        <div class="product-item-image">
-                <a data-href="/maso-a-ryby?productList-id=24397&amp;do=productList-modal"
-                   data-target="productList-productModal"
-                   data-product-id="24397"
-                   data-product-price="19.95"
-                   data-page-title="Raciola Kuřecí polévková směs (cca 500g)"
-                   data-page-path="/produkt/24397-raciola-kureci-polevkova-smes-cca-500g"
-                   data-user-id=""
-                   aria-hidden="true"
-                   data-kosikmodal-onclose="onProductModalDestroy"
-                   onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/41642.jpg" alt="Raciola Kuřecí polévková směs (cca 500g)" class="loading-images loading-image">
-                </a>
-
-
-
-
-        </div>
-                <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Raciola Kuřecí polévková směs (cca 500g)" data-href="/maso-a-ryby?productList-id=24397&amp;do=productList-modal" class="product-name modal-link"
-                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Raciola Kuřecí polévková směs (cca 500g)
-                    
-                </a></h5>
-            <p class="product-item-price ">
-                <span class="price-before-discount">
-				</span>
-                <small class="circa-prefix">cca </small>
-                <strong class="price">20,00 Kč</strong>
-
-            </p>
-            <p class="product-item-unit">
-                    (<strong class="price">39,90 Kč</strong> / kg)
-            </p>
-                        <div class="product-list-rating">
-            </div>
-<div id="snippet-productList-buy-24397-quantity">        <div class="product-quantity-control">
-            <form action="/maso-a-ryby" method="post" class="ajax" id="frm-productList-buy-24397-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-24397-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
-                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-24397-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+            <input type="hidden" name="do" value="productList-buy-42311-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
 </form>
 
         </div>
@@ -5803,6 +5993,233 @@ Hladká mouka</textarea>
 
         
     </div>
+    <div id="product-append-43372" class="product-item">
+        <div class="product-item-flags">
+        </div>
+        <div class="product-item-image">
+                <a data-href="/maso-a-ryby?productList-id=43372&amp;do=productList-modal"
+                   data-target="productList-productModal"
+                   data-product-id="43372"
+                   data-product-price="173.63"
+                   data-page-title="Masna Rosovice Hovězí zadní plec (cca 970g)"
+                   data-page-path="/produkt/43372-masna-rosovice-hovezi-zadni-plec-cca-970g"
+                   data-user-id=""
+                   aria-hidden="true"
+                   data-kosikmodal-onclose="onProductModalDestroy"
+                   onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/61089.jpg" alt="Masna Rosovice Hovězí zadní plec (cca 970g)" class="loading-images loading-image">
+                </a>
+
+
+
+
+        </div>
+                <div class="product-item-info">
+                <h5><a href="javascript:void(0)" aria-label="Masna Rosovice Hovězí zadní plec (cca 970g)" data-href="/maso-a-ryby?productList-id=43372&amp;do=productList-modal" class="product-name modal-link"
+                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    Masna Rosovice Hovězí zadní plec (cca 970g)
+                    
+                </a></h5>
+            <p class="product-item-price ">
+                <span class="price-before-discount">
+				</span>
+                <small class="circa-prefix">cca </small>
+                <strong class="price">173,60 Kč</strong>
+
+            </p>
+            <p class="product-item-unit">
+                    (<strong class="price">179,00 Kč</strong> / kg)
+            </p>
+                        <div class="product-list-rating">
+            </div>
+<div id="snippet-productList-buy-43372-quantity">        <div class="product-quantity-control">
+            <form action="/maso-a-ryby" method="post" class="ajax" id="frm-productList-buy-43372-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-43372-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
+            <input type="hidden" name="do" value="productList-buy-43372-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+</form>
+
+        </div>
+</div>
+                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
+
+
+        </div>
+
+        
+    </div>
+    <div id="product-append-43199" class="product-item">
+        <div class="product-item-flags">
+            <div class="flag-sale ">
+                <span class="percents">10<small>&#37;</small></span>
+            </div>
+        </div>
+        <div class="product-item-image">
+                <a data-href="/maso-a-ryby?productList-id=43199&amp;do=productList-modal"
+                   data-target="productList-productModal"
+                   data-product-id="43199"
+                   data-product-price="999"
+                   data-page-title="Tello Paleta Serrano - dárkové balení 4,2kg"
+                   data-page-path="/produkt/43199-tello-paleta-serrano-darkove-baleni-4-2kg"
+                   data-user-id=""
+                   aria-hidden="true"
+                   data-kosikmodal-onclose="onProductModalDestroy"
+                   onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/60916.jpg" alt="Tello Paleta Serrano - dárkové balení 4,2kg" class="loading-images loading-image">
+                </a>
+
+
+
+
+        </div>
+                <div class="product-item-info">
+                <h5><a href="javascript:void(0)" aria-label="Tello Paleta Serrano - dárkové balení 4,2kg" data-href="/maso-a-ryby?productList-id=43199&amp;do=productList-modal" class="product-name modal-link"
+                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    Tello Paleta Serrano - dárkové balení 4,2kg
+                    
+                </a></h5>
+            <p class="product-item-price product-in-discount">
+                <span class="price-before-discount">
+					<span><strong class="price">999,00 Kč</strong></span>
+				</span>
+                <strong class="price">899,00 Kč</strong>
+
+            </p>
+            <p class="product-item-unit">
+                    (<strong class="price">214,00 Kč</strong> / Kg)
+            </p>
+                        <div class="product-list-rating">
+            </div>
+<div id="snippet-productList-buy-43199-quantity">        <div class="product-quantity-control">
+            <form action="/maso-a-ryby" method="post" class="ajax" id="frm-productList-buy-43199-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-43199-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
+            <input type="hidden" name="do" value="productList-buy-43199-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+</form>
+
+        </div>
+</div>
+                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
+
+
+        </div>
+
+        
+    </div>
+    <div id="product-append-24397" class="product-item">
+        <div class="product-item-flags">
+        </div>
+        <div class="product-item-image">
+                <a data-href="/maso-a-ryby?productList-id=24397&amp;do=productList-modal"
+                   data-target="productList-productModal"
+                   data-product-id="24397"
+                   data-product-price="19.95"
+                   data-page-title="Raciola Kuřecí polévková směs (cca 500g)"
+                   data-page-path="/produkt/24397-raciola-kureci-polevkova-smes-cca-500g"
+                   data-user-id=""
+                   aria-hidden="true"
+                   data-kosikmodal-onclose="onProductModalDestroy"
+                   onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/41642.jpg" alt="Raciola Kuřecí polévková směs (cca 500g)" class="loading-images loading-image">
+                </a>
+
+
+
+
+        </div>
+                <div class="product-item-info">
+                <h5><a href="javascript:void(0)" aria-label="Raciola Kuřecí polévková směs (cca 500g)" data-href="/maso-a-ryby?productList-id=24397&amp;do=productList-modal" class="product-name modal-link"
+                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    Raciola Kuřecí polévková směs (cca 500g)
+                    
+                </a></h5>
+            <p class="product-item-price ">
+                <span class="price-before-discount">
+				</span>
+                <small class="circa-prefix">cca </small>
+                <strong class="price">20,00 Kč</strong>
+
+            </p>
+            <p class="product-item-unit">
+                    (<strong class="price">39,90 Kč</strong> / kg)
+            </p>
+                        <div class="product-list-rating">
+            </div>
+<div id="snippet-productList-buy-24397-quantity">        <div class="product-quantity-control">
+            <form action="/maso-a-ryby" method="post" class="ajax" id="frm-productList-buy-24397-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-24397-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
+            <input type="hidden" name="do" value="productList-buy-24397-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+</form>
+
+        </div>
+</div>
+                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
+
+
+        </div>
+
+        
+    </div>
+    <div id="product-append-35512" class="product-item">
+        <div class="product-item-flags">
+            <div class="flag-sale ">
+                <span class="percents">30<small>&#37;</small></span>
+            </div>
+        </div>
+        <div class="product-item-image">
+                <a data-href="/maso-a-ryby?productList-id=35512&amp;do=productList-modal"
+                   data-target="productList-productModal"
+                   data-product-id="35512"
+                   data-product-price="195.72"
+                   data-page-title="Kuře bez drobů DUO A TF (cca 2,8kg)"
+                   data-page-path="/produkt/35512-kure-bez-drobu-duo-a-tf-cca-2-8kg"
+                   data-user-id=""
+                   aria-hidden="true"
+                   data-kosikmodal-onclose="onProductModalDestroy"
+                   onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/53028.jpg" alt="Kuře bez drobů DUO A TF (cca 2,8kg)" class="loading-images loading-image">
+                </a>
+
+
+
+
+        </div>
+                <div class="product-item-info">
+                <h5><a href="javascript:void(0)" aria-label="Kuře bez drobů DUO A TF (cca 2,8kg)" data-href="/maso-a-ryby?productList-id=35512&amp;do=productList-modal" class="product-name modal-link"
+                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
+                    Kuře bez drobů DUO A TF (cca 2,8kg)
+                    
+                </a></h5>
+            <p class="product-item-price product-in-discount">
+                <span class="price-before-discount">
+					<span><strong class="price">195,70 Kč</strong></span>
+				</span>
+                <small class="circa-prefix">cca </small>
+                <strong class="price">136,90 Kč</strong>
+
+            </p>
+            <p class="product-item-unit">
+                    (<strong class="price">48,90 Kč</strong> / kg)
+            </p>
+                        <div class="product-list-rating">
+            </div>
+<div id="snippet-productList-buy-35512-quantity">        <div class="product-quantity-control">
+            <form action="/maso-a-ryby" method="post" class="ajax" id="frm-productList-buy-35512-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-35512-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
+            <input type="hidden" name="do" value="productList-buy-35512-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+</form>
+
+        </div>
+</div>
+                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
+
+
+        </div>
+
+        
+    </div>
     <div id="product-append-32264" class="product-item">
         <div class="product-item-flags">
         </div>
@@ -5859,21 +6276,24 @@ Hladká mouka</textarea>
 
         
     </div>
-    <div id="product-append-32262" class="product-item">
+    <div id="product-append-46144" class="product-item">
         <div class="product-item-flags">
+            <div class="flag-sale ">
+                <span class="percents">28<small>&#37;</small></span>
+            </div>
         </div>
         <div class="product-item-image">
-                <a data-href="/maso-a-ryby?productList-id=32262&amp;do=productList-modal"
+                <a data-href="/maso-a-ryby?productList-id=46144&amp;do=productList-modal"
                    data-target="productList-productModal"
-                   data-product-id="32262"
-                   data-product-price="113.94"
-                   data-page-title="Maso Brejcha Vepřová pečeně bez kosti (cca 600g)"
-                   data-page-path="/produkt/32262-maso-brejcha-veprova-pecene-bez-kosti-cca-600g"
+                   data-product-id="46144"
+                   data-product-price="134.73"
+                   data-page-title="Candát filet (cca 270g)"
+                   data-page-path="/produkt/46144-candat-filet-cca-270g"
                    data-user-id=""
                    aria-hidden="true"
                    data-kosikmodal-onclose="onProductModalDestroy"
                    onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/49740.jpg" alt="Maso Brejcha Vepřová pečeně bez kosti (cca 600g)" class="loading-images loading-image">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/63641.jpg" alt="Candát filet (cca 270g)" class="loading-images loading-image">
                 </a>
 
 
@@ -5881,29 +6301,29 @@ Hladká mouka</textarea>
 
         </div>
                 <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Maso Brejcha Vepřová pečeně bez kosti (cca 600g)" data-href="/maso-a-ryby?productList-id=32262&amp;do=productList-modal" class="product-name modal-link"
+                <h5><a href="javascript:void(0)" aria-label="Candát filet (cca 270g)" data-href="/maso-a-ryby?productList-id=46144&amp;do=productList-modal" class="product-name modal-link"
                    data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Maso Brejcha Vepřová pečeně bez kosti (cca 600g)
+                    Candát filet (cca 270g)
                     
                 </a></h5>
-            <p class="product-item-price ">
+            <p class="product-item-price product-in-discount">
                 <span class="price-before-discount">
+					<span><strong class="price">134,70 Kč</strong></span>
 				</span>
                 <small class="circa-prefix">cca </small>
-                <strong class="price">113,90 Kč</strong>
+                <strong class="price">96,90 Kč</strong>
 
             </p>
             <p class="product-item-unit">
-                    (<strong class="price">189,90 Kč</strong> / kg)
+                    (<strong class="price">359,00 Kč</strong> / kg)
             </p>
                         <div class="product-list-rating">
-                <span><ul class="rating"><li class="rating-children rating-1 up" data-rating="1"><i class="fa fa-star"></i></li><li class="rating-children rating-2 up" data-rating="2"><i class="fa fa-star"></i></li><li class="rating-children rating-3 up" data-rating="3"><i class="fa fa-star"></i></li><li class="rating-children rating-4 up" data-rating="4"><i class="fa fa-star"></i></li><li class="rating-children rating-5 up" data-rating="5"><i class="fa fa-star"></i></li></ul></span>
             </div>
-<div id="snippet-productList-buy-32262-quantity">        <div class="product-quantity-control">
-            <form action="/maso-a-ryby" method="post" class="ajax" id="frm-productList-buy-32262-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-32262-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+<div id="snippet-productList-buy-46144-quantity">        <div class="product-quantity-control">
+            <form action="/maso-a-ryby" method="post" class="ajax" id="frm-productList-buy-46144-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-46144-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
                 <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-32262-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+            <input type="hidden" name="do" value="productList-buy-46144-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
 </form>
 
         </div>
@@ -6025,60 +6445,6 @@ Hladká mouka</textarea>
 
         
     </div>
-    <div id="product-append-36719" class="product-item">
-        <div class="product-item-flags">
-        </div>
-        <div class="product-item-image">
-                <a data-href="/maso-a-ryby?productList-id=36719&amp;do=productList-modal"
-                   data-target="productList-productModal"
-                   data-product-id="36719"
-                   data-product-price="79.9"
-                   data-page-title="Mleté maso mix 20% 500g"
-                   data-page-path="/produkt/36719-mlete-maso-mix-20-500g"
-                   data-user-id=""
-                   aria-hidden="true"
-                   data-kosikmodal-onclose="onProductModalDestroy"
-                   onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/54326.jpg" alt="Mleté maso mix 20% 500g" class="loading-images loading-image">
-                </a>
-
-
-
-
-        </div>
-                <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Mleté maso mix 20% 500g" data-href="/maso-a-ryby?productList-id=36719&amp;do=productList-modal" class="product-name modal-link"
-                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Mleté maso mix 20% 500g
-                    
-                </a></h5>
-            <p class="product-item-price ">
-                <span class="price-before-discount">
-				</span>
-                <strong class="price">79,90 Kč</strong>
-
-            </p>
-            <p class="product-item-unit">
-                    (<strong class="price">159,80 Kč</strong> / kg)
-            </p>
-                        <div class="product-list-rating">
-            </div>
-<div id="snippet-productList-buy-36719-quantity">        <div class="product-quantity-control">
-            <form action="/maso-a-ryby" method="post" class="ajax" id="frm-productList-buy-36719-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-36719-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
-                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-36719-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
-</form>
-
-        </div>
-</div>
-                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
-
-
-        </div>
-
-        
-    </div>
     <div id="product-append-41436" class="product-item">
         <div class="product-item-flags">
         </div>
@@ -6134,24 +6500,21 @@ Hladká mouka</textarea>
 
         
     </div>
-    <div id="product-append-46144" class="product-item">
+    <div id="product-append-32262" class="product-item">
         <div class="product-item-flags">
-            <div class="flag-sale ">
-                <span class="percents">28<small>&#37;</small></span>
-            </div>
         </div>
         <div class="product-item-image">
-                <a data-href="/maso-a-ryby?productList-id=46144&amp;do=productList-modal"
+                <a data-href="/maso-a-ryby?productList-id=32262&amp;do=productList-modal"
                    data-target="productList-productModal"
-                   data-product-id="46144"
-                   data-product-price="134.73"
-                   data-page-title="Candát filet (cca 270g)"
-                   data-page-path="/produkt/46144-candat-filet-cca-270g"
+                   data-product-id="32262"
+                   data-product-price="113.94"
+                   data-page-title="Maso Brejcha Vepřová pečeně bez kosti (cca 600g)"
+                   data-page-path="/produkt/32262-maso-brejcha-veprova-pecene-bez-kosti-cca-600g"
                    data-user-id=""
                    aria-hidden="true"
                    data-kosikmodal-onclose="onProductModalDestroy"
                    onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/63641.jpg" alt="Candát filet (cca 270g)" class="loading-images loading-image">
+                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/49740.jpg" alt="Maso Brejcha Vepřová pečeně bez kosti (cca 600g)" class="loading-images loading-image">
                 </a>
 
 
@@ -6159,200 +6522,29 @@ Hladká mouka</textarea>
 
         </div>
                 <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Candát filet (cca 270g)" data-href="/maso-a-ryby?productList-id=46144&amp;do=productList-modal" class="product-name modal-link"
+                <h5><a href="javascript:void(0)" aria-label="Maso Brejcha Vepřová pečeně bez kosti (cca 600g)" data-href="/maso-a-ryby?productList-id=32262&amp;do=productList-modal" class="product-name modal-link"
                    data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Candát filet (cca 270g)
-                    
-                </a></h5>
-            <p class="product-item-price product-in-discount">
-                <span class="price-before-discount">
-					<span><strong class="price">134,70 Kč</strong></span>
-				</span>
-                <small class="circa-prefix">cca </small>
-                <strong class="price">96,90 Kč</strong>
-
-            </p>
-            <p class="product-item-unit">
-                    (<strong class="price">359,00 Kč</strong> / kg)
-            </p>
-                        <div class="product-list-rating">
-            </div>
-<div id="snippet-productList-buy-46144-quantity">        <div class="product-quantity-control">
-            <form action="/maso-a-ryby" method="post" class="ajax" id="frm-productList-buy-46144-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-46144-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
-                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-46144-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
-</form>
-
-        </div>
-</div>
-                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
-
-
-        </div>
-
-        
-    </div>
-    <div id="product-append-32251" class="product-item">
-        <div class="product-item-flags">
-        </div>
-        <div class="product-item-image">
-                <a data-href="/maso-a-ryby?productList-id=32251&amp;do=productList-modal"
-                   data-target="productList-productModal"
-                   data-product-id="32251"
-                   data-product-price="179.1"
-                   data-page-title="Prantl Vepřová Panenská svíčková z prasnic (cca 900g)"
-                   data-page-path="/produkt/32251-prantl-veprova-panenska-svickova-z-prasnic-cca-900g"
-                   data-user-id=""
-                   aria-hidden="true"
-                   data-kosikmodal-onclose="onProductModalDestroy"
-                   onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/49729.jpg" alt="Prantl Vepřová Panenská svíčková z prasnic (cca 900g)" class="loading-images loading-image">
-                </a>
-
-
-
-
-        </div>
-                <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Prantl Vepřová Panenská svíčková z prasnic (cca 900g)" data-href="/maso-a-ryby?productList-id=32251&amp;do=productList-modal" class="product-name modal-link"
-                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Prantl Vepřová Panenská svíčková z prasnic (cca 900g)
+                    Maso Brejcha Vepřová pečeně bez kosti (cca 600g)
                     
                 </a></h5>
             <p class="product-item-price ">
                 <span class="price-before-discount">
 				</span>
                 <small class="circa-prefix">cca </small>
-                <strong class="price">179,10 Kč</strong>
+                <strong class="price">113,90 Kč</strong>
 
             </p>
             <p class="product-item-unit">
-                    (<strong class="price">199,00 Kč</strong> / kg)
+                    (<strong class="price">189,90 Kč</strong> / kg)
             </p>
                         <div class="product-list-rating">
                 <span><ul class="rating"><li class="rating-children rating-1 up" data-rating="1"><i class="fa fa-star"></i></li><li class="rating-children rating-2 up" data-rating="2"><i class="fa fa-star"></i></li><li class="rating-children rating-3 up" data-rating="3"><i class="fa fa-star"></i></li><li class="rating-children rating-4 up" data-rating="4"><i class="fa fa-star"></i></li><li class="rating-children rating-5 up" data-rating="5"><i class="fa fa-star"></i></li></ul></span>
             </div>
-<div id="snippet-productList-buy-32251-quantity">        <div class="product-quantity-control">
-            <form action="/maso-a-ryby" method="post" class="ajax" id="frm-productList-buy-32251-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-32251-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
+<div id="snippet-productList-buy-32262-quantity">        <div class="product-quantity-control">
+            <form action="/maso-a-ryby" method="post" class="ajax" id="frm-productList-buy-32262-quantityForm">
+                <input type="text" name="quantity" size="3" id="frm-productList-buy-32262-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
                 <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-32251-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
-</form>
-
-        </div>
-</div>
-                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
-
-
-        </div>
-
-        
-    </div>
-    <div id="product-append-32275" class="product-item">
-        <div class="product-item-flags">
-        </div>
-        <div class="product-item-image">
-                <a data-href="/maso-a-ryby?productList-id=32275&amp;do=productList-modal"
-                   data-target="productList-productModal"
-                   data-product-id="32275"
-                   data-product-price="143.4"
-                   data-page-title="Maso Brejcha Hovězí kližka z mladého býčka (cca 600g)"
-                   data-page-path="/produkt/32275-maso-brejcha-hovezi-klizka-z-mladeho-bycka-cca-600g"
-                   data-user-id=""
-                   aria-hidden="true"
-                   data-kosikmodal-onclose="onProductModalDestroy"
-                   onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/49753.jpg" alt="Maso Brejcha Hovězí kližka z mladého býčka (cca 600g)" class="loading-images loading-image">
-                </a>
-
-
-
-
-        </div>
-                <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Maso Brejcha Hovězí kližka z mladého býčka (cca 600g)" data-href="/maso-a-ryby?productList-id=32275&amp;do=productList-modal" class="product-name modal-link"
-                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Maso Brejcha Hovězí kližka z mladého býčka (cca 600g)
-                    
-                </a></h5>
-            <p class="product-item-price ">
-                <span class="price-before-discount">
-				</span>
-                <small class="circa-prefix">cca </small>
-                <strong class="price">143,40 Kč</strong>
-
-            </p>
-            <p class="product-item-unit">
-                    (<strong class="price">239,00 Kč</strong> / kg)
-            </p>
-                        <div class="product-list-rating">
-            </div>
-<div id="snippet-productList-buy-32275-quantity">        <div class="product-quantity-control">
-            <form action="/maso-a-ryby" method="post" class="ajax" id="frm-productList-buy-32275-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-32275-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
-                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-32275-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
-</form>
-
-        </div>
-</div>
-                <p class="product-incart-info accessible">Produkt nemáte v košíku</p>
-
-
-        </div>
-
-        
-    </div>
-    <div id="product-append-18386" class="product-item">
-        <div class="product-item-flags">
-            <div class="flag-sale ">
-                <span class="percents">10<small>&#37;</small></span>
-            </div>
-        </div>
-        <div class="product-item-image">
-                <a data-href="/maso-a-ryby?productList-id=18386&amp;do=productList-modal"
-                   data-target="productList-productModal"
-                   data-product-id="18386"
-                   data-product-price="151.2"
-                   data-page-title="Rybářství Chlumec Kapr půlený chlazený (cca 800g)"
-                   data-page-path="/produkt/18386-rybarstvi-chlumec-kapr-puleny-chlazeny-cca-800g"
-                   data-user-id=""
-                   aria-hidden="true"
-                   data-kosikmodal-onclose="onProductModalDestroy"
-                   onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    <img src="https://cdn.kosik.cz/content/product/jpg/list/placeholder.jpg" data-src="https://cdn.kosik.cz/content/product/jpg/list/35639.jpg" alt="Rybářství Chlumec Kapr půlený chlazený (cca 800g)" class="loading-images loading-image">
-                </a>
-
-
-
-
-        </div>
-                <div class="product-item-info">
-                <h5><a href="javascript:void(0)" aria-label="Rybářství Chlumec Kapr půlený chlazený (cca 800g)" data-href="/maso-a-ryby?productList-id=18386&amp;do=productList-modal" class="product-name modal-link"
-                   data-target="productList-productModal" onclick="kosikAjax.click(this, initModalCarousel(this))">
-                    Rybářství Chlumec Kapr půlený chlazený (cca 800g)
-                    
-                </a></h5>
-            <p class="product-item-price product-in-discount">
-                <span class="price-before-discount">
-					<span><strong class="price">151,20 Kč</strong></span>
-				</span>
-                <small class="circa-prefix">cca </small>
-                <strong class="price">135,90 Kč</strong>
-
-            </p>
-            <p class="product-item-unit">
-                    (<strong class="price">169,90 Kč</strong> / kg)
-            </p>
-                        <div class="product-list-rating">
-                <span><ul class="rating"><li class="rating-children rating-1 up" data-rating="1"><i class="fa fa-star"></i></li><li class="rating-children rating-2 up" data-rating="2"><i class="fa fa-star"></i></li><li class="rating-children rating-3 up" data-rating="3"><i class="fa fa-star"></i></li><li class="rating-children rating-4 up" data-rating="4"><i class="fa fa-star"></i></li><li class="rating-children rating-5 up" data-rating="5"><i class="fa fa-star"></i></li></ul></span>
-            </div>
-<div id="snippet-productList-buy-18386-quantity">        <div class="product-quantity-control">
-            <form action="/maso-a-ryby" method="post" class="ajax" id="frm-productList-buy-18386-quantityForm">
-                <input type="text" name="quantity" size="3" id="frm-productList-buy-18386-quantityForm-quantity" data-nette-rules='[{"op":":integer","msg":"Množství musí být číslo."}]' value="1" aria-label="počet k přidání">
-                <input type="submit" name="_submit" value="Přidat" class="product-quantity-control-submit plus" aria-label="přidat počet do košíku">
-            <input type="hidden" name="do" value="productList-buy-18386-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
+            <input type="hidden" name="do" value="productList-buy-32262-quantityForm-submit"><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]-->
 </form>
 
         </div>

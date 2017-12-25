@@ -1,0 +1,22 @@
+
+ Rekapitulace
+------------
+počet stažených prouktů : 0
+ z toho duplikovaných   : 0
+počet přidaných produktů do tabulky : 0
+počet aktualizovaných produktů : 0
+počet neaktualizovaných produktů    : 774
+počet v tabulce duplikovaných produktů (narušená konzistence): 0
+počet produktů v tabulce celkem : 774
+počet URI basic: 14
+počet URI extracted: 0
+počet URI extracted: 0
+počet URI extracted duplicated: 0
+
+
+Extracted URI
+----------------------
+
+
+Extracted URI duplicated
+---------------------------------------
