@@ -1,23 +1,26 @@
  package cz.expertkom.ju.L08HomeWorkKosikCz.Api.Impl;
 
+import java.util.List;
+
 import javax.ws.rs.core.Response;
 
 import org.springframework.beans.factory.annotation.Autowired;
 
-import com.google.gson.Gson;
-
 import cz.expertkom.ju.L08HomeWorkKosikCz.Api.ApplicationApi;
+import cz.expertkom.ju.L08HomeWorkKosikCz.Entity.Product;
 import cz.expertkom.ju.L08HomeWorkKosikCz.Entity.ProductDto;
 import cz.expertkom.ju.L08HomeWorkKosikCz.Entity.Products;
+import cz.expertkom.ju.L08HomeWorkKosikCz.interfaces.DownLoadPageService;
 import cz.expertkom.ju.L08HomeWorkKosikCz.interfaces.ProductDbServices;
 
 
 public class ApplicationApiImpl implements ApplicationApi {
-	
-	//private static final Gson GSON= new Gson(); 
-	
+		
 	@Autowired
 	ProductDbServices pDbS;
+	
+	@Autowired
+	DownLoadPageService dwnlps;
 	
 	@Override
 	public Response productOne(Long id) {
@@ -29,7 +32,6 @@ public class ApplicationApiImpl implements ApplicationApi {
 	@Override
 	public Response productList() {
 		Products p = pDbS.getAll();
-		System.out.println(p);
 		return Response.ok(p).build();
 	}
 	
@@ -44,8 +46,13 @@ public class ApplicationApiImpl implements ApplicationApi {
 	
 	@Override
 	public Response productsList(float priceFrom, float priceTo) {
-		Products prs = new Products();
-		prs = pDbS.getAllBetweenPrice(priceFrom, priceTo); 
+		Products prs = pDbS.getAllBetweenPrice(priceFrom, priceTo);
+		return Response.ok(prs).build();
+	}
+	
+	@Override
+	public Response productListPartText(String partProductText) {
+		Products prs = pDbS.getProductsPartText(partProductText);
 		return Response.ok(prs).build();
 	}
 	
@@ -67,6 +74,14 @@ public class ApplicationApiImpl implements ApplicationApi {
 		pDbS.updateProduct(id, productDto);
 		return Response.ok().build();
 	}
+
+	@Override
+	public Response kosik() {
+		dwnlps.start();
+		return Response.ok().build();
+	}
+
+
 
 	
 

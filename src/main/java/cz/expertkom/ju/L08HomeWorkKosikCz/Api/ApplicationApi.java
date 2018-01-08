@@ -46,6 +46,13 @@ public interface ApplicationApi {
 	@Consumes(MediaType.WILDCARD)
 	@Produces(MediaType.APPLICATION_JSON)
 	public Response productOne(@PathParam(value = "param") Long id);
+	
+	/*vrátí produkt(y) obsahující v názvu zadaný řetez */
+	@GET
+	@Path("productListPartName/{partProductText}")
+	@Consumes(MediaType.WILDCARD)
+	@Produces(MediaType.APPLICATION_JSON)
+	public Response productListPartText(@PathParam(value="partProductText") String partProductText );
 
 	/* vložení nové hodnoty */
 	@POST
@@ -67,5 +74,18 @@ public interface ApplicationApi {
 	@Consumes(MediaType.APPLICATION_JSON)
 	@Produces(MediaType.APPLICATION_JSON)
 	public Response productUpdate(@PathParam(value = "param") Long id , ProductDto productDto);
+	
+	/* stažení a aktualizace databáze z www.kosik.cz*/ 
+	@GET
+	@Path("kosik")
+	@Consumes(MediaType.WILDCARD)
+	@Produces(MediaType.APPLICATION_JSON)
+	public Response kosik();
+	
+	
+	/*zaslání PSČ a zjištění zda v daném méstě poskytuje dopravu */
+	
+	
+	
 
 }

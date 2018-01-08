@@ -11,14 +11,14 @@ import cz.expertkom.ju.L08HomeWorkKosikCz.services.DownLoadPageServiceImpl;
 @Service
 public class ApplicationInit {
 	
-	@Autowired
-	DownLoadPageService dwnlps;
+	//@Autowired
+	//DownLoadPageService dwnlps;
 	
 	@PostConstruct
 	public void initMethod(){
-		System.out.println("\nStart inicializace...");
-		dwnlps.start();
-		System.out.println("\n...Konec inicializace");
+		//System.out.println("\nStart inicializace...");
+		//dwnlps.start();
+		//System.out.println("\n...Konec inicializace");
 	}
 
 }
