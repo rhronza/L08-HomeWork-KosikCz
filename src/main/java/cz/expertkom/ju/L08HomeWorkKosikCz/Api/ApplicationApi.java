@@ -73,7 +73,7 @@ public interface ApplicationApi {
 	@Path("product/{param}")
 	@Consumes(MediaType.APPLICATION_JSON)
 	@Produces(MediaType.APPLICATION_JSON)
-	public Response productUpdate(@PathParam(value = "param") Long id , ProductDto productDto);
+	public Response productUpdate(@PathParam(value = "param") Long id , ProductDto productDto /* zadává do Body */);
 	
 	/* stažení a aktualizace databáze z www.kosik.cz*/ 
 	@GET
