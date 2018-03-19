@@ -1,7 +1,11 @@
+# Ignore everything in this directory
 /target/
 /bin/
 !.mvn/wrapper/maven-wrapper.jar
-
+*.sql
+*.csv
+*.html
+*.txt
 ### STS ###
 .apt_generated
 .classpath
@@ -9,13 +13,11 @@
 .project
 .settings
 .springBeans
-
 ### IntelliJ IDEA ###
 .idea
 *.iws
 *.iml
 *.ipr
-
 ### NetBeans ###
 nbproject/private/
 build/
@@ -24,3 +26,5 @@ dist/
 nbdist/
 .nb-gradle/
 /bin/
+# Except this file
+!.gitignore
